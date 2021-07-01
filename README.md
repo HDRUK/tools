@@ -1,1 +1,1 @@
-# [HDR UK Tools and Software](https://web.www.healthdatagateway.org/search?search=&tab=Tools) - Daily Extract
+# [HDR UK Tools and Software](https://web.www.healthdatagateway.org/search?search=&tab=Tools) - [Periodic Extract](https://github.com/HDRUK/tools/tree/main/_data)
