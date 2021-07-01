@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 import os
-import urllib
+import urllib.parse
 import json
 import yaml
 import pymongo
