@@ -8,20 +8,11 @@ from dotenv import load_dotenv
 
 # Environment variables
 load_dotenv()
+DATABASE_CONN_URI = os.getenv('DATABASE_CONN_URI', "")
 DATABASE = os.getenv('DATABASE', "")
-DATABASE_USER = os.getenv('DATABASE_USER', "")
-DATABASE_PASSWORD = os.getenv('DATABASE_PASSWORD', "")
-DATABASE_URL = os.getenv('DATABASE_URL', "")
-DATABASE_CONN_URL = "mongodb+srv://{username}:{password}@{dburl}/{dbname}?retryWrites=true&w=majority"
-
-DATABASE_CONN = DATABASE_CONN_URL.format(
-    username = urllib.parse.quote_plus(DATABASE_USER),
-    password=urllib.parse.quote_plus(DATABASE_PASSWORD),
-    dburl=DATABASE_URL,
-    dbname=DATABASE)
 
 # Client Connection
-client = pymongo.MongoClient(DATABASE_CONN)
+client = pymongo.MongoClient(DATABASE_CONN_URI)
 db = client[DATABASE]
 
 
