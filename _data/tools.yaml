@@ -4712,7 +4712,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-07-01 08:38:52.996000'
+  modified: '2021-09-25 21:20:33'
   name: CRIS NLP Amphetamine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4720,7 +4720,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 28253502112101136
