@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-09-23 00:43:02.198000'
+  modified: '2021-09-29 23:31:01.070000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 112
+  views: 114
 - '@schema':
     type: tool
   _id: 19006
@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-09-15 10:53:54.365000'
+  modified: '2021-09-29 11:27:54.074000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 200
+  views: 201
 - '@schema':
     type: tool
   _id: 19005
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-09-16 09:27:19.576000'
+  modified: '2021-09-29 07:17:37.474000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 109
+  views: 110
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2021-09-24 13:08:22.058000'
+  modified: '2021-09-29 11:28:03.618000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 201
+  views: 202
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-09-05 08:44:59.224000'
+  modified: '2021-09-29 11:28:02.279000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 216
+  views: 223
 - '@schema':
     type: tool
   _id: 45701856330435576
