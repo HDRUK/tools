@@ -4873,7 +4873,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-09-21 09:59:37.558000'
+  modified: '2021-10-01 14:20:45.437000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4881,7 +4881,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 3879347797927448
@@ -5797,7 +5797,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2021-09-28 16:52:56.584000'
+  modified: '2021-10-01 09:46:16.999000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -5805,7 +5805,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 3321980885733604
