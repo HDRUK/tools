@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-10-04 14:51:36.584000'
+  modified: '2021-10-05 13:51:33.235000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 155
+  views: 157
 - '@schema':
     type: tool
   _id: 19008
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2021-09-30 11:22:27.519000'
+  modified: '2021-10-05 10:53:31.030000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 37
+  views: 39
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-09-30 19:43:50.962000'
+  modified: '2021-10-05 05:17:33.939000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 102
+  views: 104
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-04 14:13:40.674000'
+  modified: '2021-10-05 21:24:30.988000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-10-04 14:10:51.264000'
+  modified: '2021-10-05 10:34:53.945000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 35
+  views: 38
