@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2021-09-27 05:07:35.398000'
+  modified: '2021-10-06 02:32:17.015000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 102
+  views: 103
 - '@schema':
     type: tool
   _id: 19003
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-10-04 14:51:47.977000'
+  modified: '2021-10-06 03:20:58.183000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-10-04 14:51:09.118000'
+  modified: '2021-10-06 18:42:24.124000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 178
+  views: 179
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-09-29 07:17:37.474000'
+  modified: '2021-10-06 06:55:28.387000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 110
+  views: 111
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-09-30 14:52:40.501000'
+  modified: '2021-10-06 13:54:14.210000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-05 21:24:30.988000'
+  modified: '2021-10-06 18:13:50.671000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 38
+  views: 40
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5761,7 +5761,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2021-10-04 14:13:30.375000'
+  modified: '2021-10-06 20:52:56.429000'
   name: tpot
   programming_languages:
   - name: Python
@@ -5769,7 +5769,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-10-05 10:34:53.945000'
+  modified: '2021-10-06 13:46:32.833000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 38
+  views: 43
