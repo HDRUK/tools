@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2021-10-06 02:32:17.015000'
+  modified: '2021-10-14 12:03:34.767000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 103
+  views: 104
 - '@schema':
     type: tool
   _id: 19003
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-10-13 20:14:51.897000'
+  modified: '2021-10-14 08:09:33.225000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 160
+  views: 162
 - '@schema':
     type: tool
   _id: 19008
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2021-09-24 07:44:57.084000'
+  modified: '2021-10-14 12:02:54.905000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-10-06 13:54:14.210000'
+  modified: '2021-10-15 00:11:04.012000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 46
+  views: 48
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3477,7 +3477,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-05-07 16:07:06.281000'
+  modified: '2021-10-14 14:28:58.094000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3485,7 +3485,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -5522,7 +5522,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2021-10-09 15:44:48.249000'
+  modified: '2021-10-14 14:26:51.081000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5624,7 +5624,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2021-10-12 13:45:16.685000'
+  modified: '2021-10-14 12:53:23.523000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5632,7 +5632,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5664,7 +5664,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2021-10-13 14:34:12.016000'
+  modified: '2021-10-14 13:29:20.630000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5674,7 +5674,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 15
+  views: 17
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-06 18:13:50.671000'
+  modified: '2021-10-14 14:25:14.706000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-10-10 16:45:36.063000'
+  modified: '2021-10-14 14:21:06.698000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 40
+  views: 42
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-10-11 09:19:33.835000'
+  modified: '2021-10-14 12:01:42.786000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 44
+  views: 48
