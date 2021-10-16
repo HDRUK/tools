@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-09-29 23:31:01.070000'
+  modified: '2021-10-15 20:38:09.066000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 114
+  views: 115
 - '@schema':
     type: tool
   _id: 19006
@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-10-12 15:12:51.297000'
+  modified: '2021-10-15 20:20:56.182000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 204
+  views: 205
 - '@schema':
     type: tool
   _id: 19005
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-10-09 11:50:12.795000'
+  modified: '2021-10-15 23:24:06.356000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-10-04 14:48:17.114000'
+  modified: '2021-10-15 16:46:25.395000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -5589,7 +5589,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2021-08-30 22:21:07.865000'
+  modified: '2021-10-15 20:33:46.314000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5598,7 +5598,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5624,7 +5624,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2021-10-14 12:53:23.523000'
+  modified: '2021-10-15 20:13:58.790000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5632,7 +5632,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5250418270097919
