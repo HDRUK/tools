@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-10-09 11:49:40.685000'
+  modified: '2021-10-17 00:27:17.184000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 180
+  views: 181
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-10-04 14:49:23.388000'
+  modified: '2021-10-16 06:00:27.520000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 9594766682886202
