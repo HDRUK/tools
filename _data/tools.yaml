@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-10-21 17:21:15.512000'
+  modified: '2021-10-23 00:57:20.683000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2021-10-17 01:28:28.636000'
+  modified: '2021-10-22 23:08:34.907000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-10-15 00:11:04.012000'
+  modified: '2021-10-22 03:48:56.412000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 48
+  views: 50
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1764,7 +1764,7 @@ tools:
   - IoT
   license: Apache License 2.0
   link: https://radar-base.org
-  modified: '2021-10-08 08:36:04.496000'
+  modified: '2021-10-22 20:04:05.238000'
   name: RADAR-base
   programming_languages:
   - name: Java
@@ -1776,7 +1776,7 @@ tools:
   relations: []
   type: ''
   uploader: 160230992424788
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 36083225792794328
@@ -3115,7 +3115,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:24.116000'
+  modified: '2021-10-22 19:09:59.275000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3123,7 +3123,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -4996,7 +4996,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-08-02 13:43:11.348000'
+  modified: '2021-10-22 01:30:15.348000'
   name: CRIS NLP Occupation
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5004,7 +5004,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 2516292612303388
@@ -5239,7 +5239,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:51.612000'
+  modified: '2021-10-22 09:24:03.847000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5247,7 +5247,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-09-22 15:35:23.333000'
+  modified: '2021-10-22 19:08:37.065000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-10-20 12:53:11.889000'
+  modified: '2021-10-22 14:20:22.392000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-10-20 12:53:20.985000'
+  modified: '2021-10-22 11:09:02.284000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 9074803277264144
