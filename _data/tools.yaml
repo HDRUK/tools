@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2021-06-09 11:28:05.267000'
+  modified: '2021-10-23 03:41:57.106000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 19004
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2021-10-12 20:48:16.144000'
+  modified: '2021-10-23 22:54:07.687000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 118
+  views: 120
 - '@schema':
     type: tool
   _id: 19010
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2021-10-14 12:02:54.905000'
+  modified: '2021-10-23 03:17:35.066000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -2433,7 +2433,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-17 11:10:30.550000'
+  modified: '2021-10-23 19:16:38.260000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2441,7 +2441,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -5402,7 +5402,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-07 11:57:05.138000'
+  modified: '2021-10-23 20:18:05.602000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5410,7 +5410,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 13
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5624,7 +5624,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2021-10-15 20:13:58.790000'
+  modified: '2021-10-23 16:17:43.510000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5632,7 +5632,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 19
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-10-04 14:17:09.410000'
+  modified: '2021-10-23 23:25:41.564000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 224
+  views: 225
 - '@schema':
     type: tool
   _id: 45701856330435576
