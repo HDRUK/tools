@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-10-23 00:57:20.683000'
+  modified: '2021-10-25 08:26:58.721000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 54
+  views: 56
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-10-21 13:32:26.558000'
+  modified: '2021-10-25 19:55:51.085000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 182
+  views: 183
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -5402,7 +5402,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-23 20:18:05.602000'
+  modified: '2021-10-25 10:31:14.336000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5410,7 +5410,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5589,7 +5589,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2021-10-15 20:33:46.314000'
+  modified: '2021-10-25 10:30:00.703000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5598,7 +5598,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5664,7 +5664,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2021-10-21 14:57:29.574000'
+  modified: '2021-10-25 10:33:25.263000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5674,7 +5674,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-14 14:25:14.706000'
+  modified: '2021-10-25 14:52:41.641000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-10-22 14:20:22.392000'
+  modified: '2021-10-25 14:52:55.272000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 34
+  views: 38
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5926,7 +5926,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-10-20 12:53:17.535000'
+  modified: '2021-10-25 14:52:34.920000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5939,7 +5939,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 1549626218439133
