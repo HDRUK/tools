@@ -2227,7 +2227,7 @@ tools:
   - transfer learning
   license: MIT
   link: https://github.com/kormilitzin/med7
-  modified: '2021-10-04 14:46:05.168000'
+  modified: '2021-10-26 08:29:20.152000'
   name: Med7
   programming_languages:
   - name: Python
@@ -2239,7 +2239,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -5522,7 +5522,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2021-10-21 18:43:49.309000'
+  modified: '2021-10-26 13:42:51.225000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-25 14:52:41.641000'
+  modified: '2021-10-26 08:29:16.658000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-10-25 14:52:55.272000'
+  modified: '2021-10-26 08:51:04.967000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 38
+  views: 40
 - '@schema':
     type: tool
   _id: 5859299510804015
