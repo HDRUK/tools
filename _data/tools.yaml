@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-10-27 13:42:45.636000'
+  modified: '2021-10-28 14:47:56.182000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 184
+  views: 185
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-10-24 13:08:22.566000'
+  modified: '2021-10-28 02:47:23.427000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-10-26 08:29:16.658000'
+  modified: '2021-10-28 17:23:24.797000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 6606728270873592
