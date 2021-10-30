@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2021-10-21 13:44:08.185000'
+  modified: '2021-10-29 23:07:21.071000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 42
+  views: 44
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2021-07-15 15:53:47.343000'
+  modified: '2021-10-29 22:19:12.740000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -5321,7 +5321,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-07 09:39:29.430000'
+  modified: '2021-10-29 17:36:30.722000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5329,7 +5329,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-10-21 13:36:07.623000'
+  modified: '2021-10-30 00:37:39.157000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 111
+  views: 112
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-10-27 14:50:32.043000'
+  modified: '2021-10-29 16:23:52.292000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 43
+  views: 45
 - '@schema':
     type: tool
   _id: 5859299510804015
