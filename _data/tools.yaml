@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-10-21 22:27:28.804000'
+  modified: '2021-10-30 10:53:00.510000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 163
+  views: 164
 - '@schema':
     type: tool
   _id: 19002
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2021-10-21 11:02:05.825000'
+  modified: '2021-10-30 23:33:40.866000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 87
+  views: 88
 - '@schema':
     type: tool
   _id: 19007
@@ -183,13 +183,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2021-08-27 01:29:11.580000'
+  modified: '2021-10-30 12:23:31.930000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 78
+  views: 79
 - '@schema':
     type: tool
   _id: 19009
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2021-08-04 19:08:29.026000'
+  modified: '2021-10-30 20:41:59.023000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 14
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2021-09-28 17:20:49.271000'
+  modified: '2021-10-30 09:53:54.389000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -3878,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:41.945000'
+  modified: '2021-10-30 21:39:48.865000'
   name: CRIS NLP Poor motivation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3886,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 4803515761146371
@@ -4832,7 +4832,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:03.898000'
+  modified: '2021-10-30 01:06:19.298000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4840,7 +4840,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-10-27 12:38:10.530000'
+  modified: '2021-10-30 21:02:13.835000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 48
+  views: 50
 - '@schema':
     type: tool
   _id: 9074803277264144
