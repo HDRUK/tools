@@ -114,7 +114,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2021-10-17 20:24:20.817000'
+  modified: '2021-11-02 02:13:39.342000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -122,7 +122,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 105
+  views: 107
 - '@schema':
     type: tool
   _id: 19006
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-10-31 20:48:59.786000'
+  modified: '2021-11-02 22:07:59.037000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 208
+  views: 209
 - '@schema':
     type: tool
   _id: 19008
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-10-27 13:42:35.613000'
+  modified: '2021-11-02 05:28:59.172000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-10-15 16:46:25.395000'
+  modified: '2021-11-02 09:53:31.987000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -1139,7 +1139,7 @@ tools:
   - Data Cleansing
   license: Apache License 2.0
   link: https://download-mirror2.talend.com/tdp/user-guide-download/V251/TalendDataPrep_GettingStarted_EN.pdf
-  modified: '2021-05-25 08:53:16.222000'
+  modified: '2021-11-02 23:02:01.440000'
   name: Talend Open Studio For Data Quality
   programming_languages:
   - name: Java
@@ -1147,7 +1147,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 7071271226878291
@@ -1472,7 +1472,7 @@ tools:
   - ETL Metadata
   license: Proprietary
   link: http://www.sqlpower.ca/page/architect
-  modified: '2021-01-25 10:19:02.212000'
+  modified: '2021-11-03 00:14:13.915000'
   name: SQL Power Architect
   programming_languages:
   - name: Java
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-10-31 14:10:04.745000'
+  modified: '2021-11-02 12:27:03.296000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-10-23 23:25:41.564000'
+  modified: '2021-11-02 22:08:19.154000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 225
+  views: 237
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5926,7 +5926,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-10-25 14:52:34.920000'
+  modified: '2021-11-02 13:25:45.449000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5939,7 +5939,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 19
+  views: 21
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-10-20 12:53:08.954000'
+  modified: '2021-11-02 13:25:50.250000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 53
+  views: 56
