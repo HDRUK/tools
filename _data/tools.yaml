@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2021-10-23 03:41:57.106000'
+  modified: '2021-11-03 12:45:04.652000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 19004
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-11-02 22:07:59.037000'
+  modified: '2021-11-03 08:12:16.920000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 209
+  views: 210
 - '@schema':
     type: tool
   _id: 19008
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-10-31 09:58:09.591000'
+  modified: '2021-11-03 07:00:37.571000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 186
+  views: 187
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -4914,7 +4914,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:21.919000'
+  modified: '2021-11-03 23:50:40.350000'
   name: CRIS NLP Online Activity
   programming_languages:
   - name: Rule-based - GATE
@@ -4922,7 +4922,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 6378658859804975
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-10-31 14:33:09.106000'
+  modified: '2021-11-03 10:46:59.587000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5926,7 +5926,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-11-02 13:25:45.449000'
+  modified: '2021-11-03 09:09:42.414000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5939,7 +5939,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 1549626218439133
