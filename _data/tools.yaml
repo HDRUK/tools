@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2021-10-23 22:54:07.687000'
+  modified: '2021-11-07 07:34:28.338000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 120
+  views: 121
 - '@schema':
     type: tool
   _id: 19001
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-11-06 19:36:42.682000'
+  modified: '2021-11-07 10:33:34.962000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 167
+  views: 168
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-11-05 03:47:03.828000'
+  modified: '2021-11-07 06:25:35.413000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2021-10-13 01:35:10.924000'
+  modified: '2021-11-07 13:11:28.814000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2021-10-30 09:53:54.389000'
+  modified: '2021-11-07 21:38:52.232000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2021-10-29 23:07:21.071000'
+  modified: '2021-11-07 13:22:38.411000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 44
+  views: 46
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-11-05 18:44:33.265000'
+  modified: '2021-11-07 14:44:27.155000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 115
+  views: 116
 - '@schema':
     type: tool
   _id: 9268236012305552
