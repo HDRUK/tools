@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-10-18 13:38:10.264000'
+  modified: '2021-11-08 02:10:13.008000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 116
+  views: 117
 - '@schema':
     type: tool
   _id: 19006
@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2021-10-30 23:33:40.866000'
+  modified: '2021-11-08 11:27:39.824000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 88
+  views: 89
 - '@schema':
     type: tool
   _id: 19004
@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2021-10-10 11:57:43.223000'
+  modified: '2021-11-08 16:47:01.113000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 19007
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-11-07 06:25:35.413000'
+  modified: '2021-11-08 03:37:40.903000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 59
+  views: 60
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-11-06 17:27:20.896000'
+  modified: '2021-11-08 21:22:32.987000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 188
+  views: 189
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-11-02 05:28:59.172000'
+  modified: '2021-11-08 20:40:21.540000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2021-08-27 08:36:52.126000'
+  modified: '2021-11-08 01:58:51.537000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -2433,7 +2433,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-23 19:16:38.260000'
+  modified: '2021-11-08 13:59:06.905000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2441,7 +2441,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-11-07 14:44:27.155000'
+  modified: '2021-11-08 04:54:22.439000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 116
+  views: 117
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-11-02 22:08:19.154000'
+  modified: '2021-11-08 23:24:47.876000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 237
+  views: 243
 - '@schema':
     type: tool
   _id: 45701856330435576
