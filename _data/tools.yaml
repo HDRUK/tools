@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-11-08 02:10:13.008000'
+  modified: '2021-11-09 07:13:53.081000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 19006
@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2021-11-08 11:27:39.824000'
+  modified: '2021-11-09 21:10:09.570000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 89
+  views: 90
 - '@schema':
     type: tool
   _id: 19004
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2021-10-30 20:41:59.023000'
+  modified: '2021-11-09 10:26:10.643000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1616,7 +1616,7 @@ tools:
   - Data Integration
   license: GNU Lesser General Public License Version 2.1, February 1999
   link: https://cytoscape.org/download.html
-  modified: '2021-02-18 16:25:16.147000'
+  modified: '2021-11-09 06:13:56.603000'
   name: Cytoscape
   programming_languages:
   - name: Java
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-11-05 23:35:06.627000'
+  modified: '2021-11-09 22:32:26.125000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4200,7 +4200,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:44.750000'
+  modified: '2021-11-09 10:17:36.109000'
   name: CRIS NLP Thought block
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4208,7 +4208,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 21263999367358544
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-11-08 04:54:22.439000'
+  modified: '2021-11-09 17:49:27.237000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5797,7 +5797,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2021-10-31 06:21:24.770000'
+  modified: '2021-11-09 10:54:38.127000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -5805,7 +5805,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-11-05 16:21:55.598000'
+  modified: '2021-11-09 10:54:57.571000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 5859299510804015
