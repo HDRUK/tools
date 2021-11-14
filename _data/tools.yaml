@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-11-04 15:07:23.376000'
+  modified: '2021-11-13 10:10:31.859000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 52
+  views: 55
 - '@schema':
     type: tool
   _id: 9074803277264144
