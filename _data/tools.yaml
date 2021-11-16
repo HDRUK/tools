@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-11-08 03:37:40.903000'
+  modified: '2021-11-15 07:07:55.010000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 60
+  views: 61
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-11-02 09:53:31.987000'
+  modified: '2021-11-15 06:44:13.781000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 64
+  views: 65
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-11-11 14:15:33.113000'
+  modified: '2021-11-15 15:04:33.207000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 121
+  views: 123
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2021-11-11 14:22:18.890000'
+  modified: '2021-11-15 17:56:04.215000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2021-11-11 14:15:12.539000'
+  modified: '2021-11-15 09:49:13.610000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2021-05-17 14:00:09.675000'
+  modified: '2021-11-15 06:32:43.413000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2021-08-10 11:46:29.781000'
+  modified: '2021-11-15 13:05:04.359000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-11-10 11:30:28.167000'
+  modified: '2021-11-15 04:38:08.618000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2021-09-01 12:56:27.805000'
+  modified: '2021-11-15 11:56:03.601000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2227,7 +2227,7 @@ tools:
   - transfer learning
   license: MIT
   link: https://github.com/kormilitzin/med7
-  modified: '2021-11-11 14:14:28.775000'
+  modified: '2021-11-15 21:29:41.606000'
   name: Med7
   programming_languages:
   - name: Python
@@ -2239,7 +2239,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -5198,7 +5198,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:08.238000'
+  modified: '2021-11-15 10:07:13.901000'
   name: CRIS NLP Medication
   programming_languages:
   - name: Rule-based - GATE
@@ -5206,7 +5206,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 590031312114683
@@ -5402,7 +5402,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-12 11:47:05.246000'
+  modified: '2021-11-15 21:03:41.163000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5410,7 +5410,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5589,7 +5589,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2021-11-01 15:41:48.822000'
+  modified: '2021-11-15 01:10:57.121000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5598,7 +5598,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5664,7 +5664,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2021-11-10 11:09:01.163000'
+  modified: '2021-11-15 22:09:59.721000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5674,7 +5674,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-11-12 17:10:16.214000'
+  modified: '2021-11-15 19:48:46.208000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-11-13 10:10:31.859000'
+  modified: '2021-11-15 19:49:40.555000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 9074803277264144
