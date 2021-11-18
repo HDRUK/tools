@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2021-11-08 16:47:01.113000'
+  modified: '2021-11-17 06:54:46.448000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 105
+  views: 106
 - '@schema':
     type: tool
   _id: 19007
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-11-14 21:57:24.604000'
+  modified: '2021-11-17 05:31:25.306000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 169
+  views: 170
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-11-15 07:07:55.010000'
+  modified: '2021-11-17 19:15:00.422000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2021-11-10 11:40:44.721000'
+  modified: '2021-11-17 12:34:15.673000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -1616,7 +1616,7 @@ tools:
   - Data Integration
   license: GNU Lesser General Public License Version 2.1, February 1999
   link: https://cytoscape.org/download.html
-  modified: '2021-11-14 14:00:31.932000'
+  modified: '2021-11-17 04:44:07.797000'
   name: Cytoscape
   programming_languages:
   - name: Java
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -4160,7 +4160,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:34.244000'
+  modified: '2021-11-17 08:16:00.600000'
   name: CRIS NLP Tearfulness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4168,7 +4168,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 7798542864371327
@@ -4481,7 +4481,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-09-21 09:59:59.329000'
+  modified: '2021-11-17 23:07:33.127000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4489,7 +4489,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -4955,7 +4955,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-10 11:18:01.305000'
+  modified: '2021-11-17 11:22:56.267000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -4963,7 +4963,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-01 20:54:03.224000'
+  modified: '2021-11-17 16:23:18.275000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-11-11 19:17:42.706000'
+  modified: '2021-11-17 07:08:55.629000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 58
+  views: 59
