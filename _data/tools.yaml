@@ -1089,7 +1089,7 @@ tools:
   - Data Loading/Unloading
   license: Apache License 2.0
   link: https://github.com/Talend/tbd-studio-se
-  modified: '2021-11-11 14:20:49.224000'
+  modified: '2021-11-19 08:44:12.960000'
   name: Talend Open Studio For Big Data
   programming_languages:
   - name: Java
@@ -1097,7 +1097,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 38249871797050216
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2021-10-20 19:25:22.624000'
+  modified: '2021-11-19 07:57:30.452000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2021-11-10 11:29:08.383000'
+  modified: '2021-11-19 14:20:14.689000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -2753,7 +2753,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-11 14:13:35.752000'
+  modified: '2021-11-19 21:31:33.186000'
   name: CRIS NLP Disturbed sleep
   programming_languages:
   - name: Rule-based - GATE
@@ -2761,7 +2761,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 39814581374180632
@@ -4240,7 +4240,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:38.200000'
+  modified: '2021-11-19 13:13:33.014000'
   name: CRIS NLP Thought Broadcast
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4248,7 +4248,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 401562528365353
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-11-16 04:52:43.513000'
+  modified: '2021-11-19 22:49:11.317000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 246
+  views: 247
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-11-16 14:04:18.491000'
+  modified: '2021-11-19 12:41:30.138000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 56
+  views: 58
 - '@schema':
     type: tool
   _id: 5859299510804015
