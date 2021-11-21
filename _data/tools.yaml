@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-11-15 15:04:33.207000'
+  modified: '2021-11-20 09:47:11.952000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2021-11-10 11:40:16.782000'
+  modified: '2021-11-21 00:04:03.756000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -3517,7 +3517,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:12.959000'
+  modified: '2021-11-20 09:24:00.093000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3525,7 +3525,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -3958,7 +3958,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:45.139000'
+  modified: '2021-11-21 00:24:47.993000'
   name: CRIS NLP Poverty of thought
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3966,7 +3966,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 6252807113770187
@@ -4280,7 +4280,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:39.634000'
+  modified: '2021-11-20 06:27:51.724000'
   name: CRIS NLP Thought Insertion
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4288,7 +4288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 868605090006227
