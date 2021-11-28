@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2021-11-07 07:34:28.338000'
+  modified: '2021-11-27 11:44:44.080000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 121
+  views: 122
 - '@schema':
     type: tool
   _id: 19001
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-11-21 04:18:34.085000'
+  modified: '2021-11-27 23:53:55.159000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-11-24 19:38:26.348000'
+  modified: '2021-11-27 16:19:42.520000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 196
+  views: 197
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2021-11-21 12:57:40.483000'
+  modified: '2021-11-27 13:39:11.648000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -2673,7 +2673,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:12:28.562000'
+  modified: '2021-11-27 03:54:29.192000'
   name: CRIS NLP Delusions
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2681,7 +2681,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 16630373665009346
@@ -2994,7 +2994,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-21 10:08:47.936000'
+  modified: '2021-11-27 11:07:01.961000'
   name: CRIS NLP Formal thought disorder
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3002,7 +3002,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 9302896934152188
@@ -3356,7 +3356,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:41.427000'
+  modified: '2021-11-27 16:11:54.268000'
   name: CRIS NLP Irritability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3364,7 +3364,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 5190548995052016
@@ -3597,7 +3597,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:18.688000'
+  modified: '2021-11-27 02:06:34.400000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3605,7 +3605,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 8753447336519478
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-11 14:13:21.085000'
+  modified: '2021-11-27 18:51:52.686000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-11-24 14:27:11.598000'
+  modified: '2021-11-27 10:45:40.325000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 125
+  views: 126
 - '@schema':
     type: tool
   _id: 9268236012305552
