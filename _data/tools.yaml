@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2021-11-29 13:06:11.780000'
+  modified: '2021-11-30 12:04:08.149000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 19001
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2021-11-10 11:56:25.454000'
+  modified: '2021-11-30 12:02:46.308000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2021-11-24 08:11:26.679000'
+  modified: '2021-11-30 07:45:26.054000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -5239,7 +5239,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-22 09:24:03.847000'
+  modified: '2021-11-30 19:14:33.450000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5247,7 +5247,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5624,7 +5624,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2021-11-22 18:25:03.052000'
+  modified: '2021-11-30 04:58:07.702000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5632,7 +5632,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-11-23 16:53:10.929000'
+  modified: '2021-11-30 14:52:05.547000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 50
+  views: 52
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5926,7 +5926,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-11-11 13:48:39.404000'
+  modified: '2021-11-30 04:33:59.113000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5939,7 +5939,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 1549626218439133
