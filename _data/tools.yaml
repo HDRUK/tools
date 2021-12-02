@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2021-11-23 11:02:35.335000'
+  modified: '2021-12-01 15:31:34.592000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 107
+  views: 108
 - '@schema':
     type: tool
   _id: 19007
@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2021-10-30 12:23:31.930000'
+  modified: '2021-12-01 04:04:59.061000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 19010
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-11-28 02:58:48.313000'
+  modified: '2021-12-01 07:07:11.692000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 198
+  views: 199
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2021-11-15 17:56:04.215000'
+  modified: '2021-12-01 19:58:30.902000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1297,7 +1297,7 @@ tools:
   - MDM
   license: GNU Lesser General Public License v3.0
   link: http://datacleaner.org/docs
-  modified: '2021-11-04 05:17:40.935000'
+  modified: '2021-12-01 18:37:15.225000'
   name: DataCleaner
   programming_languages:
   - name: Java
@@ -1305,7 +1305,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 8656803550224388
@@ -1616,7 +1616,7 @@ tools:
   - Data Integration
   license: GNU Lesser General Public License Version 2.1, February 1999
   link: https://cytoscape.org/download.html
-  modified: '2021-11-18 17:16:15.483000'
+  modified: '2021-12-01 15:37:53.645000'
   name: Cytoscape
   programming_languages:
   - name: Java
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -5321,7 +5321,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-29 17:36:30.722000'
+  modified: '2021-12-01 10:24:58.464000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5329,7 +5329,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5556,7 +5556,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2021-09-21 09:56:18.473000'
+  modified: '2021-12-01 14:13:47.428000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5564,7 +5564,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5705,7 +5705,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2021-11-28 03:41:45.898000'
+  modified: '2021-12-01 23:13:52.452000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 250
+  views: 256
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-11-26 10:08:35.664000'
+  modified: '2021-12-01 12:14:33.082000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 5859299510804015
