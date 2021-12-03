@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-11-29 12:03:23.214000'
+  modified: '2021-12-02 14:50:33.353000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 122
+  views: 123
 - '@schema':
     type: tool
   _id: 19006
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-12-01 07:07:11.692000'
+  modified: '2021-12-02 14:13:14.102000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 199
+  views: 201
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-11-08 20:40:21.540000'
+  modified: '2021-12-02 11:29:02.281000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2021-11-26 02:15:19.660000'
+  modified: '2021-12-02 13:25:05.298000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2021-04-21 04:44:49.029000'
+  modified: '2021-12-02 16:28:01.321000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 8
+  views: 10
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-11-23 17:17:29.973000'
+  modified: '2021-12-02 03:42:56.655000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2021-11-26 09:34:27.228000'
+  modified: '2021-12-02 01:43:50.706000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2312,7 +2312,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-02-11 12:31:41.093000'
+  modified: '2021-12-02 08:01:34.806000'
   name: CRIS NLP Agitation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2320,7 +2320,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 20969727106775384
@@ -3718,7 +3718,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:31.149000'
+  modified: '2021-12-02 17:56:54.367000'
   name: CRIS NLP Persecutory ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3726,7 +3726,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 58586357288800792
@@ -4120,7 +4120,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:32.559000'
+  modified: '2021-12-02 12:50:59.454000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4128,7 +4128,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -5280,7 +5280,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-04-28 08:00:02.963000'
+  modified: '2021-12-02 12:17:55.220000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5288,7 +5288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-11-30 14:52:05.547000'
+  modified: '2021-12-02 16:23:38.708000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 52
+  views: 51
 - '@schema':
     type: tool
   _id: 6606728270873592
