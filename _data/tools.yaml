@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2021-12-02 14:50:33.353000'
+  modified: '2021-12-06 16:50:47.378000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 19006
@@ -138,7 +138,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2021-11-28 12:59:15.166000'
+  modified: '2021-12-06 05:34:55.316000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -146,7 +146,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 19009
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-12-03 11:57:46.109000'
+  modified: '2021-12-06 13:05:59.359000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-12-02 11:29:02.281000'
+  modified: '2021-12-06 11:09:42.504000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2021-11-29 12:48:00.976000'
+  modified: '2021-12-06 14:25:26.759000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2021-11-10 11:56:02.572000'
+  modified: '2021-12-06 13:10:28.367000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2021-11-28 13:02:31.289000'
+  modified: '2021-12-06 11:36:52.796000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2021-12-03 14:05:54.684000'
+  modified: '2021-12-06 05:36:42.292000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2021-07-15 15:53:47.343000'
+  modified: '2021-12-06 14:49:54.174000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2021-11-01 12:41:16.475000'
+  modified: '2021-12-06 23:05:22.914000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -2227,7 +2227,7 @@ tools:
   - transfer learning
   license: MIT
   link: https://github.com/kormilitzin/med7
-  modified: '2021-11-15 21:29:41.606000'
+  modified: '2021-12-06 13:08:50.185000'
   name: Med7
   programming_languages:
   - name: Python
@@ -2239,7 +2239,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -2433,7 +2433,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-28 07:57:14.056000'
+  modified: '2021-12-06 04:24:22.216000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2441,7 +2441,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -2633,7 +2633,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-03-06 14:32:28.851000'
+  modified: '2021-12-06 22:58:57.470000'
   name: CRIS NLP Concrete thinking
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2641,7 +2641,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 5813246720453065
@@ -2873,7 +2873,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:12:46.693000'
+  modified: '2021-12-07 00:09:34.802000'
   name: CRIS NLP Elation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2881,7 +2881,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 5524015711947725
@@ -2953,7 +2953,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-02-27 21:13:30.772000'
+  modified: '2021-12-06 01:18:49.446000'
   name: CRIS NLP Flight of ideas
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2961,7 +2961,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 9083608760967918
@@ -4280,7 +4280,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-20 06:27:51.724000'
+  modified: '2021-12-06 21:43:56.230000'
   name: CRIS NLP Thought Insertion
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4288,7 +4288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 868605090006227
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-08-04 19:02:37.952000'
+  modified: '2021-12-06 21:06:15.451000'
   name: CRIS NLP Rheumatoid Arthritis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5553218139257072
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-12-05 09:33:50.521000'
+  modified: '2021-12-06 11:40:34.265000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 132
+  views: 133
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-12-01 12:14:33.082000'
+  modified: '2021-12-06 14:55:36.145000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 62
+  views: 68
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-12-03 13:42:10.600000'
+  modified: '2021-12-06 20:23:00.931000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -5980,7 +5980,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2021-11-17 07:08:55.629000'
+  modified: '2021-12-06 18:01:02.053000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -5993,4 +5993,4 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 59
+  views: 60
