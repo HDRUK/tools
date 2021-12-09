@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2021-12-07 03:15:03.645000'
+  modified: '2021-12-08 01:10:48.884000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 93
+  views: 94
 - '@schema':
     type: tool
   _id: 19004
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-12-06 13:05:59.359000'
+  modified: '2021-12-08 14:27:17.080000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 67
+  views: 68
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-11-24 04:19:11.405000'
+  modified: '2021-12-08 14:26:29.793000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 66
+  views: 68
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2021-12-07 10:17:52.127000'
+  modified: '2021-12-08 07:28:21.098000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 52
+  views: 53
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2021-12-01 19:58:30.902000'
+  modified: '2021-12-08 04:07:12.079000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2021-11-26 19:03:16.023000'
+  modified: '2021-12-08 05:39:22.861000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 204
+  views: 205
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2021-12-07 16:07:25.454000'
+  modified: '2021-12-08 14:31:44.496000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 19
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2021-12-03 16:34:59.119000'
+  modified: '2021-12-08 12:55:36.507000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -2272,7 +2272,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-02-17 17:04:34.111000'
+  modified: '2021-12-08 02:35:14.456000'
   name: CRIS NLP Aggression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2280,7 +2280,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 7266823034105565
@@ -2793,7 +2793,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-11 14:13:37.337000'
+  modified: '2021-12-08 09:42:31.060000'
   name: CRIS NLP Drowsiness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2801,7 +2801,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 728410686361705
@@ -2833,7 +2833,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-22 17:09:38.481000'
+  modified: '2021-12-08 08:07:24.616000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2841,7 +2841,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 9242053681629978
@@ -3156,7 +3156,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:26.507000'
+  modified: '2021-12-08 15:57:26.664000'
   name: CRIS NLP Hallucinations - visual
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3164,7 +3164,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 4660577979812828
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-05-17 19:59:53.194000'
+  modified: '2021-12-08 01:23:26.468000'
   name: CRIS NLP Hostility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 598189829688136
@@ -3437,7 +3437,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-03 11:37:52.558000'
+  modified: '2021-12-08 11:49:09.755000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3445,7 +3445,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -3958,7 +3958,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-21 00:24:47.993000'
+  modified: '2021-12-08 12:07:13.293000'
   name: CRIS NLP Poverty of thought
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3966,7 +3966,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6252807113770187
@@ -4441,7 +4441,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-05 16:44:28.315000'
+  modified: '2021-12-08 10:20:51.655000'
   name: CRIS NLP Worthlessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4449,7 +4449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 3237674158697106
@@ -4632,7 +4632,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-31 23:11:16.805000'
+  modified: '2021-12-08 04:05:16.762000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4640,7 +4640,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 11
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -4955,7 +4955,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-17 11:22:56.267000'
+  modified: '2021-12-08 06:23:00.704000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -4963,7 +4963,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-27 18:51:52.686000'
+  modified: '2021-12-08 11:17:52.213000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5280,7 +5280,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-02 12:17:55.220000'
+  modified: '2021-12-08 15:03:47.672000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5288,7 +5288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5321,7 +5321,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-01 10:24:58.464000'
+  modified: '2021-12-08 14:41:50.013000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5329,7 +5329,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-24 18:54:01.062000'
+  modified: '2021-12-08 14:30:26.388000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5522,7 +5522,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2021-11-11 14:00:19.640000'
+  modified: '2021-12-08 15:41:24.725000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5556,7 +5556,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2021-12-01 14:13:47.428000'
+  modified: '2021-12-08 14:43:00.273000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5564,7 +5564,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5872,7 +5872,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-12-07 16:50:05.592000'
+  modified: '2021-12-08 14:25:42.268000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5883,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 64
+  views: 65
 - '@schema':
     type: tool
   _id: 9074803277264144
