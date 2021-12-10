@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-12-03 20:14:29.492000'
+  modified: '2021-12-09 11:17:12.067000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 130
+  views: 131
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2021-12-07 10:52:38.009000'
+  modified: '2021-12-09 03:45:10.832000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2021-11-30 12:02:46.308000'
+  modified: '2021-12-09 16:18:25.947000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2021-12-06 13:10:28.367000'
+  modified: '2021-12-09 10:00:38.711000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2021-11-10 11:39:19.280000'
+  modified: '2021-12-09 14:35:22.632000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2021-11-23 09:10:48.800000'
+  modified: '2021-12-09 07:20:16.672000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2021-11-19 14:20:14.689000'
+  modified: '2021-12-09 14:26:24.027000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -3236,7 +3236,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:33.890000'
+  modified: '2021-12-09 14:33:01.913000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3244,7 +3244,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -4080,7 +4080,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-04 05:34:44.449000'
+  modified: '2021-12-09 14:38:31.497000'
   name: CRIS NLP Suicidal ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4088,7 +4088,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 865934738831172
@@ -4441,7 +4441,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 10:20:51.655000'
+  modified: '2021-12-09 14:37:54.486000'
   name: CRIS NLP Worthlessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4449,7 +4449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 3237674158697106
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 11:17:52.213000'
+  modified: '2021-12-09 09:07:20.879000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5624,7 +5624,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2021-11-30 04:58:07.702000'
+  modified: '2021-12-09 06:56:07.682000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5632,7 +5632,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5664,7 +5664,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2021-12-07 16:02:42.124000'
+  modified: '2021-12-09 12:46:00.455000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5674,7 +5674,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-12-05 22:42:39.614000'
+  modified: '2021-12-09 08:40:50.187000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 52
+  views: 53
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5797,7 +5797,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2021-11-26 16:28:17.789000'
+  modified: '2021-12-09 09:14:23.169000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -5805,7 +5805,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 85
+  views: 86
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -5835,7 +5835,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-12-07 10:18:46.297000'
+  modified: '2021-12-09 12:57:28.669000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5848,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 69
+  views: 71
 - '@schema':
     type: tool
   _id: 5859299510804015
