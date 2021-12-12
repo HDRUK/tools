@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-12-05 18:08:19.542000'
+  modified: '2021-12-11 20:05:34.954000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 216
+  views: 217
 - '@schema':
     type: tool
   _id: 19008
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2021-11-29 09:44:43.083000'
+  modified: '2021-12-11 19:26:38.535000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2021-12-03 04:42:54.149000'
+  modified: '2021-12-11 02:25:24.359000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -3758,7 +3758,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-24 08:30:04.783000'
+  modified: '2021-12-11 07:36:18.586000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3766,7 +3766,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -4832,7 +4832,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-30 01:06:19.298000'
+  modified: '2021-12-11 09:12:52.037000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4840,7 +4840,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 14:30:26.388000'
+  modified: '2021-12-11 01:56:32.426000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 26450835041802232
