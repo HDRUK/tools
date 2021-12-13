@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2021-12-06 05:34:55.316000'
+  modified: '2021-12-12 23:22:28.474000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 19004
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-12-09 11:17:12.067000'
+  modified: '2021-12-12 23:58:34.765000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 131
+  views: 132
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2021-11-26 11:37:16.167000'
+  modified: '2021-12-12 20:43:22.036000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1297,7 +1297,7 @@ tools:
   - MDM
   license: GNU Lesser General Public License v3.0
   link: http://datacleaner.org/docs
-  modified: '2021-12-01 18:37:15.225000'
+  modified: '2021-12-12 21:32:39.070000'
   name: DataCleaner
   programming_languages:
   - name: Java
@@ -1305,7 +1305,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 8656803550224388
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2021-12-06 11:36:52.796000'
+  modified: '2021-12-12 21:08:42.736000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2021-12-02 13:25:05.298000'
+  modified: '2021-12-12 17:45:50.447000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -3718,7 +3718,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-02 17:56:54.367000'
+  modified: '2021-12-12 11:10:58.024000'
   name: CRIS NLP Persecutory ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3726,7 +3726,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 58586357288800792
@@ -4361,7 +4361,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:15:47.514000'
+  modified: '2021-12-12 06:03:38.134000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4369,7 +4369,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 6491044576324445
