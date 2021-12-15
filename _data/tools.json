@@ -1,5 +1,5 @@
 {
-  "count": 155,
+  "count": 157,
   "tools": [
     {
       "@schema": {
@@ -14,10 +14,10 @@
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2021-12-05 23:04:48.875000",
+      "modified": "2021-12-14 06:41:30.437000",
       "description": "",
       "license": "",
-      "views": 176,
+      "views": 177,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -192,10 +192,10 @@
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2021-12-11 20:05:34.954000",
+      "modified": "2021-12-14 17:40:16.655000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 217,
+      "views": 221,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -307,10 +307,10 @@
       ],
       "uploader": "",
       "issued": "2020-06-05 11:09:08.573000",
-      "modified": "2021-12-10 23:38:35",
+      "modified": "2021-12-14 11:47:33.843000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 203,
+      "views": 204,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -398,10 +398,10 @@
       ],
       "uploader": 5703995672678985,
       "issued": "2020-08-12 11:23:36.287000",
-      "modified": "2021-12-08 14:26:29.793000",
+      "modified": "2021-12-14 09:24:15.552000",
       "description": "Cytel Inc. has launched an open-access global COVID-19 Clinical Trial Tracker to help facilitate greater collaboration between researchers, policymakers, clinicians, journalists, philanthropists, and other critical stakeholders who need to understand the complex dynamics of the global response to finding a solution to the COVID-19 outbreak.\n\nThis will enable them to make more informed and pragmatic decisions on how to channel scarce resources. Clinicians and local government need to know what trials are taking place in their community to ensure that the right patients receive the right exploratory treatment, while philanthropists and Federal policymakers deserve a one-stop shop to determine which are the most promising early phase treatment results.\n\nFunded in part by The Bill and Melinda Gates Foundation, a leader in global health solutions, this live dashboard offers an overview of all the trials taking place in the international effort to tackle the pandemic. One of the most difficult challenges facing those seeking a COVID-19 treatment is how little data exists about this disease. Early investigators are relying on guesswork to determine which therapies to investigate. Collating information in one place on the growing numbers of trials, will enable decision-makers to compare treatments more easily as they determine which to investigate further.",
       "license": "",
-      "views": 68,
+      "views": 69,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -511,10 +511,10 @@
       ],
       "uploader": 22850500618628944,
       "issued": "2020-08-13 12:18:42.588000",
-      "modified": "2021-12-08 07:28:21.098000",
+      "modified": "2021-12-14 08:52:59.300000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 53,
+      "views": 54,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -564,10 +564,10 @@
       ],
       "uploader": 22850500618628944,
       "issued": "2020-09-03 14:23:18.139000",
-      "modified": "2021-12-12 23:58:34.765000",
+      "modified": "2021-12-14 17:50:05.099000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 132,
+      "views": 136,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -704,10 +704,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-25 16:09:59.562000",
-      "modified": "2021-12-04 17:16:06.429000",
+      "modified": "2021-12-14 08:46:42.683000",
       "description": "Python module for exploratory data analysis (EDA)\n\nGenerates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.",
       "license": "MIT license",
-      "views": 13,
+      "views": 14,
       "category": "Open Source Python Module",
       "relations": [],
       "keywords": [
@@ -1578,10 +1578,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 13:07:09.082000",
-      "modified": "2021-12-04 08:43:28.839000",
+      "modified": "2021-12-14 04:28:59.445000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 63,
+      "views": 65,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -4268,10 +4268,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:52:37.572000",
-      "modified": "2021-12-06 21:06:15.451000",
+      "modified": "2021-12-14 08:52:00.386000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 7,
+      "views": 8,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4772,10 +4772,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:58:38.296000",
-      "modified": "2021-11-30 19:14:33.450000",
+      "modified": "2021-12-14 10:32:24.309000",
       "description": "Application to identify instances of receiving current, recommended or planned general care package. This is a.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 6,
+      "views": 7,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4880,10 +4880,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:59:57.629000",
-      "modified": "2021-11-28 22:01:20.158000",
+      "modified": "2021-12-14 04:59:48.770000",
       "description": "The application will use a structured code to identify instances where HbA1c* and its results are found within.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 7,
+      "views": 8,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4988,10 +4988,10 @@
       ],
       "uploader": 22057843612818416,
       "issued": "2020-11-27 13:12:33.096000",
-      "modified": "2021-12-13 14:59:55.550000",
+      "modified": "2021-12-14 14:55:44.309000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 135,
+      "views": 136,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5228,10 +5228,10 @@
       ],
       "uploader": 5703995672678985,
       "issued": "2021-02-08 14:13:50.274000",
-      "modified": "2021-12-09 08:40:50.187000",
+      "modified": "2021-12-14 08:46:08.698000",
       "description": "Characterizing diversity in biodata and producing visualizations\n\nRead more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables\n\n\n\n### Results & Insights\n\nhttps://www.benevolent.com/news/the-diversity-analysis-tool-towards-better-diversity-in-data-for-precision-medicine",
       "license": "MIT",
-      "views": 53,
+      "views": 54,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -5242,6 +5242,41 @@
       "programming_languages": [
         {
           "name": "Python",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 47757674439076728,
+      "type": "",
+      "name": "ExECT - Onset of Epileptic events - Time Periods",
+      "link": "https://github.com/swneurosci/ExECT-V2",
+      "authors": [
+        2742415330560255,
+        9541890091348464,
+        11325873978988232
+      ],
+      "uploader": 2742415330560255,
+      "issued": "2021-02-23 16:00:12.173000",
+      "modified": "2021-12-14 10:29:09.143000",
+      "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Time Period (Day/Week/Month\u2026) + Number of Time Periods\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
+      "license": "",
+      "views": 5,
+      "category": "NLP System",
+      "relations": [],
+      "keywords": [
+        "nlp",
+        "hdruk-text",
+        "text analytics",
+        "NLP",
+        "rule-based"
+      ],
+      "programming_languages": [
+        {
+          "name": "Machine learning and rules-based - GATE",
           "version": ""
         }
       ]
@@ -5319,10 +5354,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:19:51.647000",
-      "modified": "2021-12-09 12:57:28.669000",
+      "modified": "2021-12-14 21:40:14.608000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 71,
+      "views": 74,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -5363,10 +5398,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:38:43.806000",
-      "modified": "2021-12-08 14:25:42.268000",
+      "modified": "2021-12-14 08:29:40.136000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 65,
+      "views": 66,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -5400,10 +5435,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:58:35.620000",
-      "modified": "2021-12-05 10:47:07.855000",
+      "modified": "2021-12-14 12:05:13.933000",
       "description": "This interactive visualizations report focus on exploring how the risk of precarious work has evolved in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_2_precariousness\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 25,
+      "views": 26,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -5471,6 +5506,33 @@
         {
           "name": "HTML",
           "version": "5"
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 4818714000171864,
+      "type": "",
+      "name": "Do COVID-19 vaccinations increase the risk of blood clots?",
+      "link": "https://www.qresearch.org/media/1336/infographic-3-1.pdf",
+      "authors": [
+        9952605032979578
+      ],
+      "uploader": 9952605032979578,
+      "issued": "2021-11-01 09:15:30.460000",
+      "modified": "2021-12-14 11:43:49.756000",
+      "description": "Infographic summarising results of research study\n\n### Results & Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34 to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1 nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21 days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological and vascular events that led to hospital admission or death were observed for short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA vaccines. The risks of most of these events were substantially higher and more prolonged after SARS-CoV-2 infection than after vaccination in the same population.",
+      "license": "CC BY NC 3.0",
+      "views": 6,
+      "category": "infographic",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "Webpage",
+          "version": ""
         }
       ]
     }

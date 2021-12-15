@@ -1,4 +1,4 @@
-count: 155
+count: 157
 tools:
 - '@schema':
     type: tool
@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-12-05 23:04:48.875000'
+  modified: '2021-12-14 06:41:30.437000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 176
+  views: 177
 - '@schema':
     type: tool
   _id: 19002
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-12-11 20:05:34.954000'
+  modified: '2021-12-14 17:40:16.655000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 217
+  views: 221
 - '@schema':
     type: tool
   _id: 19008
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-12-10 23:38:35'
+  modified: '2021-12-14 11:47:33.843000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 203
+  views: 204
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-12-08 14:26:29.793000'
+  modified: '2021-12-14 09:24:15.552000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2021-12-08 07:28:21.098000'
+  modified: '2021-12-14 08:52:59.300000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-12-12 23:58:34.765000'
+  modified: '2021-12-14 17:50:05.099000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 132
+  views: 136
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -672,7 +672,7 @@ tools:
   - Text Analysis
   license: MIT license
   link: https://github.com/pandas-profiling/pandas-profiling
-  modified: '2021-12-04 17:16:06.429000'
+  modified: '2021-12-14 08:46:42.683000'
   name: Pandas Profiling
   programming_languages:
   - name: Python
@@ -680,7 +680,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 5463135278367706
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2021-12-04 08:43:28.839000'
+  modified: '2021-12-14 04:28:59.445000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 63
+  views: 65
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-06 21:06:15.451000'
+  modified: '2021-12-14 08:52:00.386000'
   name: CRIS NLP Rheumatoid Arthritis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5553218139257072
@@ -5239,7 +5239,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-30 19:14:33.450000'
+  modified: '2021-12-14 10:32:24.309000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5247,7 +5247,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5362,7 +5362,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-28 22:01:20.158000'
+  modified: '2021-12-14 04:59:48.770000'
   name: CRIS NLP HbA1c
   programming_languages:
   - name: Rule-based - GATE
@@ -5370,7 +5370,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5385805814031088
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-12-13 14:59:55.550000'
+  modified: '2021-12-14 14:55:44.309000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 135
+  views: 136
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-12-09 08:40:50.187000'
+  modified: '2021-12-14 08:46:08.698000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,37 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 53
+  views: 54
+- '@schema':
+    type: tool
+  _id: 47757674439076728
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: "Application to extract the onset of epileptic events. Output Values:\
+    \ CUI (Concept Unique Identifier of the epileptic event), Time Period (Day/Week/Month\u2026\
+    ) + Number of Time Periods\n\n### Results & Insights\n\nResults of version 1 are\
+    \ available here - https://bmjopen.bmj.com/content/9/4/e023232"
+  issued: '2021-02-23 16:00:12.173000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2021-12-14 10:29:09.143000'
+  name: ExECT - Onset of Epileptic events - Time Periods
+  programming_languages:
+  - name: Machine learning and rules-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5835,7 +5865,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-12-09 12:57:28.669000'
+  modified: '2021-12-14 21:40:14.608000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5848,7 +5878,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 71
+  views: 74
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -5872,7 +5902,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-12-08 14:25:42.268000'
+  modified: '2021-12-14 08:29:40.136000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5883,7 +5913,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -5926,7 +5956,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-12-05 10:47:07.855000'
+  modified: '2021-12-14 12:05:13.933000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5939,7 +5969,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -5994,3 +6024,42 @@ tools:
   type: ''
   uploader: 9541533584051376
   views: 60
+- '@schema':
+    type: tool
+  _id: 4818714000171864
+  authors:
+  - 9952605032979578
+  category: infographic
+  description: "Infographic summarising results of research study\n\n### Results &\
+    \ Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after\
+    \ ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval\
+    \ 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34\
+    \ to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1\
+    \ nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection\
+    \ (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism\
+    \ after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after\
+    \ SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses\
+    \ found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to\
+    \ 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21\
+    \ days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke\
+    \ after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after\
+    \ a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic\
+    \ events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and\
+    \ after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological\
+    \ and vascular events that led to hospital admission or death were observed for\
+    \ short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA\
+    \ vaccines. The risks of most of these events were substantially higher and more\
+    \ prolonged after SARS-CoV-2 infection than after vaccination in the same population."
+  issued: '2021-11-01 09:15:30.460000'
+  keywords: []
+  license: CC BY NC 3.0
+  link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
+  modified: '2021-12-14 11:43:49.756000'
+  name: Do COVID-19 vaccinations increase the risk of blood clots?
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 9952605032979578
+  views: 6
