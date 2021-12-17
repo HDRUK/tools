@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-12-14 09:24:15.552000'
+  modified: '2021-12-16 15:03:39.720000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2021-12-14 08:52:59.300000'
+  modified: '2021-12-17 00:51:18.181000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2021-12-09 16:18:25.947000'
+  modified: '2021-12-16 14:51:31.459000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2021-12-11 19:26:38.535000'
+  modified: '2021-12-16 18:34:01.521000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2021-12-14 14:55:44.309000'
+  modified: '2021-12-16 06:45:58.293000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 136
+  views: 137
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-12-15 14:05:02.114000'
+  modified: '2021-12-16 03:32:39.329000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -5791,7 +5791,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2021-12-03 18:53:57.445000'
+  modified: '2021-12-16 14:53:39.105000'
   name: tpot
   programming_languages:
   - name: Python
@@ -5799,7 +5799,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -5865,7 +5865,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2021-12-15 14:06:42.942000'
+  modified: '2021-12-16 13:12:07.942000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5878,7 +5878,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6054,7 +6054,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2021-12-15 14:06:12.171000'
+  modified: '2021-12-16 21:00:37.457000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6062,4 +6062,4 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 9
+  views: 12
