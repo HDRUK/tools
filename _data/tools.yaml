@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2021-12-14 17:40:16.655000'
+  modified: '2021-12-20 22:03:52.333000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 221
+  views: 223
 - '@schema':
     type: tool
   _id: 19008
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2021-11-30 12:04:08.149000'
+  modified: '2021-12-20 21:17:17.060000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 124
+  views: 125
 - '@schema':
     type: tool
   _id: 19010
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2021-12-06 05:36:42.292000'
+  modified: '2021-12-20 15:56:18.175000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 19
+  views: 21
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2021-12-09 07:20:16.672000'
+  modified: '2021-12-20 19:03:27.855000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -5827,7 +5827,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2021-12-18 04:44:55.220000'
+  modified: '2021-12-20 09:49:02.104000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -5835,7 +5835,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 88
+  views: 89
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6054,7 +6054,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2021-12-17 14:36:59.749000'
+  modified: '2021-12-20 14:12:39.222000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6062,4 +6062,4 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 13
+  views: 14
