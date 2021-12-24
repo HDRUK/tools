@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2021-12-06 11:09:42.504000'
+  modified: '2021-12-23 15:18:19.263000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2021-12-16 18:34:01.521000'
+  modified: '2021-12-23 10:47:54.025000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -5956,7 +5956,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2021-12-14 12:05:13.933000'
+  modified: '2021-12-23 05:18:49.673000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5969,7 +5969,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 1549626218439133
