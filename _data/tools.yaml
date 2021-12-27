@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-12-25 23:24:43.936000'
+  modified: '2021-12-26 06:37:45.342000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 73
+  views: 74
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-12-19 16:49:43.686000'
+  modified: '2021-12-26 17:19:33.167000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 207
+  views: 208
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-12-25 04:29:00.201000'
+  modified: '2021-12-26 07:07:56.363000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-11 01:56:32.426000'
+  modified: '2021-12-26 03:42:05.647000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 26450835041802232
