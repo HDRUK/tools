@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2021-12-19 16:41:55.804000'
+  modified: '2022-01-02 06:05:53.966000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 19003
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2021-12-27 22:52:15.088000'
+  modified: '2022-01-03 00:32:20.845000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 137
+  views: 139
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2021-12-09 03:45:10.832000'
+  modified: '2022-01-02 14:23:39.743000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2021-12-21 06:17:23.399000'
+  modified: '2022-01-02 09:40:45.486000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2021-12-09 14:35:22.632000'
+  modified: '2022-01-02 02:33:17.786000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2021-12-20 19:03:27.855000'
+  modified: '2022-01-02 03:58:25.538000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -3758,7 +3758,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-11 07:36:18.586000'
+  modified: '2022-01-02 06:18:01.496000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3766,7 +3766,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -6054,7 +6054,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2021-12-31 01:45:10.117000'
+  modified: '2022-01-02 10:43:25.654000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6062,4 +6062,4 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 17
+  views: 18
