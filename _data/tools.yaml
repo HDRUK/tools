@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2021-12-25 07:00:04.606000'
+  modified: '2022-01-03 15:54:35.094000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 97
+  views: 99
 - '@schema':
     type: tool
   _id: 19004
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2021-12-25 06:02:44.684000'
+  modified: '2022-01-03 04:22:33.217000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 182
+  views: 183
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2021-12-30 14:14:24.053000'
+  modified: '2022-01-03 02:18:31.773000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2021-12-26 17:19:33.167000'
+  modified: '2022-01-03 20:51:56.146000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 208
+  views: 209
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2021-11-22 14:52:33.252000'
+  modified: '2022-01-03 11:20:42.828000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2021-12-30 16:18:41.115000'
+  modified: '2022-01-03 16:18:58.101000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 211
+  views: 212
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5739,7 +5739,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2021-12-16 03:32:39.329000'
+  modified: '2022-01-03 10:03:31.825000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5747,7 +5747,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -5865,7 +5865,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-01 10:46:23.479000'
+  modified: '2022-01-03 11:12:51.910000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5878,7 +5878,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 5859299510804015
