@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-01-04 04:45:10.718000'
+  modified: '2022-01-06 17:03:06.523000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 210
+  views: 211
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2021-12-26 07:07:56.363000'
+  modified: '2022-01-06 13:43:19.436000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 72
+  views: 73
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-01-05 22:30:01.833000'
+  modified: '2022-01-06 16:09:37.029000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 215
+  views: 216
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-01-05 02:31:14.625000'
+  modified: '2022-01-06 11:34:32.792000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-01-05 08:52:01.959000'
+  modified: '2022-01-06 17:48:18.119000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2913,7 +2913,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-25 19:00:43.412000'
+  modified: '2022-01-06 09:19:37.646000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2921,7 +2921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -4200,7 +4200,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-09 10:17:36.109000'
+  modified: '2022-01-06 04:07:15.831000'
   name: CRIS NLP Thought block
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4208,7 +4208,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 21263999367358544
@@ -5482,7 +5482,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-01-05 14:02:03.733000'
+  modified: '2022-01-06 21:38:02.422000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 146
+  views: 147
 - '@schema':
     type: tool
   _id: 9268236012305552
