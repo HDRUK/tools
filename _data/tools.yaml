@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-01-01 14:34:55.282000'
+  modified: '2022-01-07 07:23:02.667000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -3838,7 +3838,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-02-18 16:16:11.528000'
+  modified: '2022-01-07 02:51:51.565000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3846,7 +3846,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -4120,7 +4120,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-21 09:15:23.023000'
+  modified: '2022-01-07 05:35:32.469000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4128,7 +4128,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -4591,7 +4591,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-05 15:42:06.465000'
+  modified: '2022-01-07 09:53:47.347000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4599,7 +4599,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -4632,7 +4632,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-30 06:11:47.860000'
+  modified: '2022-01-07 04:56:37.030000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4640,7 +4640,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-26 03:42:05.647000'
+  modified: '2022-01-07 17:42:51.177000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5865,7 +5865,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-05 17:27:56.237000'
+  modified: '2022-01-07 13:50:49.234000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5878,7 +5878,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 84
+  views: 86
 - '@schema':
     type: tool
   _id: 5859299510804015
