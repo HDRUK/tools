@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-01-09 04:01:33.410000'
+  modified: '2022-01-12 22:00:32.500000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 185
+  views: 187
 - '@schema':
     type: tool
   _id: 19008
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-01-06 13:43:19.436000'
+  modified: '2022-01-12 13:36:05.556000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 73
+  views: 75
 - '@schema':
     type: tool
   _id: 6714850465860713
