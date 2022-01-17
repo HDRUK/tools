@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-01-05 02:09:17.238000'
+  modified: '2022-01-16 14:18:44.029000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 109
+  views: 110
 - '@schema':
     type: tool
   _id: 19007
@@ -5865,7 +5865,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-14 18:35:20.719000'
+  modified: '2022-01-16 20:06:26.137000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5878,7 +5878,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 92
+  views: 94
 - '@schema':
     type: tool
   _id: 5859299510804015
