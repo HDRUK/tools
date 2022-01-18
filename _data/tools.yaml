@@ -1,4 +1,4 @@
-count: 157
+count: 160
 tools:
 - '@schema':
     type: tool
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-01-11 23:59:29.955000'
+  modified: '2022-01-17 15:04:21.041000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 218
+  views: 219
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2242,6 +2242,46 @@ tools:
   views: 20
 - '@schema':
     type: tool
+  _id: 5330147649379575
+  authors:
+  - 5623903674426547
+  category: NLP System
+  description: 'Application to identify instances of agitation.
+
+
+    Both past and present symptom.
+
+
+    Output values: Positive, Negative, and Unknown.
+
+
+    ### Results & Insights
+
+
+    For further details please visit the CRIS link provided'
+  issued: '2020-11-19 17:51:59.408000'
+  keywords:
+  - hdruk-text
+  - natural language processing
+  - nlp
+  - text analytics
+  - Mental health
+  - psychiatry
+  - agitation
+  - symptoms
+  license: Available upon request
+  link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
+  modified: '2022-01-17 14:39:29.196000'
+  name: test2.1
+  programming_languages:
+  - name: Machine learning - TextHunter
+    version: ''
+  relations: []
+  type: ''
+  uploader: 5623903674426547
+  views: 4
+- '@schema':
+    type: tool
   _id: 8242301810694921
   authors:
   - 6473490892875664
@@ -2513,7 +2553,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-31 07:22:18.293000'
+  modified: '2022-01-17 19:54:33.018000'
   name: CRIS NLP Bad Dreams
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2521,7 +2561,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 42755801950832288
@@ -3638,7 +3678,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:26.041000'
+  modified: '2022-01-17 06:27:15.892000'
   name: CRIS NLP Paranoia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3646,7 +3686,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 9581633158454506
@@ -3838,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-07 02:51:51.565000'
+  modified: '2022-01-17 19:10:42.008000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3846,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5522,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-01-09 10:02:42.093000'
+  modified: '2022-01-17 14:27:17.789000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5530,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5750,6 +5790,36 @@ tools:
   views: 60
 - '@schema':
     type: tool
+  _id: 2545487412706753
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: "Application to extract a diagnosis of multiple epileptic seizures.\
+    \  Output Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified\
+    \ Medical Language System) and Negation (Affirmed + Negated). \n\n### Results\
+    \ & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232"
+  issued: '2021-02-23 15:18:49.304000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-17 14:38:28.675000'
+  name: ExECT - Diagnosis of Multiple Epileptic Seizures
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
+- '@schema':
+    type: tool
   _id: 47757674439076728
   authors:
   - 2742415330560255
@@ -5827,7 +5897,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2021-12-28 02:11:41.762000'
+  modified: '2022-01-17 14:12:38.479000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -5835,7 +5905,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 90
+  views: 91
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -5902,7 +5972,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2021-12-19 13:03:50.232000'
+  modified: '2022-01-17 06:40:50.791000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -5913,7 +5983,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6054,7 +6124,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-01-14 16:22:41.468000'
+  modified: '2022-01-17 14:21:47.255000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6062,4 +6132,45 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 25
+  views: 27
+- '@schema':
+    type: tool
+  _id: 22703411038557176
+  authors:
+  - 6045838202930374
+  - 20612862870327908
+  category: Dataset discovery tool
+  description: "The Catalogue of Mental Health Measures is designed to provide easy\
+    \ access to information about the mental health measures included in UK cohort\
+    \ and longitudinal studies to maximise the uptake of existing data and facilitate\
+    \ mental health research.\n\nThe Catalogue provides descriptions of the studies\
+    \ as well as the instruments used to assess mental health and wellbeing. It also\
+    \ includes details on each measure such as the items, informants, response scale\
+    \ and reporting period. Users can explore existing data by searching for a specific\
+    \ study, a mental health topic, or an instrument. \n\nBy providing details of\
+    \ the measures and studies, the Catalogue serves as a resource for researchers\
+    \ to identify datasets that include mental health and wellbeing measures, plan\
+    \ harmonisation studies, and plan further data collection.\n\n\n### Results &\
+    \ Insights\n\nThe Catalogue of Mental Health Measures features over 50 cohort\
+    \ studies, more than 4,000 measures of mental health and wellbeing, and covers\
+    \ 30+ mental health topics. \n\nThe Catalogue includes a range of study types,\
+    \ including birth cohorts, twin studies, repeated cross-sectional studies, accelerated\
+    \ longitudinal and household panel designs. Some were specifically designed to\
+    \ focus on mental health, while others have included mental health measures within\
+    \ a more multi-purpose context.\n"
+  issued: '2021-12-16 11:01:15.505000'
+  keywords:
+  - Data Discovery
+  - Mental Health
+  - Longitudinal
+  license: ''
+  link: https://www.cataloguementalhealth.ac.uk
+  modified: '2022-01-17 14:41:38.449000'
+  name: The Catalogue of Mental Health Measures
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6045838202930374
+  views: 6
