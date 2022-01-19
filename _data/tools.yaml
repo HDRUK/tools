@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-01-02 06:05:53.966000'
+  modified: '2022-01-18 05:10:25.782000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 114
+  views: 115
 - '@schema':
     type: tool
   _id: 19003
@@ -313,13 +313,13 @@ tools:
   - dataset
   license: Public Domain Dedication and License
   link: https://peterhcharlton.github.io/pwdb/
-  modified: '2021-12-10 08:07:38.855000'
+  modified: '2022-01-18 13:51:04.507000'
   name: Pulse Wave Database
   programming_languages: []
   relations: []
   type: ''
   uploader: 56990094690269056
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 32805657207244064
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-01-03 00:32:20.845000'
+  modified: '2022-01-18 15:53:19.436000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 139
+  views: 140
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-01-05 12:41:30.207000'
+  modified: '2022-01-18 07:30:17.518000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-01-10 20:01:37.878000'
+  modified: '2022-01-18 22:41:43.283000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2021-12-20 15:56:18.175000'
+  modified: '2022-01-18 07:53:57.428000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -2473,7 +2473,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-28 21:30:54.408000'
+  modified: '2022-01-18 04:05:00.214000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2481,7 +2481,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -3718,7 +3718,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-23 00:04:42.594000'
+  modified: '2022-01-19 00:26:49.545000'
   name: CRIS NLP Passivity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3726,7 +3726,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 40914379331092480
@@ -5156,7 +5156,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-09 09:07:20.879000'
+  modified: '2022-01-18 09:44:23.795000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5164,7 +5164,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2021-12-13 10:21:45.398000'
+  modified: '2022-01-18 14:17:41.533000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5935,7 +5935,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-16 20:06:26.137000'
+  modified: '2022-01-18 12:37:42.076000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6165,7 +6165,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-01-17 14:41:38.449000'
+  modified: '2022-01-18 09:30:22.714000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6173,4 +6173,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 6
+  views: 7
