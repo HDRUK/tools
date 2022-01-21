@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-01-03 15:54:35.094000'
+  modified: '2022-01-20 13:40:24.830000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 99
+  views: 100
 - '@schema':
     type: tool
   _id: 19004
@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-01-09 00:45:42.620000'
+  modified: '2022-01-20 11:38:20.596000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 128
+  views: 129
 - '@schema':
     type: tool
   _id: 19001
@@ -3236,7 +3236,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:29.894000'
+  modified: '2022-01-20 05:45:58.629000'
   name: CRIS NLP Helplessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3244,7 +3244,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 6637375758831936
@@ -3798,7 +3798,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-02 06:18:01.496000'
+  modified: '2022-01-20 06:19:18.931000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3806,7 +3806,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -3838,7 +3838,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:14:35.365000'
+  modified: '2022-01-20 13:21:53.254000'
   name: CRIS NLP Poor concentration
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3846,7 +3846,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 37565487179357304
@@ -5839,7 +5839,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2021-12-30 00:03:21.921000'
+  modified: '2022-01-21 00:51:55.736000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5847,7 +5847,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5935,7 +5935,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-18 12:37:42.076000'
+  modified: '2022-01-20 15:54:37.258000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5948,7 +5948,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 94
+  views: 95
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6080,7 +6080,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-01-05 17:25:25.682000'
+  modified: '2022-01-20 06:49:01.914000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6093,7 +6093,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6124,7 +6124,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-01-17 14:21:47.255000'
+  modified: '2022-01-20 15:53:19.879000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6132,7 +6132,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 27
+  views: 30
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6165,7 +6165,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-01-18 09:30:22.714000'
+  modified: '2022-01-20 11:26:00.848000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6173,4 +6173,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 7
+  views: 8
