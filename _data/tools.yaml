@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-01-11 13:39:08.471000'
+  modified: '2022-01-23 22:30:28.430000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-01-18 15:53:19.436000'
+  modified: '2022-01-23 09:20:16.378000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 140
+  views: 141
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-01-02 09:40:45.486000'
+  modified: '2022-01-23 04:41:28.720000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2022-01-10 07:16:54.755000'
+  modified: '2022-01-23 13:44:02.589000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-01-18 07:53:57.428000'
+  modified: '2022-01-23 03:17:31.724000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -3155,7 +3155,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-25 01:36:41.044000'
+  modified: '2022-01-23 19:56:09.174000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3163,7 +3163,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-07 17:42:51.177000'
+  modified: '2022-01-23 13:13:54.617000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-01-21 03:03:32.195000'
+  modified: '2022-01-23 11:40:43.018000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 151
+  views: 152
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6165,7 +6165,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-01-21 12:22:33.106000'
+  modified: '2022-01-23 23:34:24.199000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6173,4 +6173,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 9
+  views: 10
