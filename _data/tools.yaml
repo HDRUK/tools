@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-01-18 05:10:25.782000'
+  modified: '2022-01-25 08:57:42.721000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 115
+  views: 116
 - '@schema':
     type: tool
   _id: 19003
@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2022-01-02 03:58:25.538000'
+  modified: '2022-01-25 16:47:19.277000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 5341629044898619
