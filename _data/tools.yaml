@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-01-23 22:30:28.430000'
+  modified: '2022-01-28 15:05:39.449000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 82
+  views: 83
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-01-23 09:20:16.378000'
+  modified: '2022-01-28 16:05:11.145000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 141
+  views: 142
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-01-24 01:33:27.893000'
+  modified: '2022-01-28 05:06:33.190000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 221
+  views: 222
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2021-12-06 23:05:22.914000'
+  modified: '2022-01-28 17:14:59.959000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -2077,7 +2077,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-01-22 08:43:13.176000'
+  modified: '2022-01-28 17:14:56.176000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2086,7 +2086,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-23 13:13:54.617000'
+  modified: '2022-01-28 15:49:52.247000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2021-12-08 14:43:00.273000'
+  modified: '2022-01-28 15:49:25.574000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5629,7 +5629,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-01-05 07:25:26.704000'
+  modified: '2022-01-28 15:49:16.962000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5638,7 +5638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5664,7 +5664,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2022-01-21 07:24:31.552000'
+  modified: '2022-01-28 15:49:04.596000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5672,7 +5672,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-01-24 18:34:30.304000'
+  modified: '2022-01-28 15:48:52.935000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 265
+  views: 266
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-01-21 04:49:26.710000'
+  modified: '2022-01-28 15:48:45.832000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 2545487412706753
@@ -5839,7 +5839,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-21 00:51:55.736000'
+  modified: '2022-01-28 06:53:40.855000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5847,7 +5847,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6124,7 +6124,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-01-27 09:56:02.833000'
+  modified: '2022-01-28 11:52:08.716000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6132,7 +6132,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 32
+  views: 34
 - '@schema':
     type: tool
   _id: 22703411038557176
