@@ -1,4 +1,4 @@
-count: 160
+count: 182
 tools:
 - '@schema':
     type: tool
@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-01-29 05:05:15.140000'
+  modified: '2022-01-31 05:20:54.546000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 189
+  views: 190
 - '@schema':
     type: tool
   _id: 19002
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-01-24 18:34:17.220000'
+  modified: '2022-01-31 18:36:57.117000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 227
+  views: 228
 - '@schema':
     type: tool
   _id: 19008
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-01-24 18:15:30.053000'
+  modified: '2022-01-31 19:04:52.178000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 213
+  views: 215
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-01-09 05:37:44.996000'
+  modified: '2022-01-31 01:15:49.098000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2022-01-09 21:48:58.541000'
+  modified: '2022-02-01 00:45:04.400000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-01-08 17:54:54.588000'
+  modified: '2022-01-31 17:33:29.028000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-01-28 17:14:59.959000'
+  modified: '2022-01-31 13:28:53.148000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-01-29 16:08:19.262000'
+  modified: '2022-01-31 21:22:45.108000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 156
+  views: 157
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5790,6 +5790,71 @@ tools:
   views: 62
 - '@schema':
     type: tool
+  _id: 5832340403218483
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a diagnosis of epileptic syndromes.  Output
+    Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical Language
+    System) and Negation (Affirmed + Negated)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 14:51:22.586000'
+  keywords:
+  - nlp
+  - text analytics
+  - hdruk-text
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:04.547000'
+  name: ExECT - Diagnosis of Epilepsy Syndrome
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 7
+- '@schema':
+    type: tool
+  _id: 8208317212225866
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: "Application to extract a diagnosis of an epileptic seizure.  Output\
+    \ Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical\
+    \ Language System) and Negation (Affirmed + Negated). \n\n### Results & Insights\n\
+    \nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232"
+  issued: '2021-02-23 15:03:05.484000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:17.023000'
+  name: ExECT - Diagnosis of a Single Epileptic Seizure
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
+- '@schema':
+    type: tool
   _id: 2545487412706753
   authors:
   - 2742415330560255
@@ -5820,6 +5885,74 @@ tools:
   views: 6
 - '@schema':
     type: tool
+  _id: 9679267202313368
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract MRI investigations.  Output Values: MRI Performed
+    (Yes/No), MRI Result (Normal, Abnormal, Unknown)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 15:31:13.657000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:54:46.377000'
+  name: ExECT - Investigation MRI
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 4
+- '@schema':
+    type: tool
+  _id: 8356186742156964
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract CT Scan investigations.  Output Values: CT
+    Performed (Yes/No), CT Result (Normal, Abnormal, Unknown)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 15:35:24.323000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:31.719000'
+  name: ExECT - Investigation CT Scan
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 10
+- '@schema':
+    type: tool
   _id: 47757674439076728
   authors:
   - 2742415330560255
@@ -5848,6 +5981,630 @@ tools:
   type: ''
   uploader: 2742415330560255
   views: 9
+- '@schema':
+    type: tool
+  _id: 6648946954924415
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract the onset of epileptic events. Output Values:
+    CUI (Concept Unique Identifier of the epileptic event), Age (Units, Exact, Upper
+    and Lower Limit)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:06:21.683000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:57:52.618000'
+  name: ExECT - Onset of Epileptic events - Age
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
+- '@schema':
+    type: tool
+  _id: 3312317147029946
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract the onset of epileptic events. Output Values:
+    CUI (Concept Unique Identifier of the epileptic event), Date of Onset (Day, Month,
+    Year).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:20:24.681000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:37.231000'
+  name: ExECT - Onset of Epileptic events - Date of Onset
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 4
+- '@schema':
+    type: tool
+  _id: 9424561588087120
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract the cause of epilepsy (if specifically stated
+    to be the cause). Output Values: CUI (Concept Unique Identifier from Unified Medical
+    Language System) and Certainty (1-5)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:33:06.358000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 13:29:38.181000'
+  name: ExECT - Epilepsy Cause
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
+- '@schema':
+    type: tool
+  _id: 1670030221318044
+  authors:
+  - 2742415330560255
+  category: NLP System
+  description: 'Application to extract if the patient had febrile seizures or not.
+    Output Values: CUI (Concept Unique Identifier from Unified Medical Language System),
+    Negation, Certainty (1-5)
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:48:00.410000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:34.607000'
+  name: ExECT - Febrile Seizures
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 2
+- '@schema':
+    type: tool
+  _id: 5963534697687911
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a prescription of anti-epileptic drugs. Output
+    Values: CUI (Concept Unique Identifier from Unified Medical Language System),
+    Unit, Dose, Frequency.
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:55:19.028000'
+  keywords:
+  - hdruk-text
+  - text analytics
+  - nlp
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:35.934000'
+  name: ExECT - Prescription of Anti-Epileptic Drugs
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 16
+- '@schema':
+    type: tool
+  _id: 3905005951708007
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a frequency of epileptic seizures, including
+    seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper
+    range + lower range) and Number of Time periods.
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 16:57:41.001000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:35.356000'
+  name: ExECT - Seizure Frequency - Number of seizures in a time period
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 6048846655088114
+  authors:
+  - 2742415330560255
+  category: NLP System
+  description: 'Application to extract a frequency of epileptic seizures, including
+    seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper
+    range + lower range) and Date (Day, Month, Year).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:00:08.749000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:37.075000'
+  name: ExECT - Seizure Frequency - Number of seizures since a Date
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 3
+- '@schema':
+    type: tool
+  _id: 45492169804048152
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a frequency of epileptic seizures, including
+    seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper
+    range + lower range) and Age (Exact, Upper range, Lower range, Months/Years old).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:04:19.983000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:06.562000'
+  name: ExECT - Seizure Frequency - Number of seizures since Age
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 4
+- '@schema':
+    type: tool
+  _id: 7503312670210915
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a frequency of epileptic seizures, including
+    seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper
+    range + lower range) and Other Non-specific points in time (Last Clinic, Since
+    Surgery...).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:13:01.381000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:28.665000'
+  name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
+    of interest
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 31510588088297676
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a frequency of epileptic seizures, including
+    seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper
+    range + lower range) and Date (Day, Month, Year).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:17:26.014000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:58.938000'
+  name: ExECT -  Seizure Frequency - Number of seizures during time period
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 11774991310353688
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract changes in the frequency of epileptic seizures,
+    including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase,
+    Decrease, Frequent, Infrequent, Same) and Number of Time periods.
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:36:17.464000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:54:44.829000'
+  name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
+- '@schema':
+    type: tool
+  _id: 6287110693516533
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract changes in the frequency of epileptic seizures,
+    including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase,
+    Decrease, Frequent, Infrequent, Same) and Date (Day, Month, Year).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:42:54.904000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:34.600000'
+  name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 21961003431993984
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract changes in the frequency of epileptic seizures,
+    including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase,
+    Decrease, Frequent, Infrequent, Same) and Age (Exact, Upper range, Lower range,
+    Months/Years old).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 17:44:23.547000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:56.889000'
+  name: ExECT -  Seizure Frequency - Changes to seizure frequency since age
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 9643382523814474
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract changes in the frequency of epileptic seizures,
+    including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase,
+    Decrease, Frequent, Infrequent, Same) and Date (Day, Month, Year).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 18:00:05.481000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:18.156000'
+  name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 4
+- '@schema':
+    type: tool
+  _id: 22338246645769424
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract changes in the frequency of epileptic seizures,
+    including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase,
+    Decrease, Frequent, Infrequent, Same) and Other Non-specific points in time (Last
+    Clinic, Since Surgery...).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 18:06:06.518000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:25.035000'
+  name: ExECT -  Seizure Frequency - Changes to seizure frequency since non-specific
+    time/point of interest
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 8456910701220071
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a when a Diagnosis of Epilepsy was made. Output
+    Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months,
+    Years).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 18:12:16.709000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:19.535000'
+  name: "ExECT -  When Diagnosed \u2013 Time Periods"
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 3034254598033721
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: 'Application to extract a when a Diagnosis of Epilepsy was made. Output
+    Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).
+
+
+    ### Results & Insights
+
+
+    Results of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232'
+  issued: '2021-02-23 18:14:02.741000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:13.189000'
+  name: ExECT -  When Diagnosed - Age
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 5
+- '@schema':
+    type: tool
+  _id: 14973548428927486
+  authors:
+  - 2742415330560255
+  - 9541890091348464
+  - 11325873978988232
+  category: NLP System
+  description: "Application to extract a when a Diagnosis of Epilepsy was made. Output\
+    \ Values: CUI (of Epileptic Syndrome) and Date (Day, Month, Year). \n\n### Results\
+    \ & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232"
+  issued: '2021-02-23 18:15:18.238000'
+  keywords:
+  - nlp
+  - hdruk-text
+  - text analytics
+  - NLP
+  - rule-based
+  license: ''
+  link: https://github.com/swneurosci/ExECT-V2
+  modified: '2022-01-31 12:55:04.159000'
+  name: ExECT -  When Diagnosed - Date
+  programming_languages:
+  - name: Rule-based - GATE
+    version: ''
+  relations: []
+  type: ''
+  uploader: 2742415330560255
+  views: 6
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -5935,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-20 15:54:37.258000'
+  modified: '2022-01-31 13:29:23.619000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -5948,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6124,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-01-30 22:38:35.997000'
+  modified: '2022-01-31 10:54:13.780000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6132,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6165,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-01-23 23:34:24.199000'
+  modified: '2022-01-31 12:53:21.892000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6173,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 10
+  views: 12
