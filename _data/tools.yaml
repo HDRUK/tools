@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-01-31 05:20:54.546000'
+  modified: '2022-02-02 00:57:10.344000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 190
+  views: 191
 - '@schema':
     type: tool
   _id: 19002
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-01-31 01:15:49.098000'
+  modified: '2022-02-01 07:06:51.404000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-01-31 17:33:29.028000'
+  modified: '2022-02-01 09:44:47.584000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 72
+  views: 74
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3396,7 +3396,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-09 23:00:24.141000'
+  modified: '2022-02-01 14:17:43.533000'
   name: CRIS NLP Irritability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3404,7 +3404,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5190548995052016
@@ -5320,7 +5320,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-21 21:57:21.308000'
+  modified: '2022-02-01 07:17:40.941000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5328,7 +5328,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-01-31 12:53:21.892000'
+  modified: '2022-02-01 09:21:31.011000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 12
+  views: 13
