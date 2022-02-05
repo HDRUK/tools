@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2022-01-29 10:46:17.141000'
+  modified: '2022-02-04 09:31:42.973000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-02-03 17:37:52.403000'
+  modified: '2022-02-04 09:29:47.605000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 223
+  views: 224
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1764,7 +1764,7 @@ tools:
   - IoT
   license: Apache License 2.0
   link: https://radar-base.org
-  modified: '2021-11-05 13:22:09.356000'
+  modified: '2022-02-04 09:58:04.350000'
   name: RADAR-base
   programming_languages:
   - name: Java
@@ -1776,7 +1776,7 @@ tools:
   relations: []
   type: ''
   uploader: 160230992424788
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 36083225792794328
@@ -3437,7 +3437,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-25 14:39:47.018000'
+  modified: '2022-02-04 06:01:22.597000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3445,7 +3445,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 34325300107773192
@@ -3597,7 +3597,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-23 14:13:13.405000'
+  modified: '2022-02-04 23:51:42.763000'
   name: CRIS NLP Negative symptoms
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3605,7 +3605,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 4513526272264452
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-25 13:49:41.266000'
+  modified: '2022-02-04 19:34:15.864000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-02-02 21:56:50.325000'
+  modified: '2022-02-04 15:37:44.905000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 158
+  views: 159
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-02-03 04:44:38.074000'
+  modified: '2022-02-04 10:36:25.200000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 269
+  views: 270
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5908,7 +5908,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:54:46.377000'
+  modified: '2022-02-04 09:13:41.363000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5916,7 +5916,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -6213,7 +6213,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:37.075000'
+  modified: '2022-02-04 19:44:56.346000'
   name: ExECT - Seizure Frequency - Number of seizures since a Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6221,7 +6221,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 45492169804048152
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-01-31 13:29:23.619000'
+  modified: '2022-02-04 06:21:04.467000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 96
+  views: 97
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-01-04 14:41:59.394000'
+  modified: '2022-02-04 08:18:38.962000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-03 16:10:07.127000'
+  modified: '2022-02-04 10:42:45.731000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 14
+  views: 15
