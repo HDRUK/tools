@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-01-21 07:32:20.744000'
+  modified: '2022-02-05 03:54:28.708000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 130
+  views: 131
 - '@schema':
     type: tool
   _id: 19001
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-01-18 07:30:17.518000'
+  modified: '2022-02-05 02:43:47.867000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -4360,7 +4360,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-10 11:27:47.724000'
+  modified: '2022-02-05 18:21:18.538000'
   name: CRIS NLP Thought Withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4368,7 +4368,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 8558208161875798
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-04 19:34:15.864000'
+  modified: '2022-02-05 15:37:41.791000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-01-31 10:54:13.780000'
+  modified: '2022-02-05 12:58:44.867000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 22703411038557176
