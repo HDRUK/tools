@@ -1616,7 +1616,7 @@ tools:
   - Data Integration
   license: GNU Lesser General Public License Version 2.1, February 1999
   link: https://cytoscape.org/download.html
-  modified: '2022-01-10 21:51:59.356000'
+  modified: '2022-02-06 15:09:30.886000'
   name: Cytoscape
   programming_languages:
   - name: Java
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -3356,7 +3356,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-04 15:23:29.380000'
+  modified: '2022-02-06 10:48:59.688000'
   name: CRIS NLP Insomnia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3364,7 +3364,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 16373391376770918
@@ -5320,7 +5320,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-01 07:17:40.941000'
+  modified: '2022-02-07 00:08:19.978000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5328,7 +5328,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-01-19 12:46:40.802000'
+  modified: '2022-02-06 10:54:54.386000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6110,7 +6110,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:34.607000'
+  modified: '2022-02-06 10:54:19.923000'
   name: ExECT - Febrile Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -6118,7 +6118,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 2
+  views: 3
 - '@schema':
     type: tool
   _id: 5963534697687911
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-02-04 06:21:04.467000'
+  modified: '2022-02-06 10:53:54.858000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 97
+  views: 98
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-04 10:42:45.731000'
+  modified: '2022-02-06 10:41:13.747000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 15
+  views: 16
