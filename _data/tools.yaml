@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-01-20 13:40:24.830000'
+  modified: '2022-02-07 14:00:43.580000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 19004
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-01-31 19:04:52.178000'
+  modified: '2022-02-07 04:20:24.332000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 215
+  views: 216
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-01-09 01:48:17.672000'
+  modified: '2022-02-07 08:02:47.447000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-01-22 04:56:49.026000'
+  modified: '2022-02-07 05:55:28.163000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-02-03 14:22:27.243000'
+  modified: '2022-02-07 16:51:52.796000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 144
+  views: 145
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-02-01 09:44:47.584000'
+  modified: '2022-02-07 13:49:19.187000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 74
+  views: 75
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2117,7 +2117,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2021-07-15 15:53:47.343000'
+  modified: '2022-02-07 05:44:43.121000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2125,7 +2125,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -3517,7 +3517,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-26 08:02:44.343000'
+  modified: '2022-02-07 17:36:00.729000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3525,7 +3525,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-02-06 10:54:54.386000'
+  modified: '2022-02-07 03:37:02.005000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:28.665000'
+  modified: '2022-02-07 17:41:18.045000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6390,7 +6390,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:34.600000'
+  modified: '2022-02-08 00:30:09.659000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6398,7 +6398,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 21961003431993984
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-05 12:58:44.867000'
+  modified: '2022-02-07 11:04:27.519000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 22703411038557176
