@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-02-03 03:17:45.002000'
+  modified: '2022-02-08 23:18:43.831000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 192
+  views: 193
 - '@schema':
     type: tool
   _id: 19008
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-02-07 08:02:47.447000'
+  modified: '2022-02-08 22:26:27.653000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -672,7 +672,7 @@ tools:
   - Text Analysis
   license: MIT license
   link: https://github.com/pandas-profiling/pandas-profiling
-  modified: '2021-12-14 08:46:42.683000'
+  modified: '2022-02-08 18:34:59.330000'
   name: Pandas Profiling
   programming_languages:
   - name: Python
@@ -680,7 +680,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5463135278367706
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2022-01-19 04:14:48.675000'
+  modified: '2022-02-08 18:34:55.980000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2021-12-09 10:00:38.711000'
+  modified: '2022-02-08 18:35:05.905000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2022-02-03 13:53:15.893000'
+  modified: '2022-02-08 22:25:30.190000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2021-12-19 23:37:18.602000'
+  modified: '2022-02-08 18:34:50.983000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-01-30 05:28:22.609000'
+  modified: '2022-02-08 18:35:12.704000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-01-10 06:11:07.498000'
+  modified: '2022-02-08 21:33:13.435000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2158,7 +2158,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2021-12-25 12:21:02.504000'
+  modified: '2022-02-09 00:35:44.057000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2166,7 +2166,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -3396,7 +3396,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-01 14:17:43.533000'
+  modified: '2022-02-08 05:15:14.251000'
   name: CRIS NLP Irritability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3404,7 +3404,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5190548995052016
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-02-07 03:37:02.005000'
+  modified: '2022-02-08 04:03:16.559000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-07 17:41:18.045000'
+  modified: '2022-02-08 18:33:42.819000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6618,7 +6618,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2022-01-30 08:02:33.127000'
+  modified: '2022-02-08 18:33:31.613000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6626,7 +6626,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-02 07:56:05.655000'
+  modified: '2022-02-08 18:33:33.059000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 93
+  views: 95
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-02-06 10:53:54.858000'
+  modified: '2022-02-08 10:53:52.922000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 98
+  views: 99
 - '@schema':
     type: tool
   _id: 5859299510804015
