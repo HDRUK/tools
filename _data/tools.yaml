@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-02-05 03:54:28.708000'
+  modified: '2022-02-09 10:12:26.564000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 131
+  views: 133
 - '@schema':
     type: tool
   _id: 19001
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-02-07 16:51:52.796000'
+  modified: '2022-02-09 12:07:22.012000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 145
+  views: 147
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-02-08 18:35:05.905000'
+  modified: '2022-02-09 10:05:17.173000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-01-07 07:23:02.667000'
+  modified: '2022-02-09 05:08:36.884000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2021-12-09 14:26:24.027000'
+  modified: '2022-02-09 19:37:36.130000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -2713,7 +2713,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-03 05:30:10.604000'
+  modified: '2022-02-09 10:22:37.268000'
   name: CRIS NLP Delusions
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2721,7 +2721,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 16630373665009346
@@ -4995,7 +4995,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 06:23:00.704000'
+  modified: '2022-02-09 11:18:28.149000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -5003,7 +5003,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -6077,7 +6077,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 13:29:38.181000'
+  modified: '2022-02-09 09:09:19.484000'
   name: ExECT - Epilepsy Cause
   programming_languages:
   - name: Rule-based - GATE
@@ -6085,7 +6085,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 1670030221318044
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-06 10:41:13.747000'
+  modified: '2022-02-09 13:50:12.204000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 16
+  views: 20
