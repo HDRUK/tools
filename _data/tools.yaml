@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-02-10 19:12:15.460000'
+  modified: '2022-02-11 08:12:20.156000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 229
+  views: 230
 - '@schema':
     type: tool
   _id: 19008
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-02-07 13:49:19.187000'
+  modified: '2022-02-11 06:30:20.430000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 75
+  views: 76
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-02-04 15:37:44.905000'
+  modified: '2022-02-11 12:22:37.152000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 159
+  views: 160
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-02-08 04:03:16.559000'
+  modified: '2022-02-11 12:57:14.407000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6042,7 +6042,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:37.231000'
+  modified: '2022-02-11 08:26:34.361000'
   name: ExECT - Onset of Epileptic events - Date of Onset
   programming_languages:
   - name: Rule-based - GATE
@@ -6050,7 +6050,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 9424561588087120
@@ -6145,7 +6145,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:35.934000'
+  modified: '2022-02-11 13:08:40.810000'
   name: ExECT - Prescription of Anti-Epileptic Drugs
   programming_languages:
   - name: Rule-based - GATE
@@ -6153,7 +6153,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 3905005951708007
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-08 18:33:33.059000'
+  modified: '2022-02-11 12:56:52.858000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-02-08 10:53:52.922000'
+  modified: '2022-02-11 12:08:24.798000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 99
+  views: 100
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-10 17:59:42.059000'
+  modified: '2022-02-11 11:19:54.270000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 39
+  views: 44
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-10 11:17:36.131000'
+  modified: '2022-02-11 12:10:35.683000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 21
+  views: 23
