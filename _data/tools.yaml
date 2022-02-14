@@ -2077,7 +2077,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-01-28 17:14:56.176000'
+  modified: '2022-02-13 15:17:10.163000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2086,7 +2086,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -2753,7 +2753,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-21 14:36:29.775000'
+  modified: '2022-02-13 16:10:50.685000'
   name: CRIS NLP Derailment
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2761,7 +2761,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 11883550955415934
@@ -3236,7 +3236,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-10 15:25:14.457000'
+  modified: '2022-02-13 09:30:22.929000'
   name: CRIS NLP Helplessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3244,7 +3244,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6637375758831936
@@ -4320,7 +4320,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-06 21:43:56.230000'
+  modified: '2022-02-13 15:08:24.105000'
   name: CRIS NLP Thought Insertion
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4328,7 +4328,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 868605090006227
@@ -5279,7 +5279,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-02 13:07:37.008000'
+  modified: '2022-02-13 01:03:14.992000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5287,7 +5287,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-02-12 08:44:39.011000'
+  modified: '2022-02-13 21:12:34.274000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 161
+  views: 162
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6248,7 +6248,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:06.562000'
+  modified: '2022-02-13 07:23:35.777000'
   name: ExECT - Seizure Frequency - Number of seizures since Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6256,7 +6256,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 7503312670210915
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-11 12:10:35.683000'
+  modified: '2022-02-13 21:27:48.989000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 23
+  views: 24
