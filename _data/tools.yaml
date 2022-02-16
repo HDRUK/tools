@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-02-08 23:18:43.831000'
+  modified: '2022-02-15 07:31:44.085000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 193
+  views: 194
 - '@schema':
     type: tool
   _id: 19002
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-02-09 10:12:26.564000'
+  modified: '2022-02-15 23:41:48.557000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 19010
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-01-03 11:20:42.828000'
+  modified: '2022-02-15 05:31:57.861000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-01-24 04:58:03.978000'
+  modified: '2022-02-15 15:14:42.019000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-02-09 12:07:22.012000'
+  modified: '2022-02-15 09:12:54.181000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 147
+  views: 148
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-02-14 07:43:11.632000'
+  modified: '2022-02-15 09:10:43.915000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 227
+  views: 228
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-02-14 14:28:06.324000'
+  modified: '2022-02-15 04:09:44.469000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 163
+  views: 164
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6533,7 +6533,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:19.535000'
+  modified: '2022-02-15 22:05:56.025000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6541,7 +6541,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-14 13:26:40.130000'
+  modified: '2022-02-15 16:19:09.790000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 97
+  views: 98
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-11 11:19:54.270000'
+  modified: '2022-02-15 16:07:04.861000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-13 21:27:48.989000'
+  modified: '2022-02-15 12:52:28.579000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 24
+  views: 25
