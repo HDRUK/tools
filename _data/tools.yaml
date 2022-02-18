@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-02-08 22:26:27.653000'
+  modified: '2022-02-17 11:29:51.361000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2022-02-16 08:03:15.899000'
+  modified: '2022-02-17 08:40:27.395000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -2312,7 +2312,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 02:35:14.456000'
+  modified: '2022-02-17 22:23:52.297000'
   name: CRIS NLP Aggression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2320,7 +2320,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 7266823034105565
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-10 15:15:40.721000'
+  modified: '2022-02-17 11:54:17.984000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6007,7 +6007,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:57:52.618000'
+  modified: '2022-02-17 09:07:51.025000'
   name: ExECT - Onset of Epileptic events - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6015,7 +6015,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 3312317147029946
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-15 16:19:09.790000'
+  modified: '2022-02-17 02:26:05.514000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 98
+  views: 99
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-16 17:07:56.767000'
+  modified: '2022-02-17 02:25:38.857000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-02-15 12:52:28.579000'
+  modified: '2022-02-17 02:25:24.592000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 25
+  views: 26
