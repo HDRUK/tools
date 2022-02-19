@@ -114,7 +114,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-02-12 21:40:39.514000'
+  modified: '2022-02-18 22:46:43.461000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -122,7 +122,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 118
+  views: 119
 - '@schema':
     type: tool
   _id: 19006
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-02-07 14:00:43.580000'
+  modified: '2022-02-18 06:48:49.664000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 101
+  views: 102
 - '@schema':
     type: tool
   _id: 19007
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-02-16 01:56:47.170000'
+  modified: '2022-02-18 09:15:44.380000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 218
+  views: 219
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-02-15 05:31:57.861000'
+  modified: '2022-02-18 08:55:07.183000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-02-15 09:12:54.181000'
+  modified: '2022-02-18 18:36:21.202000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 148
+  views: 150
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-02-15 09:10:43.915000'
+  modified: '2022-02-18 07:50:08.941000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 228
+  views: 229
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5629,7 +5629,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-01-28 15:49:16.962000'
+  modified: '2022-02-18 03:16:45.570000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5638,7 +5638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-02-16 17:18:48.869000'
+  modified: '2022-02-18 10:34:13.679000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 9074803277264144
