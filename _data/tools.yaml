@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-02-19 21:07:06.311000'
+  modified: '2022-02-20 20:31:02.808000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 195
+  views: 196
 - '@schema':
     type: tool
   _id: 19002
@@ -3356,7 +3356,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-14 17:33:29.568000'
+  modified: '2022-02-20 13:55:03.241000'
   name: CRIS NLP Insomnia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3364,7 +3364,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 16373391376770918
@@ -5402,7 +5402,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-21 02:47:34.890000'
+  modified: '2022-02-20 01:46:37.534000'
   name: CRIS NLP HbA1c
   programming_languages:
   - name: Rule-based - GATE
@@ -5410,7 +5410,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 5385805814031088
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-17 02:26:05.514000'
+  modified: '2022-02-20 05:58:17.295000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 99
+  views: 100
 - '@schema':
     type: tool
   _id: 3321980885733604
