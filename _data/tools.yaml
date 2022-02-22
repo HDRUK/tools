@@ -1472,7 +1472,7 @@ tools:
   - ETL Metadata
   license: Proprietary
   link: http://www.sqlpower.ca/page/architect
-  modified: '2022-01-22 11:56:01.587000'
+  modified: '2022-02-21 10:02:55.315000'
   name: SQL Power Architect
   programming_languages:
   - name: Java
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-02-08 18:35:12.704000'
+  modified: '2022-02-22 00:10:27.560000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2021-12-06 14:49:54.174000'
+  modified: '2022-02-21 17:54:12.296000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-14 07:56:50.213000'
+  modified: '2022-02-21 08:49:14.878000'
   name: CRIS NLP Domestic Violence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 39750647365114
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-28 15:49:52.247000'
+  modified: '2022-02-21 01:57:55.744000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-02-16 17:08:04.509000'
+  modified: '2022-02-21 11:41:39.035000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 102
+  views: 103
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-17 02:25:38.857000'
+  modified: '2022-02-21 02:04:40.686000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 22703411038557176
