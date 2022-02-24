@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-02-18 09:15:44.380000'
+  modified: '2022-02-23 20:20:02.308000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 219
+  views: 220
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-02-03 00:13:46.459000'
+  modified: '2022-02-23 02:13:05.631000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -2077,7 +2077,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-02-13 15:17:10.163000'
+  modified: '2022-02-23 18:56:25.681000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2086,7 +2086,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-02-22 09:07:20.411000'
+  modified: '2022-02-23 11:36:06.358000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -3557,7 +3557,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-19 13:30:30.249000'
+  modified: '2022-02-23 20:33:39.009000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3565,7 +3565,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -6145,7 +6145,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-11 13:08:40.810000'
+  modified: '2022-02-23 16:47:12.276000'
   name: ExECT - Prescription of Anti-Epileptic Drugs
   programming_languages:
   - name: Rule-based - GATE
@@ -6153,7 +6153,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 3905005951708007
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-02-18 10:34:13.679000'
+  modified: '2022-02-23 16:43:52.546000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-02-21 02:04:40.686000'
+  modified: '2022-02-23 01:48:54.778000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 22703411038557176
