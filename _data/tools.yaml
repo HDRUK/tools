@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-02-12 23:26:07.723000'
+  modified: '2022-02-24 12:57:08.332000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 231
+  views: 232
 - '@schema':
     type: tool
   _id: 19008
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2021-12-08 04:07:12.079000'
+  modified: '2022-02-24 16:06:26.484000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-01-23 04:41:28.720000'
+  modified: '2022-02-24 12:30:52.687000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-01-06 17:48:18.119000'
+  modified: '2022-02-24 21:51:46.329000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 58
+  views: 61
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-02-23 11:36:06.358000'
+  modified: '2022-02-24 14:20:58.582000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -2953,7 +2953,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-06 09:19:37.646000'
+  modified: '2022-02-24 13:05:37.725000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2961,7 +2961,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -3918,7 +3918,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-01 18:51:57.114000'
+  modified: '2022-02-24 08:30:44.177000'
   name: CRIS NLP Poor motivation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3926,7 +3926,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 4803515761146371
@@ -4913,7 +4913,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-07 15:20:35.141000'
+  modified: '2022-02-24 14:19:04.685000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4921,7 +4921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 3879347797927448
@@ -5279,7 +5279,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-13 01:03:14.992000'
+  modified: '2022-02-24 19:07:41.966000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5287,7 +5287,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-02-22 17:56:26.795000'
+  modified: '2022-02-24 12:39:01.282000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 166
+  views: 167
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6320,7 +6320,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:58.938000'
+  modified: '2022-02-24 18:13:24.884000'
   name: ExECT -  Seizure Frequency - Number of seizures during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6328,7 +6328,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 11774991310353688
@@ -6497,7 +6497,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:25.035000'
+  modified: '2022-02-24 14:17:56.750000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since non-specific
     time/point of interest
   programming_languages:
@@ -6506,7 +6506,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 8456910701220071
