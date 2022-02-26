@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-02-22 17:28:25.937000'
+  modified: '2022-02-25 14:17:47.271000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 103
+  views: 104
 - '@schema':
     type: tool
   _id: 19007
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-02-12 07:14:06.521000'
+  modified: '2022-02-25 01:48:47.638000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 84
+  views: 85
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -2673,7 +2673,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-06 22:58:57.470000'
+  modified: '2022-02-25 16:26:08.458000'
   name: CRIS NLP Concrete thinking
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2681,7 +2681,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 5813246720453065
@@ -4601,7 +4601,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-25 11:22:45.846000'
+  modified: '2022-02-25 19:12:32.839000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4609,7 +4609,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 2046995342931326
@@ -4792,7 +4792,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-21 12:13:08.658000'
+  modified: '2022-02-25 15:35:53.051000'
   name: CRIS NLP Cannabis
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4800,7 +4800,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5168311283550229
@@ -5238,7 +5238,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-10 15:16:33.701000'
+  modified: '2022-02-25 04:33:51.424000'
   name: CRIS NLP Medication
   programming_languages:
   - name: Rule-based - GATE
@@ -5246,7 +5246,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 590031312114683
