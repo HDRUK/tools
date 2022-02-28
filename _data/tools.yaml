@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-02-20 20:31:02.808000'
+  modified: '2022-02-27 14:37:59.984000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 196
+  views: 197
 - '@schema':
     type: tool
   _id: 19002
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-02-24 12:57:08.332000'
+  modified: '2022-02-27 10:36:30.138000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 232
+  views: 233
 - '@schema':
     type: tool
   _id: 19008
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-02-15 23:41:48.557000'
+  modified: '2022-02-27 09:11:14.082000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 134
+  views: 135
 - '@schema':
     type: tool
   _id: 19010
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-02-18 07:50:08.941000'
+  modified: '2022-02-27 14:38:55.635000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 229
+  views: 230
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-02-22 00:10:27.560000'
+  modified: '2022-02-27 12:00:44.542000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-02-08 21:33:13.435000'
+  modified: '2022-02-27 20:26:07.066000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2117,7 +2117,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2022-02-07 05:44:43.121000'
+  modified: '2022-02-27 12:08:29.573000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2125,7 +2125,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-07 04:56:37.030000'
+  modified: '2022-02-27 10:27:19.296000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5197,7 +5197,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-10 11:16:47.159000'
+  modified: '2022-02-27 11:05:09.072000'
   name: CRIS NLP Family Intervention
   programming_languages:
   - name: Rule-based - GATE
@@ -5205,7 +5205,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 34144622632313104
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-02-26 20:13:25.340000'
+  modified: '2022-02-27 03:57:31.782000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 272
+  views: 273
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6567,7 +6567,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-26 20:11:35.380000'
+  modified: '2022-02-28 00:29:56.203000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6575,7 +6575,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-02-04 08:18:38.962000'
+  modified: '2022-02-27 23:25:30.982000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 1549626218439133
