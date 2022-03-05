@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2022-02-17 08:40:27.395000'
+  modified: '2022-03-05 00:04:28.030000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 20
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-02-24 14:20:58.582000'
+  modified: '2022-03-04 13:40:49.738000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 32
+  views: 35
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-03 13:14:57.206000'
+  modified: '2022-03-04 06:24:07.925000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 171
+  views: 172
 - '@schema':
     type: tool
   _id: 9268236012305552
