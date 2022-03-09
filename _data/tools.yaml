@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-03-07 14:38:59.851000'
+  modified: '2022-03-08 16:37:03.548000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2022-02-08 18:34:55.980000'
+  modified: '2022-03-09 00:57:32.227000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-01-18 22:41:43.283000'
+  modified: '2022-03-08 23:28:31.136000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -5156,7 +5156,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-18 09:44:23.795000'
+  modified: '2022-03-09 00:15:04.160000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5164,7 +5164,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-02-26 16:53:08.971000'
+  modified: '2022-03-08 12:53:29.091000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 5859299510804015
