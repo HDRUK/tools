@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-03-10 20:32:28.203000'
+  modified: '2022-03-12 22:39:55.354000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 87
+  views: 88
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-03-07 12:41:05.911000'
+  modified: '2022-03-12 14:12:36.384000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2022-02-21 17:54:12.296000'
+  modified: '2022-03-12 08:48:31.679000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -2913,7 +2913,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-07 00:09:34.802000'
+  modified: '2022-03-12 18:17:37.250000'
   name: CRIS NLP Elation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2921,7 +2921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 5524015711947725
@@ -5036,7 +5036,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-10-22 01:30:15.348000'
+  modified: '2022-03-12 11:13:27.113000'
   name: CRIS NLP Occupation
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5044,7 +5044,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 2516292612303388
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-02-22 09:07:21.233000'
+  modified: '2022-03-12 05:39:46.985000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-03-11 15:52:03.242000'
+  modified: '2022-03-12 02:02:12.508000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 1549626218439133
