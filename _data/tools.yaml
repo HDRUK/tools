@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-03-11 05:07:06.837000'
+  modified: '2022-03-14 09:59:53.868000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3517,7 +3517,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-07 17:36:00.729000'
+  modified: '2022-03-14 03:04:47.304000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3525,7 +3525,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -4712,7 +4712,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-14 08:52:00.386000'
+  modified: '2022-03-14 02:44:41.917000'
   name: CRIS NLP Rheumatoid Arthritis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4720,7 +4720,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 5553218139257072
@@ -4752,7 +4752,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-11 14:12:26.386000'
+  modified: '2022-03-14 08:27:34.510000'
   name: CRIS NLP Amphetamine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4760,7 +4760,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 28253502112101136
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-10 14:58:52.240000'
+  modified: '2022-03-14 12:46:35.049000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 174
+  views: 175
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2022-03-13 05:19:22.828000'
+  modified: '2022-03-14 17:27:55.243000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-03-12 05:39:46.985000'
+  modified: '2022-03-14 17:27:42.811000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-02-20 05:58:17.295000'
+  modified: '2022-03-14 16:29:28.785000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-03-13 11:53:51.718000'
+  modified: '2022-03-14 09:45:38.809000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 108
+  views: 109
 - '@schema':
     type: tool
   _id: 5859299510804015
