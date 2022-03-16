@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-02-27 12:00:44.542000'
+  modified: '2022-03-15 16:15:50.592000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -4954,7 +4954,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-25 15:53:17.130000'
+  modified: '2022-03-15 07:11:00.583000'
   name: CRIS NLP Online Activity
   programming_languages:
   - name: Rule-based - GATE
@@ -4962,7 +4962,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6378658859804975
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-14 12:46:35.049000'
+  modified: '2022-03-15 02:35:52.281000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 175
+  views: 176
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6355,7 +6355,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:54:44.829000'
+  modified: '2022-03-15 08:46:24.876000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6363,7 +6363,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6287110693516533
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-03-11 15:51:48.734000'
+  modified: '2022-03-15 12:01:32.553000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 32
+  views: 33
