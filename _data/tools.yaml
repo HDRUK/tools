@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-03-12 22:39:55.354000'
+  modified: '2022-03-16 22:11:20.462000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 88
+  views: 89
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-03-07 16:58:40.278000'
+  modified: '2022-03-16 16:19:34.766000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 231
+  views: 232
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-15 02:35:52.281000'
+  modified: '2022-03-16 18:24:50.413000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 176
+  views: 178
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-02-27 03:57:31.782000'
+  modified: '2022-03-16 12:53:10.293000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 273
+  views: 274
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6567,7 +6567,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-28 00:29:56.203000'
+  modified: '2022-03-16 09:58:43.244000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6575,7 +6575,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-03-12 02:02:12.508000'
+  modified: '2022-03-16 16:17:56.458000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-03-11 15:51:52.743000'
+  modified: '2022-03-16 17:40:09.277000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 22703411038557176
