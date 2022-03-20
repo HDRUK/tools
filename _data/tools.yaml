@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-03-19 00:47:38.058000'
+  modified: '2022-03-19 17:09:48.048000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 90
+  views: 91
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-02-26 14:31:02.753000'
+  modified: '2022-03-19 14:56:11.165000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2022-02-04 09:31:42.973000'
+  modified: '2022-03-19 02:57:46.432000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-02-05 02:43:47.867000'
+  modified: '2022-03-19 11:53:18.292000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-03-02 12:46:52.425000'
+  modified: '2022-03-19 04:07:27.451000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -4913,7 +4913,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-24 14:19:04.685000'
+  modified: '2022-03-19 19:24:49.705000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4921,7 +4921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 3879347797927448
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-11 01:15:58.631000'
+  modified: '2022-03-19 10:51:57.836000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2022-03-14 17:27:55.243000'
+  modified: '2022-03-19 18:09:50.245000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5874,7 +5874,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-17 14:38:28.675000'
+  modified: '2022-03-19 11:24:40.616000'
   name: ExECT - Diagnosis of Multiple Epileptic Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -5882,7 +5882,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 9679267202313368
@@ -6461,7 +6461,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:18.156000'
+  modified: '2022-03-19 20:29:42.895000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6469,7 +6469,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 22338246645769424
