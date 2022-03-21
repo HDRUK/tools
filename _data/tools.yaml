@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-03-11 13:34:29.508000'
+  modified: '2022-03-20 15:18:19.954000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 152
+  views: 153
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1089,7 +1089,7 @@ tools:
   - Data Loading/Unloading
   license: Apache License 2.0
   link: https://github.com/Talend/tbd-studio-se
-  modified: '2021-11-26 02:16:33.835000'
+  modified: '2022-03-20 20:16:47.983000'
   name: Talend Open Studio For Big Data
   programming_languages:
   - name: Java
@@ -1097,7 +1097,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 38249871797050216
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-02-09 05:08:36.884000'
+  modified: '2022-03-20 17:55:15.033000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-01-28 15:48:45.832000'
+  modified: '2022-03-20 23:33:29.395000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -5814,7 +5814,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:04.547000'
+  modified: '2022-03-20 05:44:08.995000'
   name: ExECT - Diagnosis of Epilepsy Syndrome
   programming_languages:
   - name: Rule-based - GATE
@@ -5822,7 +5822,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8208317212225866
