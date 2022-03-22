@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-03-01 00:43:27.618000'
+  modified: '2022-03-21 21:46:57.384000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 198
+  views: 199
 - '@schema':
     type: tool
   _id: 19002
@@ -114,7 +114,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-02-18 22:46:43.461000'
+  modified: '2022-03-21 20:49:28.111000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -122,7 +122,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 119
+  views: 120
 - '@schema':
     type: tool
   _id: 19006
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-03-16 16:19:34.766000'
+  modified: '2022-03-21 11:05:55.604000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 232
+  views: 233
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2633,7 +2633,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:12:16.811000'
+  modified: '2022-03-21 12:55:12.079000'
   name: CRIS NLP Circumstantiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2641,7 +2641,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 1609057732616348
@@ -2953,7 +2953,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-24 13:05:37.725000'
+  modified: '2022-03-21 05:00:44.735000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2961,7 +2961,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-19 06:37:22.155000'
+  modified: '2022-03-21 10:17:26.167000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 2904493534917003
