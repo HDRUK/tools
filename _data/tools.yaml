@@ -3798,7 +3798,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-22 09:06:00.759000'
+  modified: '2022-03-23 06:11:24.455000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3806,7 +3806,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -4521,7 +4521,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-14 12:58:28.255000'
+  modified: '2022-03-23 19:14:42.818000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4529,7 +4529,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-18 15:42:41.025000'
+  modified: '2022-03-23 06:19:02.334000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 181
+  views: 184
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-02-11 12:57:14.407000'
+  modified: '2022-03-23 10:18:08.186000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-03-14 16:29:28.785000'
+  modified: '2022-03-23 06:49:44.751000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 101
+  views: 102
 - '@schema':
     type: tool
   _id: 3321980885733604
