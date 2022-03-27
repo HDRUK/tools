@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-02-03 12:11:05.231000'
+  modified: '2022-03-26 14:00:31.915000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-23 06:19:02.334000'
+  modified: '2022-03-26 03:20:55.234000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 184
+  views: 185
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-03-14 17:27:42.811000'
+  modified: '2022-03-26 14:25:05.208000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-03-22 15:32:52.889000'
+  modified: '2022-03-26 15:13:35.903000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 57
+  views: 59
 - '@schema':
     type: tool
   _id: 22703411038557176
