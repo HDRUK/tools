@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-03-10 17:07:41.554000'
+  modified: '2022-03-27 21:02:47.277000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-03-14 09:59:53.868000'
+  modified: '2022-03-27 13:57:41.546000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2158,7 +2158,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2022-02-22 09:07:33.545000'
+  modified: '2022-03-28 00:47:21.375000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2166,7 +2166,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -3878,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-17 19:10:42.008000'
+  modified: '2022-03-27 14:17:50.136000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3886,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-03-26 15:13:35.903000'
+  modified: '2022-03-27 20:54:31.522000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 59
+  views: 60
 - '@schema':
     type: tool
   _id: 22703411038557176
