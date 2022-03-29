@@ -5076,7 +5076,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-01-25 10:13:43.652000'
+  modified: '2022-03-28 04:20:23.078000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5084,7 +5084,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 5556520615287888

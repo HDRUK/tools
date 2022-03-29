@@ -4628,10 +4628,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:56:28.394000",
-      "modified": "2021-01-25 10:13:43.652000",
+      "modified": "2022-03-28 04:20:23.078000",
       "description": "Application to identify instances of living alone..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 4,
+      "views": 5,
       "category": "NLP System",
       "relations": [],
       "keywords": [
