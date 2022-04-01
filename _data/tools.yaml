@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-03-18 17:17:44.132000'
+  modified: '2022-03-31 09:17:22.041000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 235
+  views: 236
 - '@schema':
     type: tool
   _id: 19005
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-03-30 13:54:00.576000'
+  modified: '2022-03-31 10:39:43.152000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -2993,7 +2993,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-06 01:18:49.446000'
+  modified: '2022-03-31 18:49:00.190000'
   name: CRIS NLP Flight of ideas
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3001,7 +3001,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 9083608760967918
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-03-26 03:20:55.234000'
+  modified: '2022-03-31 18:03:49.960000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 185
+  views: 186
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-03-29 11:02:03.428000'
+  modified: '2022-03-31 14:00:09.037000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 114
+  views: 116
 - '@schema':
     type: tool
   _id: 5859299510804015
