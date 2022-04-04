@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-03-21 21:46:57.384000'
+  modified: '2022-04-03 21:55:08.067000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 199
+  views: 200
 - '@schema':
     type: tool
   _id: 19008
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-04-01 11:17:58.631000'
+  modified: '2022-04-03 13:35:47.180000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 235
+  views: 236
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-03-24 20:29:40.453000'
+  modified: '2022-04-03 13:42:05.749000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-03-30 20:54:47.715000'
+  modified: '2022-04-03 11:21:07.603000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 84
+  views: 85
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2473,7 +2473,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-18 04:05:00.214000'
+  modified: '2022-04-03 07:28:39.494000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2481,7 +2481,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -2753,7 +2753,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-13 16:10:50.685000'
+  modified: '2022-04-03 18:33:12.374000'
   name: CRIS NLP Derailment
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2761,7 +2761,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 11883550955415934
@@ -3798,7 +3798,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-23 06:11:24.455000'
+  modified: '2022-04-03 12:51:48.656000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3806,7 +3806,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -4601,7 +4601,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-25 19:12:32.839000'
+  modified: '2022-04-03 14:55:50.068000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4609,7 +4609,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 2046995342931326
@@ -6596,7 +6596,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:04.159000'
+  modified: '2022-04-03 11:59:52.697000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6604,7 +6604,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6606728270873592
