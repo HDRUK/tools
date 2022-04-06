@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-03-01 21:33:46.933000'
+  modified: '2022-04-05 17:10:26.072000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 136
+  views: 137
 - '@schema':
     type: tool
   _id: 19001
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-03-29 07:08:13.215000'
+  modified: '2022-04-05 10:09:25.020000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-03-30 12:04:22.837000'
+  modified: '2022-04-05 20:39:56.869000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -5076,7 +5076,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-28 04:20:23.078000'
+  modified: '2022-04-05 03:39:52.068000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5084,7 +5084,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-04 12:19:22.817000'
+  modified: '2022-04-05 21:12:06.640000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 189
+  views: 191
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-04-01 11:59:32.294000'
+  modified: '2022-04-05 14:53:56.750000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 61
+  views: 63
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-04-04 18:12:26.543000'
+  modified: '2022-04-05 12:28:15.915000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 37
+  views: 38
