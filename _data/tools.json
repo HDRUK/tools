@@ -5,6 +5,37 @@
       "@schema": {
         "type": "tool"
       },
+      "_id": 19001,
+      "type": "",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-04-06 15:54:39.383000",
+      "description": "",
+      "license": "",
+      "views": 201,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling",
+        "Visualisation"
+      ],
+      "programming_languages": [
+        {
+          "name": "R",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -28,122 +59,6 @@
       "programming_languages": [
         {
           "name": "Java",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19006,
-      "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-03-09 19:06:31.938000",
-      "description": "",
-      "license": "",
-      "views": 106,
-      "category": "Phenomics",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Phenomics"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19004,
-      "type": "",
-      "name": "COVID-19 CovidSim Microsimulation Model",
-      "link": "https://github.com/mrc-ide/covid-sim",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-01-16 14:18:44.029000",
-      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
-      "license": "GPLv3",
-      "views": 110,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling"
-      ],
-      "programming_languages": [
-        {
-          "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19007,
-      "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-03-31 09:17:22.041000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
-      "license": "",
-      "views": 236,
-      "category": "Mobile Application",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Symptom Tracker",
-        " NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19005,
-      "type": "",
-      "name": "Public Health England COVID-19 Tracker",
-      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-03-30 17:09:00.467000",
-      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "license": "",
-      "views": 121,
-      "category": "Data Visualisation",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
           "version": ""
         }
       ]
@@ -183,23 +98,84 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19009,
+      "_id": 19004,
       "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "name": "COVID-19 CovidSim Microsimulation Model",
+      "link": "https://github.com/mrc-ide/covid-sim",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-04-05 17:10:26.072000",
-      "description": "",
-      "license": "",
-      "views": 137,
-      "category": "",
+      "modified": "2022-01-16 14:18:44.029000",
+      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+      "license": "GPLv3",
+      "views": 110,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
-        "COVID-19"
+        "COVID-19",
+        "Modelling"
+      ],
+      "programming_languages": [
+        {
+          "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19005,
+      "type": "",
+      "name": "Public Health England COVID-19 Tracker",
+      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-03-30 17:09:00.467000",
+      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "license": "",
+      "views": 121,
+      "category": "Data Visualisation",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19006,
+      "type": "",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-04-06 02:24:51.990000",
+      "description": "",
+      "license": "",
+      "views": 107,
+      "category": "Phenomics",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Phenomics"
       ],
       "programming_languages": []
     },
@@ -207,29 +183,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
+      "_id": 19007,
       "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-04-03 21:55:08.067000",
-      "description": "",
+      "modified": "2022-03-31 09:17:22.041000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 200,
-      "category": "Data Modelling",
+      "views": 236,
+      "category": "Mobile Application",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Modelling",
-        "Visualisation"
+        "Symptom Tracker",
+        " NCS"
       ],
       "programming_languages": [
         {
-          "name": "R",
+          "name": "Other",
           "version": ""
         }
       ]
@@ -256,6 +232,30 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19009,
+      "type": "",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-04-06 05:53:58.369000",
+      "description": "",
+      "license": "",
+      "views": 138,
+      "category": "",
+      "relations": [],
+      "keywords": [
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -307,10 +307,10 @@
       ],
       "uploader": "",
       "issued": "2020-06-05 11:09:08.573000",
-      "modified": "2022-03-31 00:01:30.131000",
+      "modified": "2022-04-06 17:33:39.748000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 231,
+      "views": 232,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -564,10 +564,10 @@
       ],
       "uploader": 22850500618628944,
       "issued": "2020-09-03 14:23:18.139000",
-      "modified": "2022-03-25 16:19:42.109000",
+      "modified": "2022-04-06 10:19:47.938000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 154,
+      "views": 155,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -884,10 +884,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 10:14:04.912000",
-      "modified": "2022-04-03 13:35:47.180000",
+      "modified": "2022-04-06 19:27:46.531000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 236,
+      "views": 238,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1315,10 +1315,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:43:15.807000",
-      "modified": "2022-02-08 22:25:30.190000",
+      "modified": "2022-04-06 08:14:22.651000",
       "description": "Pentaho Community Edition is free -  LIMITED)\n\nWorks with WEKA (Data Profiling)\n\nData Integration - Extract, transform and load (ETL) limited data sets and create visualizations with Pentaho\u2019s report designer tool.\nThe term, K.E.T.T.L.E is a recursive that stands for Kettle Extraction Transformation Transport Load Environment.  Pentaho Data Integration is well known for its ease of use and quick learning curve. PDI implements a metadata-driven approach which means that the development is based on specifying what to do, not how to do it. Pentaho lets administrators and ETL developers create their own data manipulation jobs with a user-friendly graphical creator, and without entering a single line of code. \nPDI uses a common, shared repository which enables remote ETL execution, facilitates teamwork, and simplifies the development process.",
       "license": "Apache License 2.0",
-      "views": 14,
+      "views": 15,
       "category": "Data Integration Tool ",
       "relations": [],
       "keywords": [
@@ -1479,10 +1479,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 12:53:23.673000",
-      "modified": "2022-02-06 15:09:30.886000",
+      "modified": "2022-04-06 10:32:37.457000",
       "description": "Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data. Although Cytoscape was originally designed for biological research, now it is a general platform for complex network analysis and visualization.\n\nCytoscape core distribution provides a basic set of features for data integration, analysis, and visualization.   \nAdditional features are available as Apps (formerly called Plugins).",
       "license": "GNU Lesser General Public License Version 2.1, February 1999",
-      "views": 29,
+      "views": 30,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -3080,10 +3080,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:38:07.665000",
-      "modified": "2022-02-20 13:55:03.241000",
+      "modified": "2022-04-06 06:00:15.886000",
       "description": "Application to identify instances of insomnia.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 9,
+      "views": 10,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5089,10 +5089,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2021-01-04 10:48:26.382000",
-      "modified": "2022-03-19 18:09:50.245000",
+      "modified": "2022-04-06 15:07:40.817000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 23,
+      "views": 24,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6131,10 +6131,10 @@
       ],
       "uploader": 5703995672678985,
       "issued": "2021-04-01 09:07:06.536000",
-      "modified": "2022-03-11 15:52:18.077000",
+      "modified": "2022-04-06 01:51:23.651000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 60,
+      "views": 61,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6387,10 +6387,10 @@
       ],
       "uploader": 6045838202930374,
       "issued": "2021-12-16 11:01:15.505000",
-      "modified": "2022-04-05 12:28:15.915000",
+      "modified": "2022-04-06 09:50:13.950000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 50 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 38,
+      "views": 39,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
