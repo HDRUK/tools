@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-04-08 15:56:38.184000'
+  modified: '2022-04-10 10:30:08.641000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 233
+  views: 235
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-04-06 19:27:46.531000'
+  modified: '2022-04-10 11:29:23.286000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 238
+  views: 239
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-07 14:48:09.634000'
+  modified: '2022-04-10 14:12:28.397000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 194
+  views: 195
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-03-20 23:33:29.395000'
+  modified: '2022-04-10 12:35:03.434000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 5832340403218483
