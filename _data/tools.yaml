@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-04-09 16:34:13.627000'
+  modified: '2022-04-11 13:41:35.347000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 203
+  views: 204
 - '@schema':
     type: tool
   _id: 19002
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-04-09 19:43:21.402000'
+  modified: '2022-04-11 23:04:06.133000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 108
+  views: 109
 - '@schema':
     type: tool
   _id: 19007
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-04-04 21:08:54.289000'
+  modified: '2022-04-11 17:28:45.908000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 97
+  views: 98
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-04-10 11:29:23.286000'
+  modified: '2022-04-11 06:42:11.640000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 239
+  views: 240
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-03-18 10:28:53.604000'
+  modified: '2022-04-11 11:12:05.039000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-03-25 03:46:25.908000'
+  modified: '2022-04-11 14:45:03.197000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 64
+  views: 66
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-21 10:17:26.167000'
+  modified: '2022-04-11 19:45:40.370000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -3637,7 +3637,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-28 00:13:15.981000'
+  modified: '2022-04-11 13:02:44.917000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3645,7 +3645,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 8753447336519478
@@ -4280,7 +4280,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-07 02:28:50.622000'
+  modified: '2022-04-11 17:58:42.675000'
   name: CRIS NLP Thought Broadcast
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4288,7 +4288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 401562528365353
@@ -4995,7 +4995,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-09 11:18:28.149000'
+  modified: '2022-04-12 00:29:31.946000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -5003,7 +5003,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-10 14:12:28.397000'
+  modified: '2022-04-11 13:09:38.287000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 195
+  views: 198
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5844,7 +5844,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:17.023000'
+  modified: '2022-04-11 10:46:13.650000'
   name: ExECT - Diagnosis of a Single Epileptic Seizure
   programming_languages:
   - name: Rule-based - GATE
@@ -5852,7 +5852,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 2545487412706753
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-04-02 22:46:49.374000'
+  modified: '2022-04-11 01:56:23.082000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 64
+  views: 65
 - '@schema':
     type: tool
   _id: 4818714000171864
