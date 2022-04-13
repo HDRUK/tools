@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-04-11 23:04:06.133000'
+  modified: '2022-04-12 08:12:42.208000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 109
+  views: 110
 - '@schema':
     type: tool
   _id: 19007
@@ -183,13 +183,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2021-12-31 15:44:02.048000'
+  modified: '2022-04-12 08:08:40.080000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 19009
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2022-03-09 00:57:32.227000'
+  modified: '2022-04-12 04:24:06.102000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -4752,7 +4752,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-14 08:27:34.510000'
+  modified: '2022-04-13 00:09:01.919000'
   name: CRIS NLP Amphetamine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4760,7 +4760,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 28253502112101136
@@ -5076,7 +5076,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-05 03:39:52.068000'
+  modified: '2022-04-12 09:35:33.165000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5084,7 +5084,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-30 06:03:06.726000'
+  modified: '2022-04-12 01:44:01.458000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-08 13:28:08.590000'
+  modified: '2022-04-12 15:32:29.345000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 119
+  views: 120
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-04-05 14:53:56.750000'
+  modified: '2022-04-12 11:12:42.716000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 22703411038557176
