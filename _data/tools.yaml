@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-04-11 13:41:35.347000'
+  modified: '2022-04-13 11:02:56.845000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 204
+  views: 206
 - '@schema':
     type: tool
   _id: 19002
@@ -183,13 +183,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2022-04-12 08:08:40.080000'
+  modified: '2022-04-13 15:32:03.765000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 82
+  views: 83
 - '@schema':
     type: tool
   _id: 19009
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-04-10 10:30:08.641000'
+  modified: '2022-04-13 20:36:00.008000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 235
+  views: 237
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-04-11 06:42:11.640000'
+  modified: '2022-04-13 20:26:53.882000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 240
+  views: 242
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2022-04-06 08:14:22.651000'
+  modified: '2022-04-13 22:14:15.412000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-03-08 23:28:31.136000'
+  modified: '2022-04-13 08:22:49.861000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-11 13:09:38.287000'
+  modified: '2022-04-13 15:41:56.513000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 198
+  views: 200
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5629,7 +5629,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-03-24 11:41:21.219000'
+  modified: '2022-04-13 12:25:21.136000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5638,7 +5638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-12 15:32:29.345000'
+  modified: '2022-04-13 10:40:40.511000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 120
+  views: 121
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-03-24 23:27:03.334000'
+  modified: '2022-04-13 07:13:12.290000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 86
+  views: 87
 - '@schema':
     type: tool
   _id: 9074803277264144
