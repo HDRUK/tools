@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-03-17 10:55:10.585000'
+  modified: '2022-04-15 21:28:10.506000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 135
+  views: 137
 - '@schema':
     type: tool
   _id: 19003
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-04-03 11:21:07.603000'
+  modified: '2022-04-15 22:21:22.561000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 85
+  views: 86
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4441,7 +4441,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-19 01:30:25.761000'
+  modified: '2022-04-15 03:42:43.129000'
   name: CRIS NLP Weight loss
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4449,7 +4449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 18287956299933696
@@ -6390,7 +6390,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-08 00:30:09.659000'
+  modified: '2022-04-15 10:33:31.472000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6398,7 +6398,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 21961003431993984
