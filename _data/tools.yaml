@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-04-04 18:18:22.311000'
+  modified: '2022-04-16 02:26:03.882000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-02-22 21:54:55.554000'
+  modified: '2022-04-16 17:59:33.721000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 59
+  views: 60
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-04-05 20:39:56.869000'
+  modified: '2022-04-16 02:57:18.622000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-04-15 22:21:22.561000'
+  modified: '2022-04-16 07:45:39.346000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 86
+  views: 87
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3196,7 +3196,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 15:57:26.664000'
+  modified: '2022-04-16 13:03:31.667000'
   name: CRIS NLP Hallucinations - visual
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3204,7 +3204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 4660577979812828
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-14 13:40:23.658000'
+  modified: '2022-04-16 18:33:11.387000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 203
+  views: 204
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6180,7 +6180,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-01-31 12:55:35.356000'
+  modified: '2022-04-17 00:52:07.275000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6188,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-03-23 06:49:44.751000'
+  modified: '2022-04-16 16:55:33.420000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 102
+  views: 103
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-13 10:40:40.511000'
+  modified: '2022-04-16 18:55:25.745000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 121
+  views: 123
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-04-11 01:56:23.082000'
+  modified: '2022-04-17 00:24:09.863000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 4818714000171864
