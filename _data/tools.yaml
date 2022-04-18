@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-04-13 11:02:56.845000'
+  modified: '2022-04-17 11:54:10.720000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 206
+  views: 207
 - '@schema':
     type: tool
   _id: 19002
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-04-13 20:36:00.008000'
+  modified: '2022-04-17 23:58:07.124000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 237
+  views: 239
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -3074,7 +3074,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-22 23:56:53.266000'
+  modified: '2022-04-17 10:27:27.881000'
   name: CRIS NLP Grandiosity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3082,7 +3082,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 977755760297875
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-16 18:55:25.745000'
+  modified: '2022-04-17 08:33:35.912000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 5859299510804015
