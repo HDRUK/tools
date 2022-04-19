@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-01-16 14:18:44.029000'
+  modified: '2022-04-18 10:32:13.364000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 110
+  views: 111
 - '@schema':
     type: tool
   _id: 19005
@@ -313,13 +313,13 @@ tools:
   - dataset
   license: Public Domain Dedication and License
   link: https://peterhcharlton.github.io/pwdb/
-  modified: '2022-01-18 13:51:04.507000'
+  modified: '2022-04-18 19:43:26.255000'
   name: Pulse Wave Database
   programming_languages: []
   relations: []
   type: ''
   uploader: 56990094690269056
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 32805657207244064
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-04-16 02:57:18.622000'
+  modified: '2022-04-18 17:57:41.611000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1764,7 +1764,7 @@ tools:
   - IoT
   license: Apache License 2.0
   link: https://radar-base.org
-  modified: '2022-02-26 20:15:15.071000'
+  modified: '2022-04-18 19:39:53.105000'
   name: RADAR-base
   programming_languages:
   - name: Java
@@ -1776,7 +1776,7 @@ tools:
   relations: []
   type: ''
   uploader: 160230992424788
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 36083225792794328
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-04-11 14:45:03.197000'
+  modified: '2022-04-18 19:39:46.893000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-17 08:33:35.912000'
+  modified: '2022-04-18 13:34:00.373000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 124
+  views: 125
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-04-13 07:13:12.290000'
+  modified: '2022-04-18 18:32:39.487000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 87
+  views: 88
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-04-14 17:53:01.089000'
+  modified: '2022-04-18 19:35:53.261000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 22703411038557176
