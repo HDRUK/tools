@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-04-27 12:29:35.785000'
+  modified: '2022-04-30 22:39:57.704000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 213
+  views: 214
 - '@schema':
     type: tool
   _id: 19002
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-04-14 19:24:08.813000'
+  modified: '2022-04-30 12:15:50.649000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 237
+  views: 238
 - '@schema':
     type: tool
   _id: 19008
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-04-28 01:48:27.423000'
+  modified: '2022-04-30 14:49:43.393000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 216
+  views: 217
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5664,7 +5664,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2022-04-25 17:44:48.749000'
+  modified: '2022-04-30 13:20:55'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5672,7 +5672,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 39
+  views: 41
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-29 16:39:31.010000'
+  modified: '2022-04-30 15:56:34.448000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 131
+  views: 132
 - '@schema':
     type: tool
   _id: 5859299510804015
