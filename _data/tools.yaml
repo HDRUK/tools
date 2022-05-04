@@ -2593,7 +2593,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-28 13:10:05.500000'
+  modified: '2022-05-03 05:30:29.425000'
   name: CRIS NLP Blunted Affect
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2601,7 +2601,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 450120126546004
@@ -3838,7 +3838,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-20 13:21:53.254000'
+  modified: '2022-05-03 14:25:35.556000'
   name: CRIS NLP Poor concentration
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3846,7 +3846,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 37565487179357304
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-12 01:44:01.458000'
+  modified: '2022-05-03 12:43:36.548000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-02 19:14:06.332000'
+  modified: '2022-05-03 12:45:31.462000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 218
+  views: 219
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6390,7 +6390,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-04-20 06:14:35.864000'
+  modified: '2022-05-03 04:25:22.840000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6398,7 +6398,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 21961003431993984
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-02 12:54:54.465000'
+  modified: '2022-05-03 15:11:39.812000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 42
+  views: 43
