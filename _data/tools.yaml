@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-05 01:41:58.534000'
+  modified: '2022-05-08 20:29:21.484000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 249
+  views: 250
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2352,7 +2352,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-07 10:40:36.711000'
+  modified: '2022-05-08 11:39:22.793000'
   name: CRIS NLP Agitation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2360,7 +2360,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 20969727106775384
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-08 18:33:42.819000'
+  modified: '2022-05-08 07:53:01.591000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6596,7 +6596,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-04-24 09:44:22.457000'
+  modified: '2022-05-08 22:03:19.661000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6604,7 +6604,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-04-30 15:56:34.448000'
+  modified: '2022-05-08 15:03:54.186000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 132
+  views: 133
 - '@schema':
     type: tool
   _id: 5859299510804015
