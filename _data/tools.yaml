@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-03-19 14:56:11.165000'
+  modified: '2022-05-09 06:19:56.693000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-08 20:29:21.484000'
+  modified: '2022-05-09 01:07:23.269000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-04-20 17:21:23.261000'
+  modified: '2022-05-09 22:30:12.607000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-05-07 02:44:24.596000'
+  modified: '2022-05-09 13:26:09.250000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 70
+  views: 71
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-03-11 14:17:10.716000'
+  modified: '2022-05-09 09:23:35.535000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -3557,7 +3557,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-19 05:44:31.376000'
+  modified: '2022-05-09 07:45:33.492000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3565,7 +3565,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -4954,7 +4954,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-15 07:11:00.583000'
+  modified: '2022-05-09 01:51:25.535000'
   name: CRIS NLP Online Activity
   programming_languages:
   - name: Rule-based - GATE
@@ -4962,7 +4962,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6378658859804975
@@ -5156,7 +5156,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-09 00:15:04.160000'
+  modified: '2022-05-09 13:51:13.808000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5164,7 +5164,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-04 16:53:39.789000'
+  modified: '2022-05-09 18:55:34.820000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 220
+  views: 221
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-06 06:47:17.488000'
+  modified: '2022-05-09 15:29:09.984000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 45
+  views: 47
