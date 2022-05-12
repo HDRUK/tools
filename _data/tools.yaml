@@ -111,7 +111,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-05-10 15:46:57.493000'
+  modified: '2022-05-11 14:05:19.811000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -119,7 +119,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 122
+  views: 123
 - '@schema':
     type: tool
   _id: 19003
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-05-07 18:40:39.687000'
+  modified: '2022-05-11 22:30:14.582000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 216
+  views: 217
 - '@schema':
     type: tool
   _id: 19008
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-07 23:44:16.354000'
+  modified: '2022-05-11 04:49:52.298000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 249
+  views: 250
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-04-16 02:26:03.882000'
+  modified: '2022-05-11 08:13:37.342000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-04-23 10:02:43.745000'
+  modified: '2022-05-11 13:16:28.591000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-04-27 00:47:49.947000'
+  modified: '2022-05-11 21:01:55.443000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 93
+  views: 94
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-10 11:13:56.207000'
+  modified: '2022-05-11 21:27:25.155000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 222
+  views: 224
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-10 15:42:22.456000'
+  modified: '2022-05-11 11:01:52.002000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 49
+  views: 50
