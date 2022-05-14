@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-05-12 11:20:08.268000'
+  modified: '2022-05-13 21:23:33.665000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 218
+  views: 219
 - '@schema':
     type: tool
   _id: 19008
@@ -2271,7 +2271,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-17 14:39:29.196000'
+  modified: '2022-05-13 22:23:34.253000'
   name: test2.1
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2279,7 +2279,7 @@ tools:
   relations: []
   type: ''
   uploader: 5623903674426547
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-11 21:27:25.155000'
+  modified: '2022-05-13 12:55:18.495000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 224
+  views: 225
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6077,7 +6077,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-11 15:52:56.301000'
+  modified: '2022-05-13 09:39:28.097000'
   name: ExECT - Epilepsy Cause
   programming_languages:
   - name: Rule-based - GATE
@@ -6085,7 +6085,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 1670030221318044
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-05-08 15:03:54.186000'
+  modified: '2022-05-13 03:02:13.905000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-05-07 22:48:49.716000'
+  modified: '2022-05-13 22:40:02.397000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 22703411038557176
