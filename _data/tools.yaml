@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-11 04:49:52.298000'
+  modified: '2022-05-14 16:01:10.194000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 250
+  views: 251
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-05-06 09:20:06.458000'
+  modified: '2022-05-14 17:13:17.374000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-05-09 13:26:09.250000'
+  modified: '2022-05-14 12:49:04.039000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -3838,7 +3838,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-03 14:25:35.556000'
+  modified: '2022-05-14 19:21:39.061000'
   name: CRIS NLP Poor concentration
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3846,7 +3846,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 37565487179357304
@@ -4160,7 +4160,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-07 05:35:32.469000'
+  modified: '2022-05-14 16:28:32.737000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4168,7 +4168,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-05-13 03:02:13.905000'
+  modified: '2022-05-14 17:38:32.952000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 134
+  views: 135
 - '@schema':
     type: tool
   _id: 5859299510804015
