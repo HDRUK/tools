@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-14 16:01:10.194000'
+  modified: '2022-05-16 18:16:12.265000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 251
+  views: 252
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-05-07 08:24:14.123000'
+  modified: '2022-05-16 19:31:33.281000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 167
+  views: 168
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-09 01:07:23.269000'
+  modified: '2022-05-16 06:34:55.403000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 250
+  views: 251
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-03-19 11:53:18.292000'
+  modified: '2022-05-16 15:49:43.659000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1179,7 +1179,7 @@ tools:
   - Services Management
   license: Apache license
   link: https://www.talend.com/products/application-integration/esb-manuals-release-notes/
-  modified: '2022-04-23 22:56:08.500000'
+  modified: '2022-05-16 12:35:35.719000'
   name: Talend Open Studio For ESB
   programming_languages:
   - name: Java
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2022-04-22 01:54:14.069000'
+  modified: '2022-05-16 06:30:00.960000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-05-09 22:30:12.607000'
+  modified: '2022-05-16 12:28:50.282000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -2158,7 +2158,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2022-03-28 00:47:21.375000'
+  modified: '2022-05-16 13:28:23.587000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2166,7 +2166,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -2312,7 +2312,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-25 17:57:40.593000'
+  modified: '2022-05-16 16:41:42.048000'
   name: CRIS NLP Aggression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2320,7 +2320,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 7266823034105565
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-04-14 15:37:28.471000'
+  modified: '2022-05-16 15:52:16.222000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-05-13 22:40:02.397000'
+  modified: '2022-05-16 12:33:13.803000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 22703411038557176
