@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-15 20:50:11.680000'
+  modified: '2022-05-23 15:15:18.867000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 228
+  views: 230
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-04-27 09:43:07.745000'
+  modified: '2022-05-24 00:52:35.991000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 89
+  views: 90
 - '@schema':
     type: tool
   _id: 9074803277264144
