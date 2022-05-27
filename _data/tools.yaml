@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-05-06 03:10:06.208000'
+  modified: '2022-05-26 05:28:41.178000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 112
+  views: 113
 - '@schema':
     type: tool
   _id: 19005
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-16 18:16:12.265000'
+  modified: '2022-05-26 10:10:33.649000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 252
+  views: 253
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-19 11:12:08.858000'
+  modified: '2022-05-26 17:22:12.386000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 254
+  views: 255
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-05-15 22:59:28.933000'
+  modified: '2022-05-26 19:17:14.621000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-04-27 07:19:06.082000'
+  modified: '2022-05-26 22:13:09.943000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -4995,7 +4995,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-12 00:29:31.946000'
+  modified: '2022-05-26 19:33:08.942000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -5003,7 +5003,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-19 23:34:57.667000'
+  modified: '2022-05-26 04:09:22.435000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 54
+  views: 55
