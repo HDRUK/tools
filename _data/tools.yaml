@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-26 10:10:33.649000'
+  modified: '2022-05-28 04:24:34.558000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 253
+  views: 254
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -3557,7 +3557,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-09 07:45:33.492000'
+  modified: '2022-05-28 06:36:54.544000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3565,7 +3565,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -5942,7 +5942,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-17 09:48:20.600000'
+  modified: '2022-05-28 01:17:18.801000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5950,7 +5950,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 47757674439076728
