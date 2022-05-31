@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-05-20 12:48:35.257000'
+  modified: '2022-05-30 02:14:11.286000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 220
+  views: 221
 - '@schema':
     type: tool
   _id: 19002
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-04-25 15:34:23.240000'
+  modified: '2022-05-30 10:59:46.778000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 19007
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-26 17:22:12.386000'
+  modified: '2022-05-30 17:02:15.235000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 255
+  views: 257
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-24 04:13:17.571000'
+  modified: '2022-05-30 23:25:43.816000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -3718,7 +3718,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-12 18:01:24.349000'
+  modified: '2022-05-30 15:03:23.179000'
   name: CRIS NLP Passivity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3726,7 +3726,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 40914379331092480
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-27 02:56:15.084000'
+  modified: '2022-05-30 17:25:57.029000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 232
+  views: 233
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-05-25 14:41:30.518000'
+  modified: '2022-05-30 16:29:58.751000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 136
+  views: 137
 - '@schema':
     type: tool
   _id: 5859299510804015
