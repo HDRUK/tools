@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-28 04:24:34.558000'
+  modified: '2022-05-31 06:55:32.625000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 254
+  views: 255
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-05-29 18:24:36.344000'
+  modified: '2022-05-31 06:55:18.148000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 169
+  views: 170
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2022-05-29 04:35:06.491000'
+  modified: '2022-05-31 06:55:02.611000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-05-30 17:02:15.235000'
+  modified: '2022-05-31 15:26:11.569000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 257
+  views: 258
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-05-16 12:28:50.282000'
+  modified: '2022-05-31 06:54:55.343000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2022-03-17 11:26:40.067000'
+  modified: '2022-05-31 06:54:53.684000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-05-27 12:37:50.624000'
+  modified: '2022-05-31 06:54:44.746000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-05-27 10:02:07.367000'
+  modified: '2022-05-31 08:36:21.001000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 98
+  views: 100
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2022-05-24 04:40:44.529000'
+  modified: '2022-05-31 06:54:20.508000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -2117,7 +2117,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2022-02-27 12:08:29.573000'
+  modified: '2022-05-31 06:53:54.061000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2125,7 +2125,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-03-04 13:40:49.738000'
+  modified: '2022-05-31 06:53:51.299000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-25 19:41:12.393000'
+  modified: '2022-05-31 09:19:53.334000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-04-26 23:51:13.770000'
+  modified: '2022-05-31 06:52:53.238000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2022-05-18 16:38:15.234000'
+  modified: '2022-05-31 06:52:43.056000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5629,7 +5629,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-04-24 02:35:25.030000'
+  modified: '2022-05-31 06:52:36.420000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5638,7 +5638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-05-12 18:03:08.032000'
+  modified: '2022-05-31 06:52:29.386000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-05-27 23:22:51.041000'
+  modified: '2022-05-31 23:22:10.083000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 278
+  views: 279
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-05-30 16:29:58.751000'
+  modified: '2022-05-31 05:57:32.762000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 137
+  views: 138
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-05-25 08:31:03.045000'
+  modified: '2022-05-31 21:35:12.429000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 75
+  views: 76
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-26 04:09:22.435000'
+  modified: '2022-05-31 09:23:12.013000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 55
+  views: 58
