@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-05-30 02:14:11.286000'
+  modified: '2022-06-01 13:22:06.166000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 221
+  views: 222
 - '@schema':
     type: tool
   _id: 19002
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2022-05-17 15:53:05.839000'
+  modified: '2022-06-01 17:28:53.966000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -3114,7 +3114,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-10 08:14:31.816000'
+  modified: '2022-06-01 09:17:43.741000'
   name: CRIS NLP Guilt
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3122,7 +3122,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 44086666030829224
@@ -3477,7 +3477,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-22 12:35:35.147000'
+  modified: '2022-06-01 18:01:52.388000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3485,7 +3485,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -5320,7 +5320,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-09 03:47:05.510000'
+  modified: '2022-06-01 14:20:58.710000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5328,7 +5328,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-05-30 17:25:57.029000'
+  modified: '2022-06-01 10:03:39.182000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 233
+  views: 234
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-05-31 05:57:32.762000'
+  modified: '2022-06-01 22:21:02.062000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 138
+  views: 142
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-05-27 13:35:43.046000'
+  modified: '2022-06-01 20:21:10.804000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 91
+  views: 93
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-05-31 21:35:12.429000'
+  modified: '2022-06-01 20:21:42.694000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-05-31 09:23:12.013000'
+  modified: '2022-06-01 20:21:14.981000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 58
+  views: 62
