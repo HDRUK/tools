@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-05-31 06:55:32.625000'
+  modified: '2022-06-05 22:54:19.679000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 255
+  views: 256
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-06-04 02:46:11.743000'
+  modified: '2022-06-05 19:32:04.579000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 171
+  views: 173
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -4481,7 +4481,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-02 11:19:34.777000'
+  modified: '2022-06-05 22:00:11.508000'
   name: CRIS NLP Worthlessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4489,7 +4489,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 3237674158697106
@@ -4631,7 +4631,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-06 01:11:19.804000'
+  modified: '2022-06-05 16:14:59.047000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4639,7 +4639,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -5361,7 +5361,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-04 08:13:17.930000'
+  modified: '2022-06-05 19:53:33.444000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5369,7 +5369,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-01 22:21:02.062000'
+  modified: '2022-06-05 17:33:42.374000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 142
+  views: 145
 - '@schema':
     type: tool
   _id: 5859299510804015
