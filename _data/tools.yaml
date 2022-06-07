@@ -2005,7 +2005,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2022-05-31 06:54:20.508000'
+  modified: '2022-06-06 10:08:39.475000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2021,7 +2021,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -3637,7 +3637,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-11 13:02:44.917000'
+  modified: '2022-06-06 18:26:49.817000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3645,7 +3645,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 8753447336519478
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-05 17:33:42.374000'
+  modified: '2022-06-06 03:09:40.764000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 145
+  views: 146
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-06-01 20:21:10.804000'
+  modified: '2022-06-06 13:57:20.968000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 93
+  views: 94
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-06-03 06:20:30.158000'
+  modified: '2022-06-06 14:02:12.229000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 4818714000171864
