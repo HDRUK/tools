@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-05-27 13:45:05.145000'
+  modified: '2022-06-08 01:39:49.019000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-06-05 22:54:19.679000'
+  modified: '2022-06-08 21:27:43.230000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 256
+  views: 257
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -313,13 +313,13 @@ tools:
   - dataset
   license: Public Domain Dedication and License
   link: https://peterhcharlton.github.io/pwdb/
-  modified: '2022-04-18 19:43:26.255000'
+  modified: '2022-06-08 01:37:09.432000'
   name: Pulse Wave Database
   programming_languages: []
   relations: []
   type: ''
   uploader: 56990094690269056
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 32805657207244064
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-04-23 11:44:28.981000'
+  modified: '2022-06-08 01:37:32.001000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-06-07 13:20:29.397000'
+  modified: '2022-06-08 01:40:05.631000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 175
+  views: 177
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-05-24 07:42:01.902000'
+  modified: '2022-06-08 01:41:44.272000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-04-05 10:09:25.020000'
+  modified: '2022-06-08 01:39:24.474000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -2189,7 +2189,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-05-31 06:53:51.299000'
+  modified: '2022-06-08 01:39:31.029000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2199,7 +2199,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -2227,7 +2227,7 @@ tools:
   - transfer learning
   license: MIT
   link: https://github.com/kormilitzin/med7
-  modified: '2022-03-01 22:03:04.097000'
+  modified: '2022-06-08 01:38:26.828000'
   name: Med7
   programming_languages:
   - name: Python
@@ -2239,7 +2239,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 5330147649379575
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-31 09:19:53.334000'
+  modified: '2022-06-08 01:40:19.023000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-05-31 06:52:29.386000'
+  modified: '2022-06-08 01:39:35.795000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-06 03:09:40.764000'
+  modified: '2022-06-08 15:15:39.107000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 146
+  views: 148
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-06-06 13:57:20.968000'
+  modified: '2022-06-08 13:33:39.459000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 94
+  views: 95
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-06-07 10:24:35.933000'
+  modified: '2022-06-08 15:21:18.831000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-06-06 14:02:12.229000'
+  modified: '2022-06-08 15:07:08.087000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 70
+  views: 71
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-06-01 20:21:42.694000'
+  modified: '2022-06-08 10:07:06.947000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-07 11:03:35.357000'
+  modified: '2022-06-09 00:14:13.148000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 66
+  views: 67
