@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-05-24 19:00:19.432000'
+  modified: '2022-06-09 16:27:58.722000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 141
+  views: 142
 - '@schema':
     type: tool
   _id: 19010
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-06-08 13:33:39.459000'
+  modified: '2022-06-09 21:38:15.106000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-06-08 10:07:06.947000'
+  modified: '2022-06-09 14:04:11.257000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 78
+  views: 79
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-09 00:14:13.148000'
+  modified: '2022-06-09 12:28:45.631000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 67
+  views: 71
