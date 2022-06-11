@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-06-07 23:03:52.777000'
+  modified: '2022-06-10 11:03:43.031000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 105
+  views: 106
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-08 15:15:39.107000'
+  modified: '2022-06-10 11:03:26.927000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 148
+  views: 149
 - '@schema':
     type: tool
   _id: 5859299510804015
