@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-06-03 19:20:20.190000'
+  modified: '2022-06-11 09:24:34.877000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 240
+  views: 241
 - '@schema':
     type: tool
   _id: 19008
