@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-06-01 10:03:39.182000'
+  modified: '2022-06-12 13:01:19.687000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 234
+  views: 235
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-05-31 23:22:10.083000'
+  modified: '2022-06-12 14:36:44.639000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 279
+  views: 280
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5942,7 +5942,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-28 01:17:18.801000'
+  modified: '2022-06-12 08:29:22.581000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5950,7 +5950,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -6533,7 +6533,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-11 15:52:21.465000'
+  modified: '2022-06-12 08:28:51.880000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6541,7 +6541,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -6596,7 +6596,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-29 21:40:41.267000'
+  modified: '2022-06-12 08:29:02.174000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6604,7 +6604,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-10 11:03:26.927000'
+  modified: '2022-06-13 00:16:22.639000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 149
+  views: 152
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-06-09 21:38:15.106000'
+  modified: '2022-06-12 15:01:22.606000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 96
+  views: 97
 - '@schema':
     type: tool
   _id: 9074803277264144
