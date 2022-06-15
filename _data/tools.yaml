@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-06-08 21:27:43.230000'
+  modified: '2022-06-14 20:54:12.612000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 257
+  views: 258
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1472,7 +1472,7 @@ tools:
   - ETL Metadata
   license: Proprietary
   link: http://www.sqlpower.ca/page/architect
-  modified: '2022-04-23 11:55:35.489000'
+  modified: '2022-06-14 10:51:03.836000'
   name: SQL Power Architect
   programming_languages:
   - name: Java
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -4360,7 +4360,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-05 18:21:18.538000'
+  modified: '2022-06-14 17:23:13.214000'
   name: CRIS NLP Thought Withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4368,7 +4368,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 8558208161875798
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-06-13 22:28:20.741000'
+  modified: '2022-06-14 06:49:27.513000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 236
+  views: 237
 - '@schema':
     type: tool
   _id: 9268236012305552
