@@ -2473,7 +2473,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-24 15:55:56.193000'
+  modified: '2022-06-17 22:20:58.466000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2481,7 +2481,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -2873,7 +2873,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-04 15:17:14.942000'
+  modified: '2022-06-17 18:06:03.714000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2881,7 +2881,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 9242053681629978
@@ -4240,7 +4240,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-06 04:07:15.831000'
+  modified: '2022-06-17 07:39:27.105000'
   name: CRIS NLP Thought block
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4248,7 +4248,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 21263999367358544
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-13 11:43:21.349000'
+  modified: '2022-06-17 14:00:27.556000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 72
+  views: 73
