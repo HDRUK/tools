@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-06-18 17:18:02.887000'
+  modified: '2022-06-20 23:46:14.530000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 19004
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-06-19 14:02:12.217000'
+  modified: '2022-06-20 15:58:18.872000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 224
+  views: 225
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-06-16 22:35:22.175000'
+  modified: '2022-06-20 05:40:00.844000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 102
+  views: 103
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-06-18 08:16:34.431000'
+  modified: '2022-06-20 05:25:32.310000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 263
+  views: 264
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2633,7 +2633,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-22 01:31:41.832000'
+  modified: '2022-06-20 05:02:49.674000'
   name: CRIS NLP Circumstantiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2641,7 +2641,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 1609057732616348
@@ -2833,7 +2833,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 09:42:31.060000'
+  modified: '2022-06-20 06:30:16.166000'
   name: CRIS NLP Drowsiness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2841,7 +2841,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 728410686361705
@@ -2913,7 +2913,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-12 18:17:37.250000'
+  modified: '2022-06-20 19:16:06.125000'
   name: CRIS NLP Elation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2921,7 +2921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 5524015711947725
@@ -6077,7 +6077,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-13 09:39:28.097000'
+  modified: '2022-06-20 05:42:22.825000'
   name: ExECT - Epilepsy Cause
   programming_languages:
   - name: Rule-based - GATE
@@ -6085,7 +6085,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 1670030221318044
@@ -6355,7 +6355,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-17 06:48:05.381000'
+  modified: '2022-06-20 05:01:19.467000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6363,7 +6363,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6287110693516533
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-18 17:29:02.175000'
+  modified: '2022-06-20 13:58:39.073000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 155
+  views: 157
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-17 14:00:27.556000'
+  modified: '2022-06-20 09:24:28.014000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 73
+  views: 74
