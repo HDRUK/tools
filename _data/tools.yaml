@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-06-03 15:26:19.789000'
+  modified: '2022-06-22 17:02:48.497000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 141
+  views: 142
 - '@schema':
     type: tool
   _id: 19003
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-06-21 15:37:49.342000'
+  modified: '2022-06-22 10:33:24.673000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 119
+  views: 120
 - '@schema':
     type: tool
   _id: 19007
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2022-05-05 13:51:37.024000'
+  modified: '2022-06-22 11:43:35.076000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-06-04 06:50:13.811000'
+  modified: '2022-06-22 02:37:51.200000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-06-18 22:26:31.397000'
+  modified: '2022-06-22 02:10:32.335000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2117,7 +2117,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2022-05-31 06:53:54.061000'
+  modified: '2022-06-22 06:16:07.778000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2125,7 +2125,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -3678,7 +3678,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-01-17 06:27:15.892000'
+  modified: '2022-06-22 12:08:18.078000'
   name: CRIS NLP Paranoia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3686,7 +3686,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 9581633158454506
@@ -4832,7 +4832,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-02 21:03:04.885000'
+  modified: '2022-06-22 23:42:58.143000'
   name: CRIS NLP Cocaine or Crack Cocaine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4840,7 +4840,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 11193757761939872
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-15 22:03:57.299000'
+  modified: '2022-06-22 07:52:48.658000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6533,7 +6533,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-12 08:28:51.880000'
+  modified: '2022-06-22 22:57:27.854000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6541,7 +6541,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-06-10 11:03:43.031000'
+  modified: '2022-06-23 00:50:47.084000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 106
+  views: 107
 - '@schema':
     type: tool
   _id: 3321980885733604
