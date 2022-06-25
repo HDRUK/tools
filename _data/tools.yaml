@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-06-20 15:58:18.872000'
+  modified: '2022-06-24 01:47:00.322000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 225
+  views: 226
 - '@schema':
     type: tool
   _id: 19002
@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-06-22 17:02:48.497000'
+  modified: '2022-06-24 08:20:11.148000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 142
+  views: 143
 - '@schema':
     type: tool
   _id: 19003
@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-06-22 10:33:24.673000'
+  modified: '2022-06-24 15:03:54.204000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 120
+  views: 121
 - '@schema':
     type: tool
   _id: 19007
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-06-23 09:25:18.998000'
+  modified: '2022-06-24 13:22:47.834000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 261
+  views: 262
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-06-08 01:41:44.272000'
+  modified: '2022-06-24 11:30:52.774000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-06-20 05:25:32.310000'
+  modified: '2022-06-24 17:04:33.636000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 264
+  views: 265
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1139,7 +1139,7 @@ tools:
   - Data Cleansing
   license: Apache License 2.0
   link: https://download-mirror2.talend.com/tdp/user-guide-download/V251/TalendDataPrep_GettingStarted_EN.pdf
-  modified: '2022-04-04 08:43:50.409000'
+  modified: '2022-06-24 06:23:55.296000'
   name: Talend Open Studio For Data Quality
   programming_languages:
   - name: Java
@@ -1147,7 +1147,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 7071271226878291
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-06-13 07:10:30.204000'
+  modified: '2022-06-24 23:15:14.665000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 77
+  views: 79
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -3316,7 +3316,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-29 18:24:58.397000'
+  modified: '2022-06-24 13:56:35.884000'
   name: CRIS NLP Hostility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3324,7 +3324,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 598189829688136
@@ -3998,7 +3998,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-12-08 12:07:13.293000'
+  modified: '2022-06-24 18:28:05.138000'
   name: CRIS NLP Poverty of thought
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4006,7 +4006,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6252807113770187
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-15 13:49:05.781000'
+  modified: '2022-06-24 04:44:56.083000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-06-13 01:48:57.407000'
+  modified: '2022-06-25 00:59:47.520000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 80
+  views: 82
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-20 09:24:28.014000'
+  modified: '2022-06-24 15:43:49.779000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 74
+  views: 77
