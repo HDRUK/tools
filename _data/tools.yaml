@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-06-24 13:22:47.834000'
+  modified: '2022-06-25 19:32:28.612000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 262
+  views: 263
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2022-03-19 02:57:46.432000'
+  modified: '2022-06-25 06:50:05.496000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2022-03-26 00:07:40.899000'
+  modified: '2022-06-26 00:08:17.101000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -2833,7 +2833,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-20 06:30:16.166000'
+  modified: '2022-06-25 03:51:46.768000'
   name: CRIS NLP Drowsiness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2841,7 +2841,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 728410686361705
@@ -2873,7 +2873,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-17 18:06:03.714000'
+  modified: '2022-06-25 10:13:22.585000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2881,7 +2881,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 9242053681629978
@@ -4561,7 +4561,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-19 06:55:35.973000'
+  modified: '2022-06-25 02:56:05.943000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4569,7 +4569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-08 01:40:19.023000'
+  modified: '2022-06-25 15:17:30.649000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 649136686266427
