@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-06-21 21:48:34.086000'
+  modified: '2022-06-26 03:04:23.474000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -2593,7 +2593,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-03 05:30:29.425000'
+  modified: '2022-06-26 21:06:19.904000'
   name: CRIS NLP Blunted Affect
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2601,7 +2601,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 450120126546004
@@ -4601,7 +4601,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-03 14:55:50.068000'
+  modified: '2022-06-26 16:27:55.159000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4609,7 +4609,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 2046995342931326
@@ -6213,7 +6213,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-11 15:52:52.849000'
+  modified: '2022-06-26 01:17:19.114000'
   name: ExECT - Seizure Frequency - Number of seizures since a Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6221,7 +6221,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 45492169804048152
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-08 07:53:01.591000'
+  modified: '2022-06-26 05:16:23.608000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-24 15:43:49.779000'
+  modified: '2022-06-26 07:00:01.749000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 77
+  views: 78
