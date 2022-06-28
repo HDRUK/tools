@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-06-21 10:22:46.429000'
+  modified: '2022-06-28 00:44:15.811000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 244
+  views: 245
 - '@schema':
     type: tool
   _id: 19008
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-06-16 02:01:52.437000'
+  modified: '2022-06-27 14:17:36.672000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 178
+  views: 179
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-06-04 03:01:28.900000'
+  modified: '2022-06-27 14:30:46.572000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -2553,7 +2553,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-27 18:11:58.807000'
+  modified: '2022-06-27 04:39:31.634000'
   name: CRIS NLP Bad Dreams
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2561,7 +2561,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 42755801950832288
@@ -2753,7 +2753,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-03 18:33:12.374000'
+  modified: '2022-06-27 07:25:14.169000'
   name: CRIS NLP Derailment
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2761,7 +2761,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 11883550955415934
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-06-23 04:25:27.273000'
+  modified: '2022-06-27 09:30:26.327000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 243
+  views: 244
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6180,7 +6180,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-04 13:20:34.599000'
+  modified: '2022-06-27 10:04:06.515000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6188,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -6426,7 +6426,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-11 15:52:25.058000'
+  modified: '2022-06-27 03:21:28.808000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since age
   programming_languages:
   - name: Rule-based - GATE
@@ -6434,7 +6434,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 9643382523814474
@@ -6497,7 +6497,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-29 08:42:03.013000'
+  modified: '2022-06-27 23:40:05.803000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since non-specific
     time/point of interest
   programming_languages:
@@ -6506,7 +6506,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 8456910701220071
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-23 03:49:33.665000'
+  modified: '2022-06-27 07:24:08.571000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 159
+  views: 161
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-26 07:00:01.749000'
+  modified: '2022-06-27 01:07:43.263000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 78
+  views: 79
