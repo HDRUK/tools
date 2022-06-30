@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-05-29 15:11:52.347000'
+  modified: '2022-06-29 14:43:44.063000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-05-14 17:13:17.374000'
+  modified: '2022-06-29 06:12:27.508000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-06-24 11:30:52.774000'
+  modified: '2022-06-29 10:31:55.167000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-06-24 23:15:14.665000'
+  modified: '2022-06-29 16:08:28.526000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -4832,7 +4832,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-22 23:42:58.143000'
+  modified: '2022-06-29 14:23:27.782000'
   name: CRIS NLP Cocaine or Crack Cocaine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4840,7 +4840,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 11193757761939872
@@ -5402,7 +5402,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-04 13:04:14.842000'
+  modified: '2022-06-29 20:39:18.672000'
   name: CRIS NLP HbA1c
   programming_languages:
   - name: Rule-based - GATE
@@ -5410,7 +5410,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 5385805814031088
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2022-06-03 14:10:52.757000'
+  modified: '2022-06-29 15:39:18.236000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -6533,7 +6533,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-22 22:57:27.854000'
+  modified: '2022-06-29 17:41:19.498000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6541,7 +6541,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-28 13:34:45.499000'
+  modified: '2022-06-29 19:54:13.409000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 81
+  views: 84
