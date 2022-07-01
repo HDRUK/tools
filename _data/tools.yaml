@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-05-26 05:28:41.178000'
+  modified: '2022-06-30 19:09:29.856000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 19005
@@ -2633,7 +2633,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-20 05:02:49.674000'
+  modified: '2022-06-30 03:03:02.060000'
   name: CRIS NLP Circumstantiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2641,7 +2641,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 1609057732616348
@@ -4561,7 +4561,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-25 02:56:05.943000'
+  modified: '2022-06-30 16:10:44.307000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4569,7 +4569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-06-27 09:30:26.327000'
+  modified: '2022-06-30 10:31:12.775000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 244
+  views: 245
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6355,7 +6355,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-20 05:01:19.467000'
+  modified: '2022-06-30 02:48:36.251000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6363,7 +6363,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6287110693516533
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-06-23 00:50:47.084000'
+  modified: '2022-06-30 15:02:59.008000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 107
+  views: 108
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-06-27 07:24:08.571000'
+  modified: '2022-06-30 09:05:17.929000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 161
+  views: 162
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-06-13 13:10:46.826000'
+  modified: '2022-06-30 15:02:24.245000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 98
+  views: 99
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-06-25 00:59:47.520000'
+  modified: '2022-06-30 11:48:18.267000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 82
+  views: 83
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-29 19:54:13.409000'
+  modified: '2022-06-30 11:47:19.833000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 84
+  views: 86
