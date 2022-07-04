@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2022-06-22 11:43:35.076000'
+  modified: '2022-07-03 14:03:11.485000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-05-17 23:18:07.643000'
+  modified: '2022-07-03 04:46:48.686000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-30 23:25:43.816000'
+  modified: '2022-07-03 15:56:41.414000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -6110,7 +6110,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-16 02:27:08.557000'
+  modified: '2022-07-03 03:31:57.431000'
   name: ExECT - Febrile Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -6118,7 +6118,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 5963534697687911
