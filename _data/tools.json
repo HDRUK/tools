@@ -5,37 +5,6 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
-      "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-07-01 08:17:37.819000",
-      "description": "",
-      "license": "",
-      "views": 227,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling",
-        "Visualisation"
-      ],
-      "programming_languages": [
-        {
-          "name": "R",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -67,32 +36,26 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19003,
+      "_id": 19006,
       "type": "",
-      "name": "COVID-19 Contact Tracing App - iOS",
-      "link": "https://github.com/nhsx/COVID-19-app-iOS-BETA",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-04-20 06:12:04.640000",
-      "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
-      "license": "MIT",
-      "views": 54,
-      "category": "Mobile Application",
+      "modified": "2022-06-24 15:03:54.204000",
+      "description": "",
+      "license": "",
+      "views": 121,
+      "category": "Phenomics",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Contact Tracing",
-        "iOS"
+        "Phenomics"
       ],
-      "programming_languages": [
-        {
-          "name": "Objective-C",
-          "version": ""
-        }
-      ]
+      "programming_languages": []
     },
     {
       "@schema": {
@@ -120,6 +83,37 @@
       "programming_languages": [
         {
           "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19007,
+      "type": "",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-06-28 00:44:15.811000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "license": "",
+      "views": 245,
+      "category": "Mobile Application",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Symptom Tracker",
+        " NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
           "version": ""
         }
       ]
@@ -158,24 +152,54 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19006,
+      "_id": 19003,
       "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
+      "name": "COVID-19 Contact Tracing App - iOS",
+      "link": "https://github.com/nhsx/COVID-19-app-iOS-BETA",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-06-24 15:03:54.204000",
-      "description": "",
-      "license": "",
-      "views": 121,
-      "category": "Phenomics",
+      "modified": "2022-07-04 03:08:56.052000",
+      "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
+      "license": "MIT",
+      "views": 55,
+      "category": "Mobile Application",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Phenomics"
+        "Contact Tracing",
+        "iOS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Objective-C",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19009,
+      "type": "",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-06-09 16:27:58.722000",
+      "description": "",
+      "license": "",
+      "views": 142,
+      "category": "",
+      "relations": [],
+      "keywords": [
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -183,29 +207,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19007,
+      "_id": 19001,
       "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-06-28 00:44:15.811000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "modified": "2022-07-04 07:17:59.349000",
+      "description": "",
       "license": "",
-      "views": 245,
-      "category": "Mobile Application",
+      "views": 228,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Symptom Tracker",
-        " NCS"
+        "Modelling",
+        "Visualisation"
       ],
       "programming_languages": [
         {
-          "name": "Other",
+          "name": "R",
           "version": ""
         }
       ]
@@ -232,30 +256,6 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19009,
-      "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-06-09 16:27:58.722000",
-      "description": "",
-      "license": "",
-      "views": 142,
-      "category": "",
-      "relations": [],
-      "keywords": [
-        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -307,10 +307,10 @@
       ],
       "uploader": "",
       "issued": "2020-06-05 11:09:08.573000",
-      "modified": "2022-06-25 19:32:28.612000",
+      "modified": "2022-07-04 23:40:59.274000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 263,
+      "views": 264,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -735,10 +735,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-25 16:26:18.067000",
-      "modified": "2022-05-31 06:55:02.611000",
+      "modified": "2022-07-04 20:27:29.054000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 36,
+      "views": 37,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -783,10 +783,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-25 16:40:33.435000",
-      "modified": "2022-06-08 01:39:24.474000",
+      "modified": "2022-07-04 20:27:23.584000",
       "description": "Integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics.\n\nEasy-to-use visual environment for predictive analytics. No programming required. RapidMiner is easily the most powerful and intuitive graphical user interface for the design of analysis processes. Forget sifting through code! You can also choose to run in batch mode. Whatever you prefer, RapidMiner has it all.\n\nRapidMiner Python package:\nBoth Studio and Server classes provide a read and a write method for reading / writing data and other objects, and a run method to run processes. The method signatures are the same, with somewhat different extra parameters.\n\nStudio class requires a local Studio installation and is suitable in the following cases:\n\nImplementing certain data science steps in Python using your favorite IDE or notebook implementation. You may even use the resulting code afterwards in a RapidMiner process within an Execute Python operator.\nYou are using coding primarily, but you want to incorporate methods that are impemented in a RapidMiner process.\nCreating batch tasks that also interact with the repository and / or run processes.\nServer class connects directly to a Server instance without the need of a Studio installation. It is suitable in the following cases:\n\nCollaborating with RapidMiner users, sharing data easily.\nCalling, running, scheduling processes on the RapidMiner Server platform from a local script.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 23,
+      "views": 24,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -816,10 +816,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 08:52:30.895000",
-      "modified": "2022-02-24 16:06:26.484000",
+      "modified": "2022-07-04 20:27:19.218000",
       "description": "Machine learning software to solve data mining problems.\n\nWeka is a collection of machine learning algorithms for solving real-world data mining problems. It is written in Java and runs on almost any platform. The algorithms can either be applied directly to a dataset or called from your own Java code.\n\nWeka is tried and tested open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\n\nWeka contains a collection of visualization tools and algorithms for data analysis and predictive modelling, together with graphical user interfaces for easy access to these functions.\n\nWeka supports several standard data mining tasks, more specifically, data preprocessing, clustering, classification, regression, visualization, and feature selection. All of Weka's techniques are predicated on the assumption that the data is available as one flat file or relation, where each data point is described by a fixed number of attributes (normally, numeric or nominal attributes, but some other attribute types are also supported). Weka provides access to SQL databases using Java Database Connectivity and can process the result returned by a database query.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 17,
+      "views": 18,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1283,10 +1283,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:35:57.945000",
-      "modified": "2022-06-22 02:37:51.200000",
+      "modified": "2022-07-04 03:13:15.613000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 27,
+      "views": 28,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [
@@ -1445,10 +1445,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 12:48:31.681000",
-      "modified": "2022-05-31 06:54:53.684000",
+      "modified": "2022-07-04 20:16:43.833000",
       "description": "The Pimcore Platform\u2122 is a dual-licensed software application that is powered by the Open Source GPLv3 license and the enterprise-friendly Pimcore Commercial License (PCL). Pimcore is available free of charge as the Open Source Pimcore Community Edition or as the Pimcore Enterprise Subscription. Depending on your licensing needs, you can choose the right variant of Pimcore.",
       "license": "Open Source (GPL v3) or Enterprise subscription",
-      "views": 22,
+      "views": 23,
       "category": "Software Application",
       "relations": [],
       "keywords": [
@@ -1513,10 +1513,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 12:57:14.738000",
-      "modified": "2022-07-03 04:46:48.686000",
+      "modified": "2022-07-04 20:26:16.448000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 52,
+      "views": 53,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -1959,10 +1959,10 @@
       ],
       "uploader": 20203192139498904,
       "issued": "2020-11-10 21:22:31.243000",
-      "modified": "2022-06-22 06:16:07.778000",
+      "modified": "2022-07-04 20:25:38.600000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 24,
+      "views": 25,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -1993,10 +1993,10 @@
       ],
       "uploader": 20203192139498904,
       "issued": "2020-11-10 21:24:36.424000",
-      "modified": "2022-05-18 13:42:50.761000",
+      "modified": "2022-07-04 20:25:30.452000",
       "description": "This computer program is designed to extract diagnoses, dates, durations, laboratory results and selected examination findings (heart rate and blood pressure) from unstructured free text. The program was created based on text in general practice records from the Vision system, and information is encoded using Read Clinical Terms. The program uses lookup tables of phrases and synonyms which were created manually. The lookup tables can be edited in order to enable the program to detect new terms or improve its performance for diagnoses of interest.\n\n### Results & Insights\n\nThis is a small, fast, standalone information extraction system designed for text in primary care records. It is available in the form of a single executable file with plain text lookup tables. It can run in batch mode on any system with a Visual Basic 6 runtime, without requiring any additional software installation.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 32,
+      "views": 33,
       "category": "Rule-based NLP information extraction system",
       "relations": [],
       "keywords": [
@@ -2027,10 +2027,10 @@
       ],
       "uploader": 20203192139498904,
       "issued": "2020-11-10 21:27:09.896000",
-      "modified": "2022-06-08 01:39:31.029000",
+      "modified": "2022-07-04 20:25:20.256000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 37,
+      "views": 38,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2065,10 +2065,10 @@
       ],
       "uploader": 20203192139498904,
       "issued": "2020-11-10 21:29:44.793000",
-      "modified": "2022-06-08 01:38:26.828000",
+      "modified": "2022-07-04 20:25:13.602000",
       "description": "We have trained and validated a dedicated NER system to identify 7 categories: dosage, drug, duration, form, frequency, route and strength. We used transfer learning and self-supervised pre-training on 2.1 million documents from MIMIC EHR. Strict and lenient micro F1 achieved = 0.89 (0.95). \n\n### Results & Insights\n\nThe model is trained in order to support the clinical NLP community with a robust and accurate NER model for further downstream tasks. The development was motivated by two main goals: accuracy and interoperability. The model is written in Python 3.6+ and is compatible with spaCy pipelines, which is a free software for general NLP tasks.",
       "license": "MIT",
-      "views": 22,
+      "views": 23,
       "category": "Named entity recognition (NER) model",
       "relations": [],
       "keywords": [
@@ -2108,10 +2108,10 @@
       ],
       "uploader": 5623903674426547,
       "issued": "2020-11-19 17:51:59.408000",
-      "modified": "2022-06-03 07:41:44.143000",
+      "modified": "2022-07-04 20:25:01.169000",
       "description": "Application to identify instances of agitation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative, and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 6,
+      "views": 7,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2720,10 +2720,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:33:51.972000",
-      "modified": "2022-06-23 12:05:41.626000",
+      "modified": "2022-07-04 15:59:03.725000",
       "description": "Application to identify instances of emotional withdrawal.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2864,10 +2864,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:35:33.721000",
-      "modified": "2022-06-01 09:17:43.741000",
+      "modified": "2022-07-04 13:47:10.272000",
       "description": "Application to identify instances of guilt.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 6,
+      "views": 7,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3296,10 +3296,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:40:40.619000",
-      "modified": "2022-04-14 07:43:12.681000",
+      "modified": "2022-07-04 02:23:52.295000",
       "description": "Application to identify instances of negative symptoms.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 7,
+      "views": 8,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3908,10 +3908,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:47:57.600000",
-      "modified": "2022-05-29 18:25:02.465000",
+      "modified": "2022-07-04 10:56:07.014000",
       "description": "Application to identify instances of thought broadcasting..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 7,
+      "views": 8,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4412,10 +4412,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:53:53.553000",
-      "modified": "2022-06-29 14:23:27.782000",
+      "modified": "2022-07-04 21:40:52.239000",
       "description": "To identify instances of cocaine or crack cocaine use.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4628,10 +4628,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:56:28.394000",
-      "modified": "2022-06-21 18:15:41.377000",
+      "modified": "2022-07-04 20:19:32.722000",
       "description": "Application to identify instances of living alone..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 9,
+      "views": 10,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4808,10 +4808,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:58:38.296000",
-      "modified": "2022-02-24 19:07:41.966000",
+      "modified": "2022-07-04 03:04:44.054000",
       "description": "Application to identify instances of receiving current, recommended or planned general care package. This is a.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5783,10 +5783,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 17:13:01.381000",
-      "modified": "2022-06-26 05:16:23.608000",
+      "modified": "2022-07-04 13:22:24.885000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Other Non-specific points in time (Last Clinic, Since Surgery...).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 9,
+      "views": 10,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5818,10 +5818,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 17:17:26.014000",
-      "modified": "2022-02-24 18:13:24.884000",
+      "modified": "2022-07-04 22:11:37.700000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Date (Day, Month, Year).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 6,
+      "views": 7,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6028,10 +6028,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 18:12:16.709000",
-      "modified": "2022-06-29 17:41:19.498000",
+      "modified": "2022-07-04 20:18:52.945000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months, Years).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 10,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6063,10 +6063,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 18:14:02.741000",
-      "modified": "2022-03-16 09:58:43.244000",
+      "modified": "2022-07-04 20:18:49.398000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 8,
+      "views": 9,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6098,10 +6098,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 18:15:18.238000",
-      "modified": "2022-07-01 20:49:12.870000",
+      "modified": "2022-07-04 20:24:13.164000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Date (Day, Month, Year). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 14,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6131,10 +6131,10 @@
       ],
       "uploader": 5703995672678985,
       "issued": "2021-04-01 09:07:06.536000",
-      "modified": "2022-06-03 20:19:07.136000",
+      "modified": "2022-07-04 20:23:10.570000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 65,
+      "views": 66,
       "category": "Software",
       "relations": [],
       "keywords": [
