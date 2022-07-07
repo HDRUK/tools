@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2022-06-25 06:50:05.496000'
+  modified: '2022-07-06 14:41:49.295000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-06-26 03:04:23.474000'
+  modified: '2022-07-06 23:47:30.682000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 29
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -3437,7 +3437,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-25 20:23:30.607000'
+  modified: '2022-07-06 10:21:43.065000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3445,7 +3445,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 34325300107773192
@@ -4079,7 +4079,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-18 11:22:46.353000'
+  modified: '2022-07-06 15:32:06.655000'
   name: CRIS NLP Stupor
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4087,7 +4087,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 589024016540721
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-06-30 10:31:12.775000'
+  modified: '2022-07-06 20:54:01.695000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 245
+  views: 246
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-06-12 14:36:44.639000'
+  modified: '2022-07-06 16:30:39.494000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 280
+  views: 281
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-07-05 16:16:30.967000'
+  modified: '2022-07-06 11:17:54.914000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 164
+  views: 166
 - '@schema':
     type: tool
   _id: 5859299510804015
