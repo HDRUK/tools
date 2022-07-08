@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-07-04 23:40:59.274000'
+  modified: '2022-07-07 07:43:00.365000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 264
+  views: 265
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-05-31 06:54:44.746000'
+  modified: '2022-07-07 05:03:33.913000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -3637,7 +3637,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-21 18:30:14.619000'
+  modified: '2022-07-07 17:01:39.398000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3645,7 +3645,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 8753447336519478
@@ -4712,7 +4712,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-28 17:12:38.159000'
+  modified: '2022-07-08 00:54:05.484000'
   name: CRIS NLP Rheumatoid Arthritis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4720,7 +4720,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 5553218139257072
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-06-30 15:02:59.008000'
+  modified: '2022-07-07 13:10:08.622000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 108
+  views: 109
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-07-06 11:17:54.914000'
+  modified: '2022-07-07 11:28:14.987000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 166
+  views: 168
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-06-21 06:52:34.042000'
+  modified: '2022-07-07 17:13:45.293000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-06-30 11:47:19.833000'
+  modified: '2022-07-07 09:21:10.024000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 86
+  views: 87
