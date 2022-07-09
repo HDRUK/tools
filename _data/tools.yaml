@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-06-30 19:09:29.856000'
+  modified: '2022-07-08 10:12:21.360000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 114
+  views: 115
 - '@schema':
     type: tool
   _id: 19007
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-06-29 06:12:27.508000'
+  modified: '2022-07-08 02:13:04.772000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-05-09 06:19:56.693000'
+  modified: '2022-07-08 21:54:27.593000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -672,7 +672,7 @@ tools:
   - Text Analysis
   license: MIT license
   link: https://github.com/pandas-profiling/pandas-profiling
-  modified: '2022-03-25 03:23:40.284000'
+  modified: '2022-07-08 21:53:15.669000'
   name: Pandas Profiling
   programming_languages:
   - name: Python
@@ -680,7 +680,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 5463135278367706
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-07-04 20:27:23.584000'
+  modified: '2022-07-08 21:54:07.313000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-04-08 15:28:19.937000'
+  modified: '2022-07-08 21:54:51.478000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-06-29 16:08:28.526000'
+  modified: '2022-07-08 18:30:03.607000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 80
+  views: 82
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-05-09 09:23:35.535000'
+  modified: '2022-07-08 08:40:29.427000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -4631,7 +4631,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-05 16:14:59.047000'
+  modified: '2022-07-08 10:47:56.975000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4639,7 +4639,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -5629,7 +5629,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-05-31 06:52:36.420000'
+  modified: '2022-07-08 21:48:38.581000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5638,7 +5638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-06-08 01:39:35.795000'
+  modified: '2022-07-08 16:40:51.660000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6180,7 +6180,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-27 10:04:06.515000'
+  modified: '2022-07-08 08:07:59.458000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6188,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6048846655088114
