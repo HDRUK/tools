@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-07-04 07:17:59.349000'
+  modified: '2022-07-09 21:10:17.709000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 228
+  views: 229
 - '@schema':
     type: tool
   _id: 19008
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-04-01 07:43:39.575000'
+  modified: '2022-07-09 20:27:58.198000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-02-23 02:13:05.631000'
+  modified: '2022-07-09 06:24:29.970000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -3878,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-23 10:23:38.003000'
+  modified: '2022-07-09 16:23:32.481000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3886,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -4200,7 +4200,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-22 11:35:46.129000'
+  modified: '2022-07-09 06:04:58.312000'
   name: CRIS NLP Tearfulness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4208,7 +4208,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 7798542864371327
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-07-06 20:54:01.695000'
+  modified: '2022-07-09 16:38:58.048000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 246
+  views: 248
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-06-08 15:07:08.087000'
+  modified: '2022-07-09 15:18:53.122000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 4818714000171864
