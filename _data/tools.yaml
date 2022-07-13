@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-07-05 01:29:55.525000'
+  modified: '2022-07-12 23:54:38.613000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 246
+  views: 247
 - '@schema':
     type: tool
   _id: 19005
@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-07-11 04:49:27.418000'
+  modified: '2022-07-12 12:58:51.731000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 231
+  views: 232
 - '@schema':
     type: tool
   _id: 19008
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-05-16 15:49:43.659000'
+  modified: '2022-07-12 18:24:36.725000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -2271,7 +2271,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-04 20:25:01.169000'
+  modified: '2022-07-12 21:44:00.229000'
   name: test2.1
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2279,7 +2279,7 @@ tools:
   relations: []
   type: ''
   uploader: 5623903674426547
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -4280,7 +4280,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-04 10:56:07.014000'
+  modified: '2022-07-12 22:55:26.353000'
   name: CRIS NLP Thought Broadcast
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4288,7 +4288,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 401562528365353
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-25 22:36:29.068000'
+  modified: '2022-07-12 12:01:12.950000'
   name: CRIS NLP Domestic Violence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 39750647365114
@@ -5156,7 +5156,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-09 13:51:13.808000'
+  modified: '2022-07-12 04:35:44.435000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5164,7 +5164,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -6248,7 +6248,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-13 07:23:35.777000'
+  modified: '2022-07-12 21:46:22.979000'
   name: ExECT - Seizure Frequency - Number of seizures since Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6256,7 +6256,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 7503312670210915
@@ -6461,7 +6461,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-03-19 20:29:42.895000'
+  modified: '2022-07-12 13:42:38.018000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6469,7 +6469,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 22338246645769424
