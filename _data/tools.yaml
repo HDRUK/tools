@@ -138,7 +138,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-07-04 03:08:56.052000'
+  modified: '2022-07-13 08:03:28.547000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -146,7 +146,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 19009
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-06-20 05:40:00.844000'
+  modified: '2022-07-13 19:04:00.828000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 103
+  views: 104
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-07-08 21:54:07.313000'
+  modified: '2022-07-14 00:39:16.694000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-07-04 03:13:15.613000'
+  modified: '2022-07-13 02:52:55.233000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-07-07 05:03:33.913000'
+  modified: '2022-07-13 12:17:26.205000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -3196,7 +3196,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-25 03:57:46.712000'
+  modified: '2022-07-13 15:16:13.374000'
   name: CRIS NLP Hallucinations - visual
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3204,7 +3204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 4660577979812828
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-07-09 16:38:58.048000'
+  modified: '2022-07-13 17:31:26.905000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 248
+  views: 249
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-07-06 16:30:39.494000'
+  modified: '2022-07-13 15:24:55.921000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 281
+  views: 282
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-05-16 15:52:16.222000'
+  modified: '2022-07-13 12:17:40.892000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-07-01 09:46:53.895000'
+  modified: '2022-07-13 10:26:49.576000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-07-07 09:21:10.024000'
+  modified: '2022-07-13 10:26:25.369000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 87
+  views: 88
