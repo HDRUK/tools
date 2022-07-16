@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-06-24 17:04:33.636000'
+  modified: '2022-07-15 23:51:28.700000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 265
+  views: 266
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -3396,7 +3396,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-28 04:46:23.906000'
+  modified: '2022-07-15 15:41:26.645000'
   name: CRIS NLP Irritability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3404,7 +3404,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 5190548995052016
@@ -3477,7 +3477,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-05 10:40:41.492000'
+  modified: '2022-07-15 11:52:14.639000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3485,7 +3485,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -4521,7 +4521,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-12 16:19:08.571000'
+  modified: '2022-07-15 07:05:03.812000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4529,7 +4529,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -6618,7 +6618,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2022-07-04 20:23:10.570000'
+  modified: '2022-07-15 03:26:14.462000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6626,7 +6626,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-07-14 09:42:02.491000'
+  modified: '2022-07-15 14:49:51.323000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,4 +6930,4 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 89
+  views: 90
