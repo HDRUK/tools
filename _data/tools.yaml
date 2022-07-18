@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-07-10 10:59:46.282000'
+  modified: '2022-07-17 23:48:56.794000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1179,7 +1179,7 @@ tools:
   - Services Management
   license: Apache license
   link: https://www.talend.com/products/application-integration/esb-manuals-release-notes/
-  modified: '2022-06-28 01:54:50.144000'
+  modified: '2022-07-17 15:23:59.309000'
   name: Talend Open Studio For ESB
   programming_languages:
   - name: Java
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-07-04 20:26:16.448000'
+  modified: '2022-07-17 17:47:55.745000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -4401,7 +4401,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-03 02:10:24.632000'
+  modified: '2022-07-17 22:09:35.546000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4409,7 +4409,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -4561,7 +4561,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-30 16:10:44.307000'
+  modified: '2022-07-17 17:55:28.123000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4569,7 +4569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -6461,7 +6461,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-12 13:42:38.018000'
+  modified: '2022-07-17 14:32:27.691000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6469,7 +6469,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 22338246645769424
