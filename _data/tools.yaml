@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-07-18 13:47:24.335000'
+  modified: '2022-07-19 02:30:18.691000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-07-13 19:04:00.828000'
+  modified: '2022-07-19 14:17:04.027000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-07-14 10:23:12.635000'
+  modified: '2022-07-19 13:07:25.069000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 182
+  views: 183
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-07-02 20:21:45.828000'
+  modified: '2022-07-19 09:49:06.878000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 106
+  views: 107
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2042,7 +2042,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-07-08 08:40:29.427000'
+  modified: '2022-07-19 09:04:58.954000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2051,7 +2051,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-07-14 04:04:48.677000'
+  modified: '2022-07-19 08:39:42.338000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 250
+  views: 251
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-07-11 14:44:52.183000'
+  modified: '2022-07-19 16:21:14.500000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 73
+  views: 74
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6881,7 +6881,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-06-30 11:48:18.267000'
+  modified: '2022-07-19 09:49:51.099000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6889,7 +6889,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 83
+  views: 84
 - '@schema':
     type: tool
   _id: 22703411038557176
