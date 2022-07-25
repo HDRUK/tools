@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-07-20 18:58:29.060000'
+  modified: '2022-07-24 09:34:59.067000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 234
+  views: 235
 - '@schema':
     type: tool
   _id: 19008
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-06-28 10:40:28.798000'
+  modified: '2022-07-24 01:42:43.501000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-07-08 18:30:03.607000'
+  modified: '2022-07-24 18:40:34.953000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 82
+  views: 84
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -5320,7 +5320,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-02 13:22:22.203000'
+  modified: '2022-07-24 19:56:08.305000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5328,7 +5328,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-07-13 12:17:40.892000'
+  modified: '2022-07-24 04:30:26.503000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 67
+  views: 68
 - '@schema':
     type: tool
   _id: 5832340403218483
