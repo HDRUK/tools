@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-06-24 08:20:11.148000'
+  modified: '2022-07-25 14:41:13.258000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 143
+  views: 144
 - '@schema':
     type: tool
   _id: 19006
@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-07-12 23:54:38.613000'
+  modified: '2022-07-25 13:56:29.482000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 247
+  views: 248
 - '@schema':
     type: tool
   _id: 19005
@@ -138,7 +138,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-07-13 08:03:28.547000'
+  modified: '2022-07-26 00:44:40.819000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -146,7 +146,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 19009
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-07-16 17:19:30.310000'
+  modified: '2022-07-25 11:25:41.790000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 266
+  views: 267
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-06-29 14:43:44.063000'
+  modified: '2022-07-25 19:51:45.539000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-07-13 02:52:55.233000'
+  modified: '2022-07-25 23:25:41.116000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -3557,7 +3557,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-28 06:36:54.544000'
+  modified: '2022-07-25 08:02:40.027000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3565,7 +3565,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -4401,7 +4401,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-17 22:09:35.546000'
+  modified: '2022-07-25 12:34:30.345000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4409,7 +4409,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -4872,7 +4872,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-10 22:11:23.942000'
+  modified: '2022-07-25 15:31:31.951000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4880,7 +4880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-07-22 02:38:13.776000'
+  modified: '2022-07-25 23:44:10.308000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 252
+  views: 253
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5779,7 +5779,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-07-24 04:30:26.503000'
+  modified: '2022-07-26 00:59:26.501000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5787,7 +5787,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 5832340403218483
