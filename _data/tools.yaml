@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-07-27 14:23:53.182000'
+  modified: '2022-07-31 16:09:13.952000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 116
+  views: 117
 - '@schema':
     type: tool
   _id: 19007
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-07-08 21:54:27.593000'
+  modified: '2022-07-31 20:38:13.461000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-07-30 12:33:47.919000'
+  modified: '2022-07-31 15:05:03.713000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 272
+  views: 273
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2473,7 +2473,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-28 08:15:59.289000'
+  modified: '2022-07-31 13:44:07.499000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2481,7 +2481,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -4120,7 +4120,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-14 01:36:17.789000'
+  modified: '2022-07-31 17:38:04.421000'
   name: CRIS NLP Suicidal ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4128,7 +4128,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 865934738831172
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-25 15:17:30.649000'
+  modified: '2022-07-31 12:43:07.510000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-07-27 12:38:13.052000'
+  modified: '2022-07-31 15:52:43.366000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 254
+  views: 255
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-07-30 14:34:25.915000'
+  modified: '2022-07-31 15:40:50.839000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 175
+  views: 176
 - '@schema':
     type: tool
   _id: 5859299510804015
