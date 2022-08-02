@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-07-29 02:12:39.264000'
+  modified: '2022-08-01 08:38:33.143000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 268
+  views: 269
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-07-19 13:07:25.069000'
+  modified: '2022-08-01 08:11:09.080000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 183
+  views: 184
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1179,7 +1179,7 @@ tools:
   - Services Management
   license: Apache license
   link: https://www.talend.com/products/application-integration/esb-manuals-release-notes/
-  modified: '2022-07-17 15:23:59.309000'
+  modified: '2022-08-01 06:00:51.343000'
   name: Talend Open Studio For ESB
   programming_languages:
   - name: Java
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -5874,7 +5874,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-04-27 18:54:03.716000'
+  modified: '2022-08-01 01:31:40.854000'
   name: ExECT - Diagnosis of Multiple Epileptic Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -5882,7 +5882,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 9679267202313368
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-07-07 13:10:08.622000'
+  modified: '2022-08-01 13:31:49.983000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 109
+  views: 110
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-07-26 15:18:31.870000'
+  modified: '2022-08-01 12:31:42.573000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 75
+  views: 76
 - '@schema':
     type: tool
   _id: 4818714000171864
