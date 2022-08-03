@@ -1,4 +1,4 @@
-count: 182
+count: 191
 tools:
 - '@schema':
     type: tool
@@ -6931,3 +6931,270 @@ tools:
   type: ''
   uploader: 6045838202930374
   views: 92
+- '@schema':
+    type: tool
+  _id: 22557344081099216
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users\
+    \ can search and request access to all potential datasets across a population\
+    \ that precisely match the requirements of a research project. \n\nFree for all\
+    \ to download, use and share but please credit the Health Data Research Innovation\
+    \ Gateway when using this tool. "
+  issued: '2022-08-02 14:10:21.705000'
+  keywords:
+  - 'Gateway '
+  - Cohort Discovery
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
+  modified: '2022-08-02 15:00:35.850000'
+  name: The Cohort Discovery Tool - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 13
+- '@schema':
+    type: tool
+  _id: 9856286733786312
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK.\n\nThis one relates to the Gateway Community Forum - an open space to discuss\
+    \ health research topics, comment on resources like datasets and share ideas about\
+    \ how to improve the Gateway. \n\nFree for all to download, use and share but\
+    \ please credit the Health Data Research Innovation Gateway when using this tool."
+  issued: '2022-08-02 14:29:21.133000'
+  keywords:
+  - 'Gateway '
+  - 'Community '
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
+  modified: '2022-08-02 14:59:39.168000'
+  name: The Gateway Community Forum - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 3
+- '@schema':
+    type: tool
+  _id: 3683603699774525
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK.\n\nThis one relates to the HDR Innovation Gateway in general and summarises\
+    \ some of the key Gateway functions. \n\nFree for all to download, use and share\
+    \ but please credit the Health Data Research Innovation Gateway when using this\
+    \ tool."
+  issued: '2022-08-02 14:33:48.047000'
+  keywords:
+  - Gateway
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
+  modified: '2022-08-02 15:49:51.230000'
+  name: The Health Data Research Innovation Gateway - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 4
+- '@schema':
+    type: tool
+  _id: 9066817355949360
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence\
+    \ with expertise, tools, knowledge and ways of working to maximise the insights\
+    \ and innovations developed from health data. \n\nFree for all to download, use\
+    \ and share but please credit the Health Data Research UK when using this tool."
+  issued: '2022-08-02 14:45:44.164000'
+  keywords:
+  - HDRUK
+  - Hubs
+  - Pioneer
+  - Gut Reaction
+  - Breathe
+  - NHS Digi Trials
+  - Insight
+  - Data-Can
+  - Data-Now
+  - Data-Mind
+  - Alleviate
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
+  modified: '2022-08-02 15:41:59.788000'
+  name: Health Data Research Hub Network - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 2
+- '@schema':
+    type: tool
+  _id: 6737246365259231
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: 'Part of a set of infographics developed by Health Data Research UK
+    that help explain some of the Gateway''s key functionalities in an easy to understand
+    format as well as some of the other programmes and services available at HRD UK.
+
+
+    This one relates to how we make datasets and other resources on the Gateway more
+    discoverable.
+
+
+    Free for all to download, use and share but please credit the Health Data Research
+    Innovation Gateway when using this tool.'
+  issued: '2022-08-02 14:49:29.180000'
+  keywords:
+  - Gateway
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
+  modified: '2022-08-02 14:50:32.411000'
+  name: 'Data Discovery on the Gateway - infographic explainer '
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 2
+- '@schema':
+    type: tool
+  _id: 4194161877633651
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK.\n\nThis one relates to the training and career opportunities offered by\
+    \ HDR UK. \n\nFree for all to download, use and share, but please credit Health\
+    \ Data Research UK when using this tool."
+  issued: '2022-08-02 14:57:55.643000'
+  keywords:
+  - HDRUK
+  - Futures
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
+  modified: '2022-08-02 15:37:03.198000'
+  name: Data Training at HRD UK - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 2
+- '@schema':
+    type: tool
+  _id: 15058761018066248
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: 'Part of a set of infographics developed by Health Data Research UK
+    that help explain some of the Gateway''s key functionalities in an easy to understand
+    format as well as some of the other programmes and services available at HRD UK.
+
+
+    This one relates to the Gateway Data Use Register, a feature that shows how Gateway
+    datasets are being used, by whom and for what purpose.
+
+
+    Free for all to download, use and share but please credit the Health Data Research
+    Innovation Gateway when using this tool.'
+  issued: '2022-08-02 15:02:12.570000'
+  keywords:
+  - Gateway
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
+  modified: '2022-08-02 15:38:15.242000'
+  name: 'The Gateway Data Use Register - infographic explainer '
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 3
+- '@schema':
+    type: tool
+  _id: 3210312728444853
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: "Part of a set of infographics developed by Health Data Research UK\
+    \ that help explain some of the Gateway's key functionalities in an easy to understand\
+    \ format as well as some of the other programmes and services available at HRD\
+    \ UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how\
+    \ useful a particular dataset might be for a specific purpose. \n\nFree for all\
+    \ to download, use and share but please credit the Health Data Research Innovation\
+    \ Gateway when using this tool."
+  issued: '2022-08-02 15:36:45.517000'
+  keywords: []
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
+  modified: '2022-08-02 15:44:14.796000'
+  name: The Data Utility Framework - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 7
+- '@schema':
+    type: tool
+  _id: 5656962835943253
+  authors:
+  - 6545332055051722
+  category: infographic
+  description: 'Part of a set of infographics developed by Health Data Research UK
+    that help explain some of the Gateway''s key functionalities in an easy to understand
+    format as well as some of the other programmes and services available at HRD UK.
+
+
+    This one relates to how the Gateway is providing a single data access request
+    process built around the Five Safes Framework.
+
+
+    Free for all to download, use and share but please credit the Health Data Research
+    Innovation Gateway when using this tool.'
+  issued: '2022-08-02 15:46:02.640000'
+  keywords:
+  - Five Safes
+  license: CC BY NC 3.0
+  link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
+  modified: '2022-08-02 15:46:44.873000'
+  name: Data Access Requests - infographic explainer
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6545332055051722
+  views: 2
