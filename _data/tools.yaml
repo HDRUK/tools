@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-07-31 16:09:13.952000'
+  modified: '2022-08-06 10:00:17.118000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 19007
@@ -159,13 +159,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-07-26 17:15:14.029000'
+  modified: '2022-08-06 05:49:41.152000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 143
+  views: 144
 - '@schema':
     type: tool
   _id: 19001
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2022-07-26 20:16:51.062000'
+  modified: '2022-08-06 22:12:12.351000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -4601,7 +4601,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-26 16:27:55.159000'
+  modified: '2022-08-06 12:20:44.048000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4609,7 +4609,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 2046995342931326
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-07-08 16:40:51.660000'
+  modified: '2022-08-06 08:17:04.886000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -7006,7 +7006,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-08-04 11:07:04.913000'
+  modified: '2022-08-06 17:06:04.666000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7014,7 +7014,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7101,7 +7101,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-08-04 13:16:20.657000'
+  modified: '2022-08-06 05:32:38.302000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7109,7 +7109,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-05 04:05:19.569000'
+  modified: '2022-08-06 05:38:42.517000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 6
+  views: 7
