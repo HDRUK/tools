@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-06-07 08:39:04.096000'
+  modified: '2022-08-10 09:27:34.486000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2022-06-26 00:08:17.101000'
+  modified: '2022-08-10 09:47:10.090000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-08-09 16:06:07.395000'
+  modified: '2022-08-10 21:28:09.992000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 111
+  views: 114
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2158,7 +2158,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2022-07-27 18:35:26.754000'
+  modified: '2022-08-10 09:11:30.484000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2166,7 +2166,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -3155,7 +3155,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-03-13 08:55:50.943000'
+  modified: '2022-08-10 05:12:46.207000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3163,7 +3163,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -3597,7 +3597,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-04 01:45:40.063000'
+  modified: '2022-08-10 13:42:49.259000'
   name: CRIS NLP Negative symptoms
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3605,7 +3605,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4513526272264452
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-08-02 15:44:14.796000'
+  modified: '2022-08-10 08:09:50.126000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-06 05:38:42.517000'
+  modified: '2022-08-10 08:09:51.474000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 7
+  views: 8
