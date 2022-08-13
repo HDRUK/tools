@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-08-11 13:53:37.666000'
+  modified: '2022-08-12 22:59:27.613000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-07-25 19:51:45.539000'
+  modified: '2022-08-12 21:06:49.351000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-08-08 12:55:41.340000'
+  modified: '2022-08-12 10:53:45.486000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 185
+  views: 186
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-08-08 16:32:53.532000'
+  modified: '2022-08-12 20:16:28.072000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 274
+  views: 275
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-08-11 03:09:52.850000'
+  modified: '2022-08-12 16:34:32.123000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-07-30 14:35:36.535000'
+  modified: '2022-08-12 22:00:07.030000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -5972,7 +5972,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-05 08:16:07.723000'
+  modified: '2022-08-12 22:02:46.482000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5980,7 +5980,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 6648946954924415
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-08-09 03:43:06.044000'
+  modified: '2022-08-12 15:52:00.427000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 177
+  views: 178
 - '@schema':
     type: tool
   _id: 5859299510804015
