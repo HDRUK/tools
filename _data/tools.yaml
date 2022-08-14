@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-07-12 18:24:36.725000'
+  modified: '2022-08-13 07:21:35.123000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2022-06-01 17:28:53.966000'
+  modified: '2022-08-13 16:37:39.819000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-08-07 12:28:45.320000'
+  modified: '2022-08-13 03:23:43.326000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 258
+  views: 259
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6461,7 +6461,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-17 14:32:27.691000'
+  modified: '2022-08-13 05:31:10.428000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6469,7 +6469,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 22338246645769424
