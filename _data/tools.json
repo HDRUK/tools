@@ -6063,10 +6063,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 18:14:02.741000",
-      "modified": "2022-08-04 07:45:42.763000",
+      "modified": "2022-08-14 04:36:02.356000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 10,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
