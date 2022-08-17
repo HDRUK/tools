@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-07-26 00:44:40.819000'
+  modified: '2022-08-16 16:25:11.565000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 19004
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-08-12 21:06:49.351000'
+  modified: '2022-08-16 09:58:35.892000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 64
+  views: 66
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-08-12 10:53:45.486000'
+  modified: '2022-08-16 14:35:58.027000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 186
+  views: 187
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-07-21 00:29:40.389000'
+  modified: '2022-08-16 07:04:46.970000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-08-12 16:34:32.123000'
+  modified: '2022-08-16 12:40:02.505000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-05-02 13:01:17.975000'
+  modified: '2022-08-16 19:56:08.476000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -3437,7 +3437,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-16 21:31:57.765000'
+  modified: '2022-08-16 23:46:30.595000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3445,7 +3445,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 34325300107773192
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-08-13 03:23:43.326000'
+  modified: '2022-08-16 21:20:52.550000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 259
+  views: 260
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -7132,7 +7132,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-08-08 14:13:32.915000'
+  modified: '2022-08-16 18:32:32.215000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7140,7 +7140,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 5
+  views: 7
 - '@schema':
     type: tool
   _id: 3210312728444853
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-08-10 08:09:50.126000'
+  modified: '2022-08-16 12:54:29.880000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-15 14:31:38.737000'
+  modified: '2022-08-16 12:54:24.561000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 11
+  views: 13
