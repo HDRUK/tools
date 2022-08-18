@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-07-21 14:03:47.371000'
+  modified: '2022-08-17 21:02:38.035000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 126
+  views: 127
 - '@schema':
     type: tool
   _id: 19007
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-07-20 11:09:59.614000'
+  modified: '2022-08-17 08:59:36.452000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-07-25 23:25:41.116000'
+  modified: '2022-08-17 13:48:27.230000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-08-11 18:22:12.843000'
+  modified: '2022-08-17 02:52:41.148000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2793,7 +2793,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-22 09:06:52.925000'
+  modified: '2022-08-17 02:43:55.671000'
   name: CRIS NLP Disturbed sleep
   programming_languages:
   - name: Rule-based - GATE
@@ -2801,7 +2801,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 39814581374180632
@@ -2953,7 +2953,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-07 12:08:32.939000'
+  modified: '2022-08-17 23:55:23.353000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2961,7 +2961,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -3597,7 +3597,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-10 13:42:49.259000'
+  modified: '2022-08-17 02:05:54.203000'
   name: CRIS NLP Negative symptoms
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3605,7 +3605,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 4513526272264452
@@ -3878,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-09 16:23:32.481000'
+  modified: '2022-08-17 06:45:31.028000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3886,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5076,7 +5076,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-22 11:48:31.491000'
+  modified: '2022-08-17 10:57:51.831000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5084,7 +5084,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5908,7 +5908,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-29 15:53:57.248000'
+  modified: '2022-08-17 08:15:15.859000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5916,7 +5916,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -5972,7 +5972,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-12 22:02:46.482000'
+  modified: '2022-08-17 09:11:13.859000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5980,7 +5980,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 6648946954924415
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-08-12 15:52:00.427000'
+  modified: '2022-08-17 06:17:19.360000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 178
+  views: 179
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6951,7 +6951,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-08-15 10:56:44.713000'
+  modified: '2022-08-17 12:06:19.237000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6959,7 +6959,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 21
+  views: 25
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-16 12:54:24.561000'
+  modified: '2022-08-17 10:17:04.708000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 13
+  views: 15
