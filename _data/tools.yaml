@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-08-06 05:49:41.152000'
+  modified: '2022-08-18 09:05:15.353000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 144
+  views: 145
 - '@schema':
     type: tool
   _id: 19010
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-08-15 19:40:44.881000'
+  modified: '2022-08-18 08:32:14.023000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 273
+  views: 274
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-07-08 21:54:51.478000'
+  modified: '2022-08-18 10:47:17.737000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -1803,7 +1803,7 @@ tools:
   - Phenomics
   license: Apache 2
   link: https://portal.caliberresearch.org/
-  modified: '2022-07-24 18:40:34.953000'
+  modified: '2022-08-18 09:07:06.246000'
   name: HDR UK CALIBER Phenotype Portal
   programming_languages:
   - name: HTML
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 84
+  views: 85
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -2673,7 +2673,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-25 16:26:08.458000'
+  modified: '2022-08-18 21:10:30.361000'
   name: CRIS NLP Concrete thinking
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2681,7 +2681,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5813246720453065
@@ -3396,7 +3396,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-09 04:44:34.333000'
+  modified: '2022-08-18 10:26:25.501000'
   name: CRIS NLP Irritability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3404,7 +3404,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 5190548995052016
@@ -3477,7 +3477,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-03 08:13:11.272000'
+  modified: '2022-08-18 23:17:24.269000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3485,7 +3485,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -4561,7 +4561,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-17 17:55:28.123000'
+  modified: '2022-08-18 20:51:39.521000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4569,7 +4569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -4752,7 +4752,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-05 07:20:34.379000'
+  modified: '2022-08-18 16:33:01.090000'
   name: CRIS NLP Amphetamine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4760,7 +4760,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 28253502112101136
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-07-21 00:57:22.023000'
+  modified: '2022-08-18 19:29:10.421000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 283
+  views: 284
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6951,7 +6951,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-08-17 12:06:19.237000'
+  modified: '2022-08-18 11:29:17.146000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6959,7 +6959,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-17 10:17:04.708000'
+  modified: '2022-08-18 14:41:35.475000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 15
+  views: 16
