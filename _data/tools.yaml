@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-07-25 13:56:29.482000'
+  modified: '2022-08-19 13:27:20.254000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 248
+  views: 250
 - '@schema':
     type: tool
   _id: 19008
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-07-24 01:42:43.501000'
+  modified: '2022-08-19 05:23:04.940000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-08-12 20:16:28.072000'
+  modified: '2022-08-19 06:35:59.442000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 275
+  views: 276
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -4401,7 +4401,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-07 22:36:51.399000'
+  modified: '2022-08-19 05:34:28.504000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4409,7 +4409,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -5361,7 +5361,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-05 16:08:42.506000'
+  modified: '2022-08-19 03:21:12.762000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5369,7 +5369,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5482,7 +5482,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-09 08:28:41.439000'
+  modified: '2022-08-19 05:33:22.989000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5490,7 +5490,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-08-18 19:29:10.421000'
+  modified: '2022-08-19 09:54:30.210000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 284
+  views: 291
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6654,7 +6654,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-08-15 15:16:07.318000'
+  modified: '2022-08-19 03:08:35.297000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6662,7 +6662,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 114
+  views: 115
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-08-01 12:31:42.573000'
+  modified: '2022-08-19 19:39:05.077000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6951,7 +6951,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-08-18 11:29:17.146000'
+  modified: '2022-08-19 10:33:02.395000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6959,7 +6959,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -6979,7 +6979,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2022-08-04 13:14:52.209000'
+  modified: '2022-08-19 10:36:02.279000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6987,7 +6987,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 3683603699774525
@@ -7006,7 +7006,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-08-06 17:06:04.666000'
+  modified: '2022-08-19 19:51:36.087000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7014,7 +7014,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 14
+  views: 17
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7043,7 +7043,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2022-08-07 11:58:47.975000'
+  modified: '2022-08-19 13:21:20.166000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7051,7 +7051,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-18 14:41:35.475000'
+  modified: '2022-08-19 14:59:59.021000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 16
+  views: 18
