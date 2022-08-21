@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-08-05 06:19:35.425000'
+  modified: '2022-08-20 09:40:56.814000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 239
+  views: 240
 - '@schema':
     type: tool
   _id: 19002
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-08-08 22:20:41.763000'
+  modified: '2022-08-20 08:38:55.994000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -3637,7 +3637,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-20 20:45:38.403000'
+  modified: '2022-08-20 18:33:28.891000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3645,7 +3645,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 8753447336519478
