@@ -5942,7 +5942,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-15 14:22:26.895000'
+  modified: '2022-08-25 13:59:36.422000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5950,7 +5950,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -6180,7 +6180,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-16 22:40:43.244000'
+  modified: '2022-08-25 06:53:12.641000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6188,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -6320,7 +6320,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-04 22:11:37.700000'
+  modified: '2022-08-25 18:55:40.603000'
   name: ExECT -  Seizure Frequency - Number of seizures during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6328,7 +6328,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 11774991310353688
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-08-24 22:04:26.435000'
+  modified: '2022-08-25 13:07:03.696000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 181
+  views: 183
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7132,7 +7132,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-08-16 18:32:32.215000'
+  modified: '2022-08-25 23:24:29.134000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7140,7 +7140,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 3210312728444853
