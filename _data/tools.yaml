@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-08-16 16:25:11.565000'
+  modified: '2022-08-28 03:02:44.546000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 19004
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-08-26 10:38:13.446000'
+  modified: '2022-08-28 15:28:02.769000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 277
+  views: 278
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-08-13 07:21:35.123000'
+  modified: '2022-08-28 11:47:23.205000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -3958,7 +3958,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2021-11-25 19:35:04.604000'
+  modified: '2022-08-28 07:43:24.884000'
   name: CRIS NLP Poverty of speech
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3966,7 +3966,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 7722987021036569
@@ -4672,7 +4672,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-26 07:05:39.573000'
+  modified: '2022-08-28 08:15:47.237000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4680,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -4872,7 +4872,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-27 17:09:08.003000'
+  modified: '2022-08-28 10:25:11.195000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4880,7 +4880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4497599485611339
