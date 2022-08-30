@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-08-24 10:38:17.589000'
+  modified: '2022-08-29 18:48:14.917000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 241
+  views: 242
 - '@schema':
     type: tool
   _id: 19002
@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-07-25 14:41:13.258000'
+  modified: '2022-08-29 12:14:59.805000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 144
+  views: 145
 - '@schema':
     type: tool
   _id: 19003
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-08-28 15:28:02.769000'
+  modified: '2022-08-29 13:45:12.808000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 278
+  views: 279
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-08-26 19:52:40.399000'
+  modified: '2022-08-29 18:53:17.508000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 263
+  views: 264
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6248,7 +6248,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-21 07:00:15.461000'
+  modified: '2022-08-29 16:15:40.072000'
   name: ExECT - Seizure Frequency - Number of seizures since Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6256,7 +6256,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 7503312670210915
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-08-27 10:15:51.716000'
+  modified: '2022-08-29 03:50:10.976000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 186
+  views: 187
 - '@schema':
     type: tool
   _id: 5859299510804015
