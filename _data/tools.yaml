@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-08-23 09:13:33.714000'
+  modified: '2022-08-30 04:11:40.212000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-08-17 08:59:36.452000'
+  modified: '2022-08-30 22:59:22.317000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-08-23 13:48:35.013000'
+  modified: '2022-08-30 13:18:31.207000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 59
+  views: 60
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -4521,7 +4521,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-08 21:48:19.661000'
+  modified: '2022-08-30 05:14:03.754000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4529,7 +4529,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -4561,7 +4561,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-18 20:51:39.521000'
+  modified: '2022-08-30 07:53:52.553000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4569,7 +4569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-22 07:52:48.658000'
+  modified: '2022-08-30 09:24:14.148000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6783,7 +6783,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-07-07 17:13:45.293000'
+  modified: '2022-08-30 02:25:27.192000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6796,7 +6796,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-08-26 06:13:22.786000'
+  modified: '2022-08-30 14:38:15.342000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,7 +6930,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7101,7 +7101,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-08-22 17:07:46.901000'
+  modified: '2022-08-30 14:38:07.173000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7109,7 +7109,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-08-16 12:54:29.880000'
+  modified: '2022-08-30 14:38:02.498000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 9
+  views: 11
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-24 09:20:48.686000'
+  modified: '2022-08-30 13:06:28.747000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 19
+  views: 20
