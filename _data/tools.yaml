@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-08-19 13:27:20.254000'
+  modified: '2022-08-31 18:02:47.765000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 250
+  views: 251
 - '@schema':
     type: tool
   _id: 19008
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-08-18 09:05:15.353000'
+  modified: '2022-08-31 14:40:32.852000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 145
+  views: 146
 - '@schema':
     type: tool
   _id: 19010
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-08-30 04:11:40.212000'
+  modified: '2022-08-31 18:23:56.536000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 70
+  views: 71
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-08-30 13:18:31.207000'
+  modified: '2022-08-31 15:03:05.653000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 60
+  views: 61
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -3678,7 +3678,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-19 00:17:51.148000'
+  modified: '2022-08-31 08:59:24.253000'
   name: CRIS NLP Paranoia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3686,7 +3686,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 9581633158454506
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-08-29 18:53:17.508000'
+  modified: '2022-08-31 19:04:18.805000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 264
+  views: 265
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6951,7 +6951,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-08-24 11:27:58.226000'
+  modified: '2022-08-31 18:49:03.861000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6959,7 +6959,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7043,7 +7043,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2022-08-24 12:58:05.038000'
+  modified: '2022-08-31 08:43:48.193000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7051,7 +7051,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7101,7 +7101,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-08-30 14:38:07.173000'
+  modified: '2022-08-31 08:42:44.517000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7109,7 +7109,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-08-30 14:38:02.498000'
+  modified: '2022-08-31 08:41:07.985000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-08-30 13:06:28.747000'
+  modified: '2022-08-31 08:40:02.919000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 20
+  views: 21
