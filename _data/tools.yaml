@@ -3034,7 +3034,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-09 03:51:03.588000'
+  modified: '2022-09-04 04:41:17.162000'
   name: CRIS NLP Formal thought disorder
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3042,7 +3042,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9302896934152188
@@ -3236,7 +3236,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-21 19:55:06.838000'
+  modified: '2022-09-04 20:40:00.603000'
   name: CRIS NLP Helplessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3244,7 +3244,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6637375758831936
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-08-31 19:04:18.805000'
+  modified: '2022-09-04 04:09:01.761000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 265
+  views: 266
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-04 05:33:05.875000'
+  modified: '2022-09-04 16:07:53.284000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-08-30 14:38:15.342000'
+  modified: '2022-09-04 18:20:19.375000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,7 +6930,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 96
+  views: 97
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-08-31 08:41:07.985000'
+  modified: '2022-09-04 15:36:35.623000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 5656962835943253
