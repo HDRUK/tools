@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-08-29 18:48:14.917000'
+  modified: '2022-09-07 04:37:29.255000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 242
+  views: 244
 - '@schema':
     type: tool
   _id: 19008
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-09-05 10:51:36.038000'
+  modified: '2022-09-07 11:17:54.578000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 275
+  views: 277
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -3276,7 +3276,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-22 08:22:18.468000'
+  modified: '2022-09-07 17:31:17.387000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3284,7 +3284,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-09-04 04:09:01.761000'
+  modified: '2022-09-07 15:30:59.435000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 266
+  views: 267
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -7101,7 +7101,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-09-06 12:18:19.775000'
+  modified: '2022-09-07 08:19:08.492000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7109,7 +7109,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 15058761018066248
