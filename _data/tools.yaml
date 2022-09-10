@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-09-08 21:11:32.692000'
+  modified: '2022-09-09 06:56:59.174000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 149
+  views: 148
 - '@schema':
     type: tool
   _id: 19003
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-09-06 16:41:24.391000'
+  modified: '2022-09-09 22:26:01.001000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 72
+  views: 73
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-08-16 07:04:46.970000'
+  modified: '2022-09-09 16:54:21.506000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-09-02 14:28:03.622000'
+  modified: '2022-09-10 00:10:49.982000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -6180,7 +6180,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-25 06:53:12.641000'
+  modified: '2022-09-09 11:36:33.862000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6188,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 6048846655088114
