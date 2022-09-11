@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-09-09 06:56:59.174000'
+  modified: '2022-09-10 13:50:20.530000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 148
+  views: 151
 - '@schema':
     type: tool
   _id: 19003
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-08-27 21:07:28.004000'
+  modified: '2022-09-10 11:50:49.894000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 189
+  views: 190
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-08-17 02:52:41.148000'
+  modified: '2022-09-10 02:38:24.962000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 118
+  views: 120
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3155,7 +3155,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-03 06:03:13.626000'
+  modified: '2022-09-10 13:27:38.233000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3163,7 +3163,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -5116,7 +5116,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-08 00:05:55.425000'
+  modified: '2022-09-11 00:59:47.010000'
   name: CRIS NLP Domestic Violence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5124,7 +5124,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 39750647365114
@@ -5361,7 +5361,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-19 03:21:12.762000'
+  modified: '2022-09-10 16:22:29.251000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5369,7 +5369,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-08-06 08:17:04.886000'
+  modified: '2022-09-10 03:16:46.957000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6042,7 +6042,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-03 09:50:18.198000'
+  modified: '2022-09-10 14:46:57.494000'
   name: ExECT - Onset of Epileptic events - Date of Onset
   programming_languages:
   - name: Rule-based - GATE
@@ -6050,7 +6050,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 9424561588087120
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-04 16:07:53.284000'
+  modified: '2022-09-10 12:57:02.114000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 31510588088297676
