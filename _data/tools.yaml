@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-09-10 13:50:20.530000'
+  modified: '2022-09-12 04:28:39.274000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 151
+  views: 153
 - '@schema':
     type: tool
   _id: 19003
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-08-31 18:02:47.765000'
+  modified: '2022-09-12 15:16:54.638000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 251
+  views: 252
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-08-26 12:43:11.641000'
+  modified: '2022-09-12 21:20:48.013000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 107
+  views: 109
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2022-08-27 04:05:56.216000'
+  modified: '2022-09-12 09:47:55.462000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -2793,7 +2793,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-17 02:43:55.671000'
+  modified: '2022-09-12 10:12:00.955000'
   name: CRIS NLP Disturbed sleep
   programming_languages:
   - name: Rule-based - GATE
@@ -2801,7 +2801,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 39814581374180632
@@ -3718,7 +3718,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-30 15:03:23.179000'
+  modified: '2022-09-12 13:48:47.387000'
   name: CRIS NLP Passivity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3726,7 +3726,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 40914379331092480
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-09-07 15:30:59.435000'
+  modified: '2022-09-12 11:22:24.003000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 267
+  views: 269
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5664,7 +5664,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2022-07-11 12:02:30.286000'
+  modified: '2022-09-12 10:01:10.135000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5672,7 +5672,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5745,7 +5745,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-08-27 00:19:22.207000'
+  modified: '2022-09-12 01:16:11.951000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5753,7 +5753,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 293
+  views: 294
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5814,7 +5814,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-26 20:22:21.696000'
+  modified: '2022-09-12 18:53:41.959000'
   name: ExECT - Diagnosis of Epilepsy Syndrome
   programming_languages:
   - name: Rule-based - GATE
@@ -5822,7 +5822,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 8208317212225866
@@ -6461,7 +6461,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-13 05:31:10.428000'
+  modified: '2022-09-12 22:09:07.850000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6469,7 +6469,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 22338246645769424
@@ -6567,7 +6567,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-27 10:26:05.518000'
+  modified: '2022-09-12 05:45:18.528000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6575,7 +6575,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-09-08 10:10:35.075000'
+  modified: '2022-09-12 13:27:54.279000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,7 +6930,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 99
+  views: 100
 - '@schema':
     type: tool
   _id: 22557344081099216
