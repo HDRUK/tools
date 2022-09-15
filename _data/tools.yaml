@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-09-13 21:34:13.234000'
+  modified: '2022-09-14 02:34:02.726000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2022-06-16 17:46:15.249000'
+  modified: '2022-09-14 12:17:39.653000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -4913,7 +4913,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-06 03:24:57.406000'
+  modified: '2022-09-14 04:29:41.262000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4921,7 +4921,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 3879347797927448
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-09-12 11:22:24.003000'
+  modified: '2022-09-14 08:58:04.397000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 269
+  views: 270
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5972,7 +5972,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-17 09:11:13.859000'
+  modified: '2022-09-14 09:46:27.802000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5980,7 +5980,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 6648946954924415
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-09-12 13:27:54.279000'
+  modified: '2022-09-14 12:17:09.529000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,7 +6930,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-09-13 10:32:29.055000'
+  modified: '2022-09-14 12:16:27.640000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 24
+  views: 25
