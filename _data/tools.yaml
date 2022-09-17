@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-08-18 10:47:17.737000'
+  modified: '2022-09-16 05:00:43.346000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-08-17 13:48:27.230000'
+  modified: '2022-09-16 17:46:22.872000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 31
+  views: 33
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -3437,7 +3437,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-06 15:10:25.955000'
+  modified: '2022-09-16 11:08:34.651000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3445,7 +3445,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 34325300107773192
