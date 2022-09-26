@@ -6191,10 +6191,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:19:51.647000",
-      "modified": "2022-09-22 12:55:19.879000",
+      "modified": "2022-09-25 23:55:16.175000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 189,
+      "views": 190,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
