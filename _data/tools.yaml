@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-09-23 12:46:37.016000'
+  modified: '2022-09-27 10:41:46.130000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-09-14 02:34:02.726000'
+  modified: '2022-09-27 07:05:17.593000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-08-27 00:40:58.171000'
+  modified: '2022-09-27 05:52:10.375000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-09-22 12:10:39.899000'
+  modified: '2022-09-27 14:38:22.734000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 62
+  views: 65
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -3155,7 +3155,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-10 13:27:38.233000'
+  modified: '2022-09-27 21:45:48.145000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3163,7 +3163,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -5442,7 +5442,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-30 09:24:14.148000'
+  modified: '2022-09-27 08:29:18.553000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5450,7 +5450,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-09-26 04:38:00.369000'
+  modified: '2022-09-27 22:04:40.059000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 274
+  views: 275
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5908,7 +5908,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-22 15:39:30.404000'
+  modified: '2022-09-27 03:40:52.271000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5916,7 +5916,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 8356186742156964
