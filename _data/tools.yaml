@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-08-16 09:58:35.892000'
+  modified: '2022-09-29 04:26:59.148000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-09-18 11:58:25.583000'
+  modified: '2022-09-29 13:43:43.970000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-09-22 11:26:58.131000'
+  modified: '2022-09-29 12:07:03.628000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 283
+  views: 284
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1089,7 +1089,7 @@ tools:
   - Data Loading/Unloading
   license: Apache License 2.0
   link: https://github.com/Talend/tbd-studio-se
-  modified: '2022-07-22 05:48:44.322000'
+  modified: '2022-09-29 16:28:59.119000'
   name: Talend Open Studio For Big Data
   programming_languages:
   - name: Java
@@ -1097,7 +1097,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 38249871797050216
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-07-09 20:27:58.198000'
+  modified: '2022-09-29 08:34:38.339000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2022-09-12 09:47:55.462000'
+  modified: '2022-09-29 21:49:37.263000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-08-08 13:42:53.793000'
+  modified: '2022-09-29 07:40:51.480000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -3034,7 +3034,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-04 04:41:17.162000'
+  modified: '2022-09-29 19:43:50.874000'
   name: CRIS NLP Formal thought disorder
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3042,7 +3042,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 9302896934152188
@@ -6284,7 +6284,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-19 01:35:25.075000'
+  modified: '2022-09-29 05:40:11.731000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6293,7 +6293,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6320,7 +6320,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-06 15:40:50.213000'
+  modified: '2022-09-29 09:04:09.480000'
   name: ExECT -  Seizure Frequency - Number of seizures during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6328,7 +6328,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 11774991310353688
@@ -6729,7 +6729,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-09-15 08:53:46.426000'
+  modified: '2022-09-29 03:09:55.226000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6740,7 +6740,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6922,7 +6922,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-09-20 05:49:46.805000'
+  modified: '2022-09-29 15:45:08.258000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6930,7 +6930,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 104
+  views: 107
 - '@schema':
     type: tool
   _id: 22557344081099216
