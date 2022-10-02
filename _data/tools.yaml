@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-09-13 01:41:10.835000'
+  modified: '2022-10-02 00:22:44.683000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 254
+  views: 255
 - '@schema':
     type: tool
   _id: 19008
@@ -2077,7 +2077,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-07-26 20:34:31.301000'
+  modified: '2022-10-01 08:01:53.911000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2086,7 +2086,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -3878,7 +3878,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-02 03:14:25.347000'
+  modified: '2022-10-01 16:47:37.501000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3886,7 +3886,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5704,7 +5704,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-09-30 11:08:59.552000'
+  modified: '2022-10-01 04:38:50.093000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5714,7 +5714,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 2209051091137959
