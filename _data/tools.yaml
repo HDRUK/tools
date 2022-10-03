@@ -5562,7 +5562,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-06-19 01:22:22.091000'
+  modified: '2022-10-02 12:26:59.133000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5570,7 +5570,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6213,7 +6213,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-22 02:08:44.100000'
+  modified: '2022-10-02 12:45:52.948000'
   name: ExECT - Seizure Frequency - Number of seizures since a Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6221,7 +6221,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 45492169804048152
@@ -6692,7 +6692,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-09-25 23:55:16.175000'
+  modified: '2022-10-02 22:07:51.084000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6705,7 +6705,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 190
+  views: 191
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6837,7 +6837,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-08-19 19:39:05.077000'
+  modified: '2022-10-02 12:20:22.194000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6850,7 +6850,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 4818714000171864
