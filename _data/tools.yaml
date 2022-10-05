@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-10-03 12:40:36.177000'
+  modified: '2022-10-04 02:40:34.423000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 279
+  views: 280
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-08-30 22:59:22.317000'
+  modified: '2022-10-04 01:40:53.852000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-09-27 07:05:17.593000'
+  modified: '2022-10-04 14:18:28.221000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-09-11 17:27:08.353000'
+  modified: '2022-10-04 11:07:53.726000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -1936,8 +1936,8 @@ tools:
     type: tool
   _id: 3382768355125807
   authors:
-  - 6473490892875664
-  - 20203192139498904
+  - 6473490892875700
+  - 20203192139499000
   category: Clinical Informatics Pipeline
   description: "CogStack is designed to operationalise unstructured data resources.\
     \ It is a locally deployable, distributed, microservice architecture intended\
@@ -1960,7 +1960,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-09-28 10:18:52.114000'
+  modified: '2022-10-04 15:48:23.888000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1968,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 67
+  views: 81
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -4872,7 +4872,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-11 21:53:38.941000'
+  modified: '2022-10-04 07:32:46.846000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4880,7 +4880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5522,7 +5522,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-10-04 00:58:34.729000'
+  modified: '2022-10-04 14:31:47.370000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5530,7 +5530,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 278
+  views: 279
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5596,7 +5596,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2022-06-29 15:39:18.236000'
+  modified: '2022-10-04 15:21:54.488000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5604,7 +5604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -6951,7 +6951,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-09-22 16:21:37.893000'
+  modified: '2022-10-04 16:38:28.902000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6959,7 +6959,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 35
+  views: 37
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7158,7 +7158,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-09-13 13:05:38.263000'
+  modified: '2022-10-04 16:39:00.325000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7166,7 +7166,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7189,7 +7189,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-10-03 09:14:47.815000'
+  modified: '2022-10-04 15:26:42.110000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7197,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 29
+  views: 32
