@@ -1936,8 +1936,7 @@ tools:
     type: tool
   _id: 3382768355125807
   authors:
-  - 6473490892875700
-  - 20203192139499000
+  - 6473490892875664
   category: Clinical Informatics Pipeline
   description: "CogStack is designed to operationalise unstructured data resources.\
     \ It is a locally deployable, distributed, microservice architecture intended\
@@ -1960,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-10-04 15:48:23.888000'
+  modified: '2022-10-05 15:31:35.731000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1968,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 81
+  views: 90
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -4672,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-18 21:05:49.003000'
+  modified: '2022-10-05 21:34:20.778000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4680,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5972,7 +5971,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-14 09:46:27.802000'
+  modified: '2022-10-05 18:12:42.726000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5980,7 +5979,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 6648946954924415
@@ -6180,7 +6179,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-09 11:36:33.862000'
+  modified: '2022-10-05 13:56:06.750000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6188,7 +6187,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -7074,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-09-13 12:18:58.459000'
+  modified: '2022-10-05 03:56:00.806000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7082,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7101,7 +7100,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-09-20 05:47:59.066000'
+  modified: '2022-10-05 11:43:29.091000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7109,7 +7108,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7189,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-10-04 15:26:42.110000'
+  modified: '2022-10-05 11:07:38.249000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7197,4 +7196,4 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 32
+  views: 33
