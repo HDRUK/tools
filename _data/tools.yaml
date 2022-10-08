@@ -1,4 +1,4 @@
-count: 191
+count: 192
 tools:
 - '@schema':
     type: tool
@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-09-12 04:28:39.274000'
+  modified: '2022-10-07 12:30:54.359000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 153
+  views: 154
 - '@schema':
     type: tool
   _id: 19006
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-10-03 02:32:41.488000'
+  modified: '2022-10-07 05:21:45.796000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 193
+  views: 194
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-09-16 17:46:22.872000'
+  modified: '2022-10-07 12:19:22.056000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -2472,7 +2472,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-07 03:58:42.641000'
+  modified: '2022-10-07 16:57:55.263000'
   name: CRIS NLP Apathy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2480,7 +2480,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 9326456096531496
@@ -2872,7 +2872,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-25 10:13:22.585000'
+  modified: '2022-10-07 09:02:01.538000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2880,7 +2880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 9242053681629978
@@ -2912,7 +2912,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-05 12:06:23.174000'
+  modified: '2022-10-07 19:51:30.301000'
   name: CRIS NLP Elation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2920,7 +2920,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5524015711947725
@@ -3957,7 +3957,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-28 07:43:24.884000'
+  modified: '2022-10-07 01:16:30.290000'
   name: CRIS NLP Poverty of speech
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3965,7 +3965,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 7722987021036569
@@ -5703,7 +5703,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-10-01 04:38:50.093000'
+  modified: '2022-10-07 08:35:53.172000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-10-02 22:07:51.084000'
+  modified: '2022-10-07 05:22:04.319000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 191
+  views: 192
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-10-06 15:09:07.428000'
+  modified: '2022-10-07 04:31:38.029000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7197,3 +7197,29 @@ tools:
   type: ''
   uploader: 6545332055051722
   views: 33
+- '@schema':
+    type: tool
+  _id: 903414898203343
+  authors:
+  - 35263855878154104
+  - 9366300691646798
+  category: Data Modelling, Data Visualisation, Developer stack
+  description: This tools provide insights into the neonatal health data contained
+    within the National Neonatal Research Database (NNRD). The tools are aimed at
+    parents, clinical teams, researchers, and health service managers.
+  issued: '2022-10-07 09:08:46.800000'
+  keywords:
+  - Neonatal
+  - Visualisation tools
+  - NNRD
+  license: ''
+  link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
+  modified: '2022-10-07 14:43:44.829000'
+  name: Neonatal Data Visualisations
+  programming_languages:
+  - name: PowerBI
+    version: ''
+  relations: []
+  type: ''
+  uploader: 35263855878154104
+  views: 8

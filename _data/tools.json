@@ -1,5 +1,5 @@
 {
-  "count": 191,
+  "count": 192,
   "tools": [
     {
       "@schema": {
@@ -14,10 +14,10 @@
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-09-12 04:28:39.274000",
+      "modified": "2022-10-07 12:30:54.359000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 153,
+      "views": 154,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -564,10 +564,10 @@
       ],
       "uploader": 22850500618628944,
       "issued": "2020-09-03 14:23:18.139000",
-      "modified": "2022-10-03 02:32:41.488000",
+      "modified": "2022-10-07 05:21:45.796000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 193,
+      "views": 194,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1283,10 +1283,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:35:57.945000",
-      "modified": "2022-09-16 17:46:22.872000",
+      "modified": "2022-10-07 12:19:22.056000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 33,
+      "views": 34,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [
@@ -2287,10 +2287,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:28:48.571000",
-      "modified": "2022-08-07 03:58:42.641000",
+      "modified": "2022-10-07 16:57:55.263000",
       "description": "Application to extract the presence of apathy.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2647,10 +2647,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:33:01.552000",
-      "modified": "2022-06-25 10:13:22.585000",
+      "modified": "2022-10-07 09:02:01.538000",
       "description": "Application to extract occurrences where echolalia is present.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 9,
+      "views": 10,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2683,10 +2683,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:33:26.499000",
-      "modified": "2022-07-05 12:06:23.174000",
+      "modified": "2022-10-07 19:51:30.301000",
       "description": "Application to identify instances of elation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 7,
+      "views": 8,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3619,10 +3619,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:44:31.172000",
-      "modified": "2022-08-28 07:43:24.884000",
+      "modified": "2022-10-07 01:16:30.290000",
       "description": "Application to identify poverty of speech.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 5,
+      "views": 6,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5189,10 +5189,10 @@
       ],
       "uploader": 9541890091348464,
       "issued": "2021-02-01 14:08:40.523000",
-      "modified": "2022-10-01 04:38:50.093000",
+      "modified": "2022-10-07 08:35:53.172000",
       "description": "Markup is a website that allows clinicians to securely annotate a clinic letters. Markup makes us of the Unified Medical Language System (UMLS) to map annotations to Concept Unique Identifiers as standard. Markup also allows users to synthetically create their own training data to train machine learning and active learning models that generate annotation suggestions to the user. Current ML algorithms include Random Forest and Long-Short-Term-Memory (LSTM). Markup produces standoff format annotations so that annotations can be used with other software i.e. GATE.\n\n### Results & Insights\n\nPaper currently under review.",
       "license": "GNU Library or \"Lesser\" General Public License (LGPL)",
-      "views": 49,
+      "views": 50,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6190,10 +6190,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:19:51.647000",
-      "modified": "2022-10-02 22:07:51.084000",
+      "modified": "2022-10-07 05:22:04.319000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 191,
+      "views": 192,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6417,10 +6417,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 14:10:21.705000",
-      "modified": "2022-10-06 15:09:07.428000",
+      "modified": "2022-10-07 04:31:38.029000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 38,
+      "views": 39,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6672,6 +6672,38 @@
       "programming_languages": [
         {
           "name": "Webpage",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 903414898203343,
+      "type": "",
+      "name": "Neonatal Data Visualisations",
+      "link": "https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/",
+      "authors": [
+        35263855878154104,
+        9366300691646798
+      ],
+      "uploader": 35263855878154104,
+      "issued": "2022-10-07 09:08:46.800000",
+      "modified": "2022-10-07 14:43:44.829000",
+      "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
+      "license": "",
+      "views": 8,
+      "category": "Data Modelling, Data Visualisation, Developer stack",
+      "relations": [],
+      "keywords": [
+        "Neonatal",
+        "Visualisation tools",
+        "NNRD"
+      ],
+      "programming_languages": [
+        {
+          "name": "PowerBI",
           "version": ""
         }
       ]
