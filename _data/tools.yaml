@@ -3476,7 +3476,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-03 08:17:40.688000'
+  modified: '2022-10-09 03:31:17.904000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3484,7 +3484,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -6041,7 +6041,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-18 15:17:29.314000'
+  modified: '2022-10-09 19:45:37.700000'
   name: ExECT - Onset of Epileptic events - Date of Onset
   programming_languages:
   - name: Rule-based - GATE
@@ -6049,7 +6049,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 9424561588087120
@@ -6144,7 +6144,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-02-23 16:47:12.276000'
+  modified: '2022-10-09 21:25:30.982000'
   name: ExECT - Prescription of Anti-Epileptic Drugs
   programming_languages:
   - name: Rule-based - GATE
@@ -6152,7 +6152,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 3905005951708007
