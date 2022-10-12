@@ -114,7 +114,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-09-18 00:55:02.782000'
+  modified: '2022-10-11 08:00:34.294000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -122,7 +122,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 127
+  views: 128
 - '@schema':
     type: tool
   _id: 19006
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-06 08:53:26.482000'
+  modified: '2022-10-11 10:38:13.139000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 286
+  views: 287
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-10-10 16:40:39.606000'
+  modified: '2022-10-11 13:01:14.997000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 88
+  views: 89
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-07 14:43:44.829000'
+  modified: '2022-10-11 08:03:10.905000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,4 +7222,4 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 8
+  views: 9
