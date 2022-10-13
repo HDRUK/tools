@@ -183,13 +183,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2022-09-18 14:59:41.963000'
+  modified: '2022-10-12 22:26:50.382000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 84
+  views: 85
 - '@schema':
     type: tool
   _id: 19009
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-09-28 23:10:18.851000'
+  modified: '2022-10-12 12:27:23.631000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -6728,7 +6728,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-09-29 03:09:55.226000'
+  modified: '2022-10-12 12:08:45.010000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6739,7 +6739,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 105
+  views: 106
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-10-03 09:55:01.173000'
+  modified: '2022-10-12 14:44:50.814000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 108
+  views: 109
 - '@schema':
     type: tool
   _id: 22557344081099216
