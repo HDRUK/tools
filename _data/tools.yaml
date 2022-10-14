@@ -3957,7 +3957,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-07 01:16:30.290000'
+  modified: '2022-10-13 14:45:16.260000'
   name: CRIS NLP Poverty of speech
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3965,7 +3965,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 7722987021036569
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-10-02 12:20:22.194000'
+  modified: '2022-10-13 14:57:06.573000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 78
+  views: 79
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-10-11 13:01:14.997000'
+  modified: '2022-10-13 14:56:58.285000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 89
+  views: 90
 - '@schema':
     type: tool
   _id: 22703411038557176
