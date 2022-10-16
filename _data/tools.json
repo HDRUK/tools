@@ -5471,10 +5471,10 @@
       ],
       "uploader": 2742415330560255,
       "issued": "2021-02-23 16:00:12.173000",
-      "modified": "2022-10-05 18:12:42.726000",
+      "modified": "2022-10-15 22:14:57.239000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Time Period (Day/Week/Month\u2026) + Number of Time Periods\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
