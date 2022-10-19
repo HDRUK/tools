@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-10-07 12:30:54.359000'
+  modified: '2022-10-18 22:06:15.609000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 154
+  views: 156
 - '@schema':
     type: tool
   _id: 19003
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-10-17 23:11:56.353000'
+  modified: '2022-10-18 04:54:12.033000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 256
+  views: 258
 - '@schema':
     type: tool
   _id: 19008
@@ -1089,7 +1089,7 @@ tools:
   - Data Loading/Unloading
   license: Apache License 2.0
   link: https://github.com/Talend/tbd-studio-se
-  modified: '2022-09-29 16:28:59.119000'
+  modified: '2022-10-18 23:04:07.753000'
   name: Talend Open Studio For Big Data
   programming_languages:
   - name: Java
@@ -1097,7 +1097,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 38249871797050216
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2022-08-13 16:37:39.819000'
+  modified: '2022-10-18 07:55:41.687000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -4520,7 +4520,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-30 05:14:03.754000'
+  modified: '2022-10-18 19:57:42.619000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4528,7 +4528,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -5441,7 +5441,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-27 08:29:18.553000'
+  modified: '2022-10-18 21:20:26.909000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5449,7 +5449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6006,7 +6006,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-24 21:46:00.444000'
+  modified: '2022-10-18 16:58:59.396000'
   name: ExECT - Onset of Epileptic events - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6014,7 +6014,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 3312317147029946
@@ -6283,7 +6283,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-29 05:40:11.731000'
+  modified: '2022-10-18 21:25:59.054000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6292,7 +6292,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6782,7 +6782,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-09-13 18:02:38.274000'
+  modified: '2022-10-18 10:06:19.434000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-10-05 11:07:38.249000'
+  modified: '2022-10-18 06:12:37.954000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-11 08:03:10.905000'
+  modified: '2022-10-18 06:12:22.439000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,4 +7222,4 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 9
+  views: 10
