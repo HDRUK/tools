@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-10-12 12:27:23.631000'
+  modified: '2022-10-19 17:38:40.295000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 124
+  views: 125
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4630,7 +4630,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-26 10:55:20.638000'
+  modified: '2022-10-19 07:19:07.794000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4638,7 +4638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -4871,7 +4871,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-04 07:32:46.846000'
+  modified: '2022-10-19 18:11:52.184000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4879,7 +4879,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5075,7 +5075,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-17 10:57:51.831000'
+  modified: '2022-10-19 02:53:00.420000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5083,7 +5083,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5663,7 +5663,7 @@ tools:
   - corpus
   license: ''
   link: https://zenodo.org/record/1197188#.X_Lw62T7Rqu
-  modified: '2022-10-03 03:05:52.644000'
+  modified: '2022-10-19 11:31:30.805000'
   name: 'PheneBank: Processed Medline Abstracts and PMC full articles'
   programming_languages:
   - name: Machine learning
@@ -5671,7 +5671,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 5250418270097919
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-09-12 01:16:11.951000'
+  modified: '2022-10-19 08:25:15.095000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 294
+  views: 295
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -5907,7 +5907,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-16 12:33:04.182000'
+  modified: '2022-10-19 13:06:06.698000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5915,7 +5915,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -5971,7 +5971,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-15 22:14:57.239000'
+  modified: '2022-10-19 02:59:20.690000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5979,7 +5979,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 6648946954924415
