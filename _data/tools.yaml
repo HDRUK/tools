@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-09-20 05:44:47.868000'
+  modified: '2022-10-20 22:38:15.487000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 74
+  views: 75
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-17 03:51:15.967000'
+  modified: '2022-10-20 16:02:03.816000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 289
+  views: 290
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-10-08 15:14:20.150000'
+  modified: '2022-10-20 05:23:24.284000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-10-19 17:38:40.295000'
+  modified: '2022-10-20 11:10:24.980000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 125
+  views: 127
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1764,7 +1764,7 @@ tools:
   - IoT
   license: Apache License 2.0
   link: https://radar-base.org
-  modified: '2022-09-13 09:19:16.252000'
+  modified: '2022-10-20 11:39:45.024000'
   name: RADAR-base
   programming_languages:
   - name: Java
@@ -1776,7 +1776,7 @@ tools:
   relations: []
   type: ''
   uploader: 160230992424788
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 36083225792794328
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2022-09-28 03:53:43.831000'
+  modified: '2022-10-20 03:58:44.358000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -5441,7 +5441,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-18 21:20:26.909000'
+  modified: '2022-10-20 01:50:08.906000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5449,7 +5449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2022-08-07 16:18:44.689000'
+  modified: '2022-10-20 23:51:03.290000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 70
+  views: 73
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-10-10 16:35:28.786000'
+  modified: '2022-10-20 07:14:30.612000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-18 06:12:22.439000'
+  modified: '2022-10-20 21:43:21.839000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,4 +7222,4 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 10
+  views: 11
