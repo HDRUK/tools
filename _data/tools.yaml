@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-10-08 02:11:44.128000'
+  modified: '2022-10-21 17:23:15.178000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 119
+  views: 120
 - '@schema':
     type: tool
   _id: 19005
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-09-30 16:05:39.923000'
+  modified: '2022-10-21 23:21:51.444000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 110
+  views: 111
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-10-04 02:40:34.423000'
+  modified: '2022-10-21 01:30:15.551000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 280
+  views: 281
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-10-20 22:38:15.487000'
+  modified: '2022-10-21 02:09:07.767000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 75
+  views: 76
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -3717,7 +3717,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-12 13:48:47.387000'
+  modified: '2022-10-21 15:48:31.168000'
   name: CRIS NLP Passivity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3725,7 +3725,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 40914379331092480
@@ -3877,7 +3877,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-01 16:47:37.501000'
+  modified: '2022-10-21 07:44:13.343000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3885,7 +3885,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5155,7 +5155,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-11 09:03:46.136000'
+  modified: '2022-10-21 23:37:14.542000'
   name: CRIS NLP Loneliness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5163,7 +5163,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 8047622099308769
@@ -5196,7 +5196,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-10 19:31:47.015000'
+  modified: '2022-10-21 17:56:52.321000'
   name: CRIS NLP Family Intervention
   programming_languages:
   - name: Rule-based - GATE
@@ -5204,7 +5204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 34144622632313104
@@ -5561,7 +5561,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-10-02 12:26:59.133000'
+  modified: '2022-10-21 23:43:50.080000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5569,7 +5569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 8743888596993463
