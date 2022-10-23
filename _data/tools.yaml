@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-10-21 23:21:51.444000'
+  modified: '2022-10-22 09:21:31.239000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 111
+  views: 112
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-20 16:02:03.816000'
+  modified: '2022-10-22 12:48:04.727000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 290
+  views: 292
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-10-20 11:10:24.980000'
+  modified: '2022-10-22 19:28:03.832000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 127
+  views: 128
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-10-10 13:28:37.207000'
+  modified: '2022-10-22 17:33:52.578000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -5319,7 +5319,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-10 10:40:24.947000'
+  modified: '2022-10-22 22:15:42.379000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5327,7 +5327,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5561,7 +5561,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-10-21 23:43:50.080000'
+  modified: '2022-10-22 23:18:47.747000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5569,7 +5569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -5907,7 +5907,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-19 13:06:06.698000'
+  modified: '2022-10-22 18:32:21.250000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5915,7 +5915,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-10-07 05:22:04.319000'
+  modified: '2022-10-22 16:26:15.606000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 192
+  views: 194
 - '@schema':
     type: tool
   _id: 5859299510804015
