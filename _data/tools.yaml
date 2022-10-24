@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-22 12:48:04.727000'
+  modified: '2022-10-23 05:27:42.701000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 292
+  views: 293
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -4520,7 +4520,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-18 19:57:42.619000'
+  modified: '2022-10-23 10:51:55.357000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4528,7 +4528,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -5035,7 +5035,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-17 23:10:16.030000'
+  modified: '2022-10-23 02:50:20.109000'
   name: CRIS NLP Occupation
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5043,7 +5043,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 2516292612303388
@@ -5778,7 +5778,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-07-26 00:59:26.501000'
+  modified: '2022-10-23 01:42:12.261000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5786,7 +5786,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 69
+  views: 70
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-10-22 16:26:15.606000'
+  modified: '2022-10-23 04:37:18.743000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 194
+  views: 195
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-10-13 14:57:06.573000'
+  modified: '2022-10-23 23:34:55.930000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 4818714000171864
