@@ -2952,7 +2952,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-10 10:19:42.964000'
+  modified: '2022-10-24 06:03:04.988000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2960,7 +2960,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -5278,7 +5278,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-28 12:11:44.139000'
+  modified: '2022-10-24 07:09:39.675000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5286,7 +5286,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-10-19 08:25:15.095000'
+  modified: '2022-10-24 14:37:24.603000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 295
+  views: 301
 - '@schema':
     type: tool
   _id: 45701856330435576
