@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-09-28 12:21:24.499000'
+  modified: '2022-10-25 21:06:18.936000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 60
+  views: 61
 - '@schema':
     type: tool
   _id: 19004
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-23 05:27:42.701000'
+  modified: '2022-10-25 12:15:26.561000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 293
+  views: 294
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-10-04 14:18:28.221000'
+  modified: '2022-10-25 19:28:35.326000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-10-22 19:28:03.832000'
+  modified: '2022-10-25 20:24:55.532000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 128
+  views: 129
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-26 05:27:48.247000'
+  modified: '2022-10-25 01:57:40.062000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -4871,7 +4871,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-19 18:11:52.184000'
+  modified: '2022-10-25 02:16:33.869000'
   name: CRIS NLP MDMA
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4879,7 +4879,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 4497599485611339
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-10-24 14:37:24.603000'
+  modified: '2022-10-25 12:15:39.996000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 301
+  views: 307
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6319,7 +6319,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-29 09:04:09.480000'
+  modified: '2022-10-25 16:33:52.988000'
   name: ExECT -  Seizure Frequency - Number of seizures during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6327,7 +6327,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 11774991310353688
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-10-23 04:37:18.743000'
+  modified: '2022-10-25 19:06:33.215000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 195
+  views: 197
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-10-13 14:56:58.285000'
+  modified: '2022-10-25 11:30:48.631000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 90
+  views: 91
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -7005,7 +7005,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-09-15 08:21:16.593000'
+  modified: '2022-10-25 09:30:02.482000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7013,7 +7013,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-09-05 08:21:26.726000'
+  modified: '2022-10-25 09:31:19.623000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 3210312728444853
