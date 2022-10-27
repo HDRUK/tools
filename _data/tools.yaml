@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-09-29 07:40:51.480000'
+  modified: '2022-10-26 06:06:21.738000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -2041,7 +2041,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-08-23 07:41:59.048000'
+  modified: '2022-10-26 05:48:04.165000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2050,7 +2050,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -4520,7 +4520,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-23 10:51:55.357000'
+  modified: '2022-10-26 06:36:15.345000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4528,7 +4528,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-10-17 15:02:29.259000'
+  modified: '2022-10-26 22:26:21.144000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 282
+  views: 283
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-10-06 08:17:50.778000'
+  modified: '2022-10-26 16:20:27.374000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 42
+  views: 44
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5778,7 +5778,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-10-23 01:42:12.261000'
+  modified: '2022-10-26 08:43:18.790000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5786,7 +5786,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 70
+  views: 72
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -7005,7 +7005,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-10-25 09:30:02.482000'
+  modified: '2022-10-26 11:09:46.700000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7013,7 +7013,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-20 21:43:21.839000'
+  modified: '2022-10-26 12:14:54.269000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,4 +7222,4 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 11
+  views: 13
