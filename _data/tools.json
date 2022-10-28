@@ -1,5 +1,5 @@
 {
-  "count": 192,
+  "count": 196,
   "tools": [
     {
       "@schema": {
@@ -107,10 +107,10 @@
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-10-21 17:23:15.178000",
+      "modified": "2022-10-27 20:12:01.847000",
       "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
       "license": "GPLv3",
-      "views": 120,
+      "views": 121,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -192,10 +192,10 @@
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-10-18 04:54:12.033000",
+      "modified": "2022-10-27 18:04:16.525000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 258,
+      "views": 259,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -3079,10 +3079,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:38:07.665000",
-      "modified": "2022-09-26 20:15:10.493000",
+      "modified": "2022-10-27 10:11:46.702000",
       "description": "Application to identify instances of insomnia.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3295,10 +3295,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:40:40.619000",
-      "modified": "2022-10-10 04:58:43.856000",
+      "modified": "2022-10-27 20:45:43.883000",
       "description": "Application to identify instances of negative symptoms.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4879,10 +4879,10 @@
       ],
       "uploader": 6473490892875664,
       "issued": "2020-11-24 11:59:31.512000",
-      "modified": "2022-09-10 16:22:29.251000",
+      "modified": "2022-10-27 19:34:38.650000",
       "description": "Application to identify instances of receiving current or recommended meals on wheels (food delivery, usually.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5023,10 +5023,10 @@
       ],
       "uploader": 22057843612818416,
       "issued": "2020-11-27 13:12:33.096000",
-      "modified": "2022-10-26 22:26:21.144000",
+      "modified": "2022-10-27 15:35:05.274000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 283,
+      "views": 284,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -6690,10 +6690,10 @@
       ],
       "uploader": 35263855878154104,
       "issued": "2022-10-07 09:08:46.800000",
-      "modified": "2022-10-26 12:14:54.269000",
+      "modified": "2022-10-27 14:17:03.437000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 13,
+      "views": 15,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6704,6 +6704,114 @@
       "programming_languages": [
         {
           "name": "PowerBI",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 9343953854321668,
+      "type": "",
+      "name": "CaRROT-Mapper",
+      "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/",
+      "authors": [
+        22850500618628944
+      ],
+      "uploader": 22850500618628944,
+      "issued": "2022-10-27 13:42:55.322000",
+      "modified": "2022-10-27 13:51:22.740000",
+      "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
+      "license": "",
+      "views": 1,
+      "category": "Web application",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "Python, Django, React",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 3766311756007228,
+      "type": "",
+      "name": "CaRROT-CDM",
+      "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/",
+      "authors": [
+        22850500618628944
+      ],
+      "uploader": 22850500618628944,
+      "issued": "2022-10-27 13:45:14.117000",
+      "modified": "2022-10-27 13:51:20.402000",
+      "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
+      "license": "",
+      "views": 1,
+      "category": "Data Integration and ETL Tool",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "Python",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 47343683068994032,
+      "type": "",
+      "name": "CaRROT-Pseudonymise",
+      "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/",
+      "authors": [
+        22850500618628944
+      ],
+      "uploader": 22850500618628944,
+      "issued": "2022-10-27 13:48:09.761000",
+      "modified": "2022-10-27 13:51:17.325000",
+      "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
+      "license": "",
+      "views": 1,
+      "category": "Command  Line Interface",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "C#, Java, Python",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 12628697796296162,
+      "type": "",
+      "name": "HUTCH",
+      "link": "https://hdruk.github.io/hutch/",
+      "authors": [
+        22850500618628944
+      ],
+      "uploader": 22850500618628944,
+      "issued": "2022-10-27 13:51:02.305000",
+      "modified": "2022-10-27 13:51:14.793000",
+      "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
+      "license": "",
+      "views": 1,
+      "category": "Application",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "Webpage",
           "version": ""
         }
       ]

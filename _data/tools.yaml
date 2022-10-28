@@ -1,4 +1,4 @@
-count: 192
+count: 196
 tools:
 - '@schema':
     type: tool
@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-10-21 17:23:15.178000'
+  modified: '2022-10-27 20:12:01.847000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 120
+  views: 121
 - '@schema':
     type: tool
   _id: 19005
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-10-18 04:54:12.033000'
+  modified: '2022-10-27 18:04:16.525000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 258
+  views: 259
 - '@schema':
     type: tool
   _id: 19008
@@ -3355,7 +3355,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-26 20:15:10.493000'
+  modified: '2022-10-27 10:11:46.702000'
   name: CRIS NLP Insomnia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3363,7 +3363,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 16373391376770918
@@ -3596,7 +3596,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-10 04:58:43.856000'
+  modified: '2022-10-27 20:45:43.883000'
   name: CRIS NLP Negative symptoms
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3604,7 +3604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 4513526272264452
@@ -5360,7 +5360,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-10 16:22:29.251000'
+  modified: '2022-10-27 19:34:38.650000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5368,7 +5368,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-10-26 22:26:21.144000'
+  modified: '2022-10-27 15:35:05.274000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 283
+  views: 284
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-26 12:14:54.269000'
+  modified: '2022-10-27 14:17:03.437000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,4 +7222,109 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 13
+  views: 15
+- '@schema':
+    type: tool
+  _id: 9343953854321668
+  authors:
+  - 22850500618628944
+  category: Web application
+  description: 'CaRROT-Mapper is a webapp which allows the user to map the metadata
+    from a dataset to the OMOP standard, and produce mapping rules for ingestion by
+    CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.
+
+
+    CaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database,
+    and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL,
+    and Azure Functions.'
+  issued: '2022-10-27 13:42:55.322000'
+  keywords: []
+  license: ''
+  link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
+  modified: '2022-10-27 13:51:22.740000'
+  name: CaRROT-Mapper
+  programming_languages:
+  - name: Python, Django, React
+    version: ''
+  relations: []
+  type: ''
+  uploader: 22850500618628944
+  views: 1
+- '@schema':
+    type: tool
+  _id: 3766311756007228
+  authors:
+  - 22850500618628944
+  category: Data Integration and ETL Tool
+  description: The primary purpose of the CaRROT-CDM package is to Extract input datasets
+    and Transform them using mapping rules defined in a json file, outputting formatted
+    datasets in tsv format that can be Loaded into a database or other destination
+    (ETL).
+  issued: '2022-10-27 13:45:14.117000'
+  keywords: []
+  license: ''
+  link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
+  modified: '2022-10-27 13:51:20.402000'
+  name: CaRROT-CDM
+  programming_languages:
+  - name: Python
+    version: ''
+  relations: []
+  type: ''
+  uploader: 22850500618628944
+  views: 1
+- '@schema':
+    type: tool
+  _id: 47343683068994032
+  authors:
+  - 22850500618628944
+  category: Command  Line Interface
+  description: 'Co-connect-pseudonymise contains:
+
+
+    - a simple CLI (command line interface) to pseudonymise csv files
+
+    - a python workbook showing how pseudonymisation can be performed manually
+
+    - additional example code for C# and Java'
+  issued: '2022-10-27 13:48:09.761000'
+  keywords: []
+  license: ''
+  link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
+  modified: '2022-10-27 13:51:17.325000'
+  name: CaRROT-Pseudonymise
+  programming_languages:
+  - name: C#, Java, Python
+    version: ''
+  relations: []
+  type: ''
+  uploader: 22850500618628944
+  views: 1
+- '@schema':
+    type: tool
+  _id: 12628697796296162
+  authors:
+  - 22850500618628944
+  category: Application
+  description: 'Hutch is an open source tool that allows you to make your data discoverable
+    without compromising its integrity or security.
+
+
+    You do not need to grant any external systems or people access to your data.
+
+    You do not need to share your data with any other parties.
+
+    You do not need to allow external services to make incoming requests to your network.'
+  issued: '2022-10-27 13:51:02.305000'
+  keywords: []
+  license: ''
+  link: https://hdruk.github.io/hutch/
+  modified: '2022-10-27 13:51:14.793000'
+  name: HUTCH
+  programming_languages:
+  - name: Webpage
+    version: ''
+  relations: []
+  type: ''
+  uploader: 22850500618628944
+  views: 1
