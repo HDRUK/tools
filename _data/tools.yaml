@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-10-21 02:09:07.767000'
+  modified: '2022-11-01 13:05:17.061000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 76
+  views: 77
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-10-10 05:35:56.919000'
+  modified: '2022-11-01 04:10:53.959000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-10-25 12:15:26.561000'
+  modified: '2022-11-01 15:20:11.322000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 294
+  views: 295
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-09-16 05:00:43.346000'
+  modified: '2022-11-01 04:28:11.752000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-10-25 20:24:55.532000'
+  modified: '2022-11-01 14:29:40.321000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 129
+  views: 131
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2076,7 +2076,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-10-01 08:01:53.911000'
+  modified: '2022-11-01 18:53:42.574000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2085,7 +2085,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -2512,7 +2512,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-17 12:33:29.558000'
+  modified: '2022-11-01 14:39:39.404000'
   name: CRIS NLP Arousal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2520,7 +2520,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8133723352669997
@@ -2632,7 +2632,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-06 12:23:10.412000'
+  modified: '2022-11-01 22:48:56.337000'
   name: CRIS NLP Circumstantiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2640,7 +2640,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 1609057732616348
@@ -3556,7 +3556,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-21 02:46:39.228000'
+  modified: '2022-11-02 00:38:30.967000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3564,7 +3564,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -3957,7 +3957,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-13 14:45:16.260000'
+  modified: '2022-11-01 19:55:49.791000'
   name: CRIS NLP Poverty of speech
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3965,7 +3965,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 7722987021036569
@@ -4520,7 +4520,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-26 06:36:15.345000'
+  modified: '2022-11-01 13:04:46.511000'
   name: CRIS NLP Asthma
   programming_languages:
   - name: sem-EHR - GATE
@@ -4528,7 +4528,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -5075,7 +5075,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-19 02:53:00.420000'
+  modified: '2022-11-01 17:29:14.179000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5083,7 +5083,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5843,7 +5843,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-04-11 10:46:13.650000'
+  modified: '2022-11-01 06:38:36.801000'
   name: ExECT - Diagnosis of a Single Epileptic Seizure
   programming_languages:
   - name: Rule-based - GATE
@@ -5851,7 +5851,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 2545487412706753
@@ -5907,7 +5907,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-22 18:32:21.250000'
+  modified: '2022-11-01 04:24:55.199000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5915,7 +5915,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-10-25 19:06:33.215000'
+  modified: '2022-11-01 01:20:39.074000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 197
+  views: 198
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-10-05 03:56:00.806000'
+  modified: '2022-11-01 03:46:01.743000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7100,7 +7100,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-10-06 05:18:00.691000'
+  modified: '2022-11-01 03:45:13.256000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7108,7 +7108,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-10-27 13:51:14.793000'
+  modified: '2022-11-01 03:44:43.145000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 1
+  views: 2
