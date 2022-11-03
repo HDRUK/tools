@@ -114,7 +114,7 @@ tools:
   - NCS
   license: ''
   link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-10-11 08:00:34.294000'
+  modified: '2022-11-02 07:34:15.255000'
   name: Public Health England COVID-19 Tracker
   programming_languages:
   - name: Other
@@ -122,7 +122,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 128
+  views: 129
 - '@schema':
     type: tool
   _id: 19006
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-09-28 02:46:23.986000'
+  modified: '2022-11-02 15:49:39.618000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 86
+  views: 87
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-06-28 10:40:24.063000'
+  modified: '2022-11-02 21:24:09.329000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 56
+  views: 58
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-06-28 10:40:25.987000'
+  modified: '2022-11-02 21:25:17.564000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 34
+  views: 36
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-09-27 10:41:46.130000'
+  modified: '2022-11-02 21:29:24.549000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 45
+  views: 47
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-11-01 13:05:17.061000'
+  modified: '2022-11-02 21:30:17.894000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2022-10-20 05:23:24.284000'
+  modified: '2022-11-02 06:13:14.791000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -5115,7 +5115,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-08 01:48:50.169000'
+  modified: '2022-11-02 14:05:00.610000'
   name: CRIS NLP Domestic Violence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5123,7 +5123,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 39750647365114
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-10-28 04:20:46.997000'
+  modified: '2022-11-02 12:13:12.770000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 285
+  views: 286
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5873,7 +5873,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-08-01 01:31:40.854000'
+  modified: '2022-11-02 08:47:17.828000'
   name: ExECT - Diagnosis of Multiple Epileptic Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -5881,7 +5881,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 9679267202313368
@@ -6460,7 +6460,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-30 09:26:24.271000'
+  modified: '2022-11-02 15:30:00.568000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6468,7 +6468,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 22338246645769424
@@ -6728,7 +6728,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-10-29 21:35:33.549000'
+  modified: '2022-11-02 13:52:48.954000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6739,7 +6739,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 108
+  views: 110
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-01 03:44:43.145000'
+  modified: '2022-11-02 21:23:46.971000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 2
+  views: 3
