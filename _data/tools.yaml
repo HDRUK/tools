@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-11-02 21:30:17.894000'
+  modified: '2022-11-03 19:11:10.709000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 78
+  views: 79
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-10-28 11:53:45.048000'
+  modified: '2022-11-03 13:35:42.612000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 195
+  views: 196
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -2792,7 +2792,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-12 10:12:00.955000'
+  modified: '2022-11-03 11:42:11.346000'
   name: CRIS NLP Disturbed sleep
   programming_languages:
   - name: Rule-based - GATE
@@ -2800,7 +2800,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 39814581374180632
@@ -3436,7 +3436,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-10 10:47:43.970000'
+  modified: '2022-11-03 11:25:36.199000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3444,7 +3444,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 34325300107773192
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-10-23 23:34:55.930000'
+  modified: '2022-11-03 18:13:24.939000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2022-10-27 13:51:22.740000'
+  modified: '2022-11-03 18:17:41.108000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 1
+  views: 2
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-02 21:23:46.971000'
+  modified: '2022-11-03 19:10:05.507000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 3
+  views: 4
