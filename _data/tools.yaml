@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-02 21:24:09.329000'
+  modified: '2022-11-04 14:53:06.719000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-11-03 19:11:10.709000'
+  modified: '2022-11-04 17:23:15.966000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 79
+  views: 81
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-11-01 15:20:11.322000'
+  modified: '2022-11-04 08:42:57.771000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 295
+  views: 296
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1255,7 +1255,7 @@ tools:
   - Data Reconciliation and Matching
   license: Apache License 2.0
   link: http://openrefine.org/
-  modified: '2022-08-26 19:41:40.623000'
+  modified: '2022-11-04 17:07:00.418000'
   name: OpenRefine
   programming_languages:
   - name: Java
@@ -1263,7 +1263,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 21347787115614536
@@ -5907,7 +5907,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-01 04:24:55.199000'
+  modified: '2022-11-04 13:27:55.583000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5915,7 +5915,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-10-04 16:39:00.325000'
+  modified: '2022-11-04 11:32:57.117000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 17
+  views: 19
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-03 19:10:05.507000'
+  modified: '2022-11-04 16:12:42.363000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 4
+  views: 6
