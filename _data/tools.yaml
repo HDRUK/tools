@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-11-01 04:10:53.959000'
+  modified: '2022-11-05 17:31:51.539000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-01 14:29:40.321000'
+  modified: '2022-11-05 20:22:01.602000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 131
+  views: 133
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3235,7 +3235,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-19 21:49:11.687000'
+  modified: '2022-11-05 04:40:02.348000'
   name: CRIS NLP Helplessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3243,7 +3243,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6637375758831936
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-02 12:13:12.770000'
+  modified: '2022-11-05 23:20:44.094000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 286
+  views: 288
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-10-26 16:20:27.374000'
+  modified: '2022-11-05 08:23:16.637000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-11-01 01:20:39.074000'
+  modified: '2022-11-05 10:45:06.694000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 198
+  views: 199
 - '@schema':
     type: tool
   _id: 5859299510804015
