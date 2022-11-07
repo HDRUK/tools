@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-10-27 20:12:01.847000'
+  modified: '2022-11-06 22:38:42.114000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 121
+  views: 122
 - '@schema':
     type: tool
   _id: 19005
@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2022-08-10 09:47:10.090000'
+  modified: '2022-11-06 23:27:41.986000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -2157,7 +2157,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2022-09-19 08:34:42.032000'
+  modified: '2022-11-06 03:44:27.388000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2165,7 +2165,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -3033,7 +3033,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-29 19:43:50.874000'
+  modified: '2022-11-06 10:45:09.777000'
   name: CRIS NLP Formal thought disorder
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3041,7 +3041,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 9302896934152188
@@ -3195,7 +3195,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-04 19:47:55.388000'
+  modified: '2022-11-06 21:59:11.736000'
   name: CRIS NLP Hallucinations - visual
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3203,7 +3203,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 4660577979812828
@@ -5196,7 +5196,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-21 17:56:52.321000'
+  modified: '2022-11-06 12:51:51.606000'
   name: CRIS NLP Family Intervention
   programming_languages:
   - name: Rule-based - GATE
@@ -5204,7 +5204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 34144622632313104
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-10-28 14:36:02.409000'
+  modified: '2022-11-06 21:25:04.702000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 308
+  views: 309
 - '@schema':
     type: tool
   _id: 45701856330435576
