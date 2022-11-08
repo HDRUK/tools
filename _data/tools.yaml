@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-10-22 09:21:31.239000'
+  modified: '2022-11-07 22:48:50.796000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 112
+  views: 113
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -6460,7 +6460,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-02 15:30:00.568000'
+  modified: '2022-11-07 17:19:07.327000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6468,7 +6468,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 22338246645769424
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-10-20 07:14:30.612000'
+  modified: '2022-11-07 22:19:28.640000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 9856286733786312
