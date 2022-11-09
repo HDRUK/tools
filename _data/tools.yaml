@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-11-07 22:48:50.796000'
+  modified: '2022-11-08 07:28:47.259000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-04 14:53:06.719000'
+  modified: '2022-11-08 15:56:20.460000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 59
+  views: 60
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -1255,7 +1255,7 @@ tools:
   - Data Reconciliation and Matching
   license: Apache License 2.0
   link: http://openrefine.org/
-  modified: '2022-11-04 17:07:00.418000'
+  modified: '2022-11-08 15:56:03.278000'
   name: OpenRefine
   programming_languages:
   - name: Java
@@ -1263,7 +1263,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 21347787115614536
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-05 20:22:01.602000'
+  modified: '2022-11-08 08:49:27.885000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-10-17 12:12:13.045000'
+  modified: '2022-11-08 10:23:02.239000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 93
+  views: 94
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -4560,7 +4560,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-30 07:53:52.553000'
+  modified: '2022-11-08 14:25:28.060000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4568,7 +4568,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-05 23:20:44.094000'
+  modified: '2022-11-08 15:03:59.153000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 288
+  views: 289
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6179,7 +6179,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-05 13:56:06.750000'
+  modified: '2022-11-08 03:10:49.588000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6187,7 +6187,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-10-18 06:12:37.954000'
+  modified: '2022-11-08 10:21:31.255000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-04 16:12:42.363000'
+  modified: '2022-11-08 15:57:33.242000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 6
+  views: 13
