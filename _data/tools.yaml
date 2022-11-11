@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-08-17 21:02:38.035000'
+  modified: '2022-11-10 03:09:32.718000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 127
+  views: 128
 - '@schema':
     type: tool
   _id: 19007
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-10-27 18:04:16.525000'
+  modified: '2022-11-10 02:17:10.416000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 259
+  views: 260
 - '@schema':
     type: tool
   _id: 19008
@@ -449,7 +449,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-02 21:29:24.549000'
+  modified: '2022-11-10 18:13:04.769000'
   name: 'Moorfields: Laser Beam'
   programming_languages:
   - name: Kotlin
@@ -457,7 +457,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 3345858879970587
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-09-14 00:28:19.568000'
+  modified: '2022-11-10 22:04:46.387000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-09-11 05:09:20.837000'
+  modified: '2022-11-10 10:54:25.958000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -2041,7 +2041,7 @@ tools:
   - corpus
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/
-  modified: '2022-10-26 05:48:04.165000'
+  modified: '2022-11-10 19:02:29.764000'
   name: 'Two Corpora of Ambiguities in the Biomedical Domain: Abbreviations and Gene
     Names'
   programming_languages:
@@ -2050,7 +2050,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 5807710558439234
@@ -3596,7 +3596,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-27 20:45:43.883000'
+  modified: '2022-11-10 19:30:59.195000'
   name: CRIS NLP Negative symptoms
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3604,7 +3604,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 4513526272264452
@@ -4751,7 +4751,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-18 16:33:01.090000'
+  modified: '2022-11-10 17:34:26.090000'
   name: CRIS NLP Amphetamine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4759,7 +4759,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 28253502112101136
@@ -4912,7 +4912,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-14 04:29:41.262000'
+  modified: '2022-11-10 19:46:41.555000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4920,7 +4920,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 3879347797927448
@@ -5278,7 +5278,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-24 07:09:39.675000'
+  modified: '2022-11-10 20:10:42.199000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5286,7 +5286,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5703,7 +5703,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-10-08 03:02:40.759000'
+  modified: '2022-11-10 12:54:39.802000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 51
+  views: 52
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-10-17 18:17:06.719000'
+  modified: '2022-11-10 04:32:39.677000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 118
+  views: 119
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-10-27 14:17:03.437000'
+  modified: '2022-11-10 12:07:02.189000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-09 16:57:24.334000'
+  modified: '2022-11-10 22:48:40.763000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 14
+  views: 16
