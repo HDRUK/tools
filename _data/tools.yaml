@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-11-09 06:52:03.604000'
+  modified: '2022-11-12 04:02:21.454000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 248
+  views: 249
 - '@schema':
     type: tool
   _id: 19002
@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-10-18 22:06:15.609000'
+  modified: '2022-11-12 04:11:06.038000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 156
+  views: 157
 - '@schema':
     type: tool
   _id: 19003
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-11-10 02:17:10.416000'
+  modified: '2022-11-12 04:02:24.240000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 260
+  views: 261
 - '@schema':
     type: tool
   _id: 19008
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-11-09 06:56:51.248000'
+  modified: '2022-11-12 04:11:06.635000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 148
+  views: 149
 - '@schema':
     type: tool
   _id: 19010
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-10-21 01:30:15.551000'
+  modified: '2022-11-12 04:02:28.205000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 281
+  views: 282
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-02 21:25:17.564000'
+  modified: '2022-11-12 12:23:57.208000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-11-03 13:35:42.612000'
+  modified: '2022-11-12 04:04:43.201000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 196
+  views: 197
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -2391,7 +2391,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-02-16 02:34:07.835000'
+  modified: '2022-11-12 11:30:41.104000'
   name: CRIS NLP Anergia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2399,7 +2399,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 38367991918736968
@@ -2512,7 +2512,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-01 14:39:39.404000'
+  modified: '2022-11-12 08:20:54.632000'
   name: CRIS NLP Arousal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2520,7 +2520,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 8133723352669997
@@ -2952,7 +2952,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-24 06:03:04.988000'
+  modified: '2022-11-12 17:20:01.829000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2960,7 +2960,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -3877,7 +3877,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-21 07:44:13.343000'
+  modified: '2022-11-12 17:56:04.103000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3885,7 +3885,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-08 15:03:59.153000'
+  modified: '2022-11-12 04:31:03.517000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 289
+  views: 291
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2022-11-06 21:25:04.702000'
+  modified: '2022-11-12 04:02:23.263000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 309
+  views: 310
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-09-18 07:58:54.289000'
+  modified: '2022-11-12 11:36:00.035000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6595,7 +6595,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-26 03:56:36.077000'
+  modified: '2022-11-12 11:35:47.294000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6603,7 +6603,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2022-10-20 23:51:03.290000'
+  modified: '2022-11-12 17:42:01.149000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 73
+  views: 75
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6728,7 +6728,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-11-02 13:52:48.954000'
+  modified: '2022-11-12 11:35:56.582000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6739,7 +6739,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 110
+  views: 111
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6782,7 +6782,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-10-18 10:06:19.434000'
+  modified: '2022-11-12 11:35:35.890000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-11-03 18:13:24.939000'
+  modified: '2022-11-12 11:35:55.318000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-10-28 02:24:21.065000'
+  modified: '2022-11-12 15:38:48.137000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 92
+  views: 93
 - '@schema':
     type: tool
   _id: 22703411038557176
