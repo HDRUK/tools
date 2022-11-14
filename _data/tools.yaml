@@ -68,7 +68,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-10-25 21:06:18.936000'
+  modified: '2022-11-13 01:24:11.878000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -76,7 +76,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 19004
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-09-08 16:22:54.747000'
+  modified: '2022-11-13 20:44:03.228000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -3757,7 +3757,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-09 05:45:50.606000'
+  modified: '2022-11-13 21:51:13.145000'
   name: CRIS NLP Persecutory ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3765,7 +3765,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 58586357288800792
@@ -4159,7 +4159,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-14 16:28:32.737000'
+  modified: '2022-11-13 23:08:43.270000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4167,7 +4167,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2022-11-11 12:26:27.511000'
+  modified: '2022-11-13 21:33:50.376000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 2
+  views: 3
 - '@schema':
     type: tool
   _id: 12628697796296162
