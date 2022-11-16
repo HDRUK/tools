@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-11-05 17:31:51.539000'
+  modified: '2022-11-15 11:57:03.874000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-10-07 12:19:22.056000'
+  modified: '2022-11-15 22:48:48.478000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -4630,7 +4630,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-19 07:19:07.794000'
+  modified: '2022-11-15 01:58:33.179000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4638,7 +4638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-14 17:48:55.034000'
+  modified: '2022-11-15 21:43:14.238000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 294
+  views: 295
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-11-09 12:03:28.360000'
+  modified: '2022-11-15 11:19:06.675000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-11-09 22:02:28.746000'
+  modified: '2022-11-15 16:09:10.575000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 903414898203343
