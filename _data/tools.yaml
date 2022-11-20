@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-11-12 04:02:28.205000'
+  modified: '2022-11-19 06:22:32.416000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 282
+  views: 283
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1255,7 +1255,7 @@ tools:
   - Data Reconciliation and Matching
   license: Apache License 2.0
   link: http://openrefine.org/
-  modified: '2022-11-08 15:56:03.278000'
+  modified: '2022-11-19 07:36:15.339000'
   name: OpenRefine
   programming_languages:
   - name: Java
@@ -1263,7 +1263,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 21347787115614536
@@ -6978,7 +6978,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2022-09-08 09:45:29.441000'
+  modified: '2022-11-19 06:41:08.544000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6986,7 +6986,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 3683603699774525
@@ -7042,7 +7042,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2022-09-28 11:57:42.680000'
+  modified: '2022-11-19 06:45:23.640000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7050,7 +7050,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-11-01 03:46:01.743000'
+  modified: '2022-11-19 06:47:49.797000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7100,7 +7100,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-11-16 11:33:48.573000'
+  modified: '2022-11-19 06:42:44.047000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7108,7 +7108,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2022-11-13 21:33:50.376000'
+  modified: '2022-11-19 01:06:30.153000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 3
+  views: 4
 - '@schema':
     type: tool
   _id: 12628697796296162
