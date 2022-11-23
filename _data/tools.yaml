@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-11-10 03:09:32.718000'
+  modified: '2022-11-22 09:05:08.396000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 128
+  views: 129
 - '@schema':
     type: tool
   _id: 19004
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-11-18 22:19:57.027000'
+  modified: '2022-11-22 07:57:02.937000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 299
+  views: 300
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-11-20 06:14:37.233000'
+  modified: '2022-11-22 03:16:48.203000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2022-11-21 18:23:54.907000'
+  modified: '2022-11-22 15:06:10.057000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 96
+  views: 97
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -3476,7 +3476,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-09 03:31:17.904000'
+  modified: '2022-11-23 00:53:02.259000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3484,7 +3484,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -3516,7 +3516,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-16 19:34:42.317000'
+  modified: '2022-11-22 16:15:19.031000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3524,7 +3524,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -5196,7 +5196,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-06 12:51:51.606000'
+  modified: '2022-11-22 17:06:33.779000'
   name: CRIS NLP Family Intervention
   programming_languages:
   - name: Rule-based - GATE
@@ -5204,7 +5204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 34144622632313104
@@ -6389,7 +6389,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-05-07 11:57:02.072000'
+  modified: '2022-11-22 17:53:16.282000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6397,7 +6397,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 21961003431993984
@@ -6425,7 +6425,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-08 22:16:35.545000'
+  modified: '2022-11-22 17:51:48.559000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since age
   programming_languages:
   - name: Rule-based - GATE
@@ -6433,7 +6433,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 9643382523814474
@@ -6460,7 +6460,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-07 17:19:07.327000'
+  modified: '2022-11-22 17:50:52.167000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6468,7 +6468,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 22338246645769424
@@ -6496,7 +6496,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-06-27 23:40:05.803000'
+  modified: '2022-11-22 17:49:40.149000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since non-specific
     time/point of interest
   programming_languages:
@@ -6505,7 +6505,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 8456910701220071
@@ -6532,7 +6532,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-07-27 07:59:17.566000'
+  modified: '2022-11-22 17:49:10.180000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6540,7 +6540,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-12 11:36:00.035000'
+  modified: '2022-11-22 17:45:33.116000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6595,7 +6595,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-12 11:35:47.294000'
+  modified: '2022-11-22 17:44:22.631000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6603,7 +6603,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 18
+  views: 23
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2022-11-12 17:42:01.149000'
+  modified: '2022-11-22 17:34:54.554000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 75
+  views: 76
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-11-16 01:55:33.635000'
+  modified: '2022-11-22 17:33:05.108000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 120
+  views: 123
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-11-18 22:25:56.509000'
+  modified: '2022-11-22 17:25:25.522000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 203
+  views: 205
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6728,7 +6728,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2022-11-21 09:41:58.712000'
+  modified: '2022-11-22 17:29:06.605000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6739,7 +6739,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 112
+  views: 113
 - '@schema':
     type: tool
   _id: 9074803277264144
@@ -6782,7 +6782,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-11-12 11:35:35.890000'
+  modified: '2022-11-22 17:27:37.498000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-11-12 11:35:55.318000'
+  modified: '2022-11-22 17:30:29.487000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 82
+  views: 83
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-11-12 15:38:48.137000'
+  modified: '2022-11-22 17:23:20.545000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 93
+  views: 95
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-11-18 01:07:10.712000'
+  modified: '2022-11-22 17:20:40.022000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 111
+  views: 114
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-11-18 20:16:46.010000'
+  modified: '2022-11-22 17:11:31.703000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -6978,7 +6978,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2022-11-19 06:41:08.544000'
+  modified: '2022-11-22 17:17:00.587000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6986,7 +6986,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 3683603699774525
@@ -7005,7 +7005,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-10-26 11:09:46.700000'
+  modified: '2022-11-22 17:16:05.205000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7013,7 +7013,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7042,7 +7042,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2022-11-19 06:45:23.640000'
+  modified: '2022-11-22 17:15:11.851000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7050,7 +7050,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-11-19 06:47:49.797000'
+  modified: '2022-11-22 17:14:02.413000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7100,7 +7100,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-11-19 06:42:44.047000'
+  modified: '2022-11-22 17:12:41.942000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7108,7 +7108,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 15058761018066248
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-11-18 23:38:16.013000'
+  modified: '2022-11-22 17:10:04.682000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 3210312728444853
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-11-18 20:16:31.066000'
+  modified: '2022-11-22 17:09:00.193000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-11-18 21:12:54.019000'
+  modified: '2022-11-22 18:27:53.663000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 39
+  views: 41
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-11-21 17:54:39.754000'
+  modified: '2022-11-22 15:03:21.790000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2022-11-18 22:22:52.244000'
+  modified: '2022-11-22 15:02:26.913000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 4
+  views: 5
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7264,7 +7264,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
-  modified: '2022-11-18 22:26:06.608000'
+  modified: '2022-11-22 15:01:12.309000'
   name: CaRROT-CDM
   programming_languages:
   - name: Python
@@ -7272,7 +7272,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 2
+  views: 3
 - '@schema':
     type: tool
   _id: 47343683068994032
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2022-11-19 01:06:30.153000'
+  modified: '2022-11-22 15:00:47.297000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 4
+  views: 6
 - '@schema':
     type: tool
   _id: 12628697796296162
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-21 17:54:25.805000'
+  modified: '2022-11-22 15:00:26.953000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 20
+  views: 23
