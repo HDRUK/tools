@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-11-08 07:28:47.259000'
+  modified: '2022-11-23 09:29:46.256000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 114
+  views: 115
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-11-14 14:02:14.434000'
+  modified: '2022-11-23 03:16:23.884000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 88
+  views: 89
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -1648,7 +1648,7 @@ tools:
   - 'Python Distribution '
   license: GPLv3
   link: https://docs.anaconda.com/
-  modified: '2022-10-04 11:07:53.726000'
+  modified: '2022-11-23 08:35:08.213000'
   name: Anaconda
   programming_languages:
   - name: Python
@@ -1658,7 +1658,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 5341781293971626
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-20 05:12:07.879000'
+  modified: '2022-11-23 21:07:33.201000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 136
+  views: 137
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4359,7 +4359,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-14 17:23:13.214000'
+  modified: '2022-11-23 05:57:42.784000'
   name: CRIS NLP Thought Withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4367,7 +4367,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 8558208161875798
@@ -5075,7 +5075,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-16 06:10:22.452000'
+  modified: '2022-11-23 08:40:42.460000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5083,7 +5083,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-18 23:48:49.553000'
+  modified: '2022-11-23 15:20:19.013000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 297
+  views: 299
 - '@schema':
     type: tool
   _id: 9268236012305552
