@@ -5,6 +5,37 @@
       "@schema": {
         "type": "tool"
       },
+      "_id": 19001,
+      "type": "",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-11-24 04:37:03.095000",
+      "description": "",
+      "license": "",
+      "views": 250,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling",
+        "Visualisation"
+      ],
+      "programming_languages": [
+        {
+          "name": "R",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -28,122 +59,6 @@
       "programming_languages": [
         {
           "name": "Java",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19006,
-      "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-22 09:05:08.396000",
-      "description": "",
-      "license": "",
-      "views": 129,
-      "category": "Phenomics",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Phenomics"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19004,
-      "type": "",
-      "name": "COVID-19 CovidSim Microsimulation Model",
-      "link": "https://github.com/mrc-ide/covid-sim",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-20 22:22:39.998000",
-      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
-      "license": "GPLv3",
-      "views": 123,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling"
-      ],
-      "programming_languages": [
-        {
-          "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19007,
-      "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-18 13:55:29.332000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
-      "license": "",
-      "views": 262,
-      "category": "Mobile Application",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Symptom Tracker",
-        " NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19005,
-      "type": "",
-      "name": "Public Health England COVID-19 Tracker",
-      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-02 07:34:15.255000",
-      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "license": "",
-      "views": 129,
-      "category": "Data Visualisation",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
           "version": ""
         }
       ]
@@ -183,23 +98,84 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19009,
+      "_id": 19004,
       "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "name": "COVID-19 CovidSim Microsimulation Model",
+      "link": "https://github.com/mrc-ide/covid-sim",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-12 04:11:06.635000",
-      "description": "",
-      "license": "",
-      "views": 149,
-      "category": "",
+      "modified": "2022-11-20 22:22:39.998000",
+      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+      "license": "GPLv3",
+      "views": 123,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
-        "COVID-19"
+        "COVID-19",
+        "Modelling"
+      ],
+      "programming_languages": [
+        {
+          "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19005,
+      "type": "",
+      "name": "Public Health England COVID-19 Tracker",
+      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-11-02 07:34:15.255000",
+      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "license": "",
+      "views": 129,
+      "category": "Data Visualisation",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19006,
+      "type": "",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-11-22 09:05:08.396000",
+      "description": "",
+      "license": "",
+      "views": 129,
+      "category": "Phenomics",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Phenomics"
       ],
       "programming_languages": []
     },
@@ -207,29 +183,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
+      "_id": 19007,
       "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-12 04:02:21.454000",
-      "description": "",
+      "modified": "2022-11-18 13:55:29.332000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 249,
-      "category": "Data Modelling",
+      "views": 262,
+      "category": "Mobile Application",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Modelling",
-        "Visualisation"
+        "Symptom Tracker",
+        " NCS"
       ],
       "programming_languages": [
         {
-          "name": "R",
+          "name": "Other",
           "version": ""
         }
       ]
@@ -256,6 +232,30 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19009,
+      "type": "",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2022-11-12 04:11:06.635000",
+      "description": "",
+      "license": "",
+      "views": 149,
+      "category": "",
+      "relations": [],
+      "keywords": [
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -884,10 +884,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 10:14:04.912000",
-      "modified": "2022-11-22 07:57:02.937000",
+      "modified": "2022-11-24 17:39:22.290000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 300,
+      "views": 301,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -5023,10 +5023,10 @@
       ],
       "uploader": 22057843612818416,
       "issued": "2020-11-27 13:12:33.096000",
-      "modified": "2022-11-23 15:20:19.013000",
+      "modified": "2022-11-24 13:01:25.801000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 299,
+      "views": 301,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5228,10 +5228,10 @@
       ],
       "uploader": 35215818431093604,
       "issued": "2021-02-03 10:48:38.147000",
-      "modified": "2022-11-12 04:02:23.263000",
+      "modified": "2022-11-24 17:39:27.522000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 310,
+      "views": 312,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6417,10 +6417,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 14:10:21.705000",
-      "modified": "2022-11-22 17:11:31.703000",
+      "modified": "2022-11-24 08:16:44.901000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 47,
+      "views": 48,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6477,10 +6477,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 14:33:48.047000",
-      "modified": "2022-11-22 17:16:05.205000",
+      "modified": "2022-11-24 21:37:01.323000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the HDR Innovation Gateway in general and summarises some of the key Gateway functions. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 23,
+      "views": 24,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6574,10 +6574,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 14:57:55.643000",
-      "modified": "2022-11-22 17:12:41.942000",
+      "modified": "2022-11-24 21:37:51.885000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the training and career opportunities offered by HDR UK. \n\nFree for all to download, use and share, but please credit Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 18,
+      "views": 19,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6604,10 +6604,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 15:02:12.570000",
-      "modified": "2022-11-22 17:10:04.682000",
+      "modified": "2022-11-24 21:37:47.528000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Data Use Register, a feature that shows how Gateway datasets are being used, by whom and for what purpose.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 12,
+      "views": 13,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6633,10 +6633,10 @@
       ],
       "uploader": 6545332055051722,
       "issued": "2022-08-02 15:36:45.517000",
-      "modified": "2022-11-22 17:09:00.193000",
+      "modified": "2022-11-24 21:37:52.561000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 26,
+      "views": 27,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6721,10 +6721,10 @@
       ],
       "uploader": 22850500618628944,
       "issued": "2022-10-27 13:42:55.322000",
-      "modified": "2022-11-22 15:02:26.913000",
+      "modified": "2022-11-24 21:51:24.871000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "",
-      "views": 5,
+      "views": 6,
       "category": "Web application",
       "relations": [],
       "keywords": [],
