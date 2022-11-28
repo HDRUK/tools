@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-11-26 06:39:01.464000'
+  modified: '2022-11-27 12:51:29.175000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 284
+  views: 285
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-11-25 18:51:14.333000'
+  modified: '2022-11-27 20:59:15.455000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 303
+  views: 304
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -3757,7 +3757,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-13 21:51:13.145000'
+  modified: '2022-11-27 16:18:01.908000'
   name: CRIS NLP Persecutory ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3765,7 +3765,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 58586357288800792
@@ -6179,7 +6179,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-08 03:10:49.588000'
+  modified: '2022-11-27 16:55:17.682000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6187,7 +6187,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-11-22 17:30:29.487000'
+  modified: '2022-11-27 23:54:54.228000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 83
+  views: 84
 - '@schema':
     type: tool
   _id: 4818714000171864
