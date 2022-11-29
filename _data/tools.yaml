@@ -2,29 +2,6 @@ count: 196
 tools:
 - '@schema':
     type: tool
-  _id: 19001
-  authors:
-  - 190000
-  category: Data Modelling
-  description: ''
-  issued: '2020-05-27 00:00:00'
-  keywords:
-  - COVID-19
-  - Modelling
-  - Visualisation
-  license: ''
-  link: https://cmmid.github.io/visualisations
-  modified: '2022-11-26 06:27:36.480000'
-  name: CMMID Interactive Applications
-  programming_languages:
-  - name: R
-    version: ''
-  relations: []
-  type: ''
-  uploader: ''
-  views: 251
-- '@schema':
-    type: tool
   _id: 19002
   authors:
   - 190000
@@ -50,6 +27,99 @@ tools:
   type: ''
   uploader: ''
   views: 160
+- '@schema':
+    type: tool
+  _id: 19006
+  authors:
+  - 190000
+  category: Phenomics
+  description: ''
+  issued: '2020-05-27 00:00:00'
+  keywords:
+  - COVID-19
+  - Phenomics
+  license: ''
+  link: http://covid19-phenomics.org/
+  modified: '2022-11-22 09:05:08.396000'
+  name: COVID-19 Phenomics
+  programming_languages: []
+  relations: []
+  type: ''
+  uploader: ''
+  views: 129
+- '@schema':
+    type: tool
+  _id: 19004
+  authors:
+  - 190000
+  category: Data Modelling
+  description: This is the COVID-19 CovidSim microsimulation model developed by the
+    MRC Centre for Global Infectious Disease Analysis hosted at Imperial College,
+    London.
+  issued: '2020-05-27 00:00:00'
+  keywords:
+  - COVID-19
+  - Modelling
+  license: GPLv3
+  link: https://github.com/mrc-ide/covid-sim
+  modified: '2022-11-20 22:22:39.998000'
+  name: COVID-19 CovidSim Microsimulation Model
+  programming_languages:
+  - name: C++
+    version: ''
+  relations: []
+  type: ''
+  uploader: ''
+  views: 123
+- '@schema':
+    type: tool
+  _id: 19007
+  authors:
+  - 190000
+  category: Mobile Application
+  description: "The COVID Symptom Study app has been developed by King\u2019s College\
+    \ London and health science company ZOE, and it is endorsed by the Welsh Government,\
+    \ NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million\
+    \ participants have downloaded the app and are using it to regularly report on\
+    \ their health in order to help stop COVID."
+  issued: '2020-05-27 00:00:00'
+  keywords:
+  - COVID-19
+  - Symptom Tracker
+  - ' NCS'
+  license: ''
+  link: https://covid.joinzoe.com/
+  modified: '2022-11-28 12:11:08.710000'
+  name: COVID-19 Symptom Tracker App
+  programming_languages:
+  - name: Other
+    version: ''
+  relations: []
+  type: ''
+  uploader: ''
+  views: 264
+- '@schema':
+    type: tool
+  _id: 19005
+  authors:
+  - 190000
+  category: Data Visualisation
+  description: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
+  issued: '2020-05-27 00:00:00'
+  keywords:
+  - COVID-19
+  - NCS
+  license: ''
+  link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
+  modified: '2022-11-02 07:34:15.255000'
+  name: Public Health England COVID-19 Tracker
+  programming_languages:
+  - name: Other
+    version: ''
+  relations: []
+  type: ''
+  uploader: ''
+  views: 129
 - '@schema':
     type: tool
   _id: 19003
@@ -79,97 +149,46 @@ tools:
   views: 62
 - '@schema':
     type: tool
-  _id: 19004
+  _id: 19009
   authors:
   - 190000
-  category: Data Modelling
-  description: This is the COVID-19 CovidSim microsimulation model developed by the
-    MRC Centre for Global Infectious Disease Analysis hosted at Imperial College,
-    London.
-  issued: '2020-05-27 00:00:00'
-  keywords:
-  - COVID-19
-  - Modelling
-  license: GPLv3
-  link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-11-20 22:22:39.998000'
-  name: COVID-19 CovidSim Microsimulation Model
-  programming_languages:
-  - name: C++
-    version: ''
-  relations: []
-  type: ''
-  uploader: ''
-  views: 123
-- '@schema':
-    type: tool
-  _id: 19005
-  authors:
-  - 190000
-  category: Data Visualisation
-  description: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  issued: '2020-05-27 00:00:00'
-  keywords:
-  - COVID-19
-  - NCS
-  license: ''
-  link: https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14
-  modified: '2022-11-02 07:34:15.255000'
-  name: Public Health England COVID-19 Tracker
-  programming_languages:
-  - name: Other
-    version: ''
-  relations: []
-  type: ''
-  uploader: ''
-  views: 129
-- '@schema':
-    type: tool
-  _id: 19006
-  authors:
-  - 190000
-  category: Phenomics
+  category: ''
   description: ''
   issued: '2020-05-27 00:00:00'
   keywords:
   - COVID-19
-  - Phenomics
   license: ''
-  link: http://covid19-phenomics.org/
-  modified: '2022-11-22 09:05:08.396000'
-  name: COVID-19 Phenomics
+  link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
+  modified: '2022-11-26 06:11:10.940000'
+  name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 129
+  views: 150
 - '@schema':
     type: tool
-  _id: 19007
+  _id: 19001
   authors:
   - 190000
-  category: Mobile Application
-  description: "The COVID Symptom Study app has been developed by King\u2019s College\
-    \ London and health science company ZOE, and it is endorsed by the Welsh Government,\
-    \ NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million\
-    \ participants have downloaded the app and are using it to regularly report on\
-    \ their health in order to help stop COVID."
+  category: Data Modelling
+  description: ''
   issued: '2020-05-27 00:00:00'
   keywords:
   - COVID-19
-  - Symptom Tracker
-  - ' NCS'
+  - Modelling
+  - Visualisation
   license: ''
-  link: https://covid.joinzoe.com/
-  modified: '2022-11-26 06:50:30.962000'
-  name: COVID-19 Symptom Tracker App
+  link: https://cmmid.github.io/visualisations
+  modified: '2022-11-28 12:14:36.645000'
+  name: CMMID Interactive Applications
   programming_languages:
-  - name: Other
+  - name: R
     version: ''
   relations: []
   type: ''
   uploader: ''
-  views: 263
+  views: 252
 - '@schema':
     type: tool
   _id: 19008
@@ -190,25 +209,6 @@ tools:
   type: ''
   uploader: ''
   views: 85
-- '@schema':
-    type: tool
-  _id: 19009
-  authors:
-  - 190000
-  category: ''
-  description: ''
-  issued: '2020-05-27 00:00:00'
-  keywords:
-  - COVID-19
-  license: ''
-  link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2022-11-26 06:11:10.940000'
-  name: BSTI COVID-19 Imaging Database
-  programming_languages: []
-  relations: []
-  type: ''
-  uploader: ''
-  views: 150
 - '@schema':
     type: tool
   _id: 19010
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-11-25 04:53:13.942000'
+  modified: '2022-11-28 20:42:59.254000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 116
+  views: 117
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-11-27 20:59:15.455000'
+  modified: '2022-11-28 02:57:18.572000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 304
+  views: 305
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-23 21:07:33.201000'
+  modified: '2022-11-28 13:00:52'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 137
+  views: 138
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2226,7 +2226,7 @@ tools:
   - transfer learning
   license: MIT
   link: https://github.com/kormilitzin/med7
-  modified: '2022-07-04 20:25:13.602000'
+  modified: '2022-11-28 01:18:54.006000'
   name: Med7
   programming_languages:
   - name: Python
@@ -2238,7 +2238,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 5330147649379575
@@ -5481,7 +5481,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-06 15:54:02.056000'
+  modified: '2022-11-28 15:38:45.891000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5489,7 +5489,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-11-22 17:23:20.545000'
+  modified: '2022-11-28 03:24:30.640000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 95
+  views: 96
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-22 15:00:26.953000'
+  modified: '2022-11-28 10:20:09.111000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 23
+  views: 24
