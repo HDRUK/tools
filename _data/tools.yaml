@@ -138,7 +138,7 @@ tools:
   - iOS
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-iOS-BETA
-  modified: '2022-11-13 01:24:11.878000'
+  modified: '2022-11-30 02:46:05.469000'
   name: COVID-19 Contact Tracing App - iOS
   programming_languages:
   - name: Objective-C
@@ -146,7 +146,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 19009
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-11-26 07:29:38.201000'
+  modified: '2022-11-30 18:40:13.843000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1179,7 +1179,7 @@ tools:
   - Services Management
   license: Apache license
   link: https://www.talend.com/products/application-integration/esb-manuals-release-notes/
-  modified: '2022-08-01 06:00:51.343000'
+  modified: '2022-11-30 18:49:54.467000'
   name: Talend Open Studio For ESB
   programming_languages:
   - name: Java
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -1255,7 +1255,7 @@ tools:
   - Data Reconciliation and Matching
   license: Apache License 2.0
   link: http://openrefine.org/
-  modified: '2022-11-20 06:15:02.769000'
+  modified: '2022-11-30 09:16:09.195000'
   name: OpenRefine
   programming_languages:
   - name: Java
@@ -1263,7 +1263,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 21347787115614536
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-28 13:00:52'
+  modified: '2022-11-30 10:35:44.392000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 138
+  views: 139
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3636,7 +3636,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-03 13:26:47.407000'
+  modified: '2022-11-30 19:10:51.620000'
   name: CRIS NLP Nightmares
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3644,7 +3644,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 8753447336519478
@@ -3877,7 +3877,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-20 01:40:50.368000'
+  modified: '2022-11-30 08:16:28.135000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3885,7 +3885,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -3917,7 +3917,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-16 13:24:15.621000'
+  modified: '2022-11-30 19:12:12.820000'
   name: CRIS NLP Poor motivation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3925,7 +3925,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4803515761146371
@@ -4078,7 +4078,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-26 21:28:53.873000'
+  modified: '2022-11-30 18:33:13.409000'
   name: CRIS NLP Stupor
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4086,7 +4086,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 589024016540721
@@ -5441,7 +5441,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-20 01:50:08.906000'
+  modified: '2022-11-30 20:32:00.751000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5449,7 +5449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-11-29 21:43:47.393000'
+  modified: '2022-12-01 00:26:29.618000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 303
+  views: 304
 - '@schema':
     type: tool
   _id: 9268236012305552
