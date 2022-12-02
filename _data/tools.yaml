@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-11-28 20:42:59.254000'
+  modified: '2022-12-01 04:40:27.526000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 117
+  views: 118
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-11-30 10:35:44.392000'
+  modified: '2022-12-01 10:43:34.457000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 139
+  views: 141
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2022-11-22 18:27:53.663000'
+  modified: '2022-12-01 16:22:04.351000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 41
+  views: 42
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-11-22 15:03:21.790000'
+  modified: '2022-12-01 16:05:57.620000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-11-28 10:20:09.111000'
+  modified: '2022-12-01 16:05:32.931000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 24
+  views: 26
