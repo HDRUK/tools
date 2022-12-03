@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-11-26 05:56:57.897000'
+  modified: '2022-12-02 20:03:31.556000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 160
+  views: 161
 - '@schema':
     type: tool
   _id: 19006
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-11-28 02:57:18.572000'
+  modified: '2022-12-02 14:47:13.858000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 305
+  views: 306
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2076,7 +2076,7 @@ tools:
   - corpus
   license: CC BY NC SA 2.0 UK
   link: http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/
-  modified: '2022-11-01 18:53:42.574000'
+  modified: '2022-12-02 20:02:48.118000'
   name: Corpus of Potentially Contradictory Research Claims from Cardiovascular Research
     Abstracts
   programming_languages:
@@ -2085,7 +2085,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 9918262199957348
@@ -4159,7 +4159,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-13 23:08:43.270000'
+  modified: '2022-12-02 20:01:03.113000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4167,7 +4167,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -5441,7 +5441,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-30 20:32:00.751000'
+  modified: '2022-12-03 01:01:43.451000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5449,7 +5449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 8376829721978589
