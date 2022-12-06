@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-12-04 21:07:06.154000'
+  modified: '2022-12-05 21:58:12.645000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 266
+  views: 267
 - '@schema':
     type: tool
   _id: 19005
@@ -1616,7 +1616,7 @@ tools:
   - Data Integration
   license: GNU Lesser General Public License Version 2.1, February 1999
   link: https://cytoscape.org/download.html
-  modified: '2022-11-16 05:59:36.340000'
+  modified: '2022-12-05 10:05:31.611000'
   name: Cytoscape
   programming_languages:
   - name: Java
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -1697,7 +1697,7 @@ tools:
   - Data Profiling
   license: BSD 2-Clause "Simplified" License
   link: https://pypi.org/project/pyxplorer/
-  modified: '2022-11-20 05:10:40.929000'
+  modified: '2022-12-05 18:40:07.544000'
   name: pyxplorer
   programming_languages:
   - name: Python
@@ -1705,7 +1705,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 4719349906913921
@@ -3235,7 +3235,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-05 04:40:02.348000'
+  modified: '2022-12-05 10:33:09.282000'
   name: CRIS NLP Helplessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3243,7 +3243,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6637375758831936
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-11-24 08:16:44.901000'
+  modified: '2022-12-05 10:24:31.988000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -6978,7 +6978,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2022-11-22 17:17:00.587000'
+  modified: '2022-12-05 10:24:44.272000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6986,7 +6986,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 3683603699774525
