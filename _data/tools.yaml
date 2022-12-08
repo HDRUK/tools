@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2022-12-06 08:18:05.986000'
+  modified: '2022-12-07 19:10:29.112000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 268
+  views: 269
 - '@schema':
     type: tool
   _id: 19005
@@ -3476,7 +3476,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-23 00:53:02.259000'
+  modified: '2022-12-07 18:08:29.662000'
   name: CRIS NLP Low Energy
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3484,7 +3484,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 5195828079307463
@@ -5561,7 +5561,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2022-11-25 19:29:51.983000'
+  modified: '2022-12-07 10:18:25.871000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5569,7 +5569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6836,7 +6836,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_3.html
-  modified: '2022-11-27 23:54:54.228000'
+  modified: '2022-12-07 06:38:47.766000'
   name: Interactive R tool to visualize the impact of COVID-19 on self-employment
     from a gender and ethnicity perspective
   programming_languages:
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 84
+  views: 85
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-12-06 15:20:29.987000'
+  modified: '2022-12-07 16:43:02.712000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 29
+  views: 30
