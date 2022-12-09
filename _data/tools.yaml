@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2022-10-12 22:26:50.382000'
+  modified: '2022-12-08 22:17:26.617000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 85
+  views: 86
 - '@schema':
     type: tool
   _id: 19010
@@ -2512,7 +2512,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-25 01:37:13.894000'
+  modified: '2022-12-08 23:06:07.814000'
   name: CRIS NLP Arousal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2520,7 +2520,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 8133723352669997
@@ -3516,7 +3516,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-22 16:15:19.031000'
+  modified: '2022-12-08 10:50:36.258000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3524,7 +3524,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-12-04 23:28:06.747000'
+  modified: '2022-12-08 19:21:02.132000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 306
+  views: 307
 - '@schema':
     type: tool
   _id: 9268236012305552
