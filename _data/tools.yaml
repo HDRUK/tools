@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-12-04 23:27:29.079000'
+  modified: '2022-12-09 15:39:38.633000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 203
+  views: 204
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1179,7 +1179,7 @@ tools:
   - Services Management
   license: Apache license
   link: https://www.talend.com/products/application-integration/esb-manuals-release-notes/
-  modified: '2022-11-30 18:49:54.467000'
+  modified: '2022-12-09 05:07:29.478000'
   name: Talend Open Studio For ESB
   programming_languages:
   - name: Java
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -3436,7 +3436,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-03 11:25:36.199000'
+  modified: '2022-12-09 09:25:18.792000'
   name: CRIS NLP Loss of coherence
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3444,7 +3444,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 34325300107773192
@@ -4831,7 +4831,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-17 01:09:37.612000'
+  modified: '2022-12-09 13:10:53.402000'
   name: CRIS NLP Cocaine or Crack Cocaine
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4839,7 +4839,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 11193757761939872
@@ -5319,7 +5319,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-22 22:15:42.379000'
+  modified: '2022-12-09 12:58:10.465000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5327,7 +5327,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 6237413304844819
