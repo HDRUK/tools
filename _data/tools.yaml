@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-08 15:56:20.460000'
+  modified: '2022-12-10 04:21:22.452000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 60
+  views: 61
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -3154,7 +3154,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-27 21:45:48.145000'
+  modified: '2022-12-10 02:52:06.076000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3162,7 +3162,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -6006,7 +6006,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-21 13:57:20.730000'
+  modified: '2022-12-10 15:46:12.559000'
   name: ExECT - Onset of Epileptic events - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6014,7 +6014,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 3312317147029946
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-12-04 07:12:21.365000'
+  modified: '2022-12-10 22:33:41.909000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 126
+  views: 127
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-11-25 18:51:20.653000'
+  modified: '2022-12-10 15:25:23.226000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 115
+  views: 116
 - '@schema':
     type: tool
   _id: 22557344081099216
