@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2022-12-03 15:36:07.536000'
+  modified: '2022-12-14 18:13:58.564000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 286
+  views: 287
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-12-01 10:43:34.457000'
+  modified: '2022-12-14 16:30:47.896000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 141
+  views: 143
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2391,7 +2391,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-12 11:30:41.104000'
+  modified: '2022-12-14 06:58:13.608000'
   name: CRIS NLP Anergia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2399,7 +2399,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 38367991918736968
@@ -2992,7 +2992,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-24 12:42:41.215000'
+  modified: '2022-12-15 01:05:00.692000'
   name: CRIS NLP Flight of ideas
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3000,7 +3000,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 9083608760967918
@@ -5075,7 +5075,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-23 08:40:42.460000'
+  modified: '2022-12-14 06:30:07.557000'
   name: CRIS NLP Lives alone
   programming_languages:
   - name: Rule-based - GATE
@@ -5083,7 +5083,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5556520615287888
@@ -6283,7 +6283,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-25 18:40:05.939000'
+  modified: '2022-12-14 09:23:36.488000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6292,7 +6292,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 31510588088297676
@@ -6425,7 +6425,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-22 17:51:48.559000'
+  modified: '2022-12-14 18:49:53.035000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since age
   programming_languages:
   - name: Rule-based - GATE
@@ -6433,7 +6433,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 9643382523814474
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2022-12-04 23:36:41.892000'
+  modified: '2022-12-14 09:23:08.916000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-12-13 22:19:17.438000'
+  modified: '2022-12-14 17:16:54.586000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 33
+  views: 35
