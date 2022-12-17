@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2022-12-04 23:27:39.732000'
+  modified: '2022-12-16 11:53:36.038000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 254
+  views: 255
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2022-12-01 04:40:27.526000'
+  modified: '2022-12-16 03:28:46.665000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 118
+  views: 120
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-12-04 23:27:28.893000'
+  modified: '2022-12-16 15:41:55.931000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 308
+  views: 309
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -3877,7 +3877,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-30 08:16:28.135000'
+  modified: '2022-12-17 00:30:42.417000'
   name: CRIS NLP Poor insight
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3885,7 +3885,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 36129592496699424
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2022-12-13 14:43:08.586000'
+  modified: '2022-12-16 14:23:19.667000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6109,7 +6109,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-18 14:03:57.922000'
+  modified: '2022-12-16 07:35:40.784000'
   name: ExECT - Febrile Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -6117,7 +6117,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 5963534697687911
@@ -7042,7 +7042,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2022-11-22 17:15:11.851000'
+  modified: '2022-12-16 07:09:51.500000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7050,7 +7050,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-12-13 13:31:45.954000'
+  modified: '2022-12-16 12:01:30.544000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 9343953854321668
