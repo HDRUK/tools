@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-12-13 20:52:41.699000'
+  modified: '2022-12-17 09:32:53.804000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2022-12-14 16:30:47.896000'
+  modified: '2022-12-17 18:17:09.446000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 143
+  views: 144
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4119,7 +4119,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-31 17:38:04.421000'
+  modified: '2022-12-17 10:47:30.659000'
   name: CRIS NLP Suicidal ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4127,7 +4127,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 865934738831172
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-25 01:57:40.062000'
+  modified: '2022-12-17 10:46:08.078000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -7005,7 +7005,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-11-25 23:55:57.768000'
+  modified: '2022-12-17 10:48:34.491000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7013,7 +7013,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-11-22 17:14:02.413000'
+  modified: '2022-12-17 09:28:27.596000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-12-04 23:36:42.164000'
+  modified: '2022-12-17 07:02:49.331000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 3210312728444853
