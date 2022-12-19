@@ -18,7 +18,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2022-12-04 23:28:13.876000'
+  modified: '2022-12-18 02:17:31.911000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 163
+  views: 164
 - '@schema':
     type: tool
   _id: 19006
@@ -313,13 +313,13 @@ tools:
   - dataset
   license: Public Domain Dedication and License
   link: https://peterhcharlton.github.io/pwdb/
-  modified: '2022-11-16 05:52:43.551000'
+  modified: '2022-12-18 13:14:02.645000'
   name: Pulse Wave Database
   programming_languages: []
   relations: []
   type: ''
   uploader: 56990094690269056
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 32805657207244064
@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2022-12-13 14:00:18.969000'
+  modified: '2022-12-18 22:56:03.438000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -3154,7 +3154,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-10 02:52:06.076000'
+  modified: '2022-12-18 13:45:51.896000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3162,7 +3162,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -5401,7 +5401,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-29 20:39:18.672000'
+  modified: '2022-12-18 14:36:52.729000'
   name: CRIS NLP HbA1c
   programming_languages:
   - name: Rule-based - GATE
@@ -5409,7 +5409,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5385805814031088
@@ -6041,7 +6041,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-28 11:54:49.250000'
+  modified: '2022-12-18 13:26:39.310000'
   name: ExECT - Onset of Epileptic events - Date of Onset
   programming_languages:
   - name: Rule-based - GATE
@@ -6049,7 +6049,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9424561588087120
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2022-12-05 10:24:31.988000'
+  modified: '2022-12-18 22:57:16.541000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2022-12-04 23:27:28.666000'
+  modified: '2022-12-18 03:24:15.257000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 3766311756007228
