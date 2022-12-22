@@ -3073,7 +3073,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-25 04:10:01.929000'
+  modified: '2022-12-21 15:24:56.892000'
   name: CRIS NLP Grandiosity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3081,7 +3081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 977755760297875
@@ -3797,7 +3797,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-03 12:51:48.656000'
+  modified: '2022-12-21 06:19:23.369000'
   name: CRIS NLP Poor appetite
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3805,7 +3805,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 4638956101782865
@@ -4630,7 +4630,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-15 01:58:33.179000'
+  modified: '2022-12-21 06:42:06.132000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4638,7 +4638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -6425,7 +6425,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-14 18:49:53.035000'
+  modified: '2022-12-21 16:41:09.600000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since age
   programming_languages:
   - name: Rule-based - GATE
@@ -6433,7 +6433,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9643382523814474
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-12-15 21:46:40.754000'
+  modified: '2022-12-21 16:32:51.141000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 129
+  views: 130
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-12-19 10:36:56.940000'
+  modified: '2022-12-21 22:25:24.886000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2022-12-18 03:24:15.257000'
+  modified: '2022-12-21 22:50:01.906000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2022-12-04 23:27:28.852000'
+  modified: '2022-12-21 19:03:32.341000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 12628697796296162
