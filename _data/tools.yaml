@@ -2188,7 +2188,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-07-04 20:25:20.256000'
+  modified: '2022-12-22 02:46:30.956000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2198,7 +2198,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -2391,7 +2391,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-14 06:58:13.608000'
+  modified: '2022-12-22 12:50:50.050000'
   name: CRIS NLP Anergia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2399,7 +2399,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 38367991918736968
@@ -3033,7 +3033,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-06 14:23:05.457000'
+  modified: '2022-12-22 02:18:42.128000'
   name: CRIS NLP Formal thought disorder
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3041,7 +3041,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 9302896934152188
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-12-08 19:21:02.132000'
+  modified: '2022-12-23 00:47:05.095000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 307
+  views: 309
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-12-20 05:16:45.323000'
+  modified: '2022-12-22 07:28:51.583000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 210
+  views: 213
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6782,7 +6782,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2022-11-22 17:27:37.498000'
+  modified: '2022-12-22 16:28:03.185000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2022-12-17 07:02:49.331000'
+  modified: '2022-12-22 12:15:32.476000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 3210312728444853
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2022-12-21 22:25:24.886000'
+  modified: '2022-12-22 16:26:52.969000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 9343953854321668
