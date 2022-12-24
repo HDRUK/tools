@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-11-15 11:57:03.874000'
+  modified: '2022-12-23 07:42:42.244000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-12-03 20:20:07.881000'
+  modified: '2022-12-23 14:37:44.186000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1923,7 +1923,7 @@ tools:
   - corpus
   license: CC BY NC 3.0
   link: https://data.mendeley.com/datasets/b9x7xxb9sz/1
-  modified: '2022-10-22 17:33:52.578000'
+  modified: '2022-12-23 22:09:55.765000'
   name: MedNorm Corpus
   programming_languages:
   - name: Python
@@ -1931,7 +1931,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 3382768355125807
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-17 10:46:08.078000'
+  modified: '2022-12-23 15:00:05.626000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -6496,7 +6496,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-22 17:49:40.149000'
+  modified: '2022-12-23 23:14:58.198000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since non-specific
     time/point of interest
   programming_languages:
@@ -6505,7 +6505,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 8456910701220071
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-03 14:32:53.555000'
+  modified: '2022-12-23 06:20:51.295000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2022-12-21 16:32:51.141000'
+  modified: '2022-12-23 23:47:19.263000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 130
+  views: 131
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2022-12-22 07:28:51.583000'
+  modified: '2022-12-23 01:48:56.919000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 213
+  views: 214
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-12-10 15:25:23.226000'
+  modified: '2022-12-23 15:32:34.026000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 116
+  views: 119
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7100,7 +7100,7 @@ tools:
   - Futures
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Training.png?mtime=20220802145306&focal=none
-  modified: '2022-11-24 21:37:51.885000'
+  modified: '2022-12-23 18:29:25.220000'
   name: Data Training at HRD UK - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7108,7 +7108,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 15058761018066248
