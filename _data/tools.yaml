@@ -1510,7 +1510,7 @@ tools:
   - Data Matching
   license: ''
   link: http://www.sqlpower.ca/page/dqguru
-  modified: '2022-11-20 05:18:04.344000'
+  modified: '2022-12-24 20:49:21.222000'
   name: SQL Power DQguru
   programming_languages:
   - name: Java
@@ -1518,7 +1518,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 8280150939998097
@@ -3516,7 +3516,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-08 10:50:36.258000'
+  modified: '2022-12-24 21:51:12.964000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3524,7 +3524,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -3717,7 +3717,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-06 14:52:37.061000'
+  modified: '2022-12-25 00:08:46.017000'
   name: CRIS NLP Passivity
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3725,7 +3725,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 40914379331092480
@@ -4671,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-05 21:34:20.778000'
+  modified: '2022-12-24 17:45:25.417000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4679,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -4791,7 +4791,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-15 04:41:40.703000'
+  modified: '2022-12-24 20:49:06.622000'
   name: CRIS NLP Cannabis
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4799,7 +4799,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 5168311283550229
