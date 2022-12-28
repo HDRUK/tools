@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2022-12-11 23:25:02.879000'
+  modified: '2022-12-27 21:33:00.731000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 205
+  views: 207
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -6389,7 +6389,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-22 17:53:16.282000'
+  modified: '2022-12-27 12:01:14.810000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6397,7 +6397,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 21961003431993984
