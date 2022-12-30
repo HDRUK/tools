@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2022-12-08 22:17:26.617000'
+  modified: '2022-12-29 02:44:19.954000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 86
+  views: 87
 - '@schema':
     type: tool
   _id: 19010
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-12-10 04:21:22.452000'
+  modified: '2022-12-29 02:06:56.775000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2022-12-16 15:41:55.931000'
+  modified: '2022-12-29 11:57:31.306000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 309
+  views: 311
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2022-12-25 15:05:29.870000'
+  modified: '2022-12-29 10:23:23.196000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 50
+  views: 51
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1883,7 +1883,7 @@ tools:
   - supervised machine learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://jekyll.inf.ed.ac.uk/edieviz
-  modified: '2022-10-18 07:55:41.687000'
+  modified: '2022-12-29 12:46:28.246000'
   name: EdIE-viz
   programming_languages:
   - name: C
@@ -1899,7 +1899,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 10952441986954308
@@ -3154,7 +3154,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-18 13:45:51.896000'
+  modified: '2022-12-29 02:25:50.451000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3162,7 +3162,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -4671,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-24 17:45:25.417000'
+  modified: '2022-12-29 01:49:22.663000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4679,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5941,7 +5941,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-13 02:57:38.868000'
+  modified: '2022-12-29 17:30:09.893000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5949,7 +5949,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -6978,7 +6978,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2022-12-25 14:22:11.303000'
+  modified: '2022-12-29 16:35:11.362000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6986,7 +6986,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 3683603699774525
