@@ -1005,7 +1005,7 @@ tools:
   - Data Cleansing
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://www.arrahtech.com/docs/installation_guide.html
-  modified: '2022-09-28 21:29:05.126000'
+  modified: '2023-01-02 09:37:28.311000'
   name: Aggregate Profiler (AP)
   programming_languages:
   - name: Java
@@ -1013,7 +1013,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 13550390791428302
@@ -5907,7 +5907,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-04 13:27:55.583000'
+  modified: '2023-01-02 09:11:08.334000'
   name: ExECT - Investigation MRI
   programming_languages:
   - name: Rule-based - GATE
@@ -5915,7 +5915,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 8356186742156964
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2022-12-30 10:52:50.054000'
+  modified: '2023-01-02 04:55:48.666000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 40
+  views: 42
