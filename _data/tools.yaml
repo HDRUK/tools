@@ -40,13 +40,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2022-12-11 22:27:50.597000'
+  modified: '2023-01-05 12:50:17.174000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 130
+  views: 131
 - '@schema':
     type: tool
   _id: 19004
@@ -89,7 +89,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2023-01-04 15:53:29.199000'
+  modified: '2023-01-05 17:05:55.220000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -97,7 +97,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 272
+  views: 274
 - '@schema':
     type: tool
   _id: 19005
@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2022-12-29 02:44:19.954000'
+  modified: '2023-01-05 20:33:55.730000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 87
+  views: 88
 - '@schema':
     type: tool
   _id: 19010
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2022-12-12 09:12:56.858000'
+  modified: '2023-01-05 13:26:05.209000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 90
+  views: 91
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -603,7 +603,7 @@ tools:
   - Risk Calculator
   license: Copyrighted
   link: https://isaric4c.net/risk
-  modified: '2022-12-04 23:11:10.787000'
+  modified: '2023-01-05 12:50:24.385000'
   name: ISARIC 4C prognostic score
   programming_languages:
   - name: Javascript
@@ -611,7 +611,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 8570787134196682
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-04 14:35:51.681000'
+  modified: '2023-01-05 05:35:50.355000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 314
+  views: 315
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -4159,7 +4159,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-13 13:49:25.330000'
+  modified: '2023-01-05 11:51:55.506000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4167,7 +4167,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -4711,7 +4711,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-19 17:39:56.130000'
+  modified: '2023-01-05 04:25:14.863000'
   name: CRIS NLP Rheumatoid Arthritis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4719,7 +4719,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 5553218139257072
@@ -5481,7 +5481,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-25 22:50:07.461000'
+  modified: '2023-01-05 12:52:19.501000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5489,7 +5489,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2022-12-25 22:22:03.818000'
+  modified: '2023-01-05 16:20:53.519000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 311
+  views: 313
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2022-12-31 18:44:13.711000'
+  modified: '2023-01-05 12:11:09.497000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 4194161877633651
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-01-03 23:53:13.569000'
+  modified: '2023-01-05 14:33:08.125000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 12628697796296162
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-01-03 23:35:54.334000'
+  modified: '2023-01-05 14:32:38.074000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 43
+  views: 44
