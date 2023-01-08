@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-06 19:12:42.018000'
+  modified: '2023-01-07 21:26:50.123000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 316
+  views: 317
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2752,7 +2752,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-27 07:25:14.169000'
+  modified: '2023-01-07 10:34:42.824000'
   name: CRIS NLP Derailment
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2760,7 +2760,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 11883550955415934
@@ -5278,7 +5278,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-06 22:38:42.609000'
+  modified: '2023-01-07 22:26:47.140000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5286,7 +5286,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2023-01-04 07:56:30.890000'
+  modified: '2023-01-07 18:57:00.018000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 319
+  views: 320
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2022-12-03 14:56:02.035000'
+  modified: '2023-01-07 21:34:50.369000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 97
+  views: 98
 - '@schema':
     type: tool
   _id: 22703411038557176
