@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-09 20:52:27.823000'
+  modified: '2023-01-10 03:18:26.371000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 318
+  views: 319
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-01-01 04:13:32.082000'
+  modified: '2023-01-10 02:22:23.324000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 52
+  views: 53
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2022-12-23 14:37:44.186000'
+  modified: '2023-01-10 09:00:40.219000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1584,7 +1584,7 @@ tools:
   - 'Workflow Management '
   license: Open Source (GPL v3) or Enterprise subscription
   link: https://pimcore.com/en/resources/documentation
-  modified: '2022-09-06 07:51:04.963000'
+  modified: '2023-01-10 22:50:08.500000'
   name: Pimcore
   programming_languages:
   - name: Other
@@ -1592,7 +1592,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 6889826137120174
@@ -2116,7 +2116,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2023-01-03 08:42:08.365000'
+  modified: '2023-01-10 21:29:46.972000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2124,7 +2124,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -4912,7 +4912,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-01 15:18:41.057000'
+  modified: '2023-01-10 22:44:03.005000'
   name: CRIS NLP Smoking
   programming_languages:
   - name: Rule-based - GATE
@@ -4920,7 +4920,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 3879347797927448
