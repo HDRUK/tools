@@ -62,7 +62,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2022-11-20 22:22:39.998000'
+  modified: '2023-01-12 20:58:55.074000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -70,7 +70,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 123
+  views: 124
 - '@schema':
     type: tool
   _id: 19007
@@ -1139,7 +1139,7 @@ tools:
   - Data Cleansing
   license: Apache License 2.0
   link: https://download-mirror2.talend.com/tdp/user-guide-download/V251/TalendDataPrep_GettingStarted_EN.pdf
-  modified: '2022-12-26 19:06:22.745000'
+  modified: '2023-01-12 12:38:46.612000'
   name: Talend Open Studio For Data Quality
   programming_languages:
   - name: Java
@@ -1147,7 +1147,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 7071271226878291
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2022-11-20 06:14:45.853000'
+  modified: '2023-01-12 04:54:00.847000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-01-09 16:48:14.136000'
+  modified: '2023-01-12 21:41:37.417000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 150
+  views: 151
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -6319,7 +6319,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-10-25 16:33:52.988000'
+  modified: '2023-01-12 03:17:44.762000'
   name: ExECT -  Seizure Frequency - Number of seizures during time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6327,7 +6327,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 11774991310353688
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-01-03 23:53:57.081000'
+  modified: '2023-01-12 11:36:18.361000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2022-12-21 22:50:01.906000'
+  modified: '2023-01-12 15:19:23.727000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 3766311756007228
