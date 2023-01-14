@@ -1213,7 +1213,7 @@ tools:
   - Data Profiling
   license: Apache License 2.0
   link: https://sourceforge.net/projects/talend-mdm/
-  modified: '2023-01-03 02:32:19.042000'
+  modified: '2023-01-13 17:51:04.579000'
   name: Talend Open Studio For MDM
   programming_languages:
   - name: Java
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2023-01-10 09:00:40.219000'
+  modified: '2023-01-13 04:50:49.548000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 41
+  views: 43
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -3556,7 +3556,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-06 14:54:50.840000'
+  modified: '2023-01-13 22:30:37.121000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3564,7 +3564,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-23 15:00:05.626000'
+  modified: '2023-01-13 14:59:45.191000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -6389,7 +6389,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-27 12:01:14.810000'
+  modified: '2023-01-13 14:10:11.161000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency since a date
   programming_languages:
   - name: Rule-based - GATE
@@ -6397,7 +6397,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 21961003431993984
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-23 06:20:51.295000'
+  modified: '2023-01-14 00:11:12.074000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2022-12-28 13:43:21.886000'
+  modified: '2023-01-13 06:59:33.788000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 120
+  views: 121
 - '@schema':
     type: tool
   _id: 22557344081099216
