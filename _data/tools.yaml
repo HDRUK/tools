@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-01-12 21:41:37.417000'
+  modified: '2023-01-16 19:49:05.620000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 151
+  views: 152
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -6109,7 +6109,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-16 07:35:40.784000'
+  modified: '2023-01-16 09:20:06.854000'
   name: ExECT - Febrile Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -6117,7 +6117,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 5963534697687911
@@ -7073,7 +7073,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Making-health_data-findable.png?mtime=20220802145302&focal=none
-  modified: '2023-01-05 12:11:09.497000'
+  modified: '2023-01-16 19:24:32.008000'
   name: 'Data Discovery on the Gateway - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7081,7 +7081,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 4194161877633651
