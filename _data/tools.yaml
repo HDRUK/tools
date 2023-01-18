@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2023-01-14 05:55:24.879000'
+  modified: '2023-01-17 20:05:45.324000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 258
+  views: 259
 - '@schema':
     type: tool
   _id: 19008
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2022-11-10 22:04:46.387000'
+  modified: '2023-01-17 07:28:07.640000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-10 03:18:26.371000'
+  modified: '2023-01-17 13:47:38.477000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 319
+  views: 320
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-01-10 02:22:23.324000'
+  modified: '2023-01-17 04:24:32.589000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -2351,7 +2351,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-26 00:01:09.132000'
+  modified: '2023-01-17 13:06:39.186000'
   name: CRIS NLP Agitation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2359,7 +2359,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 20969727106775384
@@ -3757,7 +3757,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-27 16:18:01.908000'
+  modified: '2023-01-17 07:08:56.047000'
   name: CRIS NLP Persecutory ideation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3765,7 +3765,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 58586357288800792
@@ -4600,7 +4600,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-09-06 01:41:12.882000'
+  modified: '2023-01-17 04:32:19.263000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4608,7 +4608,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 2046995342931326
@@ -5319,7 +5319,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-09 12:58:10.465000'
+  modified: '2023-01-17 03:58:17.613000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5327,7 +5327,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-01-06 11:49:04.025000'
+  modified: '2023-01-17 07:43:57.728000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 317
+  views: 318
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2023-01-07 18:57:00.018000'
+  modified: '2023-01-17 23:43:56.381000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 320
+  views: 321
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2023-01-09 05:44:34'
+  modified: '2023-01-17 04:53:24.275000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 132
+  views: 133
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-01-12 15:19:23.727000'
+  modified: '2023-01-17 11:44:49.573000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-01-05 14:32:38.074000'
+  modified: '2023-01-17 14:59:51.299000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 44
+  views: 45
