@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-12-29 02:06:56.775000'
+  modified: '2023-01-19 21:57:22.482000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -2004,7 +2004,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2022-06-06 10:08:39.475000'
+  modified: '2023-01-19 21:57:53.805000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2020,7 +2020,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -3355,7 +3355,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-06 06:00:50.907000'
+  modified: '2023-01-19 04:03:41.556000'
   name: CRIS NLP Insomnia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3363,7 +3363,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 16373391376770918
@@ -5481,7 +5481,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-05 12:52:19.501000'
+  modified: '2023-01-19 17:41:21.685000'
   name: CRIS NLP Treatment-resistant depression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -5489,7 +5489,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 26450835041802232
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-01-06 17:46:44.028000'
+  modified: '2023-01-19 20:42:51.482000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-01-18 11:12:12.558000'
+  modified: '2023-01-19 14:08:53.717000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 12628697796296162
