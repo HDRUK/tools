@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2022-12-12 10:14:33.646000'
+  modified: '2023-01-21 06:18:55.298000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 82
+  views: 83
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2022-11-16 14:04:22.219000'
+  modified: '2023-01-21 01:30:16.916000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -3154,7 +3154,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-29 02:25:50.451000'
+  modified: '2023-01-21 01:34:58.737000'
   name: CRIS NLP Hallucinations - auditory
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3162,7 +3162,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 5585636490880117
@@ -5196,7 +5196,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-22 17:06:33.779000'
+  modified: '2023-01-21 10:39:26.009000'
   name: CRIS NLP Family Intervention
   programming_languages:
   - name: Rule-based - GATE
@@ -5204,7 +5204,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 34144622632313104
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-01-20 12:51:44.666000'
+  modified: '2023-01-21 20:34:41.409000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 9343953854321668
