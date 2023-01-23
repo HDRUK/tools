@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2023-01-18 14:07:25.623000'
+  modified: '2023-01-23 00:00:27.589000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 210
+  views: 211
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2022-11-20 05:28:14.117000'
+  modified: '2023-01-22 03:38:51.642000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -5237,7 +5237,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-04-14 15:44:29.328000'
+  modified: '2023-01-22 02:07:18.300000'
   name: CRIS NLP Medication
   programming_languages:
   - name: Rule-based - GATE
@@ -5245,7 +5245,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 590031312114683
@@ -6283,7 +6283,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-14 09:23:36.488000'
+  modified: '2023-01-22 14:26:07.013000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6292,7 +6292,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 31510588088297676
