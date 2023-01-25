@@ -344,7 +344,7 @@ tools:
   - Infection
   license: Copyrighted
   link: https://github.com/smouksassi/ggquickeda
-  modified: '2023-01-03 23:01:12.077000'
+  modified: '2023-01-24 07:29:08.011000'
   name: ggquickeda
   programming_languages:
   - name: R-Shiny
@@ -352,7 +352,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 73
+  views: 74
 - '@schema':
     type: tool
   _id: 9594766682886202
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-23 07:42:34.164000'
+  modified: '2023-01-24 14:34:08.631000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 322
+  views: 323
 - '@schema':
     type: tool
   _id: 19330809167434928
