@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2023-01-08 06:25:21.117000'
+  modified: '2023-01-25 16:30:37.448000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 291
+  views: 292
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -889,7 +889,7 @@ tools:
   - Anonymize Data
   license: MIT
   link: https://github.com/realrolfje/anonimatron
-  modified: '2022-07-06 14:41:49.295000'
+  modified: '2023-01-25 14:42:13.549000'
   name: Anonimatron
   programming_languages:
   - name: Java
@@ -897,7 +897,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 9290177422492624
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-24 14:34:08.631000'
+  modified: '2023-01-25 02:55:08.119000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 323
+  views: 324
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -5778,7 +5778,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2022-11-16 11:37:56.211000'
+  modified: '2023-01-25 11:47:08.890000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5786,7 +5786,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 73
+  views: 74
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-01-03 23:57:16.344000'
+  modified: '2023-01-25 22:42:35.334000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 216
+  views: 217
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-01-20 12:57:52.666000'
+  modified: '2023-01-25 12:42:48.669000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 50
+  views: 51
