@@ -183,13 +183,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2023-01-14 01:22:59.970000'
+  modified: '2023-01-30 23:01:34.358000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 89
+  views: 90
 - '@schema':
     type: tool
   _id: 19009
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-01-16 19:49:05.620000'
+  modified: '2023-01-30 15:45:45.082000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 152
+  views: 154
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5703,7 +5703,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2022-11-10 12:54:39.802000'
+  modified: '2023-01-30 16:29:09.817000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 52
+  views: 53
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-14 00:11:12.074000'
+  modified: '2023-01-30 21:10:50.484000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6595,7 +6595,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-30 16:07:37.493000'
+  modified: '2023-01-30 10:56:07.665000'
   name: ExECT -  When Diagnosed - Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6603,7 +6603,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2023-01-26 10:46:46.799000'
+  modified: '2023-01-30 03:06:50.875000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 99
+  views: 100
 - '@schema':
     type: tool
   _id: 22703411038557176
