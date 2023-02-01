@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2023-01-21 06:18:55.298000'
+  modified: '2023-01-31 08:06:53.210000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 83
+  views: 84
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-01-26 14:28:10.225000'
+  modified: '2023-01-31 07:48:37.330000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 325
+  views: 326
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2022-12-11 08:29:00.137000'
+  modified: '2023-01-31 04:59:46.130000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -5319,7 +5319,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-17 03:58:17.613000'
+  modified: '2023-01-31 01:54:54.473000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5327,7 +5327,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5561,7 +5561,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2023-01-20 08:22:59.702000'
+  modified: '2023-01-31 11:45:25.587000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5569,7 +5569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 8743888596993463
