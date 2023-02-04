@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-02-02 21:42:39.063000'
+  modified: '2023-02-03 08:22:00.731000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 328
+  views: 330
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -3917,7 +3917,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-20 01:54:03.526000'
+  modified: '2023-02-03 10:36:23.865000'
   name: CRIS NLP Poor motivation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3925,7 +3925,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 4803515761146371
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-02-02 13:09:25.078000'
+  modified: '2023-02-03 16:52:43.919000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 322
+  views: 324
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5873,7 +5873,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-02 08:47:17.828000'
+  modified: '2023-02-03 10:35:37.883000'
   name: ExECT - Diagnosis of Multiple Epileptic Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -5881,7 +5881,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9679267202313368
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-01-25 22:42:35.334000'
+  modified: '2023-02-03 03:56:44.593000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 217
+  views: 218
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-01-19 20:42:51.482000'
+  modified: '2023-02-03 02:07:07.127000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-01-21 20:34:41.409000'
+  modified: '2023-02-03 11:23:21.358000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 9343953854321668
