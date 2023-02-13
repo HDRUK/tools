@@ -6234,10 +6234,10 @@
       ],
       "uploader": 9541533584051376,
       "issued": "2021-08-08 10:38:43.806000",
-      "modified": "2023-01-09 00:58:26.202000",
+      "modified": "2023-02-12 02:04:15.310000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 116,
+      "views": 117,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
