@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-02-14 12:48:21.481000'
+  modified: '2023-02-15 03:41:29.851000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 334
+  views: 335
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2023-02-07 18:04:33.352000'
+  modified: '2023-02-15 02:56:20.123000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 101
+  views: 102
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2157,7 +2157,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2022-11-06 03:44:27.388000'
+  modified: '2023-02-15 06:38:00.685000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2165,7 +2165,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-02-13 20:31:00.127000'
+  modified: '2023-02-15 04:29:48.604000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 329
+  views: 330
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2023-01-26 17:28:19.057000'
+  modified: '2023-02-15 11:17:14.364000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 77
+  views: 78
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-02-13 17:37:42.970000'
+  modified: '2023-02-15 04:29:34.087000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-02-08 11:25:08.149000'
+  modified: '2023-02-15 03:40:43.325000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-02-05 11:27:59.333000'
+  modified: '2023-02-15 03:02:24.971000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 12628697796296162
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-02-10 15:27:15.493000'
+  modified: '2023-02-15 11:17:44.603000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 56
+  views: 58
