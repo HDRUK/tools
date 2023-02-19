@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-02-05 11:21:00.717000'
+  modified: '2023-02-18 14:21:25.530000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -5813,7 +5813,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-11-09 20:09:27.137000'
+  modified: '2023-02-18 09:04:24.892000'
   name: ExECT - Diagnosis of Epilepsy Syndrome
   programming_languages:
   - name: Rule-based - GATE
@@ -5821,7 +5821,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 8208317212225866
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2023-01-30 03:06:50.875000'
+  modified: '2023-02-18 08:39:33.758000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2023-02-14 04:33:02.764000'
+  modified: '2023-02-18 19:35:40.240000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 903414898203343
