@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2023-02-06 14:16:25.607000'
+  modified: '2023-02-22 12:45:54.236000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 296
+  views: 297
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2023-02-20 14:46:51.591000'
+  modified: '2023-02-22 12:39:42.549000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-13 14:59:45.191000'
+  modified: '2023-02-22 08:15:14.191000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -5971,7 +5971,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-02-06 15:55:58.204000'
+  modified: '2023-02-22 06:12:43.254000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5979,7 +5979,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 33
+  views: 34
 - '@schema':
     type: tool
   _id: 6648946954924415
