@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2023-02-04 15:00:17.557000'
+  modified: '2023-02-23 06:45:23.116000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 123
+  views: 125
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2023-02-22 12:45:54.236000'
+  modified: '2023-02-23 10:55:36.633000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 297
+  views: 298
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-02-19 12:04:20.682000'
+  modified: '2023-02-23 20:05:07.193000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 58
+  views: 60
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2023-01-31 04:59:46.130000'
+  modified: '2023-02-23 13:25:19.398000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 54
+  views: 55
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-02-19 16:33:25.206000'
+  modified: '2023-02-23 12:36:17.876000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 159
+  views: 161
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5561,7 +5561,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/sebastiz/EndoMineR/
-  modified: '2023-01-31 11:45:25.587000'
+  modified: '2023-02-23 15:32:18.106000'
   name: EndoMineR
   programming_languages:
   - name: R
@@ -5569,7 +5569,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 8743888596993463
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-02-21 20:17:27.176000'
+  modified: '2023-02-23 17:31:13.487000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 224
+  views: 225
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-02-20 14:42:36.665000'
+  modified: '2023-02-23 18:28:15.053000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 5656962835943253
