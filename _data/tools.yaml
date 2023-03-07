@@ -3275,7 +3275,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-20 01:44:09.356000'
+  modified: '2023-03-06 17:10:28.347000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3283,7 +3283,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-03-05 02:49:09.440000'
+  modified: '2023-03-06 09:39:36.253000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 63
+  views: 64
