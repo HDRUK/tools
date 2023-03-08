@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2022-12-30 06:53:48.447000'
+  modified: '2023-03-07 12:22:37.920000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -4159,7 +4159,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-02-19 22:07:09.258000'
+  modified: '2023-03-07 20:00:15.542000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4167,7 +4167,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2023-01-17 04:53:24.275000'
+  modified: '2023-03-07 22:50:01.503000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-03-05 02:58:22.680000'
+  modified: '2023-03-07 06:29:44.116000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 5656962835943253
