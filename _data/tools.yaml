@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2023-03-05 06:45:58.994000'
+  modified: '2023-03-10 11:25:29.112000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 265
+  views: 266
 - '@schema':
     type: tool
   _id: 19008
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2023-02-23 06:45:23.116000'
+  modified: '2023-03-10 04:26:14.896000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 125
+  views: 126
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2023-01-19 21:57:22.482000'
+  modified: '2023-03-10 14:54:01.725000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -729,7 +729,7 @@ tools:
   - Evaluate
   license: ' GNU [GPL-3.0]+ license'
   link: https://orange.biolab.si/
-  modified: '2023-01-21 01:30:16.916000'
+  modified: '2023-03-10 13:57:00.186000'
   name: Orange
   programming_languages:
   - name: Python
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-03-08 05:10:21.157000'
+  modified: '2023-03-10 22:27:02.595000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 342
+  views: 343
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2022-10-20 03:58:44.358000'
+  modified: '2023-03-10 05:11:26.946000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2023-03-05 07:56:45.339000'
+  modified: '2023-03-10 21:41:25.386000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 106
+  views: 107
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2872,7 +2872,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-07 09:02:01.538000'
+  modified: '2023-03-10 17:00:17.999000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2880,7 +2880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9242053681629978
@@ -4560,7 +4560,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-02-06 15:38:56.003000'
+  modified: '2023-03-10 16:08:00.829000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4568,7 +4568,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -6179,7 +6179,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-02-26 12:34:12.230000'
+  modified: '2023-03-10 14:52:55.936000'
   name: ExECT - Seizure Frequency - Number of seizures in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6187,7 +6187,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 6048846655088114
@@ -6354,7 +6354,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2022-12-25 02:45:43.301000'
+  modified: '2023-03-10 04:52:00.056000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6362,7 +6362,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 6287110693516533
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-03-05 06:12:37.291000'
+  modified: '2023-03-10 11:07:33.237000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 227
+  views: 229
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-03-05 03:12:23.603000'
+  modified: '2023-03-10 09:32:09.741000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 60
+  views: 61
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-03-05 02:29:49.322000'
+  modified: '2023-03-10 14:51:56.711000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 3766311756007228
