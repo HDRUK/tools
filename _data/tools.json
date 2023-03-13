@@ -1315,10 +1315,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:43:15.807000",
-      "modified": "2023-01-22 03:38:51.642000",
+      "modified": "2023-03-13 00:12:36.138000",
       "description": "Pentaho Community Edition is free -  LIMITED)\n\nWorks with WEKA (Data Profiling)\n\nData Integration - Extract, transform and load (ETL) limited data sets and create visualizations with Pentaho\u2019s report designer tool.\nThe term, K.E.T.T.L.E is a recursive that stands for Kettle Extraction Transformation Transport Load Environment.  Pentaho Data Integration is well known for its ease of use and quick learning curve. PDI implements a metadata-driven approach which means that the development is based on specifying what to do, not how to do it. Pentaho lets administrators and ETL developers create their own data manipulation jobs with a user-friendly graphical creator, and without entering a single line of code. \nPDI uses a common, shared repository which enables remote ETL execution, facilitates teamwork, and simplifies the development process.",
       "license": "Apache License 2.0",
-      "views": 23,
+      "views": 24,
       "category": "Data Integration Tool ",
       "relations": [],
       "keywords": [
