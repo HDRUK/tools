@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-03-11 01:50:15.806000'
+  modified: '2023-03-13 11:56:49.933000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 344
+  views: 345
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -4359,7 +4359,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-23 05:57:42.784000'
+  modified: '2023-03-13 07:04:06.484000'
   name: CRIS NLP Thought Withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4367,7 +4367,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 8558208161875798
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-03-11 06:37:47.619000'
+  modified: '2023-03-13 14:18:09.505000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 62
+  views: 63
 - '@schema':
     type: tool
   _id: 9856286733786312
