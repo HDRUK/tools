@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-03-09 14:21:34.299000'
+  modified: '2023-03-14 20:16:55.463000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 64
+  views: 66
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -3997,7 +3997,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-24 18:28:05.138000'
+  modified: '2023-03-14 20:58:15.100000'
   name: CRIS NLP Poverty of thought
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4005,7 +4005,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 6252807113770187
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-03-11 19:22:28.532000'
+  modified: '2023-03-14 14:54:11.304000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 343
+  views: 344
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2023-02-18 08:39:33.758000'
+  modified: '2023-03-14 10:29:25.681000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 101
+  views: 102
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2023-03-02 15:03:51.502000'
+  modified: '2023-03-14 10:26:03.290000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 127
+  views: 128
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-03-13 14:18:09.505000'
+  modified: '2023-03-14 16:30:25.991000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 63
+  views: 64
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7005,7 +7005,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Health-Data-Research-Innovation-Gateway.png?mtime=20220624112551&focal=none
-  modified: '2022-12-17 10:48:34.491000'
+  modified: '2023-03-14 14:09:38.751000'
   name: The Health Data Research Innovation Gateway - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7013,7 +7013,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 26
+  views: 27
 - '@schema':
     type: tool
   _id: 9066817355949360
@@ -7042,7 +7042,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2023-02-25 17:00:39.975000'
+  modified: '2023-03-14 16:31:08.982000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7050,7 +7050,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-03-11 09:02:07.434000'
+  modified: '2023-03-14 01:16:56.971000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 66
+  views: 67
