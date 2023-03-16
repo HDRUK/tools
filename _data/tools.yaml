@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2023-03-10 04:26:14.896000'
+  modified: '2023-03-15 08:40:43.265000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 126
+  views: 127
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2023-03-10 14:54:01.725000'
+  modified: '2023-03-15 16:32:47.122000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 64
+  views: 65
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -2952,7 +2952,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-02-21 03:36:46.038000'
+  modified: '2023-03-15 11:48:47.807000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2960,7 +2960,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -4671,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-29 01:49:22.663000'
+  modified: '2023-03-15 08:30:44.453000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4679,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-03-10 11:07:33.237000'
+  modified: '2023-03-15 17:57:56.067000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 229
+  views: 231
 - '@schema':
     type: tool
   _id: 5859299510804015
