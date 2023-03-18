@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-03-13 11:56:49.933000'
+  modified: '2023-03-17 13:50:41.407000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 345
+  views: 347
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1844,7 +1844,7 @@ tools:
   - semantic
   license: Apache 2
   link: https://github.com/reality/Komenti
-  modified: '2023-03-10 05:11:26.946000'
+  modified: '2023-03-17 10:32:20.178000'
   name: Komenti
   programming_languages:
   - name: Groovy
@@ -1854,7 +1854,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 28096194349754968
@@ -2116,7 +2116,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: http://r-forge.r-project.org/R/?group_id=1598
-  modified: '2023-02-25 16:41:59.057000'
+  modified: '2023-03-17 10:23:59.511000'
   name: CALIBERdrugdose
   programming_languages:
   - name: R
@@ -2124,7 +2124,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 6217916951354048
@@ -2157,7 +2157,7 @@ tools:
   - rule-based
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://github.com/anoopshah/freetext-matching-algorithm
-  modified: '2023-02-15 06:38:00.685000'
+  modified: '2023-03-17 10:31:25.239000'
   name: Freetext Matching Algorithm
   programming_languages:
   - name: Visual Basic
@@ -2165,7 +2165,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 183912686332105
@@ -3957,7 +3957,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-09 15:45:26.526000'
+  modified: '2023-03-17 10:46:44.801000'
   name: CRIS NLP Poverty of speech
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3965,7 +3965,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 7722987021036569
@@ -6041,7 +6041,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-03-11 09:02:28.391000'
+  modified: '2023-03-17 10:33:53.422000'
   name: ExECT - Onset of Epileptic events - Date of Onset
   programming_languages:
   - name: Rule-based - GATE
@@ -6049,7 +6049,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 9424561588087120
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-30 21:10:50.484000'
+  modified: '2023-03-17 10:31:46.495000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6782,7 +6782,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_2.html
-  modified: '2023-02-06 16:41:17.922000'
+  modified: '2023-03-17 04:21:51.240000'
   name: Interactive R tool to visualize the impact of COVID-19 on the risk of precarious
     work from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-03-16 13:50:59.178000'
+  modified: '2023-03-17 12:52:31.539000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-03-16 19:00:18.531000'
+  modified: '2023-03-17 13:14:29.339000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 43
+  views: 44
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-03-14 01:16:56.971000'
+  modified: '2023-03-17 10:30:44.642000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 67
+  views: 68
