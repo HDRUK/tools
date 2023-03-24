@@ -180,7 +180,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2023-03-11 18:40:59.012000'
+  modified: '2023-03-23 11:41:53.771000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -188,7 +188,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 267
+  views: 268
 - '@schema':
     type: tool
   _id: 19008
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2023-03-15 16:32:47.122000'
+  modified: '2023-03-23 09:57:47.235000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2022-11-12 12:23:57.208000'
+  modified: '2023-03-23 09:56:52.743000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-03-11 12:01:59.594000'
+  modified: '2023-03-23 21:52:33.618000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 164
+  views: 166
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4279,7 +4279,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-29 02:53:20.648000'
+  modified: '2023-03-23 02:23:30.639000'
   name: CRIS NLP Thought Broadcast
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4287,7 +4287,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 401562528365353
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-03-15 17:57:56.067000'
+  modified: '2023-03-23 22:55:35.331000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 231
+  views: 233
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-03-18 09:45:29.084000'
+  modified: '2023-03-23 10:22:29.107000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 40
+  views: 41
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7264,7 +7264,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
-  modified: '2023-03-11 06:36:12.249000'
+  modified: '2023-03-23 09:53:26.007000'
   name: CaRROT-CDM
   programming_languages:
   - name: Python
@@ -7272,7 +7272,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 47343683068994032
