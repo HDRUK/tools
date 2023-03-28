@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-03-24 20:28:26.681000'
+  modified: '2023-03-27 16:45:39.627000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 351
+  views: 352
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2023-03-26 10:36:23.842000'
+  modified: '2023-03-27 05:08:41.206000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -5971,7 +5971,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-02-22 06:12:43.254000'
+  modified: '2023-03-27 20:18:08.816000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5979,7 +5979,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 34
+  views: 35
 - '@schema':
     type: tool
   _id: 6648946954924415
