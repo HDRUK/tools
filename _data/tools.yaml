@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-03-26 17:34:39.510000'
+  modified: '2023-03-29 09:20:09.442000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 167
+  views: 168
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -1764,7 +1764,7 @@ tools:
   - IoT
   license: Apache License 2.0
   link: https://radar-base.org
-  modified: '2023-01-16 00:20:50.375000'
+  modified: '2023-03-29 14:14:58.253000'
   name: RADAR-base
   programming_languages:
   - name: Java
@@ -1776,7 +1776,7 @@ tools:
   relations: []
   type: ''
   uploader: 160230992424788
-  views: 32
+  views: 34
 - '@schema':
     type: tool
   _id: 36083225792794328
@@ -2632,7 +2632,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-03 02:33:48.945000'
+  modified: '2023-03-29 22:02:57.773000'
   name: CRIS NLP Circumstantiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2640,7 +2640,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 1609057732616348
@@ -2712,7 +2712,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-24 00:43:31.754000'
+  modified: '2023-03-29 05:43:11.603000'
   name: CRIS NLP Delusions
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2720,7 +2720,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 16630373665009346
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-03-24 03:05:48.290000'
+  modified: '2023-03-29 17:37:43.221000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 234
+  views: 235
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7042,7 +7042,7 @@ tools:
   - Alleviate
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/HDRUK_Infographic_Health-Data-Research-Hub-Network.png?mtime=20220802145305&focal=none
-  modified: '2023-03-14 16:31:08.982000'
+  modified: '2023-03-29 22:06:17.888000'
   name: Health Data Research Hub Network - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7050,7 +7050,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 6737246365259231
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2023-03-28 12:40:46.917000'
+  modified: '2023-03-29 15:12:27.191000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 903414898203343
