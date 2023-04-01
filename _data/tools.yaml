@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-03-14 20:16:55.463000'
+  modified: '2023-03-31 22:16:01.086000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -2188,7 +2188,7 @@ tools:
   - unsupervised machine learning and deep learning
   license: Apache License 2.0
   link: https://github.com/CogStack/MedCAT
-  modified: '2022-12-22 02:46:30.956000'
+  modified: '2023-03-31 16:02:45.278000'
   name: MedCAT
   programming_languages:
   - name: Python
@@ -2198,7 +2198,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 34437455080619684
@@ -4671,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-15 08:30:44.453000'
+  modified: '2023-03-31 16:55:32.152000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4679,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-03-28 21:29:44.831000'
+  modified: '2023-03-31 09:10:59.824000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 358
+  views: 359
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5941,7 +5941,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-09 06:34:26.738000'
+  modified: '2023-03-31 13:22:49.577000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5949,7 +5949,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 47757674439076728
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2023-03-29 15:12:27.191000'
+  modified: '2023-03-31 04:23:41.656000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 903414898203343
