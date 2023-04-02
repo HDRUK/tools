@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-03-31 22:16:01.086000'
+  modified: '2023-04-01 02:40:27.873000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 67
+  views: 68
 - '@schema':
     type: tool
   _id: 7754445869686015
