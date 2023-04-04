@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2023-02-19 20:48:13.620000'
+  modified: '2023-04-03 05:59:57.478000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 92
+  views: 93
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-04-01 02:40:27.873000'
+  modified: '2023-04-03 05:37:56.132000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -3275,7 +3275,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-06 17:10:28.347000'
+  modified: '2023-04-03 14:01:18.991000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3283,7 +3283,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-02 13:49:49.602000'
+  modified: '2023-04-03 09:36:46.467000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 360
+  views: 361
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-03-30 01:10:46.013000'
+  modified: '2023-04-03 05:22:03.262000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 236
+  views: 237
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-03-22 04:18:04.082000'
+  modified: '2023-04-03 07:05:53.060000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-03-28 11:02:22.262000'
+  modified: '2023-04-03 14:15:09.215000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 3766311756007228
