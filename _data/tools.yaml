@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2023-03-23 11:41:53.771000'
+  modified: '2023-04-05 09:07:44.374000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 268
+  views: 269
 - '@schema':
     type: tool
   _id: 19002
@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2023-04-04 05:07:51.832000'
+  modified: '2023-04-05 12:43:12.951000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 172
+  views: 173
 - '@schema':
     type: tool
   _id: 19003
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2023-04-04 15:15:12.609000'
+  modified: '2023-04-05 06:13:58.182000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 219
+  views: 220
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-04-04 13:59:23.654000'
+  modified: '2023-04-05 19:44:17.828000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 353
+  views: 355
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2023-03-24 21:55:17.941000'
+  modified: '2023-04-05 15:44:54.229000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 109
+  views: 111
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2952,7 +2952,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-15 11:48:47.807000'
+  modified: '2023-04-05 13:20:54.945000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2960,7 +2960,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-05 00:21:35.186000'
+  modified: '2023-04-05 07:32:47.384000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 362
+  views: 363
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2023-04-04 15:16:17.382000'
+  modified: '2023-04-05 12:47:32.743000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 329
+  views: 331
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-04-03 05:22:03.262000'
+  modified: '2023-04-05 21:13:38.983000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 237
+  views: 241
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-03-20 11:28:18.954000'
+  modified: '2023-04-05 09:18:51.132000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 68
+  views: 69
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2023-03-30 15:03:25.709000'
+  modified: '2023-04-05 13:18:37.066000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 28
+  views: 30
 - '@schema':
     type: tool
   _id: 3210312728444853
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-04-04 10:50:19.070000'
+  modified: '2023-04-05 10:27:11.054000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 43
+  views: 45
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2023-03-31 04:23:41.656000'
+  modified: '2023-04-05 07:03:54'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 58
+  views: 60
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-04-03 07:05:53.060000'
+  modified: '2023-04-05 16:07:32.111000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-04-03 14:15:09.215000'
+  modified: '2023-04-05 14:59:13.760000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 21
+  views: 23
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7264,7 +7264,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
-  modified: '2023-03-23 09:53:26.007000'
+  modified: '2023-04-05 14:42:39.800000'
   name: CaRROT-CDM
   programming_languages:
   - name: Python
@@ -7272,7 +7272,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 15
+  views: 18
 - '@schema':
     type: tool
   _id: 47343683068994032
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-03-30 14:43:31.684000'
+  modified: '2023-04-05 09:18:26.381000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 22
+  views: 24
 - '@schema':
     type: tool
   _id: 12628697796296162
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-04-04 14:22:55.796000'
+  modified: '2023-04-05 09:02:48.748000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 70
+  views: 71
