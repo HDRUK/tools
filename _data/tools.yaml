@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2023-03-15 08:40:43.265000'
+  modified: '2023-04-06 22:32:43.425000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 127
+  views: 128
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -964,7 +964,7 @@ tools:
   - Database Analysis
   license: Apache License 2.0
   link: https://github.com/OHDSI/WhiteRabbit
-  modified: '2023-03-07 12:22:37.920000'
+  modified: '2023-04-06 14:50:20.235000'
   name: WhiteRabbit
   programming_languages:
   - name: Java
@@ -972,7 +972,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 5221153177125082
@@ -1364,7 +1364,7 @@ tools:
   - Match and Merge
   license: Proprietary
   link: https://dataladder.com/products/
-  modified: '2023-03-03 13:19:44.574000'
+  modified: '2023-04-06 09:03:34.888000'
   name: DataMatch
   programming_languages:
   - name: Other
@@ -1372,7 +1372,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 42289342622146160
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-03-30 07:29:49.669000'
+  modified: '2023-04-06 17:54:07.439000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 169
+  views: 170
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5971,7 +5971,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-03-27 20:18:08.816000'
+  modified: '2023-04-06 02:43:25.566000'
   name: ExECT - Onset of Epileptic events - Time Periods
   programming_languages:
   - name: Machine learning and rules-based - GATE
@@ -5979,7 +5979,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 6648946954924415
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-04-05 16:07:32.111000'
+  modified: '2023-04-06 13:41:06.014000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-04-05 14:59:13.760000'
+  modified: '2023-04-06 14:49:55.567000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 23
+  views: 26
 - '@schema':
     type: tool
   _id: 3766311756007228
