@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2023-03-25 15:16:50.684000'
+  modified: '2023-04-09 00:06:24.273000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 163
+  views: 164
 - '@schema':
     type: tool
   _id: 19010
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-04-07 10:40:14.926000'
+  modified: '2023-04-08 13:53:01.492000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 356
+  views: 357
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2432,7 +2432,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-13 23:16:12.172000'
+  modified: '2023-04-09 00:22:58.921000'
   name: CRIS NLP Anhedonia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2440,7 +2440,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 727966405666538
@@ -3275,7 +3275,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-03 14:01:18.991000'
+  modified: '2023-04-09 00:50:45.834000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3283,7 +3283,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 18
+  views: 19
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -4400,7 +4400,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-24 04:32:38.638000'
+  modified: '2023-04-08 16:36:58.153000'
   name: CRIS NLP Waxy flexibility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4408,7 +4408,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 16
+  views: 17
 - '@schema':
     type: tool
   _id: 6491044576324445
@@ -5441,7 +5441,7 @@ tools:
   - outcomes and clinical status
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-05 07:57:47.166000'
+  modified: '2023-04-08 23:25:44.399000'
   name: CRIS NLP Diagnosis
   programming_languages:
   - name: Rule-based - GATE
@@ -5449,7 +5449,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 8376829721978589
@@ -6653,7 +6653,7 @@ tools:
   - NCS
   license: ''
   link: https://www.hdruk.ac.uk/projects/the-wellcome-trust-covid-19-questionnaires-helping-standardise-covid-19-data-collection-across-cohorts/
-  modified: '2023-03-24 05:56:09.128000'
+  modified: '2023-04-08 22:20:40.418000'
   name: Wellcome Trust COVID-19 questionnaires
   programming_languages:
   - name: No coding required
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 137
+  views: 138
 - '@schema':
     type: tool
   _id: 3321980885733604
