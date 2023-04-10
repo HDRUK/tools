@@ -2311,7 +2311,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-16 13:49:02.565000'
+  modified: '2023-04-09 19:49:58.933000'
   name: CRIS NLP Aggression
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2319,7 +2319,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 7266823034105565
@@ -4994,7 +4994,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-02 05:57:31.783000'
+  modified: '2023-04-09 03:29:10.460000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -5002,7 +5002,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -6728,7 +6728,7 @@ tools:
   - Data Visualisation
   license: MIT license
   link: https://recode.shinyapps.io/Gender-covid-2/
-  modified: '2023-03-25 05:22:16.322000'
+  modified: '2023-04-09 11:01:01.325000'
   name: Integrative R Dashboard with visualizations to understand the impact of COVID-19
     on women and men's working lives
   programming_languages:
@@ -6739,7 +6739,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 121
+  views: 122
 - '@schema':
     type: tool
   _id: 9074803277264144
