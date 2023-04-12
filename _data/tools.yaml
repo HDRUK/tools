@@ -92,7 +92,7 @@ tools:
   - Modelling
   license: GPLv3
   link: https://github.com/mrc-ide/covid-sim
-  modified: '2023-01-12 20:58:55.074000'
+  modified: '2023-04-11 13:08:43.002000'
   name: COVID-19 CovidSim Microsimulation Model
   programming_languages:
   - name: C++
@@ -100,7 +100,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 124
+  views: 125
 - '@schema':
     type: tool
   _id: 19005
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-04-06 17:54:07.439000'
+  modified: '2023-04-11 17:00:08.087000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 170
+  views: 171
 - '@schema':
     type: tool
   _id: 601398453434496
