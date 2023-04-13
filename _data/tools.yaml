@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2023-04-09 00:06:24.273000'
+  modified: '2023-04-12 05:11:27.088000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 164
+  views: 165
 - '@schema':
     type: tool
   _id: 19010
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-04-11 17:00:08.087000'
+  modified: '2023-04-12 21:53:54.638000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 171
+  views: 172
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-05 07:32:47.384000'
+  modified: '2023-04-12 18:42:36.587000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 363
+  views: 364
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -7131,7 +7131,7 @@ tools:
   - Gateway
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Use_Register.png?mtime=20220802145301&focal=none
-  modified: '2023-04-05 13:18:37.066000'
+  modified: '2023-04-12 09:23:55.295000'
   name: 'The Gateway Data Use Register - infographic explainer '
   programming_languages:
   - name: Webpage
@@ -7139,7 +7139,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 3210312728444853
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-04-07 17:41:05.026000'
+  modified: '2023-04-12 16:19:34.846000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-04-05 09:02:48.748000'
+  modified: '2023-04-12 13:59:54.710000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 71
+  views: 72
