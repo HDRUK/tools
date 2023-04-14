@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-04-12 21:53:54.638000'
+  modified: '2023-04-13 21:25:17.195000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 172
+  views: 173
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -2004,7 +2004,7 @@ tools:
   - continuous learning
   license: Apache License 2.0
   link: https://github.com/CogStack/CogStack-SemEHR
-  modified: '2023-01-19 21:57:53.805000'
+  modified: '2023-04-13 22:04:40.578000'
   name: SemEHR
   programming_languages:
   - name: Java
@@ -2020,7 +2020,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 23
+  views: 24
 - '@schema':
     type: tool
   _id: 5341629044898619
@@ -3315,7 +3315,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-06-24 13:56:35.884000'
+  modified: '2023-04-13 14:51:29.225000'
   name: CRIS NLP Hostility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3323,7 +3323,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 9
+  views: 10
 - '@schema':
     type: tool
   _id: 598189829688136
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-12 18:42:36.587000'
+  modified: '2023-04-13 13:53:35.626000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 364
+  views: 365
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2023-04-04 19:04:22.585000'
+  modified: '2023-04-13 13:36:40.885000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 27125959011066648
