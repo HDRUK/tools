@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2023-04-05 12:43:12.951000'
+  modified: '2023-04-14 18:39:16.690000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 173
+  views: 174
 - '@schema':
     type: tool
   _id: 19003
@@ -1554,7 +1554,7 @@ tools:
   - Data Cleansing
   license: ''
   link: https://www.ataccama.com/product/dq-analyzer/download
-  modified: '2023-03-26 23:14:17.981000'
+  modified: '2023-04-14 14:21:07.528000'
   name: DQ Analyzer
   programming_languages:
   - name: Other
@@ -1562,7 +1562,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 8807816059640121
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2023-02-28 20:04:04.794000'
+  modified: '2023-04-14 20:34:36.183000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 79
+  views: 80
 - '@schema':
     type: tool
   _id: 8537436822958817
