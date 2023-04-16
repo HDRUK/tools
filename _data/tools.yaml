@@ -6283,7 +6283,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-02-26 13:00:40.365000'
+  modified: '2023-04-15 06:29:26.041000'
   name: ExECT -  Seizure Frequency - Number of seizures since non-specific time/point
     of interest
   programming_languages:
@@ -6292,7 +6292,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 31510588088297676
