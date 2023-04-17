@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-04-08 13:53:01.492000'
+  modified: '2023-04-16 06:40:28.761000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 357
+  views: 358
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1959,7 +1959,7 @@ tools:
   - nlp
   license: Apache License 2.0
   link: https://cogstack.org/
-  modified: '2023-04-10 19:42:06.175000'
+  modified: '2023-04-16 04:56:56.372000'
   name: CogStack
   programming_languages:
   - name: Java
@@ -1967,7 +1967,7 @@ tools:
   relations: []
   type: ''
   uploader: 20203192139498904
-  views: 113
+  views: 114
 - '@schema':
     type: tool
   _id: 7790551422358591
@@ -2432,7 +2432,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-09 00:22:58.921000'
+  modified: '2023-04-16 02:05:42.030000'
   name: CRIS NLP Anhedonia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2440,7 +2440,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 7
+  views: 8
 - '@schema':
     type: tool
   _id: 727966405666538
@@ -4994,7 +4994,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-09 03:29:10.460000'
+  modified: '2023-04-16 21:48:37.292000'
   name: CRIS NLP Education
   programming_languages:
   - name: Rule-based - GATE
@@ -5002,7 +5002,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 7619201489543512
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-13 13:53:35.626000'
+  modified: '2023-04-16 09:58:32.610000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 365
+  views: 366
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5595,7 +5595,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2023-03-11 15:52:56.281000'
+  modified: '2023-04-16 20:31:33.159000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5603,7 +5603,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 31
+  views: 32
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5703,7 +5703,7 @@ tools:
   - nlp
   license: GNU Library or "Lesser" General Public License (LGPL)
   link: https://www.getmarkup.com
-  modified: '2023-01-30 16:29:09.817000'
+  modified: '2023-04-16 21:50:01.705000'
   name: Markup Annotation Tool
   programming_languages:
   - name: Python
@@ -5713,7 +5713,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541890091348464
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 2209051091137959
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2023-04-14 20:34:36.183000'
+  modified: '2023-04-16 07:34:16.983000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 8537436822958817
