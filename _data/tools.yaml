@@ -3837,7 +3837,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-05-14 19:21:39.061000'
+  modified: '2023-04-19 21:32:15.283000'
   name: CRIS NLP Poor concentration
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3845,7 +3845,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 37565487179357304
@@ -4560,7 +4560,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-31 00:26:27.197000'
+  modified: '2023-04-19 07:29:55.910000'
   name: CRIS NLP Bronchitis
   programming_languages:
   - name: sem-EHR - GATE
@@ -4568,7 +4568,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 6686787212648038
@@ -5941,7 +5941,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-03-31 13:22:49.577000'
+  modified: '2023-04-19 06:14:38.594000'
   name: ExECT - Investigation CT Scan
   programming_languages:
   - name: Rule-based - GATE
@@ -5949,7 +5949,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 47757674439076728
