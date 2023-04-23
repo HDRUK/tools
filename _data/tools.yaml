@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2023-03-22 08:43:58.378000'
+  modified: '2023-04-22 02:33:13.173000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 91
+  views: 92
 - '@schema':
     type: tool
   _id: 19010
@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2023-03-11 17:42:52.551000'
+  modified: '2023-04-22 11:49:00.573000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 44
+  views: 45
 - '@schema':
     type: tool
   _id: 6399626570814259
@@ -1472,7 +1472,7 @@ tools:
   - ETL Metadata
   license: Proprietary
   link: http://www.sqlpower.ca/page/architect
-  modified: '2022-11-20 05:27:22.571000'
+  modified: '2023-04-22 16:43:52.356000'
   name: SQL Power Architect
   programming_languages:
   - name: Java
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -3315,7 +3315,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-13 14:51:29.225000'
+  modified: '2023-04-22 02:12:40.658000'
   name: CRIS NLP Hostility
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3323,7 +3323,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 598189829688136
@@ -4480,7 +4480,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-11 21:54:10.417000'
+  modified: '2023-04-22 19:51:57.596000'
   name: CRIS NLP Worthlessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4488,7 +4488,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 3237674158697106
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-04-21 14:41:19.346000'
+  modified: '2023-04-22 20:35:16.276000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 243
+  views: 244
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-04-10 12:27:40.001000'
+  modified: '2023-04-22 21:21:19.489000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7264,7 +7264,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
-  modified: '2023-04-21 08:02:12.955000'
+  modified: '2023-04-22 19:05:21.072000'
   name: CaRROT-CDM
   programming_languages:
   - name: Python
@@ -7272,7 +7272,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 47343683068994032
