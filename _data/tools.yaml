@@ -202,13 +202,13 @@ tools:
   - Community Tracking
   license: ''
   link: https://c19track.com/
-  modified: '2023-04-22 02:33:13.173000'
+  modified: '2023-04-23 22:06:13.886000'
   name: C19 Track
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 92
+  views: 94
 - '@schema':
     type: tool
   _id: 19010
@@ -233,7 +233,7 @@ tools:
   - electronic health records
   license: Apache 2
   link: https://covid19-phenomics.org/PrototypeOurRiskCoV.html
-  modified: '2023-04-07 01:11:59.211000'
+  modified: '2023-04-23 21:30:43.951000'
   name: OurRisk.CoV
   programming_languages:
   - name: R
@@ -243,7 +243,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 129
+  views: 130
 - '@schema':
     type: tool
   _id: 22796788425888104
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-04-21 12:56:20.225000'
+  modified: '2023-04-23 05:45:06.083000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 362
+  views: 363
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -4159,7 +4159,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-07 20:00:15.542000'
+  modified: '2023-04-23 03:40:52.807000'
   name: CRIS NLP Tangentiality
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4167,7 +4167,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 10468832443395048
@@ -5278,7 +5278,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-22 15:21:05.521000'
+  modified: '2023-04-23 08:52:24.416000'
   name: "CRIS NLP Social Care \u2013 Care Package"
   programming_languages:
   - name: Rule-based - GATE
@@ -5286,7 +5286,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 6146994470373541
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-04-21 15:00:53.428000'
+  modified: '2023-04-23 19:24:36.455000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 71
+  views: 72
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-04-22 21:21:19.489000'
+  modified: '2023-04-23 19:24:06.259000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 47
+  views: 48
 - '@schema':
     type: tool
   _id: 5656962835943253
