@@ -797,7 +797,7 @@ tools:
   - Predictive Analytics
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://rapidminer.com/get-started/
-  modified: '2022-10-04 01:40:53.852000'
+  modified: '2023-04-24 17:57:09.807000'
   name: RapidMiner
   programming_languages:
   - name: Java
@@ -805,7 +805,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 967009258544027
@@ -2270,7 +2270,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-12 21:44:00.229000'
+  modified: '2023-04-24 08:22:05.738000'
   name: test2.1
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2278,7 +2278,7 @@ tools:
   relations: []
   type: ''
   uploader: 5623903674426547
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 8242301810694921
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-04-23 19:24:36.455000'
+  modified: '2023-04-24 13:48:47.432000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 72
+  views: 73
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7264,7 +7264,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/
-  modified: '2023-04-22 19:05:21.072000'
+  modified: '2023-04-24 04:03:10.527000'
   name: CaRROT-CDM
   programming_languages:
   - name: Python
@@ -7272,7 +7272,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 47343683068994032
