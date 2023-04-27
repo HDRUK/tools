@@ -1283,10 +1283,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:35:57.945000",
-      "modified": "2023-04-22 11:49:00.573000",
+      "modified": "2023-04-26 17:31:26.087000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 45,
+      "views": 46,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [

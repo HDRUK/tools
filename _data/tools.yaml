@@ -1404,7 +1404,7 @@ tools:
   - Export Data
   license: Proprietary
   link: http://www.datamartist.com/
-  modified: '2023-04-22 11:49:00.573000'
+  modified: '2023-04-26 17:31:26.087000'
   name: Datamartist
   programming_languages:
   - name: Other
@@ -1412,7 +1412,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 45
+  views: 46
 - '@schema':
     type: tool
   _id: 6399626570814259
