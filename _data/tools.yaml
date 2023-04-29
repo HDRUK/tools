@@ -855,7 +855,7 @@ tools:
   - Workflow
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.cs.waikato.ac.nz/ml/weka/
-  modified: '2022-12-23 07:42:42.244000'
+  modified: '2023-04-28 17:29:10.578000'
   name: WEKA
   programming_languages:
   - name: Java
@@ -863,7 +863,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 1465462945150806
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-04-27 13:40:09.912000'
+  modified: '2023-04-28 10:28:51.141000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 178
+  views: 179
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5319,7 +5319,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-31 01:54:54.473000'
+  modified: '2023-04-28 17:30:33.943000'
   name: "CRIS NLP Social Care \u2013 Home Care"
   programming_languages:
   - name: Rule-based - GATE
@@ -5327,7 +5327,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 22
+  views: 23
 - '@schema':
     type: tool
   _id: 6237413304844819
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-27 17:18:04.869000'
+  modified: '2023-04-28 02:59:46.812000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 370
+  views: 371
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5873,7 +5873,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-04-04 01:43:54.785000'
+  modified: '2023-04-28 15:06:48.222000'
   name: ExECT - Diagnosis of Multiple Epileptic Seizures
   programming_languages:
   - name: Rule-based - GATE
@@ -5881,7 +5881,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 9679267202313368
@@ -6076,7 +6076,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-09 07:48:30.841000'
+  modified: '2023-04-28 22:50:55.208000'
   name: ExECT - Epilepsy Cause
   programming_languages:
   - name: Rule-based - GATE
@@ -6084,7 +6084,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 1670030221318044
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-04-22 20:35:16.276000'
+  modified: '2023-04-28 18:11:17.977000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 244
+  views: 245
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-04-05 09:18:26.381000'
+  modified: '2023-04-28 05:18:54.322000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 12628697796296162
