@@ -1117,10 +1117,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 11:03:43.175000",
-      "modified": "2023-02-02 18:27:12.898000",
+      "modified": "2023-04-29 17:22:25.367000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 18,
+      "views": 19,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
