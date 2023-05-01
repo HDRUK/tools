@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2023-04-21 08:04:08.752000'
+  modified: '2023-04-30 19:28:49.042000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 223
+  views: 224
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -3275,7 +3275,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-09 00:50:45.834000'
+  modified: '2023-05-01 00:51:49.035000'
   name: CRIS NLP Hopelessness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3283,7 +3283,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 21
 - '@schema':
     type: tool
   _id: 2904493534917003
@@ -4600,7 +4600,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-26 09:52:05.231000'
+  modified: '2023-04-30 08:06:36.974000'
   name: CRIS NLP Cough
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4608,7 +4608,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 2046995342931326
