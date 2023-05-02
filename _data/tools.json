@@ -1578,10 +1578,10 @@
       ],
       "uploader": 4442271343443529,
       "issued": "2020-09-28 13:07:09.082000",
-      "modified": "2023-04-28 10:28:51.141000",
+      "modified": "2023-05-01 22:52:13.735000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 179,
+      "views": 180,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [

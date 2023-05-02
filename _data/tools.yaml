@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-04-28 10:28:51.141000'
+  modified: '2023-05-01 22:52:13.735000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 179
+  views: 180
 - '@schema':
     type: tool
   _id: 601398453434496
