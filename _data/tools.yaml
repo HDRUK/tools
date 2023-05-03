@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-05-01 22:52:13.735000'
+  modified: '2023-05-02 12:05:15.374000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 180
+  views: 181
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5595,7 +5595,7 @@ tools:
   - corpus
   license: For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus
   link: https://github.com/cambridgeltl/cometa
-  modified: '2023-04-16 20:31:33.159000'
+  modified: '2023-05-02 19:23:18.417000'
   name: COMETA
   programming_languages:
   - name: Python
@@ -5603,7 +5603,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 32
+  views: 33
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -6212,7 +6212,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-09 09:23:43.423000'
+  modified: '2023-05-02 16:32:29.998000'
   name: ExECT - Seizure Frequency - Number of seizures since a Date
   programming_languages:
   - name: Rule-based - GATE
@@ -6220,7 +6220,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 45492169804048152
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2023-04-17 18:08:04.710000'
+  modified: '2023-05-02 13:27:37.439000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 134
+  views: 135
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7157,7 +7157,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data-Utility-Wizard.png?mtime=20220802145300&focal=none
-  modified: '2023-04-23 19:24:06.259000'
+  modified: '2023-05-02 19:03:53.008000'
   name: The Data Utility Framework - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 5656962835943253
