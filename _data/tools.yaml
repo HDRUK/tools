@@ -14,7 +14,7 @@ tools:
   - Visualisation
   license: ''
   link: https://cmmid.github.io/visualisations
-  modified: '2023-04-27 04:47:39.302000'
+  modified: '2023-05-05 10:28:36.153000'
   name: CMMID Interactive Applications
   programming_languages:
   - name: R
@@ -22,7 +22,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 270
+  views: 271
 - '@schema':
     type: tool
   _id: 19002
@@ -161,7 +161,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://covid.joinzoe.com/
-  modified: '2023-04-27 18:32:32.480000'
+  modified: '2023-05-05 13:55:50.724000'
   name: COVID-19 Symptom Tracker App
   programming_languages:
   - name: Other
@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 292
+  views: 293
 - '@schema':
     type: tool
   _id: 19008
@@ -202,13 +202,13 @@ tools:
   - COVID-19
   license: ''
   link: https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/
-  modified: '2023-04-12 05:11:27.088000'
+  modified: '2023-05-05 13:48:17.148000'
   name: BSTI COVID-19 Imaging Database
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 165
+  views: 166
 - '@schema':
     type: tool
   _id: 19010
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2023-04-27 13:16:29.585000'
+  modified: '2023-05-05 08:29:32.556000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 306
+  views: 307
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -389,7 +389,7 @@ tools:
   - Community Tracking
   license: ''
   link: https://www.covid19-trials.com/
-  modified: '2023-04-03 05:59:57.478000'
+  modified: '2023-05-05 23:08:19.434000'
   name: Global Coronavirus COVID-19 Clinical Trial Tracker
   programming_languages:
   - name: R-Shiny
@@ -397,7 +397,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 93
+  views: 94
 - '@schema':
     type: tool
   _id: 6714850465860713
@@ -644,7 +644,7 @@ tools:
   - Machine Learning
   license: GNU General Public License version 3.0 (GPLv3)
   link: https://www.knime.com/
-  modified: '2023-01-17 07:28:07.640000'
+  modified: '2023-05-05 14:01:53.382000'
   name: Knime
   programming_languages:
   - name: Java
@@ -652,7 +652,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 54462863626962
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-05-03 21:12:16.601000'
+  modified: '2023-05-05 08:22:26.698000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 366
+  views: 367
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2952,7 +2952,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-05 13:20:54.945000'
+  modified: '2023-05-05 23:24:20.139000'
   name: CRIS NLP Emotional withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2960,7 +2960,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 12369864033666068
@@ -3516,7 +3516,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-24 21:51:12.964000'
+  modified: '2023-05-05 15:20:37.825000'
   name: CRIS NLP Mood instability
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3524,7 +3524,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 4746277318207359
@@ -3556,7 +3556,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-01-13 22:30:37.121000'
+  modified: '2023-05-05 15:21:34.608000'
   name: CRIS NLP Mutism
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3564,7 +3564,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 8307946077866399
@@ -4671,7 +4671,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-31 16:55:32.152000'
+  modified: '2023-05-05 13:34:00.661000'
   name: CRIS NLP Hypertension
   programming_languages:
   - name: sem-EHR - GATE
@@ -4679,7 +4679,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 30
+  views: 31
 - '@schema':
     type: tool
   _id: 649136686266427
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-04-28 02:59:46.812000'
+  modified: '2023-05-06 00:35:02.216000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 371
+  views: 373
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5744,7 +5744,7 @@ tools:
   - Data Discovery
   license: ''
   link: https://biokeanos.com
-  modified: '2023-04-05 12:47:32.743000'
+  modified: '2023-05-06 00:51:59.257000'
   name: "Bi\u014Ckean\xF3s"
   programming_languages:
   - name: Webpage
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 331
+  views: 332
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-04-28 18:11:17.977000'
+  modified: '2023-05-05 21:26:01.161000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 245
+  views: 247
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7188,7 +7188,7 @@ tools:
   - Five Safes
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Data_Access_Requests.png?mtime=20220802164032&focal=none
-  modified: '2023-04-18 16:56:17.648000'
+  modified: '2023-05-05 09:55:26.272000'
   name: Data Access Requests - infographic explainer
   programming_languages:
   - name: Webpage
@@ -7196,7 +7196,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 61
+  views: 62
 - '@schema':
     type: tool
   _id: 903414898203343
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-04-20 14:25:43.464000'
+  modified: '2023-05-05 10:42:00.633000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 52
+  views: 53
 - '@schema':
     type: tool
   _id: 9343953854321668
@@ -7241,7 +7241,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/
-  modified: '2023-04-18 07:26:04.816000'
+  modified: '2023-05-05 10:42:40.591000'
   name: CaRROT-Mapper
   programming_languages:
   - name: Python, Django, React
@@ -7249,7 +7249,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7291,7 +7291,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/
-  modified: '2023-04-28 05:18:54.322000'
+  modified: '2023-05-05 07:53:27.251000'
   name: CaRROT-Pseudonymise
   programming_languages:
   - name: C#, Java, Python
@@ -7299,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 25
+  views: 26
 - '@schema':
     type: tool
   _id: 12628697796296162
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-05-04 13:20:39.049000'
+  modified: '2023-05-05 13:33:09.314000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 75
+  views: 78
