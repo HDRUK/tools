@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2023-05-03 10:30:43.644000'
+  modified: '2023-05-06 15:35:42.192000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 175
+  views: 176
 - '@schema':
     type: tool
   _id: 19003
@@ -273,7 +273,7 @@ tools:
   - Natural language processing
   license: GNU General Public License (GPL)
   link: http://caliberanalysis.r-forge.r-project.org/
-  modified: '2023-05-05 08:29:32.556000'
+  modified: '2023-05-06 17:14:50.708000'
   name: CALIBER health records research toolkit
   programming_languages:
   - name: R
@@ -281,7 +281,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 307
+  views: 308
 - '@schema':
     type: tool
   _id: 8950960289411696
@@ -409,7 +409,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2023-03-23 09:57:47.235000'
+  modified: '2023-05-06 19:42:14.973000'
   name: 'Moorfields: Private Eye'
   programming_languages:
   - name: Python
@@ -417,7 +417,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 66
+  views: 67
 - '@schema':
     type: tool
   _id: 6556451815701672
@@ -495,7 +495,7 @@ tools:
   - Search Engine
   license: MS
   link: https://www.hdruk.ac.uk/help-with-your-data/our-hubs-across-the-uk/pioneer/
-  modified: '2023-02-13 13:42:31.451000'
+  modified: '2023-05-06 11:22:38.114000'
   name: MS SQL / SSIS
   programming_languages:
   - name: SQL Server
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 85
+  views: 86
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -570,7 +570,7 @@ tools:
   - ' NCS'
   license: ''
   link: https://saildatabank.com/
-  modified: '2023-04-30 19:28:49.042000'
+  modified: '2023-05-06 14:36:59.471000'
   name: SAIL Databank
   programming_languages:
   - name: Other
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 224
+  views: 225
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -931,7 +931,7 @@ tools:
   - Data Anonymization
   license: Apache License 2.0
   link: https://arx.deidentifier.org/downloads/
-  modified: '2023-05-05 08:22:26.698000'
+  modified: '2023-05-07 00:48:59.261000'
   name: ARX Data Anonymization
   programming_languages:
   - name: Java
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 367
+  views: 368
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -2351,7 +2351,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-04-20 14:36:55.328000'
+  modified: '2023-05-06 02:09:13.881000'
   name: CRIS NLP Agitation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2359,7 +2359,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 17
+  views: 18
 - '@schema':
     type: tool
   _id: 20969727106775384
@@ -2872,7 +2872,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-03-10 17:00:17.999000'
+  modified: '2023-05-06 17:19:09.853000'
   name: CRIS NLP Echolalia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2880,7 +2880,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 11
+  views: 12
 - '@schema':
     type: tool
   _id: 9242053681629978
