@@ -41,7 +41,7 @@ tools:
   - Android
   license: MIT
   link: https://github.com/nhsx/COVID-19-app-Android-BETA
-  modified: '2023-05-06 15:35:42.192000'
+  modified: '2023-05-07 04:22:48.495000'
   name: COVID-19 Contact Tracing App - Android
   programming_languages:
   - name: Java
@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 176
+  views: 177
 - '@schema':
     type: tool
   _id: 19003
@@ -429,7 +429,7 @@ tools:
   keywords: []
   license: ''
   link: https://www.insight.hdrhub.org/
-  modified: '2023-03-23 09:56:52.743000'
+  modified: '2023-05-07 03:18:24.956000'
   name: 'Moorfields: Librarian'
   programming_languages:
   - name: Python
@@ -437,7 +437,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 38
+  views: 39
 - '@schema':
     type: tool
   _id: 4380058810593852
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-05-02 12:05:15.374000'
+  modified: '2023-05-07 03:30:25.742000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 181
+  views: 182
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -3677,7 +3677,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-28 17:01:33.251000'
+  modified: '2023-05-07 05:09:38.934000'
   name: CRIS NLP Paranoia
   programming_languages:
   - name: Machine learning - TextHunter
@@ -3685,7 +3685,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 9581633158454506
@@ -4630,7 +4630,7 @@ tools:
   - contextual factors
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-02-02 15:39:31.590000'
+  modified: '2023-05-07 10:56:03.009000'
   name: "CRIS NLP Crohn\u2019s Disease"
   programming_languages:
   - name: sem-EHR - GATE
@@ -4638,7 +4638,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 6501605970496267
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-05-06 00:35:02.216000'
+  modified: '2023-05-07 01:06:52.301000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 373
+  views: 374
 - '@schema':
     type: tool
   _id: 9268236012305552
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2023-04-13 13:36:40.885000'
+  modified: '2023-05-07 07:14:13.452000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 57
+  views: 58
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6247,7 +6247,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-04-28 00:45:18.673000'
+  modified: '2023-05-07 07:56:20.142000'
   name: ExECT - Seizure Frequency - Number of seizures since Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6255,7 +6255,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 12
+  views: 13
 - '@schema':
     type: tool
   _id: 7503312670210915
@@ -6566,7 +6566,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-03-17 10:31:46.495000'
+  modified: '2023-05-07 21:23:07.261000'
   name: ExECT -  When Diagnosed - Age
   programming_languages:
   - name: Rule-based - GATE
@@ -6574,7 +6574,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 21
+  views: 22
 - '@schema':
     type: tool
   _id: 14973548428927486
@@ -6950,7 +6950,7 @@ tools:
   - Cohort Discovery
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Cohort-Discovery.png?mtime=20220802145258&focal=none
-  modified: '2023-04-24 13:48:47.432000'
+  modified: '2023-05-07 07:00:40.356000'
   name: The Cohort Discovery Tool - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6958,7 +6958,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 73
+  views: 74
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7319,7 +7319,7 @@ tools:
   keywords: []
   license: ''
   link: https://hdruk.github.io/hutch/
-  modified: '2023-05-05 13:33:09.314000'
+  modified: '2023-05-07 18:55:29.965000'
   name: HUTCH
   programming_languages:
   - name: Webpage
@@ -7327,4 +7327,4 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 78
+  views: 79
