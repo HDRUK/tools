@@ -136,13 +136,13 @@ tools:
   - Phenomics
   license: ''
   link: http://covid19-phenomics.org/
-  modified: '2023-01-28 18:04:52.087000'
+  modified: '2023-05-08 22:26:25.789000'
   name: COVID-19 Phenomics
   programming_languages: []
   relations: []
   type: ''
   uploader: ''
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 19007
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2023-04-18 01:31:24.042000'
+  modified: '2023-05-08 05:33:38.596000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 103
+  views: 104
 - '@schema':
     type: tool
   _id: 22703411038557176
