@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-04-20 19:48:42.071000'
+  modified: '2023-05-15 13:15:17.310000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 70
+  views: 72
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1334,7 +1334,7 @@ tools:
   - Data Visualisation
   license: https://www.datapreparator.com/software-license-agreement-2.html
   link: https://www.datapreparator.com/
-  modified: '2023-01-12 04:54:00.847000'
+  modified: '2023-05-15 14:30:20.012000'
   name: DataPreparator
   programming_languages:
   - name: Java
@@ -1342,7 +1342,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 36
+  views: 37
 - '@schema':
     type: tool
   _id: 7234606581744716
@@ -4078,7 +4078,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-11-30 18:33:13.409000'
+  modified: '2023-05-15 14:51:36.640000'
   name: CRIS NLP Stupor
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4086,7 +4086,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 589024016540721
@@ -4239,7 +4239,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-12-31 10:22:45.715000'
+  modified: '2023-05-15 03:55:28.070000'
   name: CRIS NLP Thought block
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4247,7 +4247,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 8
+  views: 9
 - '@schema':
     type: tool
   _id: 21263999367358544
@@ -5360,7 +5360,7 @@ tools:
   - interventions
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-10-27 19:34:38.650000'
+  modified: '2023-05-15 14:10:43.020000'
   name: "CRIS NLP Social care \u2013 Meals on Wheels"
   programming_languages:
   - name: Rule-based - GATE
@@ -5368,7 +5368,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 20
+  views: 21
 - '@schema':
     type: tool
   _id: 6509005142105824
@@ -5521,7 +5521,7 @@ tools:
   - Platform
   license: Apache License 2.0
   link: https://github.com/awslabs/service-workbench-on-aws
-  modified: '2023-05-14 07:48:25.648000'
+  modified: '2023-05-15 14:59:48.093000'
   name: Service Workbench on AWS
   programming_languages:
   - name: Node.js
@@ -5529,7 +5529,7 @@ tools:
   relations: []
   type: ''
   uploader: 22057843612818416
-  views: 382
+  views: 383
 - '@schema':
     type: tool
   _id: 9268236012305552
