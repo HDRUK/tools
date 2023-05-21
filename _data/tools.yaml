@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-05-12 16:31:32.611000'
+  modified: '2023-05-20 14:12:45.242000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 184
+  views: 185
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -5628,7 +5628,7 @@ tools:
   - Software
   license: ''
   link: https://siphs.org/resources
-  modified: '2023-05-07 07:14:13.452000'
+  modified: '2023-05-20 08:09:45.867000'
   name: 'SIPHS: Semantic Interpretation of Personal Health MessageS: linguistic analysis
     of online health communities'
   programming_languages:
@@ -5637,7 +5637,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 27125959011066648
@@ -6354,7 +6354,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-04-04 09:04:05.649000'
+  modified: '2023-05-20 08:26:46.910000'
   name: ExECT -  Seizure Frequency - Changes to seizure frequency in a time period
   programming_languages:
   - name: Rule-based - GATE
@@ -6362,7 +6362,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 6287110693516533
