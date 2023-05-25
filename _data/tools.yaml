@@ -1255,7 +1255,7 @@ tools:
   - Data Reconciliation and Matching
   license: Apache License 2.0
   link: http://openrefine.org/
-  modified: '2022-12-13 14:24:10.614000'
+  modified: '2023-05-24 04:36:06.195000'
   name: OpenRefine
   programming_languages:
   - name: Java
@@ -1263,7 +1263,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 24
+  views: 25
 - '@schema':
     type: tool
   _id: 21347787115614536
@@ -1729,7 +1729,7 @@ tools:
   - Anomaly Detection
   license: Apache License 2.0
   link: https://github.com/ubisoftinc/mobydq
-  modified: '2023-05-20 14:12:45.242000'
+  modified: '2023-05-24 08:02:24.764000'
   name: MobyDQ
   programming_languages:
   - name: Python
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 185
+  views: 186
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -4037,7 +4037,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-08-04 12:20:21.130000'
+  modified: '2023-05-24 05:24:18.884000'
   name: CRIS NLP Social withdrawal
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4045,7 +4045,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 6
+  views: 7
 - '@schema':
     type: tool
   _id: 9150380560482896
@@ -5778,7 +5778,7 @@ tools:
   - Demographics
   license: MIT
   link: https://github.com/BenevolentAI/benevolentai-dat
-  modified: '2023-04-21 03:29:17.105000'
+  modified: '2023-05-24 20:44:58.830000'
   name: Diversity Analysis Tool
   programming_languages:
   - name: Python
@@ -5786,7 +5786,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 78
+  views: 79
 - '@schema':
     type: tool
   _id: 5832340403218483
@@ -6880,7 +6880,7 @@ tools:
   keywords: []
   license: CC BY NC 3.0
   link: https://www.qresearch.org/media/1336/infographic-3-1.pdf
-  modified: '2023-05-08 05:33:38.596000'
+  modified: '2023-05-24 12:59:59.863000'
   name: Do COVID-19 vaccinations increase the risk of blood clots?
   programming_languages:
   - name: Webpage
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 104
+  views: 105
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2023-05-17 14:23:46.598000'
+  modified: '2023-05-24 20:44:52.979000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 142
+  views: 143
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -6978,7 +6978,7 @@ tools:
   - 'Community '
   license: CC BY NC 3.0
   link: https://storage.googleapis.com/hdruk-gateway_prod-cms/web-assets/Gateway_Infographic_Community-Forum.png?mtime=20220802145259&focal=none
-  modified: '2023-03-03 23:34:47.282000'
+  modified: '2023-05-25 00:03:35.482000'
   name: The Gateway Community Forum - infographic explainer
   programming_languages:
   - name: Webpage
@@ -6986,7 +6986,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 15
+  views: 16
 - '@schema':
     type: tool
   _id: 3683603699774525
