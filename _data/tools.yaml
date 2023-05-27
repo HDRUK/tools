@@ -2351,7 +2351,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2023-05-14 11:55:15.471000'
+  modified: '2023-05-26 07:18:23.696000'
   name: CRIS NLP Agitation
   programming_languages:
   - name: Machine learning - TextHunter
@@ -2359,7 +2359,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 20969727106775384
@@ -4199,7 +4199,7 @@ tools:
   - symptoms
   license: Available upon request
   link: https://maudsleybrc.nihr.ac.uk/facilities/clinical-record-interactive-search-cris/cris-natural-language-processing/
-  modified: '2022-07-16 23:38:04.175000'
+  modified: '2023-05-26 14:27:10.144000'
   name: CRIS NLP Tearfulness
   programming_languages:
   - name: Machine learning - TextHunter
@@ -4207,7 +4207,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 10
+  views: 11
 - '@schema':
     type: tool
   _id: 7798542864371327
@@ -6532,7 +6532,7 @@ tools:
   - rule-based
   license: ''
   link: https://github.com/swneurosci/ExECT-V2
-  modified: '2023-01-08 14:48:34.992000'
+  modified: '2023-05-26 05:35:22.078000'
   name: "ExECT -  When Diagnosed \u2013 Time Periods"
   programming_languages:
   - name: Rule-based - GATE
@@ -6540,7 +6540,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 14
+  views: 15
 - '@schema':
     type: tool
   _id: 3034254598033721
@@ -7214,7 +7214,7 @@ tools:
   - NNRD
   license: ''
   link: https://www.imperial.ac.uk/neonatal-data-analysis-unit/neonatal-data-analysis-unit/neonatal-data-visualisations/
-  modified: '2023-05-19 00:44:05.519000'
+  modified: '2023-05-26 16:21:43.573000'
   name: Neonatal Data Visualisations
   programming_languages:
   - name: PowerBI
@@ -7222,7 +7222,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 56
+  views: 57
 - '@schema':
     type: tool
   _id: 9343953854321668
