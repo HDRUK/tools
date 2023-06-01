@@ -1046,7 +1046,7 @@ tools:
   - Data Transformation
   license: Apache License 2.0
   link: https://www.talend.com/products/data-integration/data-integration-open-studio
-  modified: '2023-05-28 16:13:16.248000'
+  modified: '2023-05-31 05:23:24.366000'
   name: Talend Open Studio for Data Integration
   programming_languages:
   - name: Java
@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 74
+  views: 75
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1437,7 +1437,7 @@ tools:
   - ETL
   license: Apache License 2.0
   link: https://wiki.pentaho.com/display/EAI/Latest+Pentaho+Data+Integration+%28aka+Kettle%29+Documentation
-  modified: '2023-05-16 20:52:15.437000'
+  modified: '2023-05-31 07:55:34.859000'
   name: Pentaho Kettle
   programming_languages:
   - name: Other
@@ -1445,7 +1445,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 27
+  views: 28
 - '@schema':
     type: tool
   _id: 6112069328053749
@@ -6617,7 +6617,7 @@ tools:
   - Machine Learning
   license: GPLv3
   link: https://github.com/EpistasisLab/tpot
-  modified: '2023-04-16 07:34:16.983000'
+  modified: '2023-05-31 08:05:54.372000'
   name: tpot
   programming_languages:
   - name: Python
@@ -6625,7 +6625,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 81
+  views: 82
 - '@schema':
     type: tool
   _id: 8537436822958817
@@ -6691,7 +6691,7 @@ tools:
   - Interactive Visualization
   license: MIT license
   link: https://reports.recode.ai/gender_covid19_uk/report_1.html
-  modified: '2023-05-19 22:58:03.174000'
+  modified: '2023-05-31 11:33:14.542000'
   name: Interactive R tool to visualize the impact of COVID-19 on unemployment and
     job loss from a gender, ethnicity, and class perspective
   programming_languages:
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 255
+  views: 256
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -6795,7 +6795,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 1549626218439133
@@ -6888,7 +6888,7 @@ tools:
   relations: []
   type: ''
   uploader: 9952605032979578
-  views: 105
+  views: 106
 - '@schema':
     type: tool
   _id: 22703411038557176
@@ -6921,7 +6921,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2023-05-24 20:44:52.979000'
+  modified: '2023-05-31 07:33:04.626000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 143
+  views: 144
 - '@schema':
     type: tool
   _id: 22557344081099216
@@ -7165,7 +7165,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 53
+  views: 54
 - '@schema':
     type: tool
   _id: 5656962835943253
