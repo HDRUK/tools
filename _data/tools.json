@@ -17,7 +17,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 275,
+      "views": 277,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 233,
+      "views": 234,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 69,
+      "views": 70,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 32,
+      "views": 33,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -5125,7 +5125,7 @@
       "modified": "2023-05-20 08:09:45.867000",
       "description": "A collection of software and datasets to support linguistic analysis of online health communities.\n\n### Results & Insights\n\nFor further details please visit https://siphs.org/resources.",
       "license": "",
-      "views": 59,
+      "views": 60,
       "category": "Software and datasets",
       "relations": [],
       "keywords": [
@@ -5159,7 +5159,7 @@
       "modified": "2023-02-16 15:16:54.226000",
       "description": "24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED, HPO, MeSH, PRO, and FMA.\n\n### Results & Insights\n\nFurther details available at https://zenodo.org/record/1197188#.X_Lw62T7Rqu",
       "license": "",
-      "views": 56,
+      "views": 57,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 334,
+      "views": 335,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 90,
+      "views": 91,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 256,
+      "views": 257,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
