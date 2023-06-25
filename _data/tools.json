@@ -17,7 +17,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 280,
+      "views": 281,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 316,
+      "views": 317,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 332,
+      "views": 333,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 29,
+      "views": 30,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 121,
+      "views": 122,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -2650,7 +2650,7 @@
       "modified": "2023-05-13 08:12:06.894000",
       "description": "Application to extract occurrences where echolalia is present.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6030,7 +6030,7 @@
       "modified": "2023-05-26 05:35:22.078000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months, Years).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 91,
+      "views": 92,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
