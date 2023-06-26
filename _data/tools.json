@@ -79,7 +79,7 @@
       "modified": "2022-11-30 02:46:05.469000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 63,
+      "views": 64,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 317,
+      "views": 318,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -514,7 +514,7 @@
       "modified": "2023-05-06 11:22:38.114000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 86,
+      "views": 87,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 78,
+      "views": 79,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1349,7 +1349,7 @@
       "modified": "2023-04-22 16:43:52.356000",
       "description": "Community (Free Use - LIMITED), Pro and Enterprise (Paid Version)\n\nSQL Power Architect data modeling tool has many unique features geared specifically for the data warehouse architect. It is a powerful database utility that not only builds diagrams of databases, but also provides data dictionary language output, which can be used to build database solutions.\n\nConnects to multiple source databases concurrently, Compares data models & database structures and identifies discrepancies, Generates source-to-target visual Mapping Reports, Forward/reverse engineers PostgreSQL, Oracle, MS SQL Server & more.\n",
       "license": "Proprietary",
-      "views": 17,
+      "views": 18,
       "category": "Data Modelling Tool",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 122,
+      "views": 123,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -2254,7 +2254,7 @@
       "modified": "2023-04-16 02:05:42.030000",
       "description": "Application to identify instances of anhedonia (inability to experience pleasure from activities usually found.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 8,
+      "views": 9,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4342,7 +4342,7 @@
       "modified": "2022-11-10 17:34:26.090000",
       "description": "To identify instances of amphetamine use..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4846,7 +4846,7 @@
       "modified": "2023-04-28 17:30:33.943000",
       "description": "Application to identify instances of home care/help. This is help by someone who comes to assist the patient.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
