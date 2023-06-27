@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 205,
+      "views": 206,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -1552,7 +1552,7 @@
       "modified": "2023-05-29 15:46:02.782000",
       "description": "The goal of pyxplorer is to provide a simple tool that allows interactive profiling of datasets that are accessible via a SQL like interface. The only requirement to run data profiling is that you are able to provide a Python DBAPI like interface to your data source and the data source is able to understand simplistic SQL queries.\n\nSupported Features:\n-Column Count (Database / Table)\n-Table Count\n-Tuple Count (Database / Table)\n-Min / Max\n-Most Frequent / Least Frequent\n-Top-K Most Frequent / Top-K Least Frequent\n-Top-K Value Distribution (Database / Table )\n-Uniqueness\n-Constancy\n-Distinct Value Count",
       "license": "BSD 2-Clause \"Simplified\" License",
-      "views": 47,
+      "views": 48,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -4018,7 +4018,7 @@
       "modified": "2023-04-25 03:40:28.246000",
       "description": "Application to identify instances of waxy flexibility. Waxy flexibility is a psychomotor symptom of catatonia as.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4270,7 +4270,7 @@
       "modified": "2023-05-16 11:59:10.586000",
       "description": "Application to identify patients with diagnosis of hypertension or high blood pressure.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 34,
+      "views": 35,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5369,7 +5369,7 @@
       "modified": "2023-04-28 15:06:48.222000",
       "description": "Application to extract a diagnosis of multiple epileptic seizures.  Output Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical Language System) and Negation (Affirmed + Negated). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5544,7 +5544,7 @@
       "modified": "2023-03-17 10:33:53.422000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Date of Onset (Day, Month, Year).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
