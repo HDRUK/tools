@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 327,
+      "views": 328,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 241,
+      "views": 244,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 409,
+      "views": 410,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -6100,7 +6100,7 @@
       "modified": "2023-01-30 10:56:07.665000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Date (Day, Month, Year). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6361,7 +6361,7 @@
       "modified": "2023-05-24 12:59:59.863000",
       "description": "Infographic summarising results of research study\n\n### Results & Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34 to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1 nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21 days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological and vascular events that led to hospital admission or death were observed for short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA vaccines. The risks of most of these events were substantially higher and more prolonged after SARS-CoV-2 infection than after vaccination in the same population.",
       "license": "CC BY NC 3.0",
-      "views": 111,
+      "views": 112,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6389,7 +6389,7 @@
       "modified": "2023-05-31 07:33:04.626000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 50 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 153,
+      "views": 154,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6567,7 +6567,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 18,
+      "views": 19,
       "category": "infographic",
       "relations": [],
       "keywords": [
