@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 208,
+      "views": 209,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -140,7 +140,7 @@
       "modified": "2023-05-14 10:27:58.675000",
       "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
       "license": "",
-      "views": 137,
+      "views": 138,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 328,
+      "views": 329,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -251,7 +251,7 @@
       "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 184,
+      "views": 185,
       "category": "",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 244,
+      "views": 245,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 30,
+      "views": 31,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1581,7 +1581,7 @@
       "modified": "2023-05-30 15:31:31.953000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 205,
+      "views": 206,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -1927,7 +1927,7 @@
       "modified": "2022-12-02 20:02:48.118000",
       "description": "Research literature in biomedicine and related fields contains a huge number of claims, such as the effectiveness of treatments. These claims are not always consistent and may even contradict each other. Being able to identify contradictory claims is important for those who rely on the biomedical literature. Automated methods to identify and resolve them are required to cope with the amount of information available. However, research in this area has been hampered by a lack of suitable resources. We provide a corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.",
       "license": "CC BY NC SA 2.0 UK",
-      "views": 18,
+      "views": 19,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 339,
+      "views": 340,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -5404,7 +5404,7 @@
       "modified": "2023-01-02 09:11:08.334000",
       "description": "Application to extract MRI investigations.  Output Values: MRI Performed (Yes/No), MRI Result (Normal, Abnormal, Unknown)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 269,
+      "views": 270,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
