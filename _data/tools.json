@@ -17,7 +17,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 281,
+      "views": 282,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -226,7 +226,7 @@
       "modified": "2023-04-23 22:06:13.886000",
       "description": "Help paint a more accurate picture of covid-19 in your community",
       "license": "",
-      "views": 95,
+      "views": 96,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 245,
+      "views": 246,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 411,
+      "views": 414,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1774,7 +1774,7 @@
       "modified": "2022-12-23 22:09:55.765000",
       "description": "MedNorm is a corpus of 27,979 textual descriptions simultaneously mapped to both MedDRA and SNOMED-CT, sourced from five publicly available datasets across biomedical and social media domains.\nThe cross-terminology medical concept embeddings are 64-dimensional vectors for UMLS, MedDRA and SNOMED-CT concepts that are able to capture semantic similarities between concepts from different medical terminologies.",
       "license": "CC BY NC 3.0",
-      "views": 28,
+      "views": 29,
       "category": "Dataset, corpus",
       "relations": [],
       "keywords": [
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 32,
+      "views": 33,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -2758,7 +2758,7 @@
       "modified": "2023-01-06 06:27:23.921000",
       "description": "Application to extract instances of flight of ideas.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 10,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4126,7 +4126,7 @@
       "modified": "2023-05-29 09:54:40.467000",
       "description": "Application to identify patients with diagnosis of asthma.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 32,
+      "views": 33,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6420,7 +6420,7 @@
       "modified": "2023-07-03 07:20:09.557000",
       "description": "Statistical code for Covid-19 vaccine safety analyses\n\n### Results & Insights\n\nStatistical code for Covid-19 vaccine safety analyses",
       "license": "",
-      "views": 4,
+      "views": 5,
       "category": "Code snippet",
       "relations": [],
       "keywords": [],
@@ -6863,7 +6863,7 @@
       "modified": "2023-05-25 09:42:38.142000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 38,
+      "views": 39,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
@@ -7051,7 +7051,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 3,
+      "views": 4,
       "category": "Repository",
       "relations": [],
       "keywords": [
@@ -7115,7 +7115,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 5,
+      "views": 6,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
