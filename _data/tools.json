@@ -140,7 +140,7 @@
       "modified": "2023-05-14 10:27:58.675000",
       "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
       "license": "",
-      "views": 142,
+      "views": 143,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -275,7 +275,7 @@
       "modified": "2023-05-22 00:16:13.068000",
       "description": "We recently used large-scale samples of NHS patient data to estimate the excess risk of mortality which may be associated with coronavirus (COVID-19). We wanted to develop this research to inform simple tools to allow interaction and exploration by policymakers, researchers and the public. In the OurRisk.CoV tool, we provide our initial learning in relation to the implementation and development of policy responses to the COVID-19 pandemic. We have provided some simple tools to allow interaction and exploration.\n\nOurRisk.CoV is initially intended for use by researchers, policy makers and those who seek to work with patient data to inform responses to the current emergency.",
       "license": "Apache 2",
-      "views": 134,
+      "views": 135,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -486,7 +486,7 @@
       "modified": "2023-03-18 15:48:26.548000",
       "description": "ETL linking clinical and image data",
       "license": "",
-      "views": 61,
+      "views": 63,
       "category": "App (Apache Beam / GCP DataFlow)",
       "relations": [],
       "keywords": [],
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 33,
+      "views": 34,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4126,7 +4126,7 @@
       "modified": "2023-05-29 09:54:40.467000",
       "description": "Application to identify patients with diagnosis of asthma.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 37,
+      "views": 38,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 93,
+      "views": 94,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
