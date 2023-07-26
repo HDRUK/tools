@@ -4486,7 +4486,7 @@
       "modified": "2023-05-27 21:22:50.558000",
       "description": "This application distinguishes between people who are a) current smokers, b) current non-smokers (ever.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 22,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
