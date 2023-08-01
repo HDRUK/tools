@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 419,
+      "views": 420,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 24,
+      "views": 25,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -1581,7 +1581,7 @@
       "modified": "2023-05-30 15:31:31.953000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 214,
+      "views": 216,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -4342,7 +4342,7 @@
       "modified": "2022-11-10 17:34:26.090000",
       "description": "To identify instances of amphetamine use..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6917,7 +6917,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 25,
+      "views": 26,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7115,7 +7115,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 10,
+      "views": 11,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
