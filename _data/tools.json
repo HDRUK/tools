@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 74,
+      "views": 75,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -459,7 +459,7 @@
       "modified": "2023-05-12 20:32:47.724000",
       "description": "Cataloguing of ophthalmic images",
       "license": "",
-      "views": 41,
+      "views": 42,
       "category": "App (Docker/Kubernetes)",
       "relations": [],
       "keywords": [],
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 259,
+      "views": 260,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -5369,7 +5369,7 @@
       "modified": "2023-04-28 15:06:48.222000",
       "description": "Application to extract a diagnosis of multiple epileptic seizures.  Output Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical Language System) and Negation (Affirmed + Negated). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6665,7 +6665,7 @@
       "modified": "2023-05-10 14:49:31.754000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Data Use Register, a feature that shows how Gateway datasets are being used, by whom and for what purpose.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 37,
+      "views": 38,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6721,7 +6721,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 75,
+      "views": 76,
       "category": "infographic",
       "relations": [],
       "keywords": [
