@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 31,
+      "views": 32,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 126,
+      "views": 127,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -5404,7 +5404,7 @@
       "modified": "2023-01-02 09:11:08.334000",
       "description": "Application to extract MRI investigations.  Output Values: MRI Performed (Yes/No), MRI Result (Normal, Abnormal, Unknown)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 279,
+      "views": 280,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6478,7 +6478,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 92,
+      "views": 93,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6751,7 +6751,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 68,
+      "views": 69,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6917,7 +6917,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 35,
+      "views": 36,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7115,7 +7115,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 18,
+      "views": 19,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
