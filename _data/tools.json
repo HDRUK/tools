@@ -275,7 +275,7 @@
       "modified": "2023-05-22 00:16:13.068000",
       "description": "We recently used large-scale samples of NHS patient data to estimate the excess risk of mortality which may be associated with coronavirus (COVID-19). We wanted to develop this research to inform simple tools to allow interaction and exploration by policymakers, researchers and the public. In the OurRisk.CoV tool, we provide our initial learning in relation to the implementation and development of policy responses to the COVID-19 pandemic. We have provided some simple tools to allow interaction and exploration.\n\nOurRisk.CoV is initially intended for use by researchers, policy makers and those who seek to work with patient data to inform responses to the current emergency.",
       "license": "Apache 2",
-      "views": 135,
+      "views": 136,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 335,
+      "views": 336,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -371,7 +371,7 @@
       "modified": "2023-04-18 01:53:50.751000",
       "description": "ggquickeda is an R Shiny app/package providing a graphical user interface (GUI) to ggplot2 and table1.\n\nIt enables you to quickly explore your data and to detect trends on the fly. You can do scatter plots, dotplots, boxplots, barplots, histograms, densities and summary statistics of one or multiple variable(s) by column(s) splits and an optional overall column.\n\nIt also has the km, kmband and kmticks geoms/stats to facilitate the plotting of Kaplan-Meier Survival curves",
       "license": "Copyrighted",
-      "views": 77,
+      "views": 78,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -738,7 +738,7 @@
       "modified": "2023-03-10 13:57:00.186000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 41,
+      "views": 42,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -786,7 +786,7 @@
       "modified": "2023-04-24 17:57:09.807000",
       "description": "Integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics.\n\nEasy-to-use visual environment for predictive analytics. No programming required. RapidMiner is easily the most powerful and intuitive graphical user interface for the design of analysis processes. Forget sifting through code! You can also choose to run in batch mode. Whatever you prefer, RapidMiner has it all.\n\nRapidMiner Python package:\nBoth Studio and Server classes provide a read and a write method for reading / writing data and other objects, and a run method to run processes. The method signatures are the same, with somewhat different extra parameters.\n\nStudio class requires a local Studio installation and is suitable in the following cases:\n\nImplementing certain data science steps in Python using your favorite IDE or notebook implementation. You may even use the resulting code afterwards in a RapidMiner process within an Execute Python operator.\nYou are using coding primarily, but you want to incorporate methods that are impemented in a RapidMiner process.\nCreating batch tasks that also interact with the repository and / or run processes.\nServer class connects directly to a Server instance without the need of a Studio installation. It is suitable in the following cases:\n\nCollaborating with RapidMiner users, sharing data easily.\nCalling, running, scheduling processes on the RapidMiner Server platform from a local script.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 33,
+      "views": 34,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -916,7 +916,7 @@
       "modified": "2023-05-09 15:58:17.651000",
       "description": "Tool to help prepare for ETLs of healthcare datasets.\n\nWhiteRabbit is a small application that can be used to analyze the structure and contents of a database as preparation for designing an ETL. It comes with RabbitInAHat, an application for interactive design of an ETL to the OMOP Common Data Model with the help of the scan report generated by White Rabbit. WhiteRabbit\u2019s main function is to perform a scan of the source data, providing detailed information on the tables, fields, and values that appear in a field. This scan will generate a report that can be used as a reference when designing the ETL, for instance by using the Rabbit-In-a-Hat tool. White Rabbit differs from standard data profiling tools in that it attempts to prevent the display of personally identifiable information (PII) data values in the generated output data file.",
       "license": "Apache License 2.0",
-      "views": 35,
+      "views": 36,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 84,
+      "views": 85,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1051,7 +1051,7 @@
       "modified": "2023-01-12 12:38:46.612000",
       "description": "LIMITED FREE VERSION\nhttps://www.talend.com/products/pricing-model/\n\nTalend Open Studio for Data Quality and Talend Data Preparation Free Desktop.  Do simple cleansing, data manipulation, standardization and enrichment.\n\nDatasets can be a local or remote file that can be imported into the Talend Data Preparation tool (or from a database connection or other data sources, although not in the context of the Free Desktop version). A dataset is used as raw material for one or more preparations.\n\nCreate clean and valuable data in minutes with Single point of access across data sources, Interactive discovery, cleansing and formatting and Automation and reuse data preparation tasks.  Auto-discover and browse your data.\n\nImport, export, and combine data from any database, Excel or CSV file, Export to Tableau, Auto-discovery, standardization, auto-profiling, smart suggestions, and data visualization, Cleansing and enrichment functions.",
       "license": "Apache License 2.0",
-      "views": 16,
+      "views": 17,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -1087,7 +1087,7 @@
       "modified": "2023-01-03 01:20:40.401000",
       "description": "LIMITED FREE VERSION\n\nTalend Open Studio for Enterprise Service Bus (ESB) is free-to-download software that easily service-enables and integrates applications and legacy systems.  Talend ESB is a versatile and flexible ESB that allows organizations to address diverse integration challenges. It supports a broad set of standard transports and protocols, as well as enterprise integration patterns (EIPs), a common set of best practice descriptions developed to design effective messaging solutions. Available in several packages, Talend ESB is open and standards-based to allow wide interoperability with existing and legacy infrastructure components.\n\nLeveraging Apache CXF, Apache Camel and Apache ActiveMQ open source integration projects, Talend ESB makes enterprise-class integration accessible by delivering a cost-effective and easy-to-use way to integrate and expand systems and applications.",
       "license": "Apache license",
-      "views": 17,
+      "views": 18,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 25,
+      "views": 26,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -1150,7 +1150,7 @@
       "modified": "2023-05-24 04:36:06.195000",
       "description": "OpenRefine (previously Google Refine) is a powerful tool for working with messy data: cleaning it; transforming it from one format into another; and extending it with web services and external data.\n\nTool for cleaning and transforming data\n\nOpenRefine keeps your data private on your own computer by running a small server on your computer and you use your web browser to interact with it. OpenRefine is available in more than 15 languages. OpenRefine is part of Code for Science & Society.",
       "license": "Apache License 2.0",
-      "views": 26,
+      "views": 27,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1189,7 +1189,7 @@
       "modified": "2023-05-19 23:39:26.126000",
       "description": "(LIMITED) Community Edition is free, otherwise you need a subscription. \nOpen source data quality tool data profiling, data cleaning, and data integration.  DataCleaner is a Data Quality toolkit that allows you to profile, correct and enrich your data. People use it for ad-hoc analysis, recurring cleansing as well as a swiss-army knife in matching and Master Data Management solutions.\n\nDataCleaner is a strong data profiling engine for discovering and analyzing the quality of user's data.  It is built to handle data both big and small from CSV files, Excel spreadsheets to RDBMs and NoSQL databases.  User can build their own cleansing rules and compose them into several use scenarios or target databases whether it is simple search/replace rules, regular expressions, and pattern matching or completely custom transformations.\n\nDataCleaner's Monitoring establishes the starting point and goals, and to ensure a process of following up on data quality issues.  The monitoring server of DataCleaner enables users to make point-in-time profiles of users' data, and to schedule periodic data quality checks and receive notifications if quality KPIs get out of control.\n\nDataCleaner's Data Quality Eco-System delivers out-of-the-box functionality, and application extensions, integrations and shared content.\n\nDataCleaner's Duplicate detection feature builds on Machine Learning principles for ease of configuration and improved inferential machine.",
       "license": "GNU Lesser General Public License v3.0",
-      "views": 22,
+      "views": 23,
       "category": "Data Quality Toolkit",
       "relations": [],
       "keywords": [
@@ -1221,7 +1221,7 @@
       "modified": "2023-05-15 14:30:20.012000",
       "description": "DataPreparator is a free software tool designed to assist with common tasks of  data preparation (or data preprocessing) in data analysis and data mining. \n\nDataPreparator provides:\n\n-A variety of techniques for data cleaning, transformation, and exploration\n-Chaining of preprocessing operators into a flow graph (operator tree)\n-Handling of large volumes of data (since data sets are not stored in the computer memory)\n-Stand alone tool independent of any other tools\n-User friendly graphical user interface\n\nDataPreparator can assist you with exploring and preparing data in various ways prior to data analysis or data mining. It includes operators for cleaning, discretization, numeration, scaling, attribute selection, missing values, outliers, statistics, visualization, balancing, sampling, row selection, and several other tasks. See Features for details.",
       "license": "https://www.datapreparator.com/software-license-agreement-2.html",
-      "views": 37,
+      "views": 38,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 32,
+      "views": 33,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1286,7 +1286,7 @@
       "modified": "2023-05-12 06:51:39.083000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 49,
+      "views": 50,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 79,
+      "views": 81,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1448,7 +1448,7 @@
       "modified": "2023-04-17 18:01:35.088000",
       "description": "The Pimcore Platform\u2122 is a dual-licensed software application that is powered by the Open Source GPLv3 license and the enterprise-friendly Pimcore Commercial License (PCL). Pimcore is available free of charge as the Open Source Pimcore Community Edition or as the Pimcore Enterprise Subscription. Depending on your licensing needs, you can choose the right variant of Pimcore.",
       "license": "Open Source (GPL v3) or Enterprise subscription",
-      "views": 29,
+      "views": 30,
       "category": "Software Application",
       "relations": [],
       "keywords": [
@@ -1654,7 +1654,7 @@
       "modified": "2023-05-27 17:41:30.521000",
       "description": "The HDR UK Phenotype Portal is a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. hough this project, we will deliver a fundamental step-change in the current EHR community in the UK by bringing together health data scientists, clinicians, computer scientists, public health experts and data curators under the FAIR principles (www.force11.org). The National Phenomics Resource will facilitate the dissemination and re-use of algorithms, tools and methods by the community. By establishing a national standard for creating, evaluating and representing phenotypes, we will accelerate the impact of discovery through increased transparency and replicability and maximise the usability and value of existing data repositories to new users. Finally, we will take the first steps towards establishing computational biomedical knowledge objects (e.g. guidelines with embedded phenotypes endorsed by NICE) which will enable the creation of actionable health analytics in the NHS.",
       "license": "Apache 2",
-      "views": 94,
+      "views": 95,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 33,
+      "views": 34,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 127,
+      "views": 128,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -1893,7 +1893,7 @@
       "modified": "2023-05-22 19:50:16.900000",
       "description": "Corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names). \n\n### Results & Insights\n\nThese corpora were developed to support the development of Word Sense Disambiguation for biomedical documents. ",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 29,
+      "views": 30,
       "category": "Corpora for NLP research",
       "relations": [],
       "keywords": [
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 34,
+      "views": 36,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -2029,7 +2029,7 @@
       "modified": "2023-03-31 16:02:45.278000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 41,
+      "views": 42,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2067,7 +2067,7 @@
       "modified": "2023-05-29 16:47:23.297000",
       "description": "We have trained and validated a dedicated NER system to identify 7 categories: dosage, drug, duration, form, frequency, route and strength. We used transfer learning and self-supervised pre-training on 2.1 million documents from MIMIC EHR. Strict and lenient micro F1 achieved = 0.89 (0.95). \n\n### Results & Insights\n\nThe model is trained in order to support the clinical NLP community with a robust and accurate NER model for further downstream tasks. The development was motivated by two main goals: accuracy and interoperability. The model is written in Python 3.6+ and is compatible with spaCy pipelines, which is a free software for general NLP tasks.",
       "license": "MIT",
-      "views": 28,
+      "views": 29,
       "category": "Named entity recognition (NER) model",
       "relations": [],
       "keywords": [
@@ -5091,7 +5091,7 @@
       "modified": "2023-05-03 07:37:30.360000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 37,
+      "views": 38,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -5159,7 +5159,7 @@
       "modified": "2023-02-16 15:16:54.226000",
       "description": "24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED, HPO, MeSH, PRO, and FMA.\n\n### Results & Insights\n\nFurther details available at https://zenodo.org/record/1197188#.X_Lw62T7Rqu",
       "license": "",
-      "views": 62,
+      "views": 63,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6389,7 +6389,7 @@
       "modified": "2023-05-31 07:33:04.626000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 50 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 165,
+      "views": 166,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6478,7 +6478,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 93,
+      "views": 94,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6606,7 +6606,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 22,
+      "views": 23,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6751,7 +6751,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 69,
+      "views": 70,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
