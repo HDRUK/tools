@@ -17,7 +17,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 215,
+      "views": 218,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 75,
+      "views": 76,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -4018,7 +4018,7 @@
       "modified": "2023-04-25 03:40:28.246000",
       "description": "Application to identify instances of waxy flexibility. Waxy flexibility is a psychomotor symptom of catatonia as.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
