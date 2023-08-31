@@ -2938,7 +2938,7 @@
       "modified": "2022-11-06 21:59:11.736000",
       "description": "Application to extract occurrences where visual hallucination is present. Visual hallucinations may be due to a.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4126,7 +4126,7 @@
       "modified": "2023-05-29 09:54:40.467000",
       "description": "Application to identify patients with diagnosis of asthma.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 42,
+      "views": 43,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -7115,7 +7115,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 19,
+      "views": 20,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
