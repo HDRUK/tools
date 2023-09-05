@@ -1,4 +1,4 @@
-count: 206
+count: 208
 tools:
 - '@schema':
     type: tool
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 262
+  views: 263
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -5043,7 +5043,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 13
+  views: 14
 - '@schema':
     type: tool
   _id: 2516292612303388
@@ -6603,7 +6603,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 29
+  views: 30
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -6929,7 +6929,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 167
+  views: 168
 - '@schema':
     type: tool
   _id: 6231490526322994
@@ -7575,7 +7575,7 @@ tools:
   relations: []
   type: ''
   uploader: 14329207635436504
-  views: 13
+  views: 21
 - '@schema':
     type: tool
   _id: 2895357616393892
@@ -7657,3 +7657,92 @@ tools:
   type: ''
   uploader: 6958421021490282
   views: 24
+- '@schema':
+    type: tool
+  _id: 2643929513046672
+  authors:
+  - 31387910911027992
+  category: Phenomics
+  description: "The ACEsinEHRs library allows users to search and access tools, code\
+    \ lists, algorithms and scripts for validated indicators to identify adverse childhood\
+    \ experiences (ACEs) in electronic health records (EHRs) of parents and children\
+    \ before and after birth.\n\nThe platform provides information on definitions,\
+    \ theoretical and clinical concepts and \"how to guides\" to help users apply\
+    \ the developed ACE indicators to create \u201Cresearch-ready\u201D datasets.\n\
+    \n### Results & Insights\n\nMission statement and aims:\n-To improve the health\
+    \ of families and young people by using electronic health records (EHRs) to identify\
+    \ and measure adverse childhood experiences (ACEs).\n-To advocate for early support\
+    \ and family centred services for families with ACEs.\n-To work with researchers,\
+    \ professionals, and policymakers to promote trauma-informed care and public health\
+    \ policies that support families affected by ACEs.\n-To enhance the methodological\
+    \ standard, accessibility, and utility of data-driven think-family approaches\
+    \ to study adversity using EHRs.\n-To provide a validated system to measure intervenable\
+    \ and clinically relevant ACEs with the potential to support trauma-informed data-driven\
+    \ research, public health, policy, and health care.\n-To continuously develop\
+    \ the www.ACEsinEHRs.com platform to improve resources for researchers, professionals,\
+    \ and policymakers"
+  issued: '2023-09-01 18:35:06.263000'
+  keywords:
+  - Social and Environmental Determinants of Health
+  license: Apache 2
+  link: https://www.acesinehrs.com
+  modified: '2023-09-04 14:22:05.302000'
+  name: ACEsinEHRs Library (Adverse Childhood Experiences in Electronic Health Records)
+  programming_languages:
+  - name: R
+    version: ''
+  - name: Python
+    version: ''
+  - name: Stata
+    version: ''
+  relations: []
+  type: ''
+  uploader: 31387910911027992
+  views: 11
+- '@schema':
+    type: tool
+  _id: 5231463992399867
+  authors:
+  - 3736211688153557
+  category: Platform
+  description: 'The Data Safe Haven is an open-source infrastructure-as-code Trusted
+    Research Environment (TRE) that is freely available for use, adaptation and extension
+    by anyone. It has been used for 5+ years for projects at the Alan Turing Institute
+    that handle sensitive data. It is built on the Microsoft Azure cloud which makes
+    it easy to deploy and to scale according to your needs.
+
+
+    To find out more, look at the following resources:
+
+
+    - Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/
+
+    - Our documentation: https://data-safe-haven.readthedocs.io/en/latest/
+
+    - Our Slack workspace: https://turingdatasafehaven.slack.com/
+
+    - Contact email: safehavendevs@turing.ac.uk'
+  issued: '2023-09-04 10:22:53.617000'
+  keywords:
+  - Healthcare
+  - Commercial data
+  - Third Sector
+  - Government
+  - Trusted Research Environment
+  - Open Source
+  - GitHub
+  - Repository
+  - Reproducible Science
+  - Infrastructure-as-code
+  - TRE
+  license: BSD 3-Clause "New" or "Revised" license
+  link: https://github.com/alan-turing-institute/data-safe-haven/
+  modified: '2023-09-04 14:22:01.686000'
+  name: Data Safe Haven
+  programming_languages:
+  - name: Powershell, Python
+    version: 4.0.3
+  relations: []
+  type: ''
+  uploader: 3736211688153557
+  views: 7
