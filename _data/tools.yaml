@@ -26,7 +26,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 219
+  views: 220
 - '@schema':
     type: tool
   _id: 19006
@@ -743,7 +743,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 42
+  views: 43
 - '@schema':
     type: tool
   _id: 9005545706415763
@@ -1811,7 +1811,7 @@ tools:
   relations: []
   type: ''
   uploader: 5703995672678985
-  views: 98
+  views: 99
 - '@schema':
     type: tool
   _id: 5106463612710366
@@ -6849,7 +6849,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 96
+  views: 97
 - '@schema':
     type: tool
   _id: 4818714000171864
@@ -7375,7 +7375,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 39
+  views: 40
 - '@schema':
     type: tool
   _id: 47343683068994032
@@ -7473,7 +7473,7 @@ tools:
   relations: []
   type: ''
   uploader: 5648313829043343
-  views: 37
+  views: 39
 - '@schema':
     type: tool
   _id: 503027167798622
@@ -7707,9 +7707,9 @@ tools:
   category: Platform
   description: 'The Data Safe Haven is an open-source infrastructure-as-code Trusted
     Research Environment (TRE) that is freely available for use, adaptation and extension
-    by anyone. It has been used for 5+ years for projects at the Alan Turing Institute
-    that handle sensitive data. It is built on the Microsoft Azure cloud which makes
-    it easy to deploy and to scale according to your needs.
+    by anyone. It has been used since autumn 2018 for all projects at the Alan Turing
+    Institute that handle sensitive data. It is built on the Microsoft Azure cloud
+    which makes it easy to deploy and to scale according to your needs.
 
 
     To find out more, look at the following resources:
@@ -7737,7 +7737,7 @@ tools:
   - TRE
   license: BSD 3-Clause "New" or "Revised" license
   link: https://github.com/alan-turing-institute/data-safe-haven/
-  modified: '2023-09-04 14:22:01.686000'
+  modified: '2023-09-05 08:14:26.316000'
   name: Data Safe Haven
   programming_languages:
   - name: Powershell, Python
@@ -7745,4 +7745,4 @@ tools:
   relations: []
   type: ''
   uploader: 3736211688153557
-  views: 7
+  views: 9
