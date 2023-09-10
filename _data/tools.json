@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5159,7 +5159,7 @@
       "modified": "2023-02-16 15:16:54.226000",
       "description": "24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED, HPO, MeSH, PRO, and FMA.\n\n### Results & Insights\n\nFurther details available at https://zenodo.org/record/1197188#.X_Lw62T7Rqu",
       "license": "",
-      "views": 64,
+      "views": 65,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -7146,7 +7146,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 12,
+      "views": 14,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
