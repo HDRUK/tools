@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 266,
+      "views": 267,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 429,
+      "views": 430,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
