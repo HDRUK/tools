@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 87
+  views: 88
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -680,7 +680,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 5463135278367706
@@ -6893,6 +6893,8 @@ tools:
     type: tool
   _id: 22703411038557176
   authors:
+  - 5764356517082299
+  - 22850500618628944
   - 6045838202930374
   - 20612862870327908
   category: Dataset discovery tool
@@ -6907,7 +6909,7 @@ tools:
     \ the measures and studies, the Catalogue serves as a resource for researchers\
     \ to identify datasets that include mental health and wellbeing measures, plan\
     \ harmonisation studies, and plan further data collection.\n\n\n### Results &\
-    \ Insights\n\nThe Catalogue of Mental Health Measures features over 50 cohort\
+    \ Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort\
     \ studies, more than 4,000 measures of mental health and wellbeing, and covers\
     \ 30+ mental health topics. \n\nThe Catalogue includes a range of study types,\
     \ including birth cohorts, twin studies, repeated cross-sectional studies, accelerated\
@@ -6921,7 +6923,7 @@ tools:
   - Longitudinal
   license: ''
   link: https://www.cataloguementalhealth.ac.uk
-  modified: '2023-05-31 07:33:04.626000'
+  modified: '2023-09-21 17:54:36.915000'
   name: The Catalogue of Mental Health Measures
   programming_languages:
   - name: Webpage
@@ -6929,7 +6931,7 @@ tools:
   relations: []
   type: ''
   uploader: 6045838202930374
-  views: 175
+  views: 181
 - '@schema':
     type: tool
   _id: 6231490526322994
@@ -7297,7 +7299,7 @@ tools:
   relations: []
   type: ''
   uploader: 35263855878154104
-  views: 74
+  views: 75
 - '@schema':
     type: tool
   _id: 13773169540009068
@@ -7325,7 +7327,7 @@ tools:
   relations: []
   type: ''
   uploader: 303394288880954
-  views: 5
+  views: 6
 - '@schema':
     type: tool
   _id: 9343953854321668
