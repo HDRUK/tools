@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 269,
+      "views": 270,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 26,
+      "views": 27,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -2938,7 +2938,7 @@
       "modified": "2022-11-06 21:59:11.736000",
       "description": "Application to extract occurrences where visual hallucination is present. Visual hallucinations may be due to a.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6065,7 +6065,7 @@
       "modified": "2023-05-07 21:23:07.261000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6865,7 +6865,7 @@
       "modified": "2023-05-25 09:42:38.142000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 44,
+      "views": 45,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
