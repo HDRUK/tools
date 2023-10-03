@@ -1,5 +1,5 @@
 python-dotenv==0.18.0
 PyYAML==5.4.1
 dnspython==1.16.0
-urllib3==1.26.5
+urllib3==1.26.17
 pymongo==3.11.4
