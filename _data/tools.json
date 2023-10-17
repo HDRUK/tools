@@ -1286,7 +1286,7 @@
       "modified": "2023-05-12 06:51:39.083000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 51,
+      "views": 52,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 82,
+      "views": 83,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -5750,7 +5750,7 @@
       "modified": "2023-05-16 10:31:48.985000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Age (Exact, Upper range, Lower range, Months/Years old).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6838,7 +6838,7 @@
       "modified": "2023-05-16 11:38:12.372000",
       "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
       "license": "",
-      "views": 42,
+      "views": 43,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
