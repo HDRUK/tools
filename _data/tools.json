@@ -195,7 +195,7 @@
       "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 187,
+      "views": 188,
       "category": "",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 139,
+      "views": 140,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
