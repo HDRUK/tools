@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 37,
+      "views": 38,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -5159,7 +5159,7 @@
       "modified": "2023-02-16 15:16:54.226000",
       "description": "24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED, HPO, MeSH, PRO, and FMA.\n\n### Results & Insights\n\nFurther details available at https://zenodo.org/record/1197188#.X_Lw62T7Rqu",
       "license": "",
-      "views": 66,
+      "views": 67,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -7185,7 +7185,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 25,
+      "views": 26,
       "category": "Platform",
       "relations": [],
       "keywords": [
