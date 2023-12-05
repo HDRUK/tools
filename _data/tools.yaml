@@ -49,7 +49,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 233
+  views: 234
 - '@schema':
     type: tool
   _id: 19003
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 91
+  views: 93
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -7242,7 +7242,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 5656962835943253
@@ -7475,7 +7475,7 @@ tools:
   relations: []
   type: ''
   uploader: 5648313829043343
-  views: 58
+  views: 59
 - '@schema':
     type: tool
   _id: 503027167798622
