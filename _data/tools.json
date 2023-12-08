@@ -1051,7 +1051,7 @@
       "modified": "2023-01-12 12:38:46.612000",
       "description": "LIMITED FREE VERSION\nhttps://www.talend.com/products/pricing-model/\n\nTalend Open Studio for Data Quality and Talend Data Preparation Free Desktop.  Do simple cleansing, data manipulation, standardization and enrichment.\n\nDatasets can be a local or remote file that can be imported into the Talend Data Preparation tool (or from a database connection or other data sources, although not in the context of the Free Desktop version). A dataset is used as raw material for one or more preparations.\n\nCreate clean and valuable data in minutes with Single point of access across data sources, Interactive discovery, cleansing and formatting and Automation and reuse data preparation tasks.  Auto-discover and browse your data.\n\nImport, export, and combine data from any database, Excel or CSV file, Export to Tableau, Auto-discovery, standardization, auto-profiling, smart suggestions, and data visualization, Cleansing and enrichment functions.",
       "license": "Apache License 2.0",
-      "views": 18,
+      "views": 19,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -1482,7 +1482,7 @@
       "modified": "2023-01-27 15:09:31.965000",
       "description": "Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data. Although Cytoscape was originally designed for biological research, now it is a general platform for complex network analysis and visualization.\n\nCytoscape core distribution provides a basic set of features for data integration, analysis, and visualization.   \nAdditional features are available as Apps (formerly called Plugins).",
       "license": "GNU Lesser General Public License Version 2.1, February 1999",
-      "views": 39,
+      "views": 40,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 34,
+      "views": 35,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2023-09-21 17:54:36.915000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 207,
+      "views": 209,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6540,7 +6540,7 @@
       "modified": "2023-04-10 12:28:02.690000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the HDR Innovation Gateway in general and summarises some of the key Gateway functions. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 33,
+      "views": 34,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -7185,7 +7185,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 33,
+      "views": 35,
       "category": "Platform",
       "relations": [],
       "keywords": [
