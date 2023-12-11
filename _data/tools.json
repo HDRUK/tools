@@ -4306,7 +4306,7 @@
       "modified": "2023-01-05 04:25:14.863000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6065,7 +6065,7 @@
       "modified": "2023-05-07 21:23:07.261000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 27,
+      "views": 28,
       "category": "NLP System",
       "relations": [],
       "keywords": [
