@@ -5682,7 +5682,7 @@
       "modified": "2023-03-10 14:52:55.936000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Number of Time periods.\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6723,7 +6723,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 79,
+      "views": 80,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6811,7 +6811,7 @@
       "modified": "2023-05-22 13:04:07.169000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "",
-      "views": 45,
+      "views": 46,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6955,7 +6955,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 39,
+      "views": 40,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
