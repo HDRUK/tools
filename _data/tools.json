@@ -17,7 +17,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 236,
+      "views": 237,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -5159,7 +5159,7 @@
       "modified": "2023-02-16 15:16:54.226000",
       "description": "24 million MEDLINE abstracts as well as 3.8M open-access PMC full articles annotated with 9 classes of entity: Phenotype, Disease, Anatomy, Cell, Cell_line, GPR, Gene_variant, Molecule, and Pathway mapped to five major ontologies: SNOMED, HPO, MeSH, PRO, and FMA.\n\n### Results & Insights\n\nFurther details available at https://zenodo.org/record/1197188#.X_Lw62T7Rqu",
       "license": "",
-      "views": 67,
+      "views": 68,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6065,7 +6065,7 @@
       "modified": "2023-05-07 21:23:07.261000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 28,
+      "views": 29,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6696,7 +6696,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 67,
+      "views": 68,
       "category": "infographic",
       "relations": [],
       "keywords": [],
