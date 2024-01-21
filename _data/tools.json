@@ -2650,7 +2650,7 @@
       "modified": "2023-05-13 08:12:06.894000",
       "description": "Application to extract occurrences where echolalia is present.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5091,7 +5091,7 @@
       "modified": "2023-05-03 07:37:30.360000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 38,
+      "views": 39,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6480,7 +6480,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 109,
+      "views": 110,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -7117,7 +7117,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 38,
+      "views": 39,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
