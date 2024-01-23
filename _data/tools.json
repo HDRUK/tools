@@ -5,37 +5,6 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
-      "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-30 20:41:32.141000",
-      "description": "",
-      "license": "",
-      "views": 291,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling",
-        "Visualisation"
-      ],
-      "programming_languages": [
-        {
-          "name": "R",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -59,6 +28,122 @@
       "programming_languages": [
         {
           "name": "Java",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19006,
+      "type": "",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-17 16:08:38.817000",
+      "description": "",
+      "license": "",
+      "views": 139,
+      "category": "Phenomics",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Phenomics"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19004,
+      "type": "",
+      "name": "COVID-19 CovidSim Microsimulation Model",
+      "link": "https://github.com/mrc-ide/covid-sim",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-04-11 13:08:43.002000",
+      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+      "license": "GPLv3",
+      "views": 126,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling"
+      ],
+      "programming_languages": [
+        {
+          "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19007,
+      "type": "",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-28 22:40:37.701000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "license": "",
+      "views": 346,
+      "category": "Mobile Application",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Symptom Tracker",
+        " NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19005,
+      "type": "",
+      "name": "Public Health England COVID-19 Tracker",
+      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-14 10:27:58.675000",
+      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "license": "",
+      "views": 149,
+      "category": "Data Visualisation",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
           "version": ""
         }
       ]
@@ -98,84 +183,23 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19004,
+      "_id": 19009,
       "type": "",
-      "name": "COVID-19 CovidSim Microsimulation Model",
-      "link": "https://github.com/mrc-ide/covid-sim",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-04-11 13:08:43.002000",
-      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
-      "license": "GPLv3",
-      "views": 126,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling"
-      ],
-      "programming_languages": [
-        {
-          "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19005,
-      "type": "",
-      "name": "Public Health England COVID-19 Tracker",
-      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-14 10:27:58.675000",
-      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "license": "",
-      "views": 149,
-      "category": "Data Visualisation",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19006,
-      "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-17 16:08:38.817000",
+      "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 139,
-      "category": "Phenomics",
+      "views": 188,
+      "category": "",
       "relations": [],
       "keywords": [
-        "COVID-19",
-        "Phenomics"
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -183,29 +207,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19007,
+      "_id": 19001,
       "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-28 22:40:37.701000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "modified": "2023-05-30 20:41:32.141000",
+      "description": "",
       "license": "",
-      "views": 346,
-      "category": "Mobile Application",
+      "views": 291,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Symptom Tracker",
-        " NCS"
+        "Modelling",
+        "Visualisation"
       ],
       "programming_languages": [
         {
-          "name": "Other",
+          "name": "R",
           "version": ""
         }
       ]
@@ -232,30 +256,6 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19009,
-      "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-11 09:21:27.231000",
-      "description": "",
-      "license": "",
-      "views": 188,
-      "category": "",
-      "relations": [],
-      "keywords": [
-        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -1774,7 +1774,7 @@
       "modified": "2022-12-23 22:09:55.765000",
       "description": "MedNorm is a corpus of 27,979 textual descriptions simultaneously mapped to both MedDRA and SNOMED-CT, sourced from five publicly available datasets across biomedical and social media domains.\nThe cross-terminology medical concept embeddings are 64-dimensional vectors for UMLS, MedDRA and SNOMED-CT concepts that are able to capture semantic similarities between concepts from different medical terminologies.",
       "license": "CC BY NC 3.0",
-      "views": 29,
+      "views": 30,
       "category": "Dataset, corpus",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 135,
+      "views": 137,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -2067,7 +2067,7 @@
       "modified": "2023-05-29 16:47:23.297000",
       "description": "We have trained and validated a dedicated NER system to identify 7 categories: dosage, drug, duration, form, frequency, route and strength. We used transfer learning and self-supervised pre-training on 2.1 million documents from MIMIC EHR. Strict and lenient micro F1 achieved = 0.89 (0.95). \n\n### Results & Insights\n\nThe model is trained in order to support the clinical NLP community with a robust and accurate NER model for further downstream tasks. The development was motivated by two main goals: accuracy and interoperability. The model is written in Python 3.6+ and is compatible with spaCy pipelines, which is a free software for general NLP tasks.",
       "license": "MIT",
-      "views": 31,
+      "views": 32,
       "category": "Named entity recognition (NER) model",
       "relations": [],
       "keywords": [
@@ -4090,7 +4090,7 @@
       "modified": "2023-04-22 19:51:57.596000",
       "description": "Application to identify instances of worthlessness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5369,7 +5369,7 @@
       "modified": "2023-04-28 15:06:48.222000",
       "description": "Application to extract a diagnosis of multiple epileptic seizures.  Output Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical Language System) and Negation (Affirmed + Negated). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2023-09-21 17:54:36.915000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 232,
+      "views": 234,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6811,7 +6811,7 @@
       "modified": "2023-05-22 13:04:07.169000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "",
-      "views": 54,
+      "views": 55,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6919,7 +6919,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 74,
+      "views": 75,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6955,7 +6955,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 58,
+      "views": 59,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -6987,7 +6987,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 18,
+      "views": 19,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7053,7 +7053,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 14,
+      "views": 16,
       "category": "Repository",
       "relations": [],
       "keywords": [
@@ -7185,7 +7185,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 46,
+      "views": 47,
       "category": "Platform",
       "relations": [],
       "keywords": [
