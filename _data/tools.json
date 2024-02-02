@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 81,
+      "views": 82,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 306,
+      "views": 307,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -4990,7 +4990,7 @@
       "modified": "2023-01-19 17:41:21.685000",
       "description": "Application to identify instances of treatment-resistant depression.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 33,
+      "views": 34,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6100,7 +6100,7 @@
       "modified": "2023-01-30 10:56:07.665000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Date (Day, Month, Year). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 36,
+      "views": 37,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 300,
+      "views": 301,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2023-09-21 17:54:36.915000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 252,
+      "views": 253,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6449,7 +6449,7 @@
       "modified": "2023-07-03 07:20:07.254000",
       "description": "This repository provides code to consolidate wastewater catchment areas in Great Britain and evaluate their spatial overlap with statistical reporting units, such as Lower Layer Super Output Areas (LSOAs). Please see the accompanying publication for a detailed description of the analysis. If you have questions about the analysis, code, or accessing the data, please contact till dot hoffmann at oxon dot org.\n\n### Results & Insights\n\nhttps://www.essoar.org/doi/10.1002/essoar.10510612.2\n\nWastewater catchment area data are essential for wastewater treatment capacity planning and have recently become critical for operationalising wastewater-based epidemiology (WBE) for COVID-19. Owing to the privatised nature of the water industry in the United Kingdom, the required catchment area datasets are not readily available to researchers. Here, we present a consolidated dataset of 7,537 catchment areas from ten sewerage service providers in the Great Britain, covering more than 96% of the population of England and Wales. We develop a geospatial method for estimating the population resident within each catchment from small area population estimates generated by the Office for National Statistics. The method is more widely applicable to matching electronic health records to wastewater infrastructure. Population estimates are highly predictive of population equivalent treatment loads reported under the European Urban Wastewater Treatment Directive. We highlight challenges associated with using geospatial data for wastewater-based epidemiology.",
       "license": "",
-      "views": 4,
+      "views": 5,
       "category": "Code snippet",
       "relations": [],
       "keywords": [
@@ -6753,7 +6753,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 92,
+      "views": 93,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6919,7 +6919,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 82,
+      "views": 83,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7016,7 +7016,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 37,
+      "views": 39,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7185,7 +7185,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 51,
+      "views": 52,
       "category": "Platform",
       "relations": [],
       "keywords": [
