@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 256,
+      "views": 257,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 347,
+      "views": 348,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 347,
+      "views": 348,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 482,
+      "views": 483,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 93,
+      "views": 94,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 85,
+      "views": 86,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -4306,7 +4306,7 @@
       "modified": "2023-01-05 04:25:14.863000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 422,
+      "views": 423,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 353,
+      "views": 354,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 161,
+      "views": 162,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 301,
+      "views": 302,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6569,7 +6569,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 23,
+      "views": 24,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6801,17 +6801,20 @@
       },
       "_id": 9343953854321668,
       "type": "",
-      "name": "CaRROT-Mapper",
+      "name": "CARROT",
       "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-Mapper/about/",
       "authors": [
-        22850500618628944
+        6754869437635602,
+        22850500618628944,
+        4102495549846781,
+        8181565368713148
       ],
       "uploader": 22850500618628944,
       "issued": "2022-10-27 13:42:55.322000",
-      "modified": "2023-05-22 13:04:07.169000",
+      "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
-      "license": "",
-      "views": 60,
+      "license": "MIT",
+      "views": 70,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6831,14 +6834,16 @@
       "name": "CaRROT-CDM",
       "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-CDM/About/",
       "authors": [
-        22850500618628944
+        22850500618628944,
+        4102495549846781,
+        6754869437635602
       ],
       "uploader": 22850500618628944,
       "issued": "2022-10-27 13:45:14.117000",
-      "modified": "2023-05-16 11:38:12.372000",
+      "modified": "2024-02-03 16:05:51.329000",
       "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
       "license": "",
-      "views": 63,
+      "views": 68,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
@@ -6858,14 +6863,16 @@
       "name": "CaRROT-Pseudonymise",
       "link": "https://hdruk.github.io/CaRROT-Docs/CaRROT-Pseudonymise/Pseudonymisation/",
       "authors": [
-        22850500618628944
+        22850500618628944,
+        4102495549846781,
+        6754869437635602
       ],
       "uploader": 22850500618628944,
       "issued": "2022-10-27 13:48:09.761000",
-      "modified": "2023-05-25 09:42:38.142000",
+      "modified": "2024-02-03 16:06:18.663000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 50,
+      "views": 54,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
@@ -6885,14 +6892,16 @@
       "name": "HUTCH",
       "link": "https://hdruk.github.io/hutch/",
       "authors": [
-        22850500618628944
+        22850500618628944,
+        6754869437635602,
+        4102495549846781
       ],
       "uploader": 22850500618628944,
       "issued": "2022-10-27 13:51:02.305000",
-      "modified": "2023-05-16 11:37:28.839000",
+      "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 105,
+      "views": 111,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6955,7 +6964,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 61,
+      "views": 62,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
