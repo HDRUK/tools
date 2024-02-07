@@ -4594,7 +4594,7 @@
       "modified": "2023-05-22 07:00:32.550000",
       "description": "Application to identify occupations/work descriptions and who these refer to.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4774,7 +4774,7 @@
       "modified": "2023-02-07 00:56:24.949000",
       "description": "The Medication Application distinguishes between medications that are currently prescribed (i.e. at the time of.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4954,7 +4954,7 @@
       "modified": "2023-04-08 23:25:44.399000",
       "description": "Application to extract instances of diagnosis.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 44,
+      "views": 45,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6381,23 +6381,24 @@
       "name": "The Catalogue of Mental Health Measures",
       "link": "https://www.cataloguementalhealth.ac.uk",
       "authors": [
-        5764356517082299,
         22850500618628944,
+        5764356517082299,
         6045838202930374,
         20612862870327908
       ],
       "uploader": 6045838202930374,
       "issued": "2021-12-16 11:01:15.505000",
-      "modified": "2023-09-21 17:54:36.915000",
-      "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
+      "modified": "2024-02-06 11:17:54.906000",
+      "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 256,
+      "views": 278,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
         "Data Discovery",
         "Mental Health",
-        "Longitudinal"
+        "Longitudinal",
+        "DATAMIND"
       ],
       "programming_languages": [
         {
@@ -6814,7 +6815,7 @@
       "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "MIT",
-      "views": 74,
+      "views": 81,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6901,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 114,
+      "views": 116,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6928,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 85,
+      "views": 88,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6964,7 +6965,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 62,
+      "views": 63,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7062,7 +7063,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 16,
+      "views": 17,
       "category": "Repository",
       "relations": [],
       "keywords": [
@@ -7126,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 43,
+      "views": 44,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7157,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 25,
+      "views": 26,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7194,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 52,
+      "views": 53,
       "category": "Platform",
       "relations": [],
       "keywords": [
