@@ -401,7 +401,7 @@
       "modified": "2023-05-14 12:35:09.915000",
       "description": "Cytel Inc. has launched an open-access global COVID-19 Clinical Trial Tracker to help facilitate greater collaboration between researchers, policymakers, clinicians, journalists, philanthropists, and other critical stakeholders who need to understand the complex dynamics of the global response to finding a solution to the COVID-19 outbreak.\n\nThis will enable them to make more informed and pragmatic decisions on how to channel scarce resources. Clinicians and local government need to know what trials are taking place in their community to ensure that the right patients receive the right exploratory treatment, while philanthropists and Federal policymakers deserve a one-stop shop to determine which are the most promising early phase treatment results.\n\nFunded in part by The Bill and Melinda Gates Foundation, a leader in global health solutions, this live dashboard offers an overview of all the trials taking place in the international effort to tackle the pandemic. One of the most difficult challenges facing those seeking a COVID-19 treatment is how little data exists about this disease. Early investigators are relying on guesswork to determine which therapies to investigate. Collating information in one place on the growing numbers of trials, will enable decision-makers to compare treatments more easily as they determine which to investigate further.",
       "license": "",
-      "views": 103,
+      "views": 104,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -643,7 +643,7 @@
       "modified": "2023-05-30 19:43:01.886000",
       "description": "The ISARIC 4C prognostic score uses data from more than 70,000 hospital admissions, we have devised a simple, robust and generalisable prognostic scoring system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification score that predicts in-hospital mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium. It is intended for use by clinicians. It is designed to be easy-to-use, and require only parameters that are commonly available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1) introducing the score. \n\nThis is an infographic that visualises risk, based on observed mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C study in the UK.",
       "license": "Copyrighted",
-      "views": 54,
+      "views": 55,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -1842,7 +1842,7 @@
       "modified": "2023-04-13 22:04:40.578000",
       "description": "SemEHR is a text mining and semantic search system designed for Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research.\n\n### Results & Insights\n\nBuilt upon off-the-shelf toolkits including a Natural Language Processing (NLP) pipeline (Bio-Yodie) and an enterprise search system (CogStack), SemEHR implements a generic information extraction (IE) and retrieval infrastructure by identifying contextualised mentions of a wide range of biomedical concepts from unstructured clinical notes. Its IE functionality features an adaptive and iterative NLP mechanism where specific requirements and fine-tuning can be fulfilled and realised on a study basis. NLP annotations are further assembled at patient level and extended with clinical and EHR-specific knowledge to populate a panorama for each patient, which comprises a) longitudinal semantic data views and b) structured medical profile(s). The semantic data is serviced via ontology-based search and analytics interfaces to facilitate clinical studies.",
       "license": "Apache License 2.0",
-      "views": 25,
+      "views": 26,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2218,7 +2218,7 @@
       "modified": "2022-12-22 12:50:50.050000",
       "description": "Application to identify instances of anergia.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2722,7 +2722,7 @@
       "modified": "2023-05-23 21:57:28.382000",
       "description": "Application to identify instances of emotional withdrawal.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 31,
+      "views": 32,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4018,7 +4018,7 @@
       "modified": "2023-04-25 03:40:28.246000",
       "description": "Application to identify instances of waxy flexibility. Waxy flexibility is a psychomotor symptom of catatonia as.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4378,7 +4378,7 @@
       "modified": "2022-12-24 20:49:06.622000",
       "description": "To identify instances of cannabis use.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 116,
+      "views": 117,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 104,
+      "views": 105,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 283,
+      "views": 284,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 29,
+      "views": 30,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 22,
+      "views": 23,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
