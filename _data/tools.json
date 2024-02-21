@@ -17,7 +17,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 294,
+      "views": 295,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 350,
+      "views": 351,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 350,
+      "views": 351,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -486,7 +486,7 @@
       "modified": "2023-03-18 15:48:26.548000",
       "description": "ETL linking clinical and image data",
       "license": "",
-      "views": 68,
+      "views": 69,
       "category": "App (Apache Beam / GCP DataFlow)",
       "relations": [],
       "keywords": [],
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 315,
+      "views": 316,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 491,
+      "views": 492,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -3046,7 +3046,7 @@
       "modified": "2023-04-22 02:12:40.658000",
       "description": "Application to identify instances of hostility.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3802,7 +3802,7 @@
       "modified": "2023-04-23 03:40:52.807000",
       "description": "Application to identify instances of tangentiality.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3838,7 +3838,7 @@
       "modified": "2023-05-26 14:27:10.144000",
       "description": "Application to identify instances of tearfulness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5404,7 +5404,7 @@
       "modified": "2023-01-02 09:11:08.334000",
       "description": "Application to extract MRI investigations.  Output Values: MRI Performed (Yes/No), MRI Result (Normal, Abnormal, Unknown)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5715,7 +5715,7 @@
       "modified": "2023-05-02 16:32:29.998000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Date (Day, Month, Year).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 309,
+      "views": 310,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 152,
+      "views": 153,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 284,
+      "views": 285,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 98,
+      "views": 100,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6965,7 +6965,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 69,
+      "views": 70,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 45,
+      "views": 46,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 24,
+      "views": 25,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7127,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 47,
+      "views": 46,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 28,
+      "views": 29,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
