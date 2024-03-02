@@ -342,7 +342,7 @@
       "modified": "2022-12-18 13:14:02.645000",
       "description": "The aim of this project is to develop a database of simulated pulse waves with which to test pulse wave analysis algorithms.\n\nA database of simulated pulse waves representative of a sample of healthy adults was created. It contains several types of pulse waves (such as those measured by smart watches and fitness trackers) at common measurement sites for 4,374 virtual subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular properties across the normal ranges encountered in healthy people. The results were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019 ) demonstrating the utility of the database.\n\nThe database is a useful resource for research and education on the topics of: signal processing, physiology, and computational modelling.",
       "license": "Public Domain Dedication and License",
-      "views": 31,
+      "views": 33,
       "category": "Dataset",
       "relations": [],
       "keywords": [
@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 83,
+      "views": 84,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -514,7 +514,7 @@
       "modified": "2023-05-06 11:22:38.114000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 103,
+      "views": 104,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 495,
+      "views": 496,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1087,7 +1087,7 @@
       "modified": "2023-01-03 01:20:40.401000",
       "description": "LIMITED FREE VERSION\n\nTalend Open Studio for Enterprise Service Bus (ESB) is free-to-download software that easily service-enables and integrates applications and legacy systems.  Talend ESB is a versatile and flexible ESB that allows organizations to address diverse integration challenges. It supports a broad set of standard transports and protocols, as well as enterprise integration patterns (EIPs), a common set of best practice descriptions developed to design effective messaging solutions. Available in several packages, Talend ESB is open and standards-based to allow wide interoperability with existing and legacy infrastructure components.\n\nLeveraging Apache CXF, Apache Camel and Apache ActiveMQ open source integration projects, Talend ESB makes enterprise-class integration accessible by delivering a cost-effective and easy-to-use way to integrate and expand systems and applications.",
       "license": "Apache license",
-      "views": 19,
+      "views": 20,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 30,
+      "views": 31,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -1581,7 +1581,7 @@
       "modified": "2023-05-30 15:31:31.953000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 227,
+      "views": 230,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -4450,7 +4450,7 @@
       "modified": "2022-10-25 02:16:33.869000",
       "description": "Application to identify instances of MDMA use.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4774,7 +4774,7 @@
       "modified": "2023-02-07 00:56:24.949000",
       "description": "The Medication Application distinguishes between medications that are currently prescribed (i.e. at the time of.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 168,
+      "views": 169,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 28,
+      "views": 29,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 104,
+      "views": 105,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
