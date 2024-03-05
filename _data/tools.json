@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 320,
+      "views": 322,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -947,7 +947,7 @@
       "modified": "2023-01-02 09:37:28.311000",
       "description": "Data profiling and analysis tool - User Ratings: 4.8/5\nAlso known as Open Source Data Quality and Profiling.  Features Mysql, Oracle,Postgres,Access,Db2,SQL Server certified Big data support - HIVE Format Creation, Format Matching ( Phone, Date, String and Number), Format standardization Fuzzy Logic based similarity check, Cardinailty check between tables and files Export and import from XML, XLS or CSV format, PDF export File Analysis, Regex search, Standardization, DB search Complete DB Scan, SQL interface, Data Dictionary, Schema Comparison Statistical Analysis, Reporting ( dimension and measure based), Ad Hoc reports and Analytics Pattern Matching , DeDuplication, Case matching, Basket Analysis, Distribution Chart Data generation and Data masking features Meta Data Information, Reverse engineering of Data Model Timeliness analysis , String length analysis Address Correction, Single View of Customer, Product, Golden merge for records Record Match, Linkage and Merge added based on fuzzy logic.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 55,
+      "views": 56,
       "category": "Data Profiling/Analysis Tool",
       "relations": [],
       "keywords": [
@@ -1318,7 +1318,7 @@
       "modified": "2023-05-31 07:55:34.859000",
       "description": "Pentaho Community Edition is free -  LIMITED)\n\nWorks with WEKA (Data Profiling)\n\nData Integration - Extract, transform and load (ETL) limited data sets and create visualizations with Pentaho\u2019s report designer tool.\nThe term, K.E.T.T.L.E is a recursive that stands for Kettle Extraction Transformation Transport Load Environment.  Pentaho Data Integration is well known for its ease of use and quick learning curve. PDI implements a metadata-driven approach which means that the development is based on specifying what to do, not how to do it. Pentaho lets administrators and ETL developers create their own data manipulation jobs with a user-friendly graphical creator, and without entering a single line of code. \nPDI uses a common, shared repository which enables remote ETL execution, facilitates teamwork, and simplifies the development process.",
       "license": "Apache License 2.0",
-      "views": 38,
+      "views": 39,
       "category": "Data Integration Tool ",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 86,
+      "views": 87,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1552,7 +1552,7 @@
       "modified": "2023-05-29 15:46:02.782000",
       "description": "The goal of pyxplorer is to provide a simple tool that allows interactive profiling of datasets that are accessible via a SQL like interface. The only requirement to run data profiling is that you are able to provide a Python DBAPI like interface to your data source and the data source is able to understand simplistic SQL queries.\n\nSupported Features:\n-Column Count (Database / Table)\n-Table Count\n-Tuple Count (Database / Table)\n-Min / Max\n-Most Frequent / Least Frequent\n-Top-K Most Frequent / Top-K Least Frequent\n-Top-K Value Distribution (Database / Table )\n-Uniqueness\n-Constancy\n-Distinct Value Count",
       "license": "BSD 2-Clause \"Simplified\" License",
-      "views": 53,
+      "views": 54,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -1723,7 +1723,7 @@
       "modified": "2023-04-04 11:58:34.540000",
       "description": "EdIE-viz provides an interface for stroke-related clinical concept recognition and negation detection in brain radiology reports. There are two underlying systems, EdIE-R, which is a rule-based model. And EdIE-N, which is a neural network based model.\n\n### Results & Insights\n\nAutomatic extraction of fine-grained stroke-related findings at scale. Visualisation of findings and comparison of models.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 29,
+      "views": 30,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -1807,7 +1807,7 @@
       "modified": "2023-05-16 08:59:26.259000",
       "description": "CogStack is designed to operationalise unstructured data resources. It is a locally deployable, distributed, microservice architecture intended to make information retrieval/extraction easier from EHRs. It comprises of multiple components i) unstructured data harmonisation (TIKA, and Tesseract OCR) ii) information indexing, iii) NLP. \n\nThere are currently two versions: the original design based on a Java Spring Batch pipeline and a newly redeveloped application which uses Apache NiFi as the backbone workflow management.\n\n### Results & Insights\n\nThe main goal for CogStack is to provide a generalised way to access the various modes of unstructured data in a clinical record, harmonise them into a common format and index them in Elasticsearch for information retrieval. Ontop Elasticsearch is an NLP pipeline (CogStack MedCat) for information extraction.",
       "license": "Apache License 2.0",
-      "views": 141,
+      "views": 142,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -2398,7 +2398,7 @@
       "modified": "2022-12-11 15:13:00.187000",
       "description": "Application to identify instances of blunted affect.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3838,7 +3838,7 @@
       "modified": "2023-05-26 14:27:10.144000",
       "description": "Application to identify instances of tearfulness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 170,
+      "views": 171,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 314,
+      "views": 316,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 154,
+      "views": 155,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 304,
+      "views": 306,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6481,7 +6481,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 117,
+      "views": 118,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6541,7 +6541,7 @@
       "modified": "2023-04-10 12:28:02.690000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the HDR Innovation Gateway in general and summarises some of the key Gateway functions. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 41,
+      "views": 42,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6724,7 +6724,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 89,
+      "views": 91,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6754,7 +6754,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 99,
+      "views": 100,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6785,7 +6785,7 @@
       "modified": "2023-07-03 07:20:05.241000",
       "description": "I-DSD, I-CAH and I-TS provide the means of connecting clinical and research centres around the world and allow these centres to collect standardised information aimed at improving clinical practice, research and understanding of a wide range of conditions affecting sexual development and maturation. In 2021, the I-DSD/I-CAH/I-TS had a network that reached 260 centres in 63 countries on all the continents. Of these, 115 centres from 40 countries use the registries and have entered over 5,500 cases where information can be shared for a range of purposes that have the ultimate aim of improving the health of people with these rare conditions.",
       "license": "",
-      "views": 15,
+      "views": 16,
       "category": "Dataset",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 107,
+      "views": 109,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 31,
+      "views": 32,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 52,
+      "views": 53,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7127,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 55,
+      "views": 56,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
