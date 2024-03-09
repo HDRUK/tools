@@ -73,7 +73,7 @@
       "modified": "2023-04-11 13:08:43.002000",
       "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
       "license": "GPLv3",
-      "views": 126,
+      "views": 127,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -1516,7 +1516,7 @@
       "modified": "2023-04-27 08:15:46.084000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 85,
+      "views": 86,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 35,
+      "views": 37,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -1893,7 +1893,7 @@
       "modified": "2023-05-22 19:50:16.900000",
       "description": "Corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names). \n\n### Results & Insights\n\nThese corpora were developed to support the development of Word Sense Disambiguation for biomedical documents. ",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 33,
+      "views": 34,
       "category": "Corpora for NLP research",
       "relations": [],
       "keywords": [
@@ -1927,7 +1927,7 @@
       "modified": "2022-12-02 20:02:48.118000",
       "description": "Research literature in biomedicine and related fields contains a huge number of claims, such as the effectiveness of treatments. These claims are not always consistent and may even contradict each other. Being able to identify contradictory claims is important for those who rely on the biomedical literature. Automated methods to identify and resolve them are required to cope with the amount of information available. However, research in this area has been hampered by a lack of suitable resources. We provide a corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.",
       "license": "CC BY NC SA 2.0 UK",
-      "views": 23,
+      "views": 25,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 43,
+      "views": 44,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -1995,7 +1995,7 @@
       "modified": "2023-05-28 12:09:31.671000",
       "description": "This computer program is designed to extract diagnoses, dates, durations, laboratory results and selected examination findings (heart rate and blood pressure) from unstructured free text. The program was created based on text in general practice records from the Vision system, and information is encoded using Read Clinical Terms. The program uses lookup tables of phrases and synonyms which were created manually. The lookup tables can be edited in order to enable the program to detect new terms or improve its performance for diagnoses of interest.\n\n### Results & Insights\n\nThis is a small, fast, standalone information extraction system designed for text in primary care records. It is available in the form of a single executable file with plain text lookup tables. It can run in batch mode on any system with a Visual Basic 6 runtime, without requiring any additional software installation.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 42,
+      "views": 44,
       "category": "Rule-based NLP information extraction system",
       "relations": [],
       "keywords": [
@@ -2146,7 +2146,7 @@
       "modified": "2023-04-09 19:49:58.933000",
       "description": "Application to identify instances of aggressive behaviour in patients, including verbal, physical and sexual.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 29,
+      "views": 30,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2182,7 +2182,7 @@
       "modified": "2023-05-26 07:18:23.696000",
       "description": "Application to identify instances of agitation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative, and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2218,7 +2218,7 @@
       "modified": "2022-12-22 12:50:50.050000",
       "description": "Application to identify instances of anergia.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2254,7 +2254,7 @@
       "modified": "2023-04-16 02:05:42.030000",
       "description": "Application to identify instances of anhedonia (inability to experience pleasure from activities usually found.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 10,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2290,7 +2290,7 @@
       "modified": "2023-04-17 07:34:34.192000",
       "description": "Application to extract the presence of apathy.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2326,7 +2326,7 @@
       "modified": "2022-12-08 23:06:07.814000",
       "description": "Application to identify instances of arousal excluding sexual arousal.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2362,7 +2362,7 @@
       "modified": "2023-02-07 20:03:38.284000",
       "description": "Application to identify instances of experiencing a bad dream.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2398,7 +2398,7 @@
       "modified": "2022-12-11 15:13:00.187000",
       "description": "Application to identify instances of blunted affect.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2434,7 +2434,7 @@
       "modified": "2023-05-28 23:20:22.070000",
       "description": "Application to identify instances of circumstantiality.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2470,7 +2470,7 @@
       "modified": "2022-08-18 21:10:30.361000",
       "description": "Application to identify instances of concrete thinking.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 8,
+      "views": 9,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2506,7 +2506,7 @@
       "modified": "2023-03-29 05:43:11.603000",
       "description": "Application to identify instances of delusions.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2542,7 +2542,7 @@
       "modified": "2023-01-07 10:34:42.824000",
       "description": "Application to identify instances of derailment.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 10,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2614,7 +2614,7 @@
       "modified": "2023-05-25 01:29:44.111000",
       "description": "Application to identify instances of drowsiness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2650,7 +2650,7 @@
       "modified": "2023-05-13 08:12:06.894000",
       "description": "Application to extract occurrences where echolalia is present.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2686,7 +2686,7 @@
       "modified": "2022-10-07 19:51:30.301000",
       "description": "Application to identify instances of elation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 10,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2722,7 +2722,7 @@
       "modified": "2023-05-23 21:57:28.382000",
       "description": "Application to identify instances of emotional withdrawal.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 32,
+      "views": 33,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2758,7 +2758,7 @@
       "modified": "2023-01-06 06:27:23.921000",
       "description": "Application to extract instances of flight of ideas.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2794,7 +2794,7 @@
       "modified": "2023-05-22 06:35:32.111000",
       "description": "Application to extract occurrences where formal thought disorder is present.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 25,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2830,7 +2830,7 @@
       "modified": "2022-12-21 15:24:56.892000",
       "description": "Application to extract occurrences where grandiosity is apparent.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2866,7 +2866,7 @@
       "modified": "2022-07-04 13:47:10.272000",
       "description": "Application to identify instances of guilt.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 9,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2902,7 +2902,7 @@
       "modified": "2023-01-21 01:34:58.737000",
       "description": "Application to identify instances of auditory hallucinations non-specific to diagnosis.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2938,7 +2938,7 @@
       "modified": "2022-11-06 21:59:11.736000",
       "description": "Application to extract occurrences where visual hallucination is present. Visual hallucinations may be due to a.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2974,7 +2974,7 @@
       "modified": "2023-04-02 21:44:12.845000",
       "description": "Application to identify instances of helplessness.\n\nBoth past and present symptom.\n\nOutput values: Positive and negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3010,7 +3010,7 @@
       "modified": "2023-05-01 00:51:49.035000",
       "description": "Application to identify instances of hopelessness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 25,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3046,7 +3046,7 @@
       "modified": "2023-04-22 02:12:40.658000",
       "description": "Application to identify instances of hostility.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3082,7 +3082,7 @@
       "modified": "2023-03-26 20:19:11.446000",
       "description": "Application to identify instances of insomnia.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3118,7 +3118,7 @@
       "modified": "2023-05-22 19:50:28.445000",
       "description": "Application to identify instances of irritability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3154,7 +3154,7 @@
       "modified": "2023-05-16 08:26:52.432000",
       "description": "Application to identify instances of incoherence or loss of coherence in speech or thinking..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3190,7 +3190,7 @@
       "modified": "2022-12-07 18:08:29.662000",
       "description": "Application to identify instances of low energy.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3226,7 +3226,7 @@
       "modified": "2023-05-05 15:20:37.825000",
       "description": "This application identifies instances of mood instability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3262,7 +3262,7 @@
       "modified": "2023-05-05 15:21:34.608000",
       "description": "Application to identify instances of mutism.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3298,7 +3298,7 @@
       "modified": "2022-12-06 06:18:09.889000",
       "description": "Application to identify instances of negative symptoms.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3874,7 +3874,7 @@
       "modified": "2023-05-15 03:55:28.070000",
       "description": "Application to identify instances of thought block.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 308,
+      "views": 310,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6785,7 +6785,7 @@
       "modified": "2023-07-03 07:20:05.241000",
       "description": "I-DSD, I-CAH and I-TS provide the means of connecting clinical and research centres around the world and allow these centres to collect standardised information aimed at improving clinical practice, research and understanding of a wide range of conditions affecting sexual development and maturation. In 2021, the I-DSD/I-CAH/I-TS had a network that reached 260 centres in 63 countries on all the continents. Of these, 115 centres from 40 countries use the registries and have entered over 5,500 cases where information can be shared for a range of purposes that have the ultimate aim of improving the health of people with these rare conditions.",
       "license": "",
-      "views": 16,
+      "views": 18,
       "category": "Dataset",
       "relations": [],
       "keywords": [],
@@ -6815,7 +6815,7 @@
       "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "MIT",
-      "views": 101,
+      "views": 103,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 115,
+      "views": 117,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 61,
+      "views": 64,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7063,7 +7063,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 28,
+      "views": 29,
       "category": "Repository",
       "relations": [],
       "keywords": [
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 28,
+      "views": 29,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 38,
+      "views": 39,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
