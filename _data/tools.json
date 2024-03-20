@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 355,
+      "views": 356,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 90,
+      "views": 91,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -2029,7 +2029,7 @@
       "modified": "2023-03-31 16:02:45.278000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 49,
+      "views": 50,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -3370,7 +3370,7 @@
       "modified": "2023-05-07 05:09:38.934000",
       "description": "Application to identify instances of paranoia. Paranoia may be due to a diagnosis of paranoid schizophrenia or.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 11,
+      "views": 12,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4774,7 +4774,7 @@
       "modified": "2023-02-07 00:56:24.949000",
       "description": "The Medication Application distinguishes between medications that are currently prescribed (i.e. at the time of.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 57,
+      "views": 58,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 368,
+      "views": 369,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 118,
+      "views": 119,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 333,
+      "views": 335,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6481,7 +6481,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 120,
+      "views": 121,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6541,7 +6541,7 @@
       "modified": "2023-04-10 12:28:02.690000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the HDR Innovation Gateway in general and summarises some of the key Gateway functions. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 43,
+      "views": 44,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 29,
+      "views": 30,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 31,
+      "views": 33,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6638,7 +6638,7 @@
       "modified": "2023-05-17 19:51:07.234000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the training and career opportunities offered by HDR UK. \n\nFree for all to download, use and share, but please credit Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 38,
+      "views": 39,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6668,7 +6668,7 @@
       "modified": "2023-05-10 14:49:31.754000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Data Use Register, a feature that shows how Gateway datasets are being used, by whom and for what purpose.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 45,
+      "views": 46,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6697,7 +6697,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 81,
+      "views": 82,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6724,7 +6724,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 92,
+      "views": 93,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "MIT",
-      "views": 118,
+      "views": 120,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 121,
+      "views": 122,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7063,7 +7063,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 33,
+      "views": 35,
       "category": "Repository",
       "relations": [],
       "keywords": [
