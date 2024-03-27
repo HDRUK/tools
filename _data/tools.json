@@ -342,7 +342,7 @@
       "modified": "2022-12-18 13:14:02.645000",
       "description": "The aim of this project is to develop a database of simulated pulse waves with which to test pulse wave analysis algorithms.\n\nA database of simulated pulse waves representative of a sample of healthy adults was created. It contains several types of pulse waves (such as those measured by smart watches and fitness trackers) at common measurement sites for 4,374 virtual subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular properties across the normal ranges encountered in healthy people. The results were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019 ) demonstrating the utility of the database.\n\nThe database is a useful resource for research and education on the topics of: signal processing, physiology, and computational modelling.",
       "license": "Public Domain Dedication and License",
-      "views": 35,
+      "views": 36,
       "category": "Dataset",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 330,
+      "views": 331,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -643,7 +643,7 @@
       "modified": "2023-05-30 19:43:01.886000",
       "description": "The ISARIC 4C prognostic score uses data from more than 70,000 hospital admissions, we have devised a simple, robust and generalisable prognostic scoring system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification score that predicts in-hospital mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium. It is intended for use by clinicians. It is designed to be easy-to-use, and require only parameters that are commonly available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1) introducing the score. \n\nThis is an infographic that visualises risk, based on observed mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C study in the UK.",
       "license": "Copyrighted",
-      "views": 55,
+      "views": 56,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -738,7 +738,7 @@
       "modified": "2023-03-10 13:57:00.186000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 51,
+      "views": 52,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1349,7 +1349,7 @@
       "modified": "2023-04-22 16:43:52.356000",
       "description": "Community (Free Use - LIMITED), Pro and Enterprise (Paid Version)\n\nSQL Power Architect data modeling tool has many unique features geared specifically for the data warehouse architect. It is a powerful database utility that not only builds diagrams of databases, but also provides data dictionary language output, which can be used to build database solutions.\n\nConnects to multiple source databases concurrently, Compares data models & database structures and identifies discrepancies, Generates source-to-target visual Mapping Reports, Forward/reverse engineers PostgreSQL, Oracle, MS SQL Server & more.\n",
       "license": "Proprietary",
-      "views": 21,
+      "views": 22,
       "category": "Data Modelling Tool",
       "relations": [],
       "keywords": [
@@ -1448,7 +1448,7 @@
       "modified": "2023-04-17 18:01:35.088000",
       "description": "The Pimcore Platform\u2122 is a dual-licensed software application that is powered by the Open Source GPLv3 license and the enterprise-friendly Pimcore Commercial License (PCL). Pimcore is available free of charge as the Open Source Pimcore Community Edition or as the Pimcore Enterprise Subscription. Depending on your licensing needs, you can choose the right variant of Pimcore.",
       "license": "Open Source (GPL v3) or Enterprise subscription",
-      "views": 33,
+      "views": 34,
       "category": "Software Application",
       "relations": [],
       "keywords": [
@@ -3010,7 +3010,7 @@
       "modified": "2023-05-01 00:51:49.035000",
       "description": "Application to identify instances of hopelessness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 27,
+      "views": 28,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4234,7 +4234,7 @@
       "modified": "2023-05-07 10:56:03.009000",
       "description": "Application to identify patients with diagnosis of Crohn\u2019s disease.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 370,
+      "views": 371,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 108,
+      "views": 109,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6361,7 +6361,7 @@
       "modified": "2023-05-24 12:59:59.863000",
       "description": "Infographic summarising results of research study\n\n### Results & Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34 to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1 nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21 days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological and vascular events that led to hospital admission or death were observed for short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA vaccines. The risks of most of these events were substantially higher and more prolonged after SARS-CoV-2 infection than after vaccination in the same population.",
       "license": "CC BY NC 3.0",
-      "views": 128,
+      "views": 129,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 341,
+      "views": 347,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6481,7 +6481,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 122,
+      "views": 123,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6697,7 +6697,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 84,
+      "views": 85,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6724,7 +6724,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 93,
+      "views": 94,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "MIT",
-      "views": 128,
+      "views": 131,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6873,7 +6873,7 @@
       "modified": "2024-02-03 16:06:18.663000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 64,
+      "views": 65,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 136,
+      "views": 138,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 126,
+      "views": 127,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 37,
+      "views": 39,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 73,
+      "views": 76,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 50,
+      "views": 52,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 74,
+      "views": 76,
       "category": "Platform",
       "relations": [],
       "keywords": [
