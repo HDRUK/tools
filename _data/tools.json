@@ -342,7 +342,7 @@
       "modified": "2022-12-18 13:14:02.645000",
       "description": "The aim of this project is to develop a database of simulated pulse waves with which to test pulse wave analysis algorithms.\n\nA database of simulated pulse waves representative of a sample of healthy adults was created. It contains several types of pulse waves (such as those measured by smart watches and fitness trackers) at common measurement sites for 4,374 virtual subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular properties across the normal ranges encountered in healthy people. The results were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019 ) demonstrating the utility of the database.\n\nThe database is a useful resource for research and education on the topics of: signal processing, physiology, and computational modelling.",
       "license": "Public Domain Dedication and License",
-      "views": 36,
+      "views": 37,
       "category": "Dataset",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 100,
+      "views": 102,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1349,7 +1349,7 @@
       "modified": "2023-04-22 16:43:52.356000",
       "description": "Community (Free Use - LIMITED), Pro and Enterprise (Paid Version)\n\nSQL Power Architect data modeling tool has many unique features geared specifically for the data warehouse architect. It is a powerful database utility that not only builds diagrams of databases, but also provides data dictionary language output, which can be used to build database solutions.\n\nConnects to multiple source databases concurrently, Compares data models & database structures and identifies discrepancies, Generates source-to-target visual Mapping Reports, Forward/reverse engineers PostgreSQL, Oracle, MS SQL Server & more.\n",
       "license": "Proprietary",
-      "views": 22,
+      "views": 25,
       "category": "Data Modelling Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 92,
+      "views": 93,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1581,7 +1581,7 @@
       "modified": "2023-05-30 15:31:31.953000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 238,
+      "views": 239,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 373,
+      "views": 374,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -5266,7 +5266,7 @@
       "modified": "2023-05-24 20:44:58.830000",
       "description": "Characterizing diversity in biodata and producing visualizations\n\nRead more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables\n\n\n\n### Results & Insights\n\nhttps://www.benevolent.com/news/the-diversity-analysis-tool-towards-better-diversity-in-data-for-precision-medicine",
       "license": "MIT",
-      "views": 85,
+      "views": 86,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 30,
+      "views": 31,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6754,7 +6754,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 103,
+      "views": 104,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 138,
+      "views": 140,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 128,
+      "views": 129,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 31,
+      "views": 32,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 52,
+      "views": 53,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 77,
+      "views": 78,
       "category": "Platform",
       "relations": [],
       "keywords": [
