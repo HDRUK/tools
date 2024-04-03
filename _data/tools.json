@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 266,
+      "views": 267,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 357,
+      "views": 358,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 356,
+      "views": 357,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 332,
+      "views": 333,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -643,7 +643,7 @@
       "modified": "2023-05-30 19:43:01.886000",
       "description": "The ISARIC 4C prognostic score uses data from more than 70,000 hospital admissions, we have devised a simple, robust and generalisable prognostic scoring system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification score that predicts in-hospital mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium. It is intended for use by clinicians. It is designed to be easy-to-use, and require only parameters that are commonly available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1) introducing the score. \n\nThis is an infographic that visualises risk, based on observed mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C study in the UK.",
       "license": "Copyrighted",
-      "views": 56,
+      "views": 57,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 510,
+      "views": 511,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -3190,7 +3190,7 @@
       "modified": "2022-12-07 18:08:29.662000",
       "description": "Application to identify instances of low energy.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 25,
+      "views": 26,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4270,7 +4270,7 @@
       "modified": "2023-05-16 11:59:10.586000",
       "description": "Application to identify patients with diagnosis of hypertension or high blood pressure.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 36,
+      "views": 37,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4954,7 +4954,7 @@
       "modified": "2023-04-08 23:25:44.399000",
       "description": "Application to extract instances of diagnosis.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 47,
+      "views": 48,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 439,
+      "views": 440,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 64,
+      "views": 65,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 374,
+      "views": 375,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 322,
+      "views": 323,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 157,
+      "views": 159,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 349,
+      "views": 350,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 141,
+      "views": 142,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 53,
+      "views": 55,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 80,
+      "views": 82,
       "category": "Platform",
       "relations": [],
       "keywords": [
