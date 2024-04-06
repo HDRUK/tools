@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 358,
+      "views": 359,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -342,7 +342,7 @@
       "modified": "2022-12-18 13:14:02.645000",
       "description": "The aim of this project is to develop a database of simulated pulse waves with which to test pulse wave analysis algorithms.\n\nA database of simulated pulse waves representative of a sample of healthy adults was created. It contains several types of pulse waves (such as those measured by smart watches and fitness trackers) at common measurement sites for 4,374 virtual subjects aged 25 - 75 years old. The virtual subjects exhibit a range of cardiovascular properties across the normal ranges encountered in healthy people. The results were verified against in vivo data. Case studies were published (at https://doi.org/10.1152/ajpheart.00218.2019 ) demonstrating the utility of the database.\n\nThe database is a useful resource for research and education on the topics of: signal processing, physiology, and computational modelling.",
       "license": "Public Domain Dedication and License",
-      "views": 40,
+      "views": 41,
       "category": "Dataset",
       "relations": [],
       "keywords": [
@@ -1581,7 +1581,7 @@
       "modified": "2023-05-30 15:31:31.953000",
       "description": "MobyDQ is a tool for data engineering teams to automate data quality checks on their data pipeline, capture data quality issues and trigger alerts in case of anomaly, regardless of the data sources they use.\n\nFree and open-source Data Quality solution that aims to automate Data Quality checks during data processing, storing Data Quality measurements and metric results and triggering alerts in case of anomaly.  The framework can be used to access different data sources. It installed quickly and straightforward, based on the detailed documentation provided on GitHub. MobyDQ does not provide any data pro\ufb01ling functionality, because its focus is on the creation, application, and automation of Data Quality checks. \n\nMobyDQ provides a toolbox for data engineering teams to design data quality indicators.",
       "license": "Apache License 2.0",
-      "views": 239,
+      "views": 240,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -2029,7 +2029,7 @@
       "modified": "2023-03-31 16:02:45.278000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 50,
+      "views": 51,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2578,7 +2578,7 @@
       "modified": "2022-11-03 11:42:11.346000",
       "description": "Application to identify instances of disturbed sleep.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3334,7 +3334,7 @@
       "modified": "2022-11-30 19:10:51.620000",
       "description": "Application to identify instances of nightmares.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 353,
+      "views": 355,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-02-03 17:19:13.337000",
       "description": "CaRROT-Mapper is a webapp which allows the user to map the metadata from a dataset to the OMOP standard, and produce mapping rules for ingestion by CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.\n\nCaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database, and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL, and Azure Functions.",
       "license": "MIT",
-      "views": 132,
+      "views": 133,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6965,7 +6965,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 83,
+      "views": 84,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
