@@ -169,7 +169,7 @@ tools:
   relations: []
   type: ''
   uploader: ''
-  views: 360
+  views: 361
 - '@schema':
     type: tool
   _id: 19008
@@ -319,7 +319,7 @@ tools:
   relations: []
   type: ''
   uploader: 56990094690269056
-  views: 41
+  views: 44
 - '@schema':
     type: tool
   _id: 32805657207244064
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 106
+  views: 109
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -578,7 +578,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 335
+  views: 336
 - '@schema':
     type: tool
   _id: 37736016737401232
@@ -939,7 +939,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 512
+  views: 513
 - '@schema':
     type: tool
   _id: 19330809167434928
@@ -1624,7 +1624,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 42
+  views: 45
 - '@schema':
     type: tool
   _id: 47454353616384840
@@ -2520,7 +2520,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 19
+  views: 20
 - '@schema':
     type: tool
   _id: 8133723352669997
@@ -5603,7 +5603,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -5752,7 +5752,7 @@ tools:
   relations: []
   type: ''
   uploader: 35215818431093604
-  views: 377
+  views: 378
 - '@schema':
     type: tool
   _id: 45701856330435576
@@ -6603,7 +6603,7 @@ tools:
   relations: []
   type: ''
   uploader: 2742415330560255
-  views: 48
+  views: 49
 - '@schema':
     type: tool
   _id: 6606728270873592
@@ -7344,27 +7344,24 @@ tools:
   - 22850500618628944
   - 4102495549846781
   category: Web application
-  description: 'CaRROT-Mapper is a webapp which allows the user to map the metadata
-    from a dataset to the OMOP standard, and produce mapping rules for ingestion by
-    CaRROT-CDM to perform the mapping of the contents of the dataset to OMOP.
-
-
-    CaRROT-Mapper is built using Python, Django and React, with a PostgreSQL database,
-    and is hosted in Azure using Azure App Services, Azure Database for PostgreSQL,
-    and Azure Functions.'
+  description: Carrot-Mapper enables conversion of data to the OMOP Common Data Model,
+    without data being egressed from its secure location, nor requiring access to
+    the secure location. Carrot-Mapper automates as much of the process as possible,
+    and also enables users to reuse each others' mappings. Carrot-Mapper pairs with
+    Carrot-CDM to complete the OMOP conversion process.
   issued: '2022-10-27 13:42:55.322000'
   keywords: []
   license: MIT
   link: https://carrot4omop.ac.uk/CaRROT-Mapper/
-  modified: '2024-04-09 10:05:00.154000'
-  name: CARROT
+  modified: '2024-04-10 09:52:53.471000'
+  name: Carrot-Mapper
   programming_languages:
   - name: Python, Django, React
     version: ''
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 149
+  views: 152
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7448,7 +7445,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 144
+  views: 145
 - '@schema':
     type: tool
   _id: 5247022928209417
@@ -7649,7 +7646,7 @@ tools:
   relations: []
   type: ''
   uploader: 6958421021490282
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 8098696302068247
@@ -7674,7 +7671,7 @@ tools:
   relations: []
   type: ''
   uploader: 6958421021490282
-  views: 65
+  views: 66
 - '@schema':
     type: tool
   _id: 2643929513046672
@@ -7763,4 +7760,4 @@ tools:
   relations: []
   type: ''
   uploader: 3736211688153557
-  views: 86
+  views: 88
