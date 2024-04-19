@@ -5,37 +5,6 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
-      "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-30 20:41:32.141000",
-      "description": "",
-      "license": "",
-      "views": 306,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling",
-        "Visualisation"
-      ],
-      "programming_languages": [
-        {
-          "name": "R",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -59,6 +28,122 @@
       "programming_languages": [
         {
           "name": "Java",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19006,
+      "type": "",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-17 16:08:38.817000",
+      "description": "",
+      "license": "",
+      "views": 141,
+      "category": "Phenomics",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Phenomics"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19004,
+      "type": "",
+      "name": "COVID-19 CovidSim Microsimulation Model",
+      "link": "https://github.com/mrc-ide/covid-sim",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-04-11 13:08:43.002000",
+      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+      "license": "GPLv3",
+      "views": 127,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling"
+      ],
+      "programming_languages": [
+        {
+          "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19007,
+      "type": "",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-28 22:40:37.701000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "license": "",
+      "views": 363,
+      "category": "Mobile Application",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Symptom Tracker",
+        " NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19005,
+      "type": "",
+      "name": "Public Health England COVID-19 Tracker",
+      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-14 10:27:58.675000",
+      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "license": "",
+      "views": 152,
+      "category": "Data Visualisation",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
           "version": ""
         }
       ]
@@ -98,84 +183,23 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19004,
+      "_id": 19009,
       "type": "",
-      "name": "COVID-19 CovidSim Microsimulation Model",
-      "link": "https://github.com/mrc-ide/covid-sim",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-04-11 13:08:43.002000",
-      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
-      "license": "GPLv3",
-      "views": 127,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling"
-      ],
-      "programming_languages": [
-        {
-          "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19005,
-      "type": "",
-      "name": "Public Health England COVID-19 Tracker",
-      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-14 10:27:58.675000",
-      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "license": "",
-      "views": 152,
-      "category": "Data Visualisation",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19006,
-      "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-17 16:08:38.817000",
+      "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 140,
-      "category": "Phenomics",
+      "views": 190,
+      "category": "",
       "relations": [],
       "keywords": [
-        "COVID-19",
-        "Phenomics"
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -183,29 +207,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19007,
+      "_id": 19001,
       "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-28 22:40:37.701000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "modified": "2023-05-30 20:41:32.141000",
+      "description": "",
       "license": "",
-      "views": 362,
-      "category": "Mobile Application",
+      "views": 306,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Symptom Tracker",
-        " NCS"
+        "Modelling",
+        "Visualisation"
       ],
       "programming_languages": [
         {
-          "name": "Other",
+          "name": "R",
           "version": ""
         }
       ]
@@ -232,30 +256,6 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19009,
-      "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-11 09:21:27.231000",
-      "description": "",
-      "license": "",
-      "views": 190,
-      "category": "",
-      "relations": [],
-      "keywords": [
-        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -514,7 +514,7 @@
       "modified": "2023-05-06 11:22:38.114000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 110,
+      "views": 111,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -738,7 +738,7 @@
       "modified": "2023-03-10 13:57:00.186000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 52,
+      "views": 53,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 38,
+      "views": 39,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1552,7 +1552,7 @@
       "modified": "2023-05-29 15:46:02.782000",
       "description": "The goal of pyxplorer is to provide a simple tool that allows interactive profiling of datasets that are accessible via a SQL like interface. The only requirement to run data profiling is that you are able to provide a Python DBAPI like interface to your data source and the data source is able to understand simplistic SQL queries.\n\nSupported Features:\n-Column Count (Database / Table)\n-Table Count\n-Tuple Count (Database / Table)\n-Min / Max\n-Most Frequent / Least Frequent\n-Top-K Most Frequent / Top-K Least Frequent\n-Top-K Value Distribution (Database / Table )\n-Uniqueness\n-Constancy\n-Distinct Value Count",
       "license": "BSD 2-Clause \"Simplified\" License",
-      "views": 56,
+      "views": 57,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -1893,7 +1893,7 @@
       "modified": "2023-05-22 19:50:16.900000",
       "description": "Corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names). \n\n### Results & Insights\n\nThese corpora were developed to support the development of Word Sense Disambiguation for biomedical documents. ",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 35,
+      "views": 36,
       "category": "Corpora for NLP research",
       "relations": [],
       "keywords": [
@@ -4990,7 +4990,7 @@
       "modified": "2023-01-19 17:41:21.685000",
       "description": "Application to identify instances of treatment-resistant depression.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 38,
+      "views": 39,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 70,
+      "views": 71,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -6274,7 +6274,7 @@
       "modified": "2023-03-17 04:21:51.240000",
       "description": "This interactive visualizations report focus on exploring how the risk of precarious work has evolved in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_2_precariousness\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 60,
+      "views": 61,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 110,
+      "views": 111,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 360,
+      "views": 361,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 159,
+      "views": 161,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 39,
+      "views": 40,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 87,
+      "views": 88,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 36,
+      "views": 37,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 60,
+      "views": 61,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 90,
+      "views": 91,
       "category": "Platform",
       "relations": [],
       "keywords": [
