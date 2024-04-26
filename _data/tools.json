@@ -514,7 +514,7 @@
       "modified": "2023-05-06 11:22:38.114000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 112,
+      "views": 115,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 44,
+      "views": 45,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -2938,7 +2938,7 @@
       "modified": "2022-11-06 21:59:11.736000",
       "description": "Application to extract occurrences where visual hallucination is present. Visual hallucinations may be due to a.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3442,7 +3442,7 @@
       "modified": "2023-01-17 07:08:56.047000",
       "description": "Application to identify instances of ideas of persecution..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4702,7 +4702,7 @@
       "modified": "2023-02-01 13:23:19.432000",
       "description": "Application to identify instances of loneliness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 184,
+      "views": 185,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 169,
+      "views": 170,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 40,
+      "views": 41,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 90,
+      "views": 91,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7127,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 72,
+      "views": 73,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 63,
+      "views": 64,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
