@@ -134,7 +134,7 @@
       "modified": "2023-05-14 10:27:58.675000",
       "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
       "license": "",
-      "views": 155,
+      "views": 156,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -707,7 +707,7 @@
       "modified": "2023-01-01 22:24:56.121000",
       "description": "Python module for exploratory data analysis (EDA)\n\nGenerates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis.",
       "license": "MIT license",
-      "views": 25,
+      "views": 26,
       "category": "Open Source Python Module",
       "relations": [],
       "keywords": [
@@ -738,7 +738,7 @@
       "modified": "2023-03-10 13:57:00.186000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 54,
+      "views": 55,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 106,
+      "views": 107,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1221,7 +1221,7 @@
       "modified": "2023-05-15 14:30:20.012000",
       "description": "DataPreparator is a free software tool designed to assist with common tasks of  data preparation (or data preprocessing) in data analysis and data mining. \n\nDataPreparator provides:\n\n-A variety of techniques for data cleaning, transformation, and exploration\n-Chaining of preprocessing operators into a flow graph (operator tree)\n-Handling of large volumes of data (since data sets are not stored in the computer memory)\n-Stand alone tool independent of any other tools\n-User friendly graphical user interface\n\nDataPreparator can assist you with exploring and preparing data in various ways prior to data analysis or data mining. It includes operators for cleaning, discretization, numeration, scaling, attribute selection, missing values, outliers, statistics, visualization, balancing, sampling, row selection, and several other tasks. See Features for details.",
       "license": "https://www.datapreparator.com/software-license-agreement-2.html",
-      "views": 40,
+      "views": 41,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 99,
+      "views": 100,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1611,7 +1611,7 @@
       "modified": "2023-03-29 14:14:58.253000",
       "description": "The RADAR-base platform is a scalable and inter-operable mHealth platform which provides capabilities for remote monitoring using passively (e.g. sensor data, wearables, IoT) and actively (e.g. questionnaires, digital tests). The platform developed at King's College London is already being used in a number of large-scale longitudinal mental and physical health-related disorder projects (see https://radar-base.org and https://github.com/RADAR-base/).  The complete RADAR-base technology stack is available under an Apache 2 open source license and is supported by an active community of developers, researchers and clinicians who focus on continuously improving data quality, user experience, validation and extending the platform with new features and data sources.",
       "license": "Apache License 2.0",
-      "views": 38,
+      "views": 39,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1654,7 +1654,7 @@
       "modified": "2023-05-27 17:41:30.521000",
       "description": "The HDR UK Phenotype Portal is a national platform for dissemination of citable algorithms (incl. validations) and tools which will reduce duplication of effort and improve research reproducibility. hough this project, we will deliver a fundamental step-change in the current EHR community in the UK by bringing together health data scientists, clinicians, computer scientists, public health experts and data curators under the FAIR principles (www.force11.org). The National Phenomics Resource will facilitate the dissemination and re-use of algorithms, tools and methods by the community. By establishing a national standard for creating, evaluating and representing phenotypes, we will accelerate the impact of discovery through increased transparency and replicability and maximise the usability and value of existing data repositories to new users. Finally, we will take the first steps towards establishing computational biomedical knowledge objects (e.g. guidelines with embedded phenotypes endorsed by NICE) which will enable the creation of actionable health analytics in the NHS.",
       "license": "Apache 2",
-      "views": 104,
+      "views": 105,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -2434,7 +2434,7 @@
       "modified": "2023-05-28 23:20:22.070000",
       "description": "Application to identify instances of circumstantiality.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3046,7 +3046,7 @@
       "modified": "2023-04-22 02:12:40.658000",
       "description": "Application to identify instances of hostility.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3118,7 +3118,7 @@
       "modified": "2023-05-22 19:50:28.445000",
       "description": "Application to identify instances of irritability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3478,7 +3478,7 @@
       "modified": "2022-12-28 07:35:30.369000",
       "description": "Application to identify instances of poor appetite (negative annotations).\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3550,7 +3550,7 @@
       "modified": "2023-04-20 18:02:31.696000",
       "description": "Applications to identify instances of poor insight.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3838,7 +3838,7 @@
       "modified": "2023-05-26 14:27:10.144000",
       "description": "Application to identify instances of tearfulness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4486,7 +4486,7 @@
       "modified": "2023-05-27 21:22:50.558000",
       "description": "This application distinguishes between people who are a) current smokers, b) current non-smokers (ever.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5091,7 +5091,7 @@
       "modified": "2023-05-03 07:37:30.360000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 51,
+      "views": 52,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -5192,7 +5192,7 @@
       "modified": "2023-05-19 12:58:56.445000",
       "description": "Markup is a website that allows clinicians to securely annotate a clinic letters. Markup makes us of the Unified Medical Language System (UMLS) to map annotations to Concept Unique Identifiers as standard. Markup also allows users to synthetically create their own training data to train machine learning and active learning models that generate annotation suggestions to the user. Current ML algorithms include Random Forest and Long-Short-Term-Memory (LSTM). Markup produces standoff format annotations so that annotations can be used with other software i.e. GATE.\n\n### Results & Insights\n\nPaper currently under review.",
       "license": "GNU Library or \"Lesser\" General Public License (LGPL)",
-      "views": 61,
+      "views": 62,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5925,7 +5925,7 @@
       "modified": "2022-12-21 16:41:09.600000",
       "description": "Application to extract changes in the frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase, Decrease, Frequent, Infrequent, Same) and Age (Exact, Upper range, Lower range, Months/Years old).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 176,
+      "views": 182,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 148,
+      "views": 149,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -7127,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 76,
+      "views": 77,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 67,
+      "views": 68,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 96,
+      "views": 97,
       "category": "Platform",
       "relations": [],
       "keywords": [
