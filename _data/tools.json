@@ -514,7 +514,7 @@
       "modified": "2023-05-06 11:22:38.114000",
       "description": "Utility SQL platform for data definition, extraction, manipulation and persistance.",
       "license": "MS",
-      "views": 115,
+      "views": 116,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 338,
+      "views": 339,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 39,
+      "views": 40,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -3982,7 +3982,7 @@
       "modified": "2023-05-10 22:24:00.577000",
       "description": "Application to identify instances of thought withdrawal..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 10,
+      "views": 11,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4018,7 +4018,7 @@
       "modified": "2023-04-25 03:40:28.246000",
       "description": "Application to identify instances of waxy flexibility. Waxy flexibility is a psychomotor symptom of catatonia as.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 71,
+      "views": 72,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 372,
+      "views": 374,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 31,
+      "views": 33,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 182,
+      "views": 188,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6873,7 +6873,7 @@
       "modified": "2024-02-03 16:06:18.663000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 72,
+      "views": 73,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 37,
+      "views": 38,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 97,
+      "views": 98,
       "category": "Platform",
       "relations": [],
       "keywords": [
