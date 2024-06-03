@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 84,
+      "views": 85,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -643,7 +643,7 @@
       "modified": "2023-05-30 19:43:01.886000",
       "description": "The ISARIC 4C prognostic score uses data from more than 70,000 hospital admissions, we have devised a simple, robust and generalisable prognostic scoring system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification score that predicts in-hospital mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium. It is intended for use by clinicians. It is designed to be easy-to-use, and require only parameters that are commonly available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1) introducing the score. \n\nThis is an infographic that visualises risk, based on observed mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C study in the UK.",
       "license": "Copyrighted",
-      "views": 58,
+      "views": 59,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -1318,7 +1318,7 @@
       "modified": "2023-05-31 07:55:34.859000",
       "description": "Pentaho Community Edition is free -  LIMITED)\n\nWorks with WEKA (Data Profiling)\n\nData Integration - Extract, transform and load (ETL) limited data sets and create visualizations with Pentaho\u2019s report designer tool.\nThe term, K.E.T.T.L.E is a recursive that stands for Kettle Extraction Transformation Transport Load Environment.  Pentaho Data Integration is well known for its ease of use and quick learning curve. PDI implements a metadata-driven approach which means that the development is based on specifying what to do, not how to do it. Pentaho lets administrators and ETL developers create their own data manipulation jobs with a user-friendly graphical creator, and without entering a single line of code. \nPDI uses a common, shared repository which enables remote ETL execution, facilitates teamwork, and simplifies the development process.",
       "license": "Apache License 2.0",
-      "views": 39,
+      "views": 40,
       "category": "Data Integration Tool ",
       "relations": [],
       "keywords": [
@@ -2067,7 +2067,7 @@
       "modified": "2023-05-29 16:47:23.297000",
       "description": "We have trained and validated a dedicated NER system to identify 7 categories: dosage, drug, duration, form, frequency, route and strength. We used transfer learning and self-supervised pre-training on 2.1 million documents from MIMIC EHR. Strict and lenient micro F1 achieved = 0.89 (0.95). \n\n### Results & Insights\n\nThe model is trained in order to support the clinical NLP community with a robust and accurate NER model for further downstream tasks. The development was motivated by two main goals: accuracy and interoperability. The model is written in Python 3.6+ and is compatible with spaCy pipelines, which is a free software for general NLP tasks.",
       "license": "MIT",
-      "views": 34,
+      "views": 35,
       "category": "Named entity recognition (NER) model",
       "relations": [],
       "keywords": [
@@ -2470,7 +2470,7 @@
       "modified": "2022-08-18 21:10:30.361000",
       "description": "Application to identify instances of concrete thinking.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 34,
+      "views": 35,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 221,
+      "views": 223,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -7094,7 +7094,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 45,
+      "views": 46,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
