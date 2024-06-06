@@ -1,5 +1,5 @@
 {
-  "count": 208,
+  "count": 209,
   "tools": [
     {
       "@schema": {
@@ -819,7 +819,7 @@
       "modified": "2023-04-28 17:29:10.578000",
       "description": "Machine learning software to solve data mining problems.\n\nWeka is a collection of machine learning algorithms for solving real-world data mining problems. It is written in Java and runs on almost any platform. The algorithms can either be applied directly to a dataset or called from your own Java code.\n\nWeka is tried and tested open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API. It is widely used for teaching, research, and industrial applications, contains a plethora of built-in tools for standard machine learning tasks, and additionally gives transparent access to well-known toolboxes such as scikit-learn, R, and Deeplearning4j.\n\nWeka contains a collection of visualization tools and algorithms for data analysis and predictive modelling, together with graphical user interfaces for easy access to these functions.\n\nWeka supports several standard data mining tasks, more specifically, data preprocessing, clustering, classification, regression, visualization, and feature selection. All of Weka's techniques are predicated on the assumption that the data is available as one flat file or relation, where each data point is described by a fixed number of attributes (normally, numeric or nominal attributes, but some other attribute types are also supported). Weka provides access to SQL databases using Java Database Connectivity and can process the result returned by a database query.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 37,
+      "views": 38,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -983,7 +983,7 @@
       "modified": "2023-05-31 05:23:24.366000",
       "description": "LIMITED FREE VERSION\nData integration and ETL.\n\nFree; prices for supported version not provided.\nTalend Open Studio for Data Integration is a free-to-download software to kickstart your first data integration and ETL projects.\nTalend Open Studio for Data Integration is the company's open source solution for ETL. It features an Eclipse-based development environment that will be familiar to developers, ELT and ETL support, versioning, and a long list of connectors. Additional features are available through the company's other open source projects, including Data Streams Free Edition, Open Studio for Big Data, Open Studio for Data Quality, Open Studio for ESB and Open Studio for MDM.\n\nThe company also offers a commercial solution called Talend Data Management Platform that is based on the same code. It adds rich development tools, an administration center, monitoring console, data preparation, data quality, high availability and other features, as well as paid support. \n\nMore than 900 pre-built connectors and components for Oracle, Teradata, Microsoft SQL server, Marketo, Salesforce, NetSuite, SAP, Microsoft Dynamics, Sugar CRM, Dropbox, Box, SMTP, FTP/SFTP, LDAP, and more.",
       "license": "Apache License 2.0",
-      "views": 114,
+      "views": 115,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 106,
+      "views": 107,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -3442,7 +3442,7 @@
       "modified": "2023-01-17 07:08:56.047000",
       "description": "Application to identify instances of ideas of persecution..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 411,
+      "views": 412,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-04-10 09:52:53.471000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 224,
+      "views": 228,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6844,7 +6844,7 @@
       "modified": "2024-02-03 16:05:51.329000",
       "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
       "license": "",
-      "views": 89,
+      "views": 91,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 170,
+      "views": 171,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 45,
+      "views": 46,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7026,7 +7026,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 103,
+      "views": 104,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 113,
+      "views": 114,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7215,6 +7215,37 @@
         {
           "name": "Powershell, Python",
           "version": "4.0.3"
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 918775569015758,
+      "type": "",
+      "name": "Oxford Omop Data Mapper",
+      "link": "https://answerdigital.github.io/oxford-omop-data-mapper/",
+      "authors": [
+        9182001013253078
+      ],
+      "uploader": 9182001013253078,
+      "issued": "2024-06-05 09:10:18.449000",
+      "modified": "2024-06-05 10:15:17.822000",
+      "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
+      "license": "Apache 2",
+      "views": 22,
+      "category": "Data Integration and ETL Tool",
+      "relations": [],
+      "keywords": [],
+      "programming_languages": [
+        {
+          "name": "C#",
+          "version": "8.0"
+        },
+        {
+          "name": "SQL Server",
+          "version": ""
         }
       ]
     }
