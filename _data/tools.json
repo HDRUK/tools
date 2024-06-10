@@ -17,7 +17,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 279,
+      "views": 280,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -4018,7 +4018,7 @@
       "modified": "2023-04-25 03:40:28.246000",
       "description": "Application to identify instances of waxy flexibility. Waxy flexibility is a psychomotor symptom of catatonia as.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 27,
+      "views": 28,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6697,7 +6697,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 89,
+      "views": 90,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6929,7 +6929,7 @@
       "modified": "2023-07-03 07:18:33.408000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 149,
+      "views": 151,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6965,7 +6965,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 99,
+      "views": 100,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
