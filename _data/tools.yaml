@@ -1,4 +1,4 @@
-count: 210
+count: 209
 tools:
 - '@schema':
     type: tool
@@ -503,7 +503,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 118
+  views: 119
 - '@schema':
     type: tool
   _id: 6701203493324412
@@ -1187,7 +1187,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 28
+  views: 29
 - '@schema':
     type: tool
   _id: 7065396784551248
@@ -1221,7 +1221,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 35
+  views: 36
 - '@schema':
     type: tool
   _id: 37513701712100248
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 37
+  views: 38
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -1737,7 +1737,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 245
+  views: 246
 - '@schema':
     type: tool
   _id: 601398453434496
@@ -7361,7 +7361,7 @@ tools:
   relations: []
   type: ''
   uploader: 22850500618628944
-  views: 232
+  views: 233
 - '@schema':
     type: tool
   _id: 3766311756007228
@@ -7713,7 +7713,7 @@ tools:
   relations: []
   type: ''
   uploader: 31387910911027992
-  views: 80
+  views: 81
 - '@schema':
     type: tool
   _id: 5231463992399867
@@ -7784,45 +7784,4 @@ tools:
   relations: []
   type: ''
   uploader: 9182001013253078
-  views: 30
-- '@schema':
-    type: tool
-  _id: 8194971864819618
-  authors:
-  - 6112377341419264
-  category: Dataset discovery tool
-  description: 'Hello,
-
-
-    How can I access and effectively use this discovery tool? so far, I seem to be
-    getting only 19 cohorts out of 858 listed on the gateway page. Do I need further
-    access to access the other cohorts?
-
-
-    The purpose of this tool is to find Cohorts with heart failure as an outcome as
-    well as risk factors of heart failure.
-
-
-    The objective is to identify relevant cohorts to develop, calibrate and validate
-    heart failure prediction models
-
-
-    ### Results & Insights
-
-
-    It seems it is an effective way to obtain summary results which would provide
-    insights into the numbers of participants, characteristics, and variables of interest
-    (coverage, missingness, etc).'
-  issued: '2024-06-10 11:54:01.729000'
-  keywords: []
-  license: ''
-  link: https://web.www.healthdatagateway.org/search?search=&datasetSort=latest&tab=Datasets
-  modified: '2024-06-10 12:08:10.676000'
-  name: Cohort Discovery Tool
-  programming_languages:
-  - name: R
-    version: ''
-  relations: []
-  type: ''
-  uploader: 6112377341419264
-  views: 18
+  views: 31
