@@ -1054,7 +1054,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 115
+  views: 116
 - '@schema':
     type: tool
   _id: 7754445869686015
@@ -1480,7 +1480,7 @@ tools:
   relations: []
   type: ''
   uploader: 4442271343443529
-  views: 39
+  views: 41
 - '@schema':
     type: tool
   _id: 2344121858227235
@@ -5603,7 +5603,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 55
+  views: 56
 - '@schema':
     type: tool
   _id: 9425976809920502
@@ -6661,7 +6661,7 @@ tools:
   relations: []
   type: ''
   uploader: 46430290549419608
-  views: 193
+  views: 194
 - '@schema':
     type: tool
   _id: 3321980885733604
@@ -7042,7 +7042,7 @@ tools:
   relations: []
   type: ''
   uploader: 6545332055051722
-  views: 133
+  views: 134
 - '@schema':
     type: tool
   _id: 9856286733786312
@@ -7646,7 +7646,7 @@ tools:
   relations: []
   type: ''
   uploader: 6958421021490282
-  views: 46
+  views: 47
 - '@schema':
     type: tool
   _id: 8098696302068247
