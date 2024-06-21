@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 345,
+      "views": 346,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1961,7 +1961,7 @@
       "modified": "2023-03-26 09:52:45.293000",
       "description": "Medication dosage instructions in electronic health records are often in the form of text rather than numbers. This program is designed to convert the text into numbers for the dose, frequency, units, duration etc.\n\n### Results & Insights\n\nThis is a rule-based algorithm for converting text dosage instructions into a structured form, designed for pharmacoepidemiology studies in primary care databases. When run in batch mode, the algorithm identifies unique dosage strings and uses a series of regular expressions to standardise the wording, then applies numerical extraction algorithms to extract dose number, frequency etc. and calculate the daily dose. It also flags if the instructions specify a dose range or state a maximum dose, or if it is an 'as required' prescription.\n\nThe algorithm can be run as an R service and called from other applications such as Python.  \n\nThe original version of the algorithm was in Visual Basic, and it has been ported to R.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 45,
+      "views": 46,
       "category": "Rule-based NLP system for converting text dosage instructions into a structured form",
       "relations": [],
       "keywords": [
@@ -3802,7 +3802,7 @@
       "modified": "2023-04-23 03:40:52.807000",
       "description": "Application to identify instances of tangentiality.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4270,7 +4270,7 @@
       "modified": "2023-05-16 11:59:10.586000",
       "description": "Application to identify patients with diagnosis of hypertension or high blood pressure.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 41,
+      "views": 42,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -7234,7 +7234,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 34,
+      "views": 38,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
