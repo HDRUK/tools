@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 346,
+      "views": 347,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1087,7 +1087,7 @@
       "modified": "2023-01-03 01:20:40.401000",
       "description": "LIMITED FREE VERSION\n\nTalend Open Studio for Enterprise Service Bus (ESB) is free-to-download software that easily service-enables and integrates applications and legacy systems.  Talend ESB is a versatile and flexible ESB that allows organizations to address diverse integration challenges. It supports a broad set of standard transports and protocols, as well as enterprise integration patterns (EIPs), a common set of best practice descriptions developed to design effective messaging solutions. Available in several packages, Talend ESB is open and standards-based to allow wide interoperability with existing and legacy infrastructure components.\n\nLeveraging Apache CXF, Apache Camel and Apache ActiveMQ open source integration projects, Talend ESB makes enterprise-class integration accessible by delivering a cost-effective and easy-to-use way to integrate and expand systems and applications.",
       "license": "Apache license",
-      "views": 29,
+      "views": 30,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1842,7 +1842,7 @@
       "modified": "2023-04-13 22:04:40.578000",
       "description": "SemEHR is a text mining and semantic search system designed for Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research.\n\n### Results & Insights\n\nBuilt upon off-the-shelf toolkits including a Natural Language Processing (NLP) pipeline (Bio-Yodie) and an enterprise search system (CogStack), SemEHR implements a generic information extraction (IE) and retrieval infrastructure by identifying contextualised mentions of a wide range of biomedical concepts from unstructured clinical notes. Its IE functionality features an adaptive and iterative NLP mechanism where specific requirements and fine-tuning can be fulfilled and realised on a study basis. NLP annotations are further assembled at patient level and extended with clinical and EHR-specific knowledge to populate a panorama for each patient, which comprises a) longitudinal semantic data views and b) structured medical profile(s). The semantic data is serviced via ontology-based search and analytics interfaces to facilitate clinical studies.",
       "license": "Apache License 2.0",
-      "views": 31,
+      "views": 32,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4306,7 +4306,7 @@
       "modified": "2023-01-05 04:25:14.863000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 22,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 77,
+      "views": 78,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -5091,7 +5091,7 @@
       "modified": "2023-05-03 07:37:30.360000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 56,
+      "views": 57,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 418,
+      "views": 419,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 176,
+      "views": 177,
       "category": "Application",
       "relations": [],
       "keywords": [],
