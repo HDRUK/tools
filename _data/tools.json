@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 282,
+      "views": 283,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 371,
+      "views": 372,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 371,
+      "views": 372,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 530,
+      "views": 531,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 108,
+      "views": 109,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -1516,7 +1516,7 @@
       "modified": "2023-04-27 08:15:46.084000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 94,
+      "views": 95,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 454,
+      "views": 455,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 424,
+      "views": 426,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 339,
+      "views": 340,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6873,7 +6873,7 @@
       "modified": "2024-02-03 16:06:18.663000",
       "description": "Co-connect-pseudonymise contains:\n\n- a simple CLI (command line interface) to pseudonymise csv files\n- a python workbook showing how pseudonymisation can be performed manually\n- additional example code for C# and Java",
       "license": "",
-      "views": 74,
+      "views": 75,
       "category": "Command  Line Interface",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 177,
+      "views": 178,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 82,
+      "views": 83,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
