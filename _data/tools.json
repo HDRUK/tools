@@ -251,7 +251,7 @@
       "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 194,
+      "views": 195,
       "category": "",
       "relations": [],
       "keywords": [
@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 197,
+      "views": 198,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6481,7 +6481,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 135,
+      "views": 136,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6965,7 +6965,7 @@
       "modified": "2023-07-03 07:19:22.398000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 100,
+      "views": 101,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7234,7 +7234,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 46,
+      "views": 47,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
