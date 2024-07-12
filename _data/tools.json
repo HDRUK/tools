@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 36,
+      "views": 37,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 198,
+      "views": 199,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6754,7 +6754,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 112,
+      "views": 113,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 91,
+      "views": 92,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 120,
+      "views": 121,
       "category": "Platform",
       "relations": [],
       "keywords": [
