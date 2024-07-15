@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 376,
+      "views": 377,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 377,
+      "views": 378,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -947,7 +947,7 @@
       "modified": "2023-01-02 09:37:28.311000",
       "description": "Data profiling and analysis tool - User Ratings: 4.8/5\nAlso known as Open Source Data Quality and Profiling.  Features Mysql, Oracle,Postgres,Access,Db2,SQL Server certified Big data support - HIVE Format Creation, Format Matching ( Phone, Date, String and Number), Format standardization Fuzzy Logic based similarity check, Cardinailty check between tables and files Export and import from XML, XLS or CSV format, PDF export File Analysis, Regex search, Standardization, DB search Complete DB Scan, SQL interface, Data Dictionary, Schema Comparison Statistical Analysis, Reporting ( dimension and measure based), Ad Hoc reports and Analytics Pattern Matching , DeDuplication, Case matching, Basket Analysis, Distribution Chart Data generation and Data masking features Meta Data Information, Reverse engineering of Data Model Timeliness analysis , String length analysis Address Correction, Single View of Customer, Product, Golden merge for records Record Match, Linkage and Merge added based on fuzzy logic.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 57,
+      "views": 58,
       "category": "Data Profiling/Analysis Tool",
       "relations": [],
       "keywords": [
@@ -4594,7 +4594,7 @@
       "modified": "2023-05-22 07:00:32.550000",
       "description": "Application to identify occupations/work descriptions and who these refer to.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6997,7 +6997,7 @@
       "modified": "2023-07-03 07:20:03.287000",
       "description": "This webapp is a cohort identification app for users to obtain the number of patients satisfying the search query. Both structured and unstructured data are used. Structured data include age, gender, dod and ethnicity. Unstructured (text) data are processed using MedCAT and the MedCAT annotations are used for searching.",
       "license": "",
-      "views": 46,
+      "views": 47,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 121,
+      "views": 122,
       "category": "Platform",
       "relations": [],
       "keywords": [
