@@ -17,7 +17,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 289,
+      "views": 290,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -164,7 +164,7 @@
       "modified": "2022-11-30 02:46:05.469000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 67,
+      "views": 68,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -1552,7 +1552,7 @@
       "modified": "2023-05-29 15:46:02.782000",
       "description": "The goal of pyxplorer is to provide a simple tool that allows interactive profiling of datasets that are accessible via a SQL like interface. The only requirement to run data profiling is that you are able to provide a Python DBAPI like interface to your data source and the data source is able to understand simplistic SQL queries.\n\nSupported Features:\n-Column Count (Database / Table)\n-Table Count\n-Tuple Count (Database / Table)\n-Min / Max\n-Most Frequent / Least Frequent\n-Top-K Most Frequent / Top-K Least Frequent\n-Top-K Value Distribution (Database / Table )\n-Uniqueness\n-Constancy\n-Distinct Value Count",
       "license": "BSD 2-Clause \"Simplified\" License",
-      "views": 62,
+      "views": 63,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 42,
+      "views": 43,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -1723,7 +1723,7 @@
       "modified": "2023-04-04 11:58:34.540000",
       "description": "EdIE-viz provides an interface for stroke-related clinical concept recognition and negation detection in brain radiology reports. There are two underlying systems, EdIE-R, which is a rule-based model. And EdIE-N, which is a neural network based model.\n\n### Results & Insights\n\nAutomatic extraction of fine-grained stroke-related findings at scale. Visualisation of findings and comparison of models.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 33,
+      "views": 34,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -4486,7 +4486,7 @@
       "modified": "2023-05-27 21:22:50.558000",
       "description": "This application distinguishes between people who are a) current smokers, b) current non-smokers (ever.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 29,
+      "views": 30,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5509,7 +5509,7 @@
       "modified": "2022-12-10 15:46:12.559000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Age (Units, Exact, Upper and Lower Limit)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6274,7 +6274,7 @@
       "modified": "2023-03-17 04:21:51.240000",
       "description": "This interactive visualizations report focus on exploring how the risk of precarious work has evolved in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_2_precariousness\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 67,
+      "views": 68,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 434,
+      "views": 435,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 36,
+      "views": 37,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6668,7 +6668,7 @@
       "modified": "2023-05-10 14:49:31.754000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Data Use Register, a feature that shows how Gateway datasets are being used, by whom and for what purpose.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 49,
+      "views": 50,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6844,7 +6844,7 @@
       "modified": "2024-02-03 16:05:51.329000",
       "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
       "license": "",
-      "views": 92,
+      "views": 93,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 126,
+      "views": 127,
       "category": "Platform",
       "relations": [],
       "keywords": [
