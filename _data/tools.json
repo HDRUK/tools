@@ -170,7 +170,7 @@
       "modified": "2023-05-17 16:08:38.817000",
       "description": "",
       "license": "",
-      "views": 143,
+      "views": 144,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -226,7 +226,7 @@
       "modified": "2023-04-23 22:06:13.886000",
       "description": "Help paint a more accurate picture of covid-19 in your community",
       "license": "",
-      "views": 102,
+      "views": 103,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 381,
+      "views": 382,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -459,7 +459,7 @@
       "modified": "2023-05-12 20:32:47.724000",
       "description": "Cataloguing of ophthalmic images",
       "license": "",
-      "views": 50,
+      "views": 51,
       "category": "App (Docker/Kubernetes)",
       "relations": [],
       "keywords": [],
@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 366,
+      "views": 368,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -858,7 +858,7 @@
       "modified": "2023-03-02 00:18:10.701000",
       "description": "Pseudonymizes datasets\n\nAnonimatron is a tool that pseudonymizes datasets and that can be used to generate pseudonymized production data to find a bug or do performance tests outside of the client\u2019s production environment. With the release of the GDPR, a feature was added that enables the anonymization of files. You can configure a column to be anonymized without storing the generated synonyms for later runs.\n\nFEATURES:\nAnonymize data in databases and files.\nGenerates fake email addresses, fake Roman names, and UUID\u2019s out of the box.\nEasy to configure, automatically generates example config file.\nAnonymized data is consistent between runs. No need to re-write your tests to handle random data.\nExtendable, easily implement and add your own anonymization handlers\nMulti database, uses SQL92 standards and supports Oracle, PostgreSQL and MySQL out of the box. Anonimatron will autodetect the following JDBC drivers: DB2, MsSQL, Cloudscape, Pointbase, Firebird, IDS, Informix, Enhydra, Interbase, Hypersonic, jTurbo, SQLServer and Sybase.",
       "license": "MIT",
-      "views": 31,
+      "views": 32,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1611,7 +1611,7 @@
       "modified": "2023-03-29 14:14:58.253000",
       "description": "The RADAR-base platform is a scalable and inter-operable mHealth platform which provides capabilities for remote monitoring using passively (e.g. sensor data, wearables, IoT) and actively (e.g. questionnaires, digital tests). The platform developed at King's College London is already being used in a number of large-scale longitudinal mental and physical health-related disorder projects (see https://radar-base.org and https://github.com/RADAR-base/).  The complete RADAR-base technology stack is available under an Apache 2 open source license and is supported by an active community of developers, researchers and clinicians who focus on continuously improving data quality, user experience, validation and extending the platform with new features and data sources.",
       "license": "Apache License 2.0",
-      "views": 41,
+      "views": 42,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -2398,7 +2398,7 @@
       "modified": "2022-12-11 15:13:00.187000",
       "description": "Application to identify instances of blunted affect.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 17,
+      "views": 18,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2758,7 +2758,7 @@
       "modified": "2023-01-06 06:27:23.921000",
       "description": "Application to extract instances of flight of ideas.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2938,7 +2938,7 @@
       "modified": "2022-11-06 21:59:11.736000",
       "description": "Application to extract occurrences where visual hallucination is present. Visual hallucinations may be due to a.\n\nBoth past and present symptom.\n\nOutput values: Positive, negative and unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4450,7 +4450,7 @@
       "modified": "2022-10-25 02:16:33.869000",
       "description": "Application to identify instances of MDMA use.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4810,7 +4810,7 @@
       "modified": "2023-04-23 08:52:24.416000",
       "description": "Application to identify instances of receiving current, recommended or planned general care package. This is a.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5091,7 +5091,7 @@
       "modified": "2023-05-03 07:37:30.360000",
       "description": "COMETA is an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.\n\n### Results & Insights\n\nResults from benchmark experiments using the dataset can be found in this paper - https://www.aclweb.org/anthology/2020.emnlp-main.253/",
       "license": "For a copy of the corpus, please follow instructions in the link - https://siphs.org/corpus",
-      "views": 58,
+      "views": 59,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 350,
+      "views": 351,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6754,7 +6754,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 115,
+      "views": 116,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-07-15 15:00:28.066000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 274,
+      "views": 278,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 196,
+      "views": 197,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -7127,7 +7127,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 89,
+      "views": 90,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 94,
+      "views": 95,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 133,
+      "views": 134,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7234,7 +7234,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 69,
+      "views": 70,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
