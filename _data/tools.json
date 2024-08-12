@@ -103,7 +103,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 382,
+      "views": 383,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 382,
+      "views": 383,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -1349,7 +1349,7 @@
       "modified": "2023-04-22 16:43:52.356000",
       "description": "Community (Free Use - LIMITED), Pro and Enterprise (Paid Version)\n\nSQL Power Architect data modeling tool has many unique features geared specifically for the data warehouse architect. It is a powerful database utility that not only builds diagrams of databases, but also provides data dictionary language output, which can be used to build database solutions.\n\nConnects to multiple source databases concurrently, Compares data models & database structures and identifies discrepancies, Generates source-to-target visual Mapping Reports, Forward/reverse engineers PostgreSQL, Oracle, MS SQL Server & more.\n",
       "license": "Proprietary",
-      "views": 45,
+      "views": 46,
       "category": "Data Modelling Tool",
       "relations": [],
       "keywords": [
@@ -2146,7 +2146,7 @@
       "modified": "2023-04-09 19:49:58.933000",
       "description": "Application to identify instances of aggressive behaviour in patients, including verbal, physical and sexual.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 33,
+      "views": 34,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2542,7 +2542,7 @@
       "modified": "2023-01-07 10:34:42.824000",
       "description": "Application to identify instances of derailment.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2578,7 +2578,7 @@
       "modified": "2022-11-03 11:42:11.346000",
       "description": "Application to identify instances of disturbed sleep.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3982,7 +3982,7 @@
       "modified": "2023-05-10 22:24:00.577000",
       "description": "Application to identify instances of thought withdrawal..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 203,
+      "views": 204,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
