@@ -432,7 +432,7 @@
       "modified": "2023-05-06 19:42:14.973000",
       "description": "Parsing of ophthalmic image formats",
       "license": "",
-      "views": 88,
+      "views": 89,
       "category": "Library",
       "relations": [],
       "keywords": [],
@@ -947,7 +947,7 @@
       "modified": "2023-01-02 09:37:28.311000",
       "description": "Data profiling and analysis tool - User Ratings: 4.8/5\nAlso known as Open Source Data Quality and Profiling.  Features Mysql, Oracle,Postgres,Access,Db2,SQL Server certified Big data support - HIVE Format Creation, Format Matching ( Phone, Date, String and Number), Format standardization Fuzzy Logic based similarity check, Cardinailty check between tables and files Export and import from XML, XLS or CSV format, PDF export File Analysis, Regex search, Standardization, DB search Complete DB Scan, SQL interface, Data Dictionary, Schema Comparison Statistical Analysis, Reporting ( dimension and measure based), Ad Hoc reports and Analytics Pattern Matching , DeDuplication, Case matching, Basket Analysis, Distribution Chart Data generation and Data masking features Meta Data Information, Reverse engineering of Data Model Timeliness analysis , String length analysis Address Correction, Single View of Customer, Product, Golden merge for records Record Match, Linkage and Merge added based on fuzzy logic.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 58,
+      "views": 59,
       "category": "Data Profiling/Analysis Tool",
       "relations": [],
       "keywords": [
@@ -2614,7 +2614,7 @@
       "modified": "2023-05-25 01:29:44.111000",
       "description": "Application to identify instances of drowsiness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -7158,7 +7158,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 95,
+      "views": 96,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7195,7 +7195,7 @@
       "modified": "2023-09-05 08:14:26.316000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 136,
+      "views": 137,
       "category": "Platform",
       "relations": [],
       "keywords": [
