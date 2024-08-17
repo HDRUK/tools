@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 383,
+      "views": 384,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -643,7 +643,7 @@
       "modified": "2023-05-30 19:43:01.886000",
       "description": "The ISARIC 4C prognostic score uses data from more than 70,000 hospital admissions, we have devised a simple, robust and generalisable prognostic scoring system for hospitalised patients.\n\nThe 4C Mortality Score is a risk stratification score that predicts in-hospital mortality for hospitalised COVID-19 patients, produced by the ISARIC 4C consortium. It is intended for use by clinicians. It is designed to be easy-to-use, and require only parameters that are commonly available at hospital presentation.\n\nFor full details, see the [paper](https://www.medrxiv.org/content/10.1101/2020.07.30.20165464v1) introducing the score. \n\nThis is an infographic that visualises risk, based on observed mortality among hospitalised adult COVID19 patients recruited into the ISARIC 4C study in the UK.",
       "license": "Copyrighted",
-      "views": 60,
+      "views": 61,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -1349,7 +1349,7 @@
       "modified": "2023-04-22 16:43:52.356000",
       "description": "Community (Free Use - LIMITED), Pro and Enterprise (Paid Version)\n\nSQL Power Architect data modeling tool has many unique features geared specifically for the data warehouse architect. It is a powerful database utility that not only builds diagrams of databases, but also provides data dictionary language output, which can be used to build database solutions.\n\nConnects to multiple source databases concurrently, Compares data models & database structures and identifies discrepancies, Generates source-to-target visual Mapping Reports, Forward/reverse engineers PostgreSQL, Oracle, MS SQL Server & more.\n",
       "license": "Proprietary",
-      "views": 46,
+      "views": 47,
       "category": "Data Modelling Tool",
       "relations": [],
       "keywords": [
@@ -1516,7 +1516,7 @@
       "modified": "2023-04-27 08:15:46.084000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 95,
+      "views": 96,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5785,7 +5785,7 @@
       "modified": "2023-04-15 06:29:26.041000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Other Non-specific points in time (Last Clinic, Since Surgery...).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 36,
+      "views": 37,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 122,
+      "views": 123,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 443,
+      "views": 444,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
