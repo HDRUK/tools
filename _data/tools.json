@@ -6844,7 +6844,7 @@
       "modified": "2024-02-03 16:05:51.329000",
       "description": "The primary purpose of the CaRROT-CDM package is to Extract input datasets and Transform them using mapping rules defined in a json file, outputting formatted datasets in tsv format that can be Loaded into a database or other destination (ETL).",
       "license": "",
-      "views": 96,
+      "views": 97,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
