@@ -6638,7 +6638,7 @@
       "modified": "2023-05-17 19:51:07.234000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the training and career opportunities offered by HDR UK. \n\nFree for all to download, use and share, but please credit Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 44,
+      "views": 45,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-07-15 15:00:28.066000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 301,
+      "views": 302,
       "category": "Web application",
       "relations": [],
       "keywords": [],
