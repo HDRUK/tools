@@ -103,7 +103,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 388,
+      "views": 389,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -219,7 +219,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 330,
+      "views": 331,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -887,7 +887,7 @@
       "modified": "2023-05-30 15:14:05.854000",
       "description": "Scalable Data Anonymization Tool - supports multiple privacy models.\n\nARX is a comprehensive open source software for anonymizing sensitive personal data. It supports a wide variety of (1) privacy and risk models, (2) methods for transforming data and (3) methods for analyzing the usefulness of output data. It supports various anonymization techniques, methods for analyzing data quality and re-identification risks and it supports well-known privacy models, such as k-anonymity, l-diversity, t-closeness and differential privacy.\nARX is an open source tool for transforming structured (i.e. tabular) personal data using selected methods from the broad areas of data anonymization and statistical disclosure control. It supports transforming datasets in ways that make sure that they adhere to user-specified privacy models and risk thresholds that mitigate attacks that may lead to privacy breaches. ARX can be used to remove direct identifiers (e.g. names) from datasets and to enforce further constraints on indirect identifiers. Indirect identifiers (or quasi-identifiers, or keys) are attributes that do not directly identify an individual but may together with other indirect identifiers form an identifier that can be used for linkage attacks. It is typically assumed that information about indirect identifiers is available to the attacker (in some form of background knowledge) and that they cannot simply be removed from the dataset (e.g. because they are required later for analyses).",
       "license": "Apache License 2.0",
-      "views": 549,
+      "views": 550,
       "category": "Data Anonymization Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 120,
+      "views": 121,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -2182,7 +2182,7 @@
       "modified": "2023-05-26 07:18:23.696000",
       "description": "Application to identify instances of agitation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative, and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 474,
+      "views": 475,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5231,7 +5231,7 @@
       "modified": "2023-05-28 09:42:28.253000",
       "description": "Bi\u014ckean\u00f3s is an open biomedical database catalogue and discovery tool aimed primarily at ML/AI community.\n\nIt concentrates on open datasets in natural and health sciences from multiple sources. From cell biology, chemistry, protein and molecule structure and classification through pathways, side and adverse effects, omics, to anonymised medical information and clinical standards. It merges the results with our private curated collection, reconciles the records, and augments them with information extracted from the scientific literature. \n\nIt navigates the researchers through the available datasets, helps them identify those important for their work, and facilitate their acquisition.\n\n### Results & Insights\n\n- Over 5000 sources\n- Refreshed weekly\n- Recommendations of similar datasources\n- Heuristic-based ranking to discover the most useful data in a given \n- Licensing information\n- References to other gateways records containing the data\n",
       "license": "",
-      "views": 442,
+      "views": 443,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6511,7 +6511,7 @@
       "modified": "2023-05-25 00:03:35.482000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Community Forum - an open space to discuss health research topics, comment on resources like datasets and share ideas about how to improve the Gateway. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 27,
+      "views": 28,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 174,
+      "views": 175,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6967,7 +6967,7 @@
       "modified": "2024-08-22 14:46:09.422000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 116,
+      "views": 117,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7198,7 +7198,7 @@
       "modified": "2024-08-22 07:20:20.279000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 149,
+      "views": 150,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7237,7 +7237,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 79,
+      "views": 80,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
