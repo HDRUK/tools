@@ -786,7 +786,7 @@
       "modified": "2023-04-24 17:57:09.807000",
       "description": "Integrated environment for data preparation, machine learning, deep learning, text mining, and predictive analytics.\n\nEasy-to-use visual environment for predictive analytics. No programming required. RapidMiner is easily the most powerful and intuitive graphical user interface for the design of analysis processes. Forget sifting through code! You can also choose to run in batch mode. Whatever you prefer, RapidMiner has it all.\n\nRapidMiner Python package:\nBoth Studio and Server classes provide a read and a write method for reading / writing data and other objects, and a run method to run processes. The method signatures are the same, with somewhat different extra parameters.\n\nStudio class requires a local Studio installation and is suitable in the following cases:\n\nImplementing certain data science steps in Python using your favorite IDE or notebook implementation. You may even use the resulting code afterwards in a RapidMiner process within an Execute Python operator.\nYou are using coding primarily, but you want to incorporate methods that are impemented in a RapidMiner process.\nCreating batch tasks that also interact with the repository and / or run processes.\nServer class connects directly to a Server instance without the need of a Studio installation. It is suitable in the following cases:\n\nCollaborating with RapidMiner users, sharing data easily.\nCalling, running, scheduling processes on the RapidMiner Server platform from a local script.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 42,
+      "views": 43,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -3118,7 +3118,7 @@
       "modified": "2023-05-22 19:50:28.445000",
       "description": "Application to identify instances of irritability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3730,7 +3730,7 @@
       "modified": "2023-05-15 14:51:36.640000",
       "description": "Application to identify instances of stupor. This includes depressive stupor, psychotic stupor, catatonic stupor,.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -7129,7 +7129,7 @@
       "modified": "2023-07-03 07:18:01.555000",
       "description": "With the detailed presentation of data from the IDS-COVID-19 Dashboard, public policy makers of health will have a more comprehensive view of where are the areas of greatest inequality in relation to Covid-19. ",
       "license": "",
-      "views": 92,
+      "views": 93,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
