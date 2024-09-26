@@ -486,7 +486,7 @@
       "modified": "2023-03-18 15:48:26.548000",
       "description": "ETL linking clinical and image data",
       "license": "",
-      "views": 75,
+      "views": 76,
       "category": "App (Apache Beam / GCP DataFlow)",
       "relations": [],
       "keywords": [],
@@ -1051,7 +1051,7 @@
       "modified": "2023-01-12 12:38:46.612000",
       "description": "LIMITED FREE VERSION\nhttps://www.talend.com/products/pricing-model/\n\nTalend Open Studio for Data Quality and Talend Data Preparation Free Desktop.  Do simple cleansing, data manipulation, standardization and enrichment.\n\nDatasets can be a local or remote file that can be imported into the Talend Data Preparation tool (or from a database connection or other data sources, although not in the context of the Free Desktop version). A dataset is used as raw material for one or more preparations.\n\nCreate clean and valuable data in minutes with Single point of access across data sources, Interactive discovery, cleansing and formatting and Automation and reuse data preparation tasks.  Auto-discover and browse your data.\n\nImport, export, and combine data from any database, Excel or CSV file, Export to Tableau, Auto-discovery, standardization, auto-profiling, smart suggestions, and data visualization, Cleansing and enrichment functions.",
       "license": "Apache License 2.0",
-      "views": 21,
+      "views": 22,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 121,
+      "views": 122,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -4090,7 +4090,7 @@
       "modified": "2023-04-22 19:51:57.596000",
       "description": "Application to identify instances of worthlessness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4234,7 +4234,7 @@
       "modified": "2023-05-07 10:56:03.009000",
       "description": "Application to identify patients with diagnosis of Crohn\u2019s disease.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 30,
+      "views": 31,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 82,
+      "views": 83,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -6030,7 +6030,7 @@
       "modified": "2023-05-26 05:35:22.078000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months, Years).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 25,
+      "views": 26,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 214,
+      "views": 215,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 363,
+      "views": 364,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6481,7 +6481,7 @@
       "modified": "2023-05-30 11:44:01.318000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK. \n\nThis one relates to the Cohort Discovery Tool - where Gateway users can search and request access to all potential datasets across a population that precisely match the requirements of a research project. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool. ",
       "license": "CC BY NC 3.0",
-      "views": 140,
+      "views": 141,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 39,
+      "views": 40,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 40,
+      "views": 41,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6785,7 +6785,7 @@
       "modified": "2023-07-03 07:20:05.241000",
       "description": "I-DSD, I-CAH and I-TS provide the means of connecting clinical and research centres around the world and allow these centres to collect standardised information aimed at improving clinical practice, research and understanding of a wide range of conditions affecting sexual development and maturation. In 2021, the I-DSD/I-CAH/I-TS had a network that reached 260 centres in 63 countries on all the continents. Of these, 115 centres from 40 countries use the registries and have entered over 5,500 cases where information can be shared for a range of purposes that have the ultimate aim of improving the health of people with these rare conditions.",
       "license": "",
-      "views": 29,
+      "views": 30,
       "category": "Dataset",
       "relations": [],
       "keywords": [],
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 179,
+      "views": 180,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
