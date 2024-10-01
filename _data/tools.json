@@ -5,6 +5,37 @@
       "@schema": {
         "type": "tool"
       },
+      "_id": 19001,
+      "type": "",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-30 20:41:32.141000",
+      "description": "",
+      "license": "",
+      "views": 333,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling",
+        "Visualisation"
+      ],
+      "programming_languages": [
+        {
+          "name": "R",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -36,26 +67,32 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19006,
+      "_id": 19003,
       "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
+      "name": "COVID-19 Contact Tracing App - iOS",
+      "link": "https://github.com/nhsx/COVID-19-app-iOS-BETA",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-17 16:08:38.817000",
-      "description": "",
-      "license": "",
-      "views": 145,
-      "category": "Phenomics",
+      "modified": "2022-11-30 02:46:05.469000",
+      "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
+      "license": "MIT",
+      "views": 69,
+      "category": "Mobile Application",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Phenomics"
+        "Contact Tracing",
+        "iOS"
       ],
-      "programming_languages": []
+      "programming_languages": [
+        {
+          "name": "Objective-C",
+          "version": ""
+        }
+      ]
     },
     {
       "@schema": {
@@ -83,37 +120,6 @@
       "programming_languages": [
         {
           "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19007,
-      "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-28 22:40:37.701000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
-      "license": "",
-      "views": 393,
-      "category": "Mobile Application",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Symptom Tracker",
-        " NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
           "version": ""
         }
       ]
@@ -152,54 +158,24 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19003,
+      "_id": 19006,
       "type": "",
-      "name": "COVID-19 Contact Tracing App - iOS",
-      "link": "https://github.com/nhsx/COVID-19-app-iOS-BETA",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2022-11-30 02:46:05.469000",
-      "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
-      "license": "MIT",
-      "views": 68,
-      "category": "Mobile Application",
+      "modified": "2023-05-17 16:08:38.817000",
+      "description": "",
+      "license": "",
+      "views": 145,
+      "category": "Phenomics",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Contact Tracing",
-        "iOS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Objective-C",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19009,
-      "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-11 09:21:27.231000",
-      "description": "",
-      "license": "",
-      "views": 198,
-      "category": "",
-      "relations": [],
-      "keywords": [
-        "COVID-19"
+        "Phenomics"
       ],
       "programming_languages": []
     },
@@ -207,29 +183,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
+      "_id": 19007,
       "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-30 20:41:32.141000",
-      "description": "",
+      "modified": "2023-05-28 22:40:37.701000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 333,
-      "category": "Data Modelling",
+      "views": 393,
+      "category": "Mobile Application",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Modelling",
-        "Visualisation"
+        "Symptom Tracker",
+        " NCS"
       ],
       "programming_languages": [
         {
-          "name": "R",
+          "name": "Other",
           "version": ""
         }
       ]
@@ -256,6 +232,30 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19009,
+      "type": "",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-11 09:21:27.231000",
+      "description": "",
+      "license": "",
+      "views": 198,
+      "category": "",
+      "relations": [],
+      "keywords": [
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 40,
+      "views": 41,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -1723,7 +1723,7 @@
       "modified": "2023-04-04 11:58:34.540000",
       "description": "EdIE-viz provides an interface for stroke-related clinical concept recognition and negation detection in brain radiology reports. There are two underlying systems, EdIE-R, which is a rule-based model. And EdIE-N, which is a neural network based model.\n\n### Results & Insights\n\nAutomatic extraction of fine-grained stroke-related findings at scale. Visualisation of findings and comparison of models.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 34,
+      "views": 35,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2362,7 +2362,7 @@
       "modified": "2023-02-07 20:03:38.284000",
       "description": "Application to identify instances of experiencing a bad dream.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5056,7 +5056,7 @@
       "modified": "2023-05-14 00:45:23.028000",
       "description": "The goal of EndoMineR is to extract as much information as possible from free or semi-structured endoscopy reports and their associated pathology specimens.\n\nGastroenterology now has many standards against which practice is measured although many reporting systems do not include the reporting capability to give anything more than basic analysis. Much of the data is locked in semi-structured text. However the nature of semi-structured text means that data can be extracted in a standardised way- it just requires more manipulation.\n\nThis package provides that manipulation so that complex endoscopic-pathological analyses, in line with recognised standards for these analyses, can be done.",
       "license": "",
-      "views": 84,
+      "views": 85,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -5125,7 +5125,7 @@
       "modified": "2023-05-20 08:09:45.867000",
       "description": "A collection of software and datasets to support linguistic analysis of online health communities.\n\n### Results & Insights\n\nFor further details please visit https://siphs.org/resources.",
       "license": "",
-      "views": 71,
+      "views": 72,
       "category": "Software and datasets",
       "relations": [],
       "keywords": [
@@ -6754,7 +6754,7 @@
       "modified": "2023-05-26 16:21:43.573000",
       "description": "This tools provide insights into the neonatal health data contained within the National Neonatal Research Database (NNRD). The tools are aimed at parents, clinical teams, researchers, and health service managers.",
       "license": "",
-      "views": 122,
+      "views": 123,
       "category": "Data Modelling, Data Visualisation, Developer stack",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-07-15 15:00:28.066000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 328,
+      "views": 329,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 207,
+      "views": 208,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6967,7 +6967,7 @@
       "modified": "2024-08-22 14:46:09.422000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 120,
+      "views": 121,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7237,7 +7237,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 80,
+      "views": 81,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
