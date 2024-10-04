@@ -1,4 +1,4 @@
-count: 209
+count: 211
 tools:
 - '@schema':
     type: tool
@@ -4528,7 +4528,7 @@ tools:
   relations: []
   type: ''
   uploader: 6473490892875664
-  views: 49
+  views: 50
 - '@schema':
     type: tool
   _id: 1460858971939778
@@ -6704,7 +6704,7 @@ tools:
   relations: []
   type: ''
   uploader: 9541533584051376
-  views: 365
+  views: 366
 - '@schema':
     type: tool
   _id: 5859299510804015
@@ -7715,7 +7715,7 @@ tools:
   relations: []
   type: ''
   uploader: 31387910911027992
-  views: 100
+  views: 101
 - '@schema':
     type: tool
   _id: 5231463992399867
@@ -7787,4 +7787,115 @@ tools:
   relations: []
   type: ''
   uploader: 9182001013253078
-  views: 94
+  views: 96
+- '@schema':
+    type: tool
+  _id: 8323476768029889
+  authors:
+  - 6864129417780509
+  category: Federated analysis software
+  description: 'DataSHIELD is an infrastructure and series of R packages that enables
+    the remote and non-disclosive analysis of sensitive research data.
+
+
+    DataSHIELD follows privacy by design principles built into the computing infrastructure,
+    analytic functionality, automated output checking and is designed to operate with
+    best practice data governance for the use of senstive health data.
+
+
+    Analysts do not directly connect to DataSHIELD data sites, secure connection is
+    only available through a DataSHIELD client by authorised analysts. Analysts do
+    not view individual patient data, and it is not shared or moved from the data
+    site.
+
+
+    DataSHIELD analysis can be aggregated from individual patient data at each location
+    or a global analysis can be conducted simultaneously at all sites without sharing
+    or moving individual patient data.
+
+
+    DataSHIELD analytic functions have been designed to only share non disclosive
+    summary statistics, with built in automated output checking based on statistical
+    disclosure control. Only data sites can set the threshold values for the automated
+    output checks.
+
+
+    DataSHIELD base package dsBase runs over 12,000 tests every software release.
+    These tests run against synthetic datasets included in the package checking for
+    correct operation, outputs and that disclosure control is not breached.
+
+
+    ### Results & Insights
+
+
+    There are over 200 data sites using DataSHIELD globally. These cover cohort studies,
+    clinical trials, routine health care data, genomics data. A collection of the
+    papers published using DataSHIELD is at https://papers.datashield.org'
+  issued: '2024-09-22 18:07:58.245000'
+  keywords:
+  - statistical disclosure control
+  - SDC
+  - federated analysis
+  - automated statistical disclosure control
+  - DataSHIELD
+  - Privacy preserving
+  - Open Source
+  - awesome
+  license: GNU General Public License version 3.0 (GPLv3)
+  link: https://www.datashield.org
+  modified: '2024-10-03 16:39:57.300000'
+  name: DataSHIELD
+  programming_languages:
+  - name: R
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6864129417780509
+  views: 4
+- '@schema':
+    type: tool
+  _id: 44637284062824968
+  authors:
+  - 6619197336313236
+  category: Federated Data Sharing
+  description: "Many organisations possess valuable datasets that in theory could\
+    \ be accessed and analysed by researchers around the globe to answer complex questions\
+    \ about Alzheimer\u2019s disease and related dementias (ADRD). But in reality,\
+    \ for a variety of regulatory and technological reasons, this data tends to be\
+    \ locked away in siloes. \n\nThe FDSA, an integral part of the Alzheimer's Disease\
+    \ (AD) Workbench product suite, addresses this challenge. It provides both those\
+    \ holding data sets and researchers conducting analyses a foundation for widespread\
+    \ data sharing. Ultimately, FDSA will help the research community convert data\
+    \ into breakthroughs that transform people\u2019s health. \n\nThe FDSA is a plug-in\
+    \ for data stores that enables data contributors to easily publish remote datasets,\
+    \ making previously inaccessible research data available for discovery and analysis.\
+    \ Data contributors add their metadata to the AD Workbench catalog so researchers\
+    \ can discover, request, and access these remote datasets. FDSA supports interoperability\
+    \ across platforms while prioritising data security. Designed with a user-centric\
+    \ approach, it minimises the workload for data contributors while allowing them\
+    \ to manage data access requests and audit analyses in a streamlined way. \n\n\
+    Through the AD Workbench, researchers can discover FDSA-enabled remote datasets,\
+    \ request access to those datasets, use a tool called Query Builder to perform\
+    \ remote queries, and conduct research analyses from AD Workspace.  \n\n### Results\
+    \ & Insights\n\nThe FDSA is a Linux based production implementation of the Federated\
+    \ Data Sharing Common-API."
+  issued: '2024-10-03 08:49:28.063000'
+  keywords:
+  - Alzheimers
+  - Dementia
+  - Neurological
+  - TRE
+  - Federation
+  - Federated Data Sharing
+  - Analytics
+  license: FDSA License
+  link: https://www.alzheimersdata.org/fdsa
+  modified: '2024-10-03 16:39:54.625000'
+  name: Federated Data Sharing Appliance (FDSA)
+  programming_languages:
+  - name: Bash
+    version: ''
+  relations: []
+  type: ''
+  uploader: 6619197336313236
+  views: 8

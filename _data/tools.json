@@ -1,5 +1,5 @@
 {
-  "count": 209,
+  "count": 211,
   "tools": [
     {
       "@schema": {
@@ -4126,7 +4126,7 @@
       "modified": "2023-05-29 09:54:40.467000",
       "description": "Application to identify patients with diagnosis of asthma.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 49,
+      "views": 50,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 365,
+      "views": 366,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -7160,7 +7160,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 100,
+      "views": 101,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7237,7 +7237,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 94,
+      "views": 96,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
@@ -7248,6 +7248,77 @@
         },
         {
           "name": "SQL Server",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 8323476768029889,
+      "type": "",
+      "name": "DataSHIELD",
+      "link": "https://www.datashield.org",
+      "authors": [
+        6864129417780509
+      ],
+      "uploader": 6864129417780509,
+      "issued": "2024-09-22 18:07:58.245000",
+      "modified": "2024-10-03 16:39:57.300000",
+      "description": "DataSHIELD is an infrastructure and series of R packages that enables the remote and non-disclosive analysis of sensitive research data.\n\nDataSHIELD follows privacy by design principles built into the computing infrastructure, analytic functionality, automated output checking and is designed to operate with best practice data governance for the use of senstive health data.\n\nAnalysts do not directly connect to DataSHIELD data sites, secure connection is only available through a DataSHIELD client by authorised analysts. Analysts do not view individual patient data, and it is not shared or moved from the data site.\n\nDataSHIELD analysis can be aggregated from individual patient data at each location or a global analysis can be conducted simultaneously at all sites without sharing or moving individual patient data.\n\nDataSHIELD analytic functions have been designed to only share non disclosive summary statistics, with built in automated output checking based on statistical disclosure control. Only data sites can set the threshold values for the automated output checks.\n\nDataSHIELD base package dsBase runs over 12,000 tests every software release. These tests run against synthetic datasets included in the package checking for correct operation, outputs and that disclosure control is not breached.\n\n### Results & Insights\n\nThere are over 200 data sites using DataSHIELD globally. These cover cohort studies, clinical trials, routine health care data, genomics data. A collection of the papers published using DataSHIELD is at https://papers.datashield.org",
+      "license": "GNU General Public License version 3.0 (GPLv3)",
+      "views": 4,
+      "category": "Federated analysis software",
+      "relations": [],
+      "keywords": [
+        "statistical disclosure control",
+        "SDC",
+        "federated analysis",
+        "automated statistical disclosure control",
+        "DataSHIELD",
+        "Privacy preserving",
+        "Open Source",
+        "awesome"
+      ],
+      "programming_languages": [
+        {
+          "name": "R",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 44637284062824968,
+      "type": "",
+      "name": "Federated Data Sharing Appliance (FDSA)",
+      "link": "https://www.alzheimersdata.org/fdsa",
+      "authors": [
+        6619197336313236
+      ],
+      "uploader": 6619197336313236,
+      "issued": "2024-10-03 08:49:28.063000",
+      "modified": "2024-10-03 16:39:54.625000",
+      "description": "Many organisations possess valuable datasets that in theory could be accessed and analysed by researchers around the globe to answer complex questions about Alzheimer\u2019s disease and related dementias (ADRD). But in reality, for a variety of regulatory and technological reasons, this data tends to be locked away in siloes. \n\nThe FDSA, an integral part of the Alzheimer's Disease (AD) Workbench product suite, addresses this challenge. It provides both those holding data sets and researchers conducting analyses a foundation for widespread data sharing. Ultimately, FDSA will help the research community convert data into breakthroughs that transform people\u2019s health. \n\nThe FDSA is a plug-in for data stores that enables data contributors to easily publish remote datasets, making previously inaccessible research data available for discovery and analysis. Data contributors add their metadata to the AD Workbench catalog so researchers can discover, request, and access these remote datasets. FDSA supports interoperability across platforms while prioritising data security. Designed with a user-centric approach, it minimises the workload for data contributors while allowing them to manage data access requests and audit analyses in a streamlined way. \n\nThrough the AD Workbench, researchers can discover FDSA-enabled remote datasets, request access to those datasets, use a tool called Query Builder to perform remote queries, and conduct research analyses from AD Workspace.  \n\n### Results & Insights\n\nThe FDSA is a Linux based production implementation of the Federated Data Sharing Common-API.",
+      "license": "FDSA License",
+      "views": 8,
+      "category": "Federated Data Sharing",
+      "relations": [],
+      "keywords": [
+        "Alzheimers",
+        "Dementia",
+        "Neurological",
+        "TRE",
+        "Federation",
+        "Federated Data Sharing",
+        "Analytics"
+      ],
+      "programming_languages": [
+        {
+          "name": "Bash",
           "version": ""
         }
       ]
