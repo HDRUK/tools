@@ -5,37 +5,6 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19001,
-      "type": "",
-      "name": "CMMID Interactive Applications",
-      "link": "https://cmmid.github.io/visualisations",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-30 20:41:32.141000",
-      "description": "",
-      "license": "",
-      "views": 334,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling",
-        "Visualisation"
-      ],
-      "programming_languages": [
-        {
-          "name": "R",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
       "_id": 19002,
       "type": "",
       "name": "COVID-19 Contact Tracing App - Android",
@@ -48,7 +17,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 298,
+      "views": 299,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -59,6 +28,122 @@
       "programming_languages": [
         {
           "name": "Java",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19006,
+      "type": "",
+      "name": "COVID-19 Phenomics",
+      "link": "http://covid19-phenomics.org/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-17 16:08:38.817000",
+      "description": "",
+      "license": "",
+      "views": 145,
+      "category": "Phenomics",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Phenomics"
+      ],
+      "programming_languages": []
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19004,
+      "type": "",
+      "name": "COVID-19 CovidSim Microsimulation Model",
+      "link": "https://github.com/mrc-ide/covid-sim",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-04-11 13:08:43.002000",
+      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
+      "license": "GPLv3",
+      "views": 129,
+      "category": "Data Modelling",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Modelling"
+      ],
+      "programming_languages": [
+        {
+          "name": "C++",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19007,
+      "type": "",
+      "name": "COVID-19 Symptom Tracker App",
+      "link": "https://covid.joinzoe.com/",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-28 22:40:37.701000",
+      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "license": "",
+      "views": 393,
+      "category": "Mobile Application",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "Symptom Tracker",
+        " NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
+          "version": ""
+        }
+      ]
+    },
+    {
+      "@schema": {
+        "type": "tool"
+      },
+      "_id": 19005,
+      "type": "",
+      "name": "Public Health England COVID-19 Tracker",
+      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "authors": [
+        190000
+      ],
+      "uploader": "",
+      "issued": "2020-05-27 00:00:00",
+      "modified": "2023-05-14 10:27:58.675000",
+      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
+      "license": "",
+      "views": 161,
+      "category": "Data Visualisation",
+      "relations": [],
+      "keywords": [
+        "COVID-19",
+        "NCS"
+      ],
+      "programming_languages": [
+        {
+          "name": "Other",
           "version": ""
         }
       ]
@@ -98,84 +183,23 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19004,
+      "_id": 19009,
       "type": "",
-      "name": "COVID-19 CovidSim Microsimulation Model",
-      "link": "https://github.com/mrc-ide/covid-sim",
+      "name": "BSTI COVID-19 Imaging Database",
+      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-04-11 13:08:43.002000",
-      "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
-      "license": "GPLv3",
-      "views": 129,
-      "category": "Data Modelling",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "Modelling"
-      ],
-      "programming_languages": [
-        {
-          "name": "C++",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19005,
-      "type": "",
-      "name": "Public Health England COVID-19 Tracker",
-      "link": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-14 10:27:58.675000",
-      "description": "https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14",
-      "license": "",
-      "views": 161,
-      "category": "Data Visualisation",
-      "relations": [],
-      "keywords": [
-        "COVID-19",
-        "NCS"
-      ],
-      "programming_languages": [
-        {
-          "name": "Other",
-          "version": ""
-        }
-      ]
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19006,
-      "type": "",
-      "name": "COVID-19 Phenomics",
-      "link": "http://covid19-phenomics.org/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-17 16:08:38.817000",
+      "modified": "2023-05-11 09:21:27.231000",
       "description": "",
       "license": "",
-      "views": 145,
-      "category": "Phenomics",
+      "views": 198,
+      "category": "",
       "relations": [],
       "keywords": [
-        "COVID-19",
-        "Phenomics"
+        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -183,29 +207,29 @@
       "@schema": {
         "type": "tool"
       },
-      "_id": 19007,
+      "_id": 19001,
       "type": "",
-      "name": "COVID-19 Symptom Tracker App",
-      "link": "https://covid.joinzoe.com/",
+      "name": "CMMID Interactive Applications",
+      "link": "https://cmmid.github.io/visualisations",
       "authors": [
         190000
       ],
       "uploader": "",
       "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-28 22:40:37.701000",
-      "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
+      "modified": "2023-05-30 20:41:32.141000",
+      "description": "",
       "license": "",
-      "views": 393,
-      "category": "Mobile Application",
+      "views": 334,
+      "category": "Data Modelling",
       "relations": [],
       "keywords": [
         "COVID-19",
-        "Symptom Tracker",
-        " NCS"
+        "Modelling",
+        "Visualisation"
       ],
       "programming_languages": [
         {
-          "name": "Other",
+          "name": "R",
           "version": ""
         }
       ]
@@ -232,30 +256,6 @@
       "keywords": [
         "COVID-19",
         "Community Tracking"
-      ],
-      "programming_languages": []
-    },
-    {
-      "@schema": {
-        "type": "tool"
-      },
-      "_id": 19009,
-      "type": "",
-      "name": "BSTI COVID-19 Imaging Database",
-      "link": "https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/",
-      "authors": [
-        190000
-      ],
-      "uploader": "",
-      "issued": "2020-05-27 00:00:00",
-      "modified": "2023-05-11 09:21:27.231000",
-      "description": "",
-      "license": "",
-      "views": 198,
-      "category": "",
-      "relations": [],
-      "keywords": [
-        "COVID-19"
       ],
       "programming_languages": []
     },
@@ -310,7 +310,7 @@
       "modified": "2023-05-30 08:41:52.053000",
       "description": "This project comprises a set of R packages to assist in epidemiological studies using electronic health records databases.\n\nCALIBER (http://caliberresearch.org/) is led from the Farr Institute @ London. CALIBER investigators represent a collaboration between epidemiologists, clinicians, statisticians, health informaticians and computer scientists with initial funding from the Wellcome Trust and the National Institute for Health Research.\n\nThe goal of CALIBER is to provide evidence across different stages of translation, from discovery, through evaluation to implementation where electronic health records provide new scientific opportunities.\n",
       "license": "GNU General Public License (GPL)",
-      "views": 390,
+      "views": 391,
       "category": "Package",
       "relations": [],
       "keywords": [
@@ -1411,7 +1411,7 @@
       "modified": "2023-04-25 15:37:04.113000",
       "description": "Community Edition alone is Free - LIMITED\n\nDQ Analyzer is a powerful and market-popular desktop application for advanced data profiling. It reveals the contents of your data in minutes and easily integrates with more advanced Ataccama ONE modules. While DQ Analyzer uncovers problems with your data, other Ataccama ONE modules will further help you transform, standardize, cleanse, validate, correct and enrich your data.\n\nData Profiling\nDiscover, analyze, and understand critical patterns in your data. Visualize the frequency, domain, and mask analysis of values, uncover complex dependencies between data attributes, and test relationships between entities. An accurate picture of your data is just one profile away.",
       "license": "",
-      "views": 122,
+      "views": 123,
       "category": "Desktop Application",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 462,
+      "views": 463,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 208,
+      "views": 209,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -7028,7 +7028,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 128,
+      "views": 129,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7268,7 +7268,7 @@
       "modified": "2024-10-03 16:39:57.300000",
       "description": "DataSHIELD is an infrastructure and series of R packages that enables the remote and non-disclosive analysis of sensitive research data.\n\nDataSHIELD follows privacy by design principles built into the computing infrastructure, analytic functionality, automated output checking and is designed to operate with best practice data governance for the use of senstive health data.\n\nAnalysts do not directly connect to DataSHIELD data sites, secure connection is only available through a DataSHIELD client by authorised analysts. Analysts do not view individual patient data, and it is not shared or moved from the data site.\n\nDataSHIELD analysis can be aggregated from individual patient data at each location or a global analysis can be conducted simultaneously at all sites without sharing or moving individual patient data.\n\nDataSHIELD analytic functions have been designed to only share non disclosive summary statistics, with built in automated output checking based on statistical disclosure control. Only data sites can set the threshold values for the automated output checks.\n\nDataSHIELD base package dsBase runs over 12,000 tests every software release. These tests run against synthetic datasets included in the package checking for correct operation, outputs and that disclosure control is not breached.\n\n### Results & Insights\n\nThere are over 200 data sites using DataSHIELD globally. These cover cohort studies, clinical trials, routine health care data, genomics data. A collection of the papers published using DataSHIELD is at https://papers.datashield.org",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 4,
+      "views": 5,
       "category": "Federated analysis software",
       "relations": [],
       "keywords": [
@@ -7304,7 +7304,7 @@
       "modified": "2024-10-03 16:39:54.625000",
       "description": "Many organisations possess valuable datasets that in theory could be accessed and analysed by researchers around the globe to answer complex questions about Alzheimer\u2019s disease and related dementias (ADRD). But in reality, for a variety of regulatory and technological reasons, this data tends to be locked away in siloes. \n\nThe FDSA, an integral part of the Alzheimer's Disease (AD) Workbench product suite, addresses this challenge. It provides both those holding data sets and researchers conducting analyses a foundation for widespread data sharing. Ultimately, FDSA will help the research community convert data into breakthroughs that transform people\u2019s health. \n\nThe FDSA is a plug-in for data stores that enables data contributors to easily publish remote datasets, making previously inaccessible research data available for discovery and analysis. Data contributors add their metadata to the AD Workbench catalog so researchers can discover, request, and access these remote datasets. FDSA supports interoperability across platforms while prioritising data security. Designed with a user-centric approach, it minimises the workload for data contributors while allowing them to manage data access requests and audit analyses in a streamlined way. \n\nThrough the AD Workbench, researchers can discover FDSA-enabled remote datasets, request access to those datasets, use a tool called Query Builder to perform remote queries, and conduct research analyses from AD Workspace.  \n\n### Results & Insights\n\nThe FDSA is a Linux based production implementation of the Federated Data Sharing Common-API.",
       "license": "FDSA License",
-      "views": 8,
+      "views": 11,
       "category": "Federated Data Sharing",
       "relations": [],
       "keywords": [
