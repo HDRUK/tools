@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 217,
+      "views": 218,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6724,7 +6724,7 @@
       "modified": "2023-05-22 13:22:22.913000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how the Gateway is providing a single data access request process built around the Five Safes Framework.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 110,
+      "views": 111,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6815,7 +6815,7 @@
       "modified": "2024-07-15 15:00:28.066000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 335,
+      "views": 337,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 183,
+      "views": 185,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7268,7 +7268,7 @@
       "modified": "2024-10-03 16:39:57.300000",
       "description": "DataSHIELD is an infrastructure and series of R packages that enables the remote and non-disclosive analysis of sensitive research data.\n\nDataSHIELD follows privacy by design principles built into the computing infrastructure, analytic functionality, automated output checking and is designed to operate with best practice data governance for the use of senstive health data.\n\nAnalysts do not directly connect to DataSHIELD data sites, secure connection is only available through a DataSHIELD client by authorised analysts. Analysts do not view individual patient data, and it is not shared or moved from the data site.\n\nDataSHIELD analysis can be aggregated from individual patient data at each location or a global analysis can be conducted simultaneously at all sites without sharing or moving individual patient data.\n\nDataSHIELD analytic functions have been designed to only share non disclosive summary statistics, with built in automated output checking based on statistical disclosure control. Only data sites can set the threshold values for the automated output checks.\n\nDataSHIELD base package dsBase runs over 12,000 tests every software release. These tests run against synthetic datasets included in the package checking for correct operation, outputs and that disclosure control is not breached.\n\n### Results & Insights\n\nThere are over 200 data sites using DataSHIELD globally. These cover cohort studies, clinical trials, routine health care data, genomics data. A collection of the papers published using DataSHIELD is at https://papers.datashield.org",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 6,
+      "views": 7,
       "category": "Federated analysis software",
       "relations": [],
       "keywords": [
