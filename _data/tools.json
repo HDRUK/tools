@@ -567,7 +567,7 @@
       "modified": "2023-05-30 15:25:06.543000",
       "description": "SAIL stands for Secure Anonymised Information Linkage. The SAIL Databank is a world-class flagship for the robust secure storage and use of anonymised person-based data for research to improve health, well-being and services. Its databank of anonymised data about the population of Wales is internationally recognised.\u00a0SAIL also provides trusted research environment (TRE) services to national programmes and hubs, such as BREATHE, the Health Data Research Hub for Respiratory Health.",
       "license": "",
-      "views": 378,
+      "views": 379,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -1516,7 +1516,7 @@
       "modified": "2023-04-27 08:15:46.084000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 99,
+      "views": 100,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -2146,7 +2146,7 @@
       "modified": "2023-04-09 19:49:58.933000",
       "description": "Application to identify instances of aggressive behaviour in patients, including verbal, physical and sexual.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 34,
+      "views": 35,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4306,7 +4306,7 @@
       "modified": "2023-01-05 04:25:14.863000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4342,7 +4342,7 @@
       "modified": "2022-11-10 17:34:26.090000",
       "description": "To identify instances of amphetamine use..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 30,
+      "views": 31,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 479,
+      "views": 480,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5785,7 +5785,7 @@
       "modified": "2023-04-15 06:29:26.041000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Other Non-specific points in time (Last Clinic, Since Surgery...).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 38,
+      "views": 39,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6100,7 +6100,7 @@
       "modified": "2023-01-30 10:56:07.665000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Date (Day, Month, Year). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 64,
+      "views": 65,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 463,
+      "views": 464,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6638,7 +6638,7 @@
       "modified": "2023-05-17 19:51:07.234000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the training and career opportunities offered by HDR UK. \n\nFree for all to download, use and share, but please credit Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 46,
+      "views": 47,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6697,7 +6697,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 98,
+      "views": 99,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6815,7 +6815,7 @@
       "modified": "2024-07-15 15:00:28.066000",
       "description": "Carrot-Mapper enables conversion of data to the OMOP Common Data Model, without data being egressed from its secure location, nor requiring access to the secure location. Carrot-Mapper automates as much of the process as possible, and also enables users to reuse each others' mappings. Carrot-Mapper pairs with Carrot-CDM to complete the OMOP conversion process.",
       "license": "MIT",
-      "views": 337,
+      "views": 340,
       "category": "Web application",
       "relations": [],
       "keywords": [],
@@ -6902,7 +6902,7 @@
       "modified": "2024-02-03 16:06:46.160000",
       "description": "Hutch is an open source tool that allows you to make your data discoverable without compromising its integrity or security.\n\nYou do not need to grant any external systems or people access to your data.\nYou do not need to share your data with any other parties.\nYou do not need to allow external services to make incoming requests to your network.",
       "license": "",
-      "views": 209,
+      "views": 210,
       "category": "Application",
       "relations": [],
       "keywords": [],
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 185,
+      "views": 186,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6967,7 +6967,7 @@
       "modified": "2024-08-22 14:46:09.422000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 121,
+      "views": 122,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7028,7 +7028,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 129,
+      "views": 130,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7198,7 +7198,7 @@
       "modified": "2024-08-22 07:20:20.279000",
       "description": "The Data Safe Haven is an open-source infrastructure-as-code Trusted Research Environment (TRE) that is freely available for use, adaptation and extension by anyone. It has been used since autumn 2018 for all projects at the Alan Turing Institute that handle sensitive data. It is built on the Microsoft Azure cloud which makes it easy to deploy and to scale according to your needs.\n\nTo find out more, look at the following resources:\n\n- Our GitHub repository: https://github.com/alan-turing-institute/data-safe-haven/\n- Our documentation: https://data-safe-haven.readthedocs.io/en/latest/\n- Our Slack workspace: https://turingdatasafehaven.slack.com/\n- Contact email: safehavendevs@turing.ac.uk",
       "license": "BSD 3-Clause \"New\" or \"Revised\" license",
-      "views": 151,
+      "views": 152,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7304,7 +7304,7 @@
       "modified": "2024-10-03 16:39:54.625000",
       "description": "Many organisations possess valuable datasets that in theory could be accessed and analysed by researchers around the globe to answer complex questions about Alzheimer\u2019s disease and related dementias (ADRD). But in reality, for a variety of regulatory and technological reasons, this data tends to be locked away in siloes. \n\nThe FDSA, an integral part of the Alzheimer's Disease (AD) Workbench product suite, addresses this challenge. It provides both those holding data sets and researchers conducting analyses a foundation for widespread data sharing. Ultimately, FDSA will help the research community convert data into breakthroughs that transform people\u2019s health. \n\nThe FDSA is a plug-in for data stores that enables data contributors to easily publish remote datasets, making previously inaccessible research data available for discovery and analysis. Data contributors add their metadata to the AD Workbench catalog so researchers can discover, request, and access these remote datasets. FDSA supports interoperability across platforms while prioritising data security. Designed with a user-centric approach, it minimises the workload for data contributors while allowing them to manage data access requests and audit analyses in a streamlined way. \n\nThrough the AD Workbench, researchers can discover FDSA-enabled remote datasets, request access to those datasets, use a tool called Query Builder to perform remote queries, and conduct research analyses from AD Workspace.  \n\n### Results & Insights\n\nThe FDSA is a Linux based production implementation of the Federated Data Sharing Common-API.",
       "license": "FDSA License",
-      "views": 12,
+      "views": 13,
       "category": "Federated Data Sharing",
       "relations": [],
       "keywords": [
