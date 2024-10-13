@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 395,
+      "views": 396,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -1516,7 +1516,7 @@
       "modified": "2023-04-27 08:15:46.084000",
       "description": "Popular open-source data science platform, Enterprise Edition enables organizations to scale data science and machine learning capabilities. Anaconda is an open source Python distribution / data discovery & analytics platform.\nAnaconda Individual Edition is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. \nAnaconda\u00ae is a package manager, an environment manager, a Python/R data science distribution, and a collection of over 7,500+ open-source packages. Anaconda is free and easy to install, and it offers free community support.",
       "license": "GPLv3",
-      "views": 100,
+      "views": 101,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -1927,7 +1927,7 @@
       "modified": "2022-12-02 20:02:48.118000",
       "description": "Research literature in biomedicine and related fields contains a huge number of claims, such as the effectiveness of treatments. These claims are not always consistent and may even contradict each other. Being able to identify contradictory claims is important for those who rely on the biomedical literature. Automated methods to identify and resolve them are required to cope with the amount of information available. However, research in this area has been hampered by a lack of suitable resources. We provide a corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.",
       "license": "CC BY NC SA 2.0 UK",
-      "views": 30,
+      "views": 31,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -2146,7 +2146,7 @@
       "modified": "2023-04-09 19:49:58.933000",
       "description": "Application to identify instances of aggressive behaviour in patients, including verbal, physical and sexual.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 35,
+      "views": 36,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5026,7 +5026,7 @@
       "modified": "2023-05-23 13:16:46.141000",
       "description": "An opensource platform that provides researchers with easy access to deploy collaborative workspace environments in the AWS Cloud, through a simple to use web interface.  Offers the ability to operate across teams, universities, and datasets while enabling Research IT stakeholders to manage, monitor, and control spending, apply security best practices and comply with corporate governance.\n\nService Workbench targets Research workloads with out of the box service support for:\n\n    JupyterLabs via Amazon SageMaker with Python Kernels\n    Jupyter Notebooks on Amazon EMR + Hail v0.2\n    RStudio on EC2\n    Windows VM on Amazon EC2\n    Linux VM on EC2\n\nAdditional product configuration can easily be added to Service Workbench through Service Catalog and be linked to researcher, institutional, and includes support for [AWS Open Data](https://registry.opendata.aws) data sets configured by Research IT for their researchers use across the institution.\n\nPlatform provides one-click option to admins for easier creation (vending) of new AWS accounts specific to researchers' teams for easier governance.\n\nThe code in the GitHub repo is fully functional but is intended as a stand-a-lone evaluation deployment and some foundational AWS knowledge is assumed.\n\nPlease contact the health research team at AWS for further information and support: [mppanc@amazon.co.uk](mailto:mppanc@amazon.co.uk); [mkshaw@amazon.co.uk](mailto:mkshaw@amazon.co.uk); [crowtr@amazon.co.uk](mailto:crowtr@amazon.co.uk)",
       "license": "Apache License 2.0",
-      "views": 480,
+      "views": 481,
       "category": "Data Science Platform",
       "relations": [],
       "keywords": [
@@ -5266,7 +5266,7 @@
       "modified": "2023-05-24 20:44:58.830000",
       "description": "Characterizing diversity in biodata and producing visualizations\n\nRead more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables\n\n\n\n### Results & Insights\n\nhttps://www.benevolent.com/news/the-diversity-analysis-tool-towards-better-diversity-in-data-for-precision-medicine",
       "license": "MIT",
-      "views": 91,
+      "views": 92,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -6065,7 +6065,7 @@
       "modified": "2023-05-07 21:23:07.261000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Age (Units, Upper and Lower Limit).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 54,
+      "views": 55,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 133,
+      "views": 134,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 218,
+      "views": 220,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 128,
+      "views": 129,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6361,7 +6361,7 @@
       "modified": "2023-05-24 12:59:59.863000",
       "description": "Infographic summarising results of research study\n\n### Results & Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34 to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1 nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21 days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological and vascular events that led to hospital admission or death were observed for short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA vaccines. The risks of most of these events were substantially higher and more prolonged after SARS-CoV-2 infection than after vaccination in the same population.",
       "license": "CC BY NC 3.0",
-      "views": 146,
+      "views": 147,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 187,
+      "views": 188,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -6967,7 +6967,7 @@
       "modified": "2024-08-22 14:46:09.422000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 122,
+      "views": 123,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7096,7 +7096,7 @@
       "modified": "2023-07-03 07:18:03.630000",
       "description": "The dashboard prepared during the REHCORD study was presented to stakeholders at the Ministry of Public Health and Population to raise awareness of the decline in service use during the COVID-19 pandemic",
       "license": "",
-      "views": 56,
+      "views": 57,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
