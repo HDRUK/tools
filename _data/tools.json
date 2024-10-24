@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 398,
+      "views": 400,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -738,7 +738,7 @@
       "modified": "2023-03-10 13:57:00.186000",
       "description": "Data visualization, machine learning, data profiling and mining toolkit.\n\nOpen source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox. Orange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow. The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nData mining is done through visual programming or Python scripting.  Python scrips can run in a terminal window, integrated environments PyCharm and PythonWin, or shells like iPython.\n\nThe tool has components for machine learning, add-ons for bioinformatics and text mining and it is packed with features for data analytics.\n\nOrange consists of a canvas interface onto which the user places widgets and creates a data analysis workflow.  Widgets off basic functionalities such as reading the data, showing a data table, selecting features, training predictors, comparing learning algorithms, visualizing data elements, etc.  The user can interactively explore visualizations or feed the selected subset into other widgets.\n\nIn Orange, data analysis process can be designed through visual programming.  Orange remembers the choices, suggests most frequently used combinations.  Orange has features for different visualization, such as scatterplots, bar charts, trees, to dendorograms, networks and heatmaps.",
       "license": " GNU [GPL-3.0]+ license",
-      "views": 67,
+      "views": 68,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1189,7 +1189,7 @@
       "modified": "2023-05-19 23:39:26.126000",
       "description": "(LIMITED) Community Edition is free, otherwise you need a subscription. \nOpen source data quality tool data profiling, data cleaning, and data integration.  DataCleaner is a Data Quality toolkit that allows you to profile, correct and enrich your data. People use it for ad-hoc analysis, recurring cleansing as well as a swiss-army knife in matching and Master Data Management solutions.\n\nDataCleaner is a strong data profiling engine for discovering and analyzing the quality of user's data.  It is built to handle data both big and small from CSV files, Excel spreadsheets to RDBMs and NoSQL databases.  User can build their own cleansing rules and compose them into several use scenarios or target databases whether it is simple search/replace rules, regular expressions, and pattern matching or completely custom transformations.\n\nDataCleaner's Monitoring establishes the starting point and goals, and to ensure a process of following up on data quality issues.  The monitoring server of DataCleaner enables users to make point-in-time profiles of users' data, and to schedule periodic data quality checks and receive notifications if quality KPIs get out of control.\n\nDataCleaner's Data Quality Eco-System delivers out-of-the-box functionality, and application extensions, integrations and shared content.\n\nDataCleaner's Duplicate detection feature builds on Machine Learning principles for ease of configuration and improved inferential machine.",
       "license": "GNU Lesser General Public License v3.0",
-      "views": 28,
+      "views": 30,
       "category": "Data Quality Toolkit",
       "relations": [],
       "keywords": [
@@ -3334,7 +3334,7 @@
       "modified": "2022-11-30 19:10:51.620000",
       "description": "Application to identify instances of nightmares.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5192,7 +5192,7 @@
       "modified": "2023-05-19 12:58:56.445000",
       "description": "Markup is a website that allows clinicians to securely annotate a clinic letters. Markup makes us of the Unified Medical Language System (UMLS) to map annotations to Concept Unique Identifiers as standard. Markup also allows users to synthetically create their own training data to train machine learning and active learning models that generate annotation suggestions to the user. Current ML algorithms include Random Forest and Long-Short-Term-Memory (LSTM). Markup produces standoff format annotations so that annotations can be used with other software i.e. GATE.\n\n### Results & Insights\n\nPaper currently under review.",
       "license": "GNU Library or \"Lesser\" General Public License (LGPL)",
-      "views": 64,
+      "views": 65,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5266,7 +5266,7 @@
       "modified": "2023-05-24 20:44:58.830000",
       "description": "Characterizing diversity in biodata and producing visualizations\n\nRead more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables\n\n\n\n### Results & Insights\n\nhttps://www.benevolent.com/news/the-diversity-analysis-tool-towards-better-diversity-in-data-for-precision-medicine",
       "license": "MIT",
-      "views": 92,
+      "views": 93,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 136,
+      "views": 137,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 222,
+      "views": 223,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 184,
+      "views": 185,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 471,
+      "views": 472,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6930,7 +6930,7 @@
       "modified": "2024-08-22 14:46:48.076000",
       "description": "Create and use de-identified databases for research.\n\n- Anonymises relational databases.\n\n- Extracts and de-identifies text from associated binary files.\n\n- Performs some specific preprocessing tasks; e.g.\n\n  - preprocesses some specific databases (e.g. Servelec RiO EMR);\n  - drafts a \"data dictionary\" for anonymisation, with special knowledge of\n    some databases (e.g. TPP SystmOne);\n  - fetches some word lists, e.g. forenames/surnames/eponyms.\n\n- Provides tools to link databases, including via Bayesian personal identity\n  matching, in identifiable or de-identified fashion.\n\n- Provides a natural language processing (NLP) pipeline, including built-in\n  NLP, support for external tools, and client/server support for the Natural\n  Language Processing Request Protocol (NLPRP).\n\n- Web app for\n\n  - querying the anonymised database;\n  - providing a de-identification API;\n  - managing a consent-to-contact process.\n\n### Results & Insights\n\nReference paper: Cardinal RN (2017), Clinical records anonymisation and text extraction (CRATE): an open-source software system. BMC Medical Informatics and Decision Making 17:50. https://pubmed.ncbi.nlm.nih.gov/28441940/; https://doi.org/10.1186/s12911-017-0437-1.\n\nSource code: https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 193,
+      "views": 194,
       "category": "Clinical Informatics Pipeline",
       "relations": [],
       "keywords": [
@@ -7160,7 +7160,7 @@
       "modified": "2023-09-04 14:22:05.302000",
       "description": "The ACEsinEHRs library allows users to search and access tools, code lists, algorithms and scripts for validated indicators to identify adverse childhood experiences (ACEs) in electronic health records (EHRs) of parents and children before and after birth.\n\nThe platform provides information on definitions, theoretical and clinical concepts and \"how to guides\" to help users apply the developed ACE indicators to create \u201cresearch-ready\u201d datasets.\n\n### Results & Insights\n\nMission statement and aims:\n-To improve the health of families and young people by using electronic health records (EHRs) to identify and measure adverse childhood experiences (ACEs).\n-To advocate for early support and family centred services for families with ACEs.\n-To work with researchers, professionals, and policymakers to promote trauma-informed care and public health policies that support families affected by ACEs.\n-To enhance the methodological standard, accessibility, and utility of data-driven think-family approaches to study adversity using EHRs.\n-To provide a validated system to measure intervenable and clinically relevant ACEs with the potential to support trauma-informed data-driven research, public health, policy, and health care.\n-To continuously develop the www.ACEsinEHRs.com platform to improve resources for researchers, professionals, and policymakers",
       "license": "Apache 2",
-      "views": 104,
+      "views": 105,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -7237,7 +7237,7 @@
       "modified": "2024-06-05 10:15:17.822000",
       "description": "A scalable documentation first ETL and data staging tool that understands a number of common healthcare reporting standards. (CDS, COSD, SACT, RTDS). Learn more at https://answerdigital.github.io/oxford-omop-data-mapper/",
       "license": "Apache 2",
-      "views": 105,
+      "views": 107,
       "category": "Data Integration and ETL Tool",
       "relations": [],
       "keywords": [],
