@@ -195,7 +195,7 @@
       "modified": "2023-05-28 22:40:37.701000",
       "description": "The COVID Symptom Study app has been developed by King\u2019s College London and health science company ZOE, and it is endorsed by the Welsh Government, NHS Wales, the Scottish Government and NHS Scotland.\n\nMore than 2.5 million participants have downloaded the app and are using it to regularly report on their health in order to help stop COVID.",
       "license": "",
-      "views": 400,
+      "views": 401,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -275,7 +275,7 @@
       "modified": "2023-05-22 00:16:13.068000",
       "description": "We recently used large-scale samples of NHS patient data to estimate the excess risk of mortality which may be associated with coronavirus (COVID-19). We wanted to develop this research to inform simple tools to allow interaction and exploration by policymakers, researchers and the public. In the OurRisk.CoV tool, we provide our initial learning in relation to the implementation and development of policy responses to the COVID-19 pandemic. We have provided some simple tools to allow interaction and exploration.\n\nOurRisk.CoV is initially intended for use by researchers, policy makers and those who seek to work with patient data to inform responses to the current emergency.",
       "license": "Apache 2",
-      "views": 147,
+      "views": 148,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -1017,7 +1017,7 @@
       "modified": "2022-12-06 22:35:13.868000",
       "description": "LIMITED FREE VERSION\n\nSimplify ETL for large and diverse data sets. \n\n-Upload to and extract big data from Hadoop HDFS, HBase, Hive, and NoSQL databases\n-Develop data jobs that use Pig, HiveQL, MapReduce, and Sqoop\n-Deploy and setup scheduling jobs with Apache Oozie\n-Work with all the major Hadoop distributions including: Apache Hadoop, Cloudera CDH, Hortonworks Data Platform, MapR, and Greenplum\n\nHadoop and NoSQL with free open source ETL & ELT software for big data integration and transformation. Drag, drop, and configure pre-built components, generate native code, and deploy to Hadoop for simple EDW offloading and ingestion, loading, and unloading data into a data lake on-premises or any cloud platform. The visual development tool enables you to develop, maintain, and reuse jobs and take advantage of the massively parallel environment of Hadoop and NoSQL without learning new languages. Open Studio for Big Data is fully open source, so you can see the code and work with it. Embed existing Java code libraries, create your own components or leverage community components and code to extend your project.\n\nDesign and Productivity Tools\n-Hadoop job scheduler with YARN\n-Hadoop security for Kerberos\n-Ingestion, loading, and unloading data into a data lake\n-Graphical design environment\n-ETL and ELT support\n-Versioning\n-Connectors",
       "license": "Apache License 2.0",
-      "views": 19,
+      "views": 20,
       "category": "ETL Tool for Big Data",
       "relations": [],
       "keywords": [
@@ -1051,7 +1051,7 @@
       "modified": "2023-01-12 12:38:46.612000",
       "description": "LIMITED FREE VERSION\nhttps://www.talend.com/products/pricing-model/\n\nTalend Open Studio for Data Quality and Talend Data Preparation Free Desktop.  Do simple cleansing, data manipulation, standardization and enrichment.\n\nDatasets can be a local or remote file that can be imported into the Talend Data Preparation tool (or from a database connection or other data sources, although not in the context of the Free Desktop version). A dataset is used as raw material for one or more preparations.\n\nCreate clean and valuable data in minutes with Single point of access across data sources, Interactive discovery, cleansing and formatting and Automation and reuse data preparation tasks.  Auto-discover and browse your data.\n\nImport, export, and combine data from any database, Excel or CSV file, Export to Tableau, Auto-discovery, standardization, auto-profiling, smart suggestions, and data visualization, Cleansing and enrichment functions.",
       "license": "Apache License 2.0",
-      "views": 22,
+      "views": 23,
       "category": "Data Quality Tool",
       "relations": [],
       "keywords": [
@@ -1120,7 +1120,7 @@
       "modified": "2023-05-10 16:41:33.580000",
       "description": "Talend Open Studio for MDM provides the key capabilities for data governance, which enable users to build data models employing the necessary business and data rules to create one single copy of the master data to be propagated back to the source and target systems.\nBuild a strong foundation for your MDM project with free open source master data management software.\nProfile data from customers, suppliers, assets, employers and beyond. Create models to search and browse profiled data, so everyone can create and update master data through a web-based application. Generate a single \u201cversion of the truth\u201d for data across your organization.\nExpand your open source stack with Open Studio for ESB and pass updates to MDM to be disseminated out to connected systems.\nAs an active contributor to Apache projects with millions of downloads and a full range of robust, open source integration software tools, Talend is an open source leader in cloud and big data integration.",
       "license": "Apache License 2.0",
-      "views": 43,
+      "views": 44,
       "category": "Master Data Management Software",
       "relations": [],
       "keywords": [
@@ -1482,7 +1482,7 @@
       "modified": "2023-01-27 15:09:31.965000",
       "description": "Cytoscape is an open source software platform for visualizing molecular interaction networks and biological pathways and integrating these networks with annotations, gene expression profiles and other state data. Although Cytoscape was originally designed for biological research, now it is a general platform for complex network analysis and visualization.\n\nCytoscape core distribution provides a basic set of features for data integration, analysis, and visualization.   \nAdditional features are available as Apps (formerly called Plugins).",
       "license": "GNU Lesser General Public License Version 2.1, February 1999",
-      "views": 46,
+      "views": 48,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -1552,7 +1552,7 @@
       "modified": "2023-05-29 15:46:02.782000",
       "description": "The goal of pyxplorer is to provide a simple tool that allows interactive profiling of datasets that are accessible via a SQL like interface. The only requirement to run data profiling is that you are able to provide a Python DBAPI like interface to your data source and the data source is able to understand simplistic SQL queries.\n\nSupported Features:\n-Column Count (Database / Table)\n-Table Count\n-Tuple Count (Database / Table)\n-Min / Max\n-Most Frequent / Least Frequent\n-Top-K Most Frequent / Top-K Least Frequent\n-Top-K Value Distribution (Database / Table )\n-Uniqueness\n-Constancy\n-Distinct Value Count",
       "license": "BSD 2-Clause \"Simplified\" License",
-      "views": 66,
+      "views": 67,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -1842,7 +1842,7 @@
       "modified": "2023-04-13 22:04:40.578000",
       "description": "SemEHR is a text mining and semantic search system designed for Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research.\n\n### Results & Insights\n\nBuilt upon off-the-shelf toolkits including a Natural Language Processing (NLP) pipeline (Bio-Yodie) and an enterprise search system (CogStack), SemEHR implements a generic information extraction (IE) and retrieval infrastructure by identifying contextualised mentions of a wide range of biomedical concepts from unstructured clinical notes. Its IE functionality features an adaptive and iterative NLP mechanism where specific requirements and fine-tuning can be fulfilled and realised on a study basis. NLP annotations are further assembled at patient level and extended with clinical and EHR-specific knowledge to populate a panorama for each patient, which comprises a) longitudinal semantic data views and b) structured medical profile(s). The semantic data is serviced via ontology-based search and analytics interfaces to facilitate clinical studies.",
       "license": "Apache License 2.0",
-      "views": 39,
+      "views": 40,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -1927,7 +1927,7 @@
       "modified": "2022-12-02 20:02:48.118000",
       "description": "Research literature in biomedicine and related fields contains a huge number of claims, such as the effectiveness of treatments. These claims are not always consistent and may even contradict each other. Being able to identify contradictory claims is important for those who rely on the biomedical literature. Automated methods to identify and resolve them are required to cope with the amount of information available. However, research in this area has been hampered by a lack of suitable resources. We provide a corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.",
       "license": "CC BY NC SA 2.0 UK",
-      "views": 32,
+      "views": 34,
       "category": "Corpus for NLP research",
       "relations": [],
       "keywords": [
@@ -2029,7 +2029,7 @@
       "modified": "2023-03-31 16:02:45.278000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 56,
+      "views": 57,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2758,7 +2758,7 @@
       "modified": "2023-01-06 06:27:23.921000",
       "description": "Application to extract instances of flight of ideas.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2866,7 +2866,7 @@
       "modified": "2022-07-04 13:47:10.272000",
       "description": "Application to identify instances of guilt.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3082,7 +3082,7 @@
       "modified": "2023-03-26 20:19:11.446000",
       "description": "Application to identify instances of insomnia.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3118,7 +3118,7 @@
       "modified": "2023-05-22 19:50:28.445000",
       "description": "Application to identify instances of irritability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3226,7 +3226,7 @@
       "modified": "2023-05-05 15:20:37.825000",
       "description": "This application identifies instances of mood instability.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3298,7 +3298,7 @@
       "modified": "2022-12-06 06:18:09.889000",
       "description": "Application to identify instances of negative symptoms.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 25,
+      "views": 26,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3442,7 +3442,7 @@
       "modified": "2023-01-17 07:08:56.047000",
       "description": "Application to identify instances of ideas of persecution..\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3586,7 +3586,7 @@
       "modified": "2023-02-03 10:36:23.865000",
       "description": "This application aims to identify instances of poor motivation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 28,
+      "views": 29,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3622,7 +3622,7 @@
       "modified": "2023-03-17 10:46:44.801000",
       "description": "Application to identify poverty of speech.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4126,7 +4126,7 @@
       "modified": "2023-05-29 09:54:40.467000",
       "description": "Application to identify patients with diagnosis of asthma.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 50,
+      "views": 51,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4306,7 +4306,7 @@
       "modified": "2023-01-05 04:25:14.863000",
       "description": "Application to identify patients with diagnoses of rheumatoid arthritis.\n\nBoth past and present symptom.\n\nOutput values: Positive.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 25,
+      "views": 26,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4702,7 +4702,7 @@
       "modified": "2023-02-01 13:23:19.432000",
       "description": "Application to identify instances of loneliness.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 22,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4810,7 +4810,7 @@
       "modified": "2023-04-23 08:52:24.416000",
       "description": "Application to identify instances of receiving current, recommended or planned general care package. This is a.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 22,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4954,7 +4954,7 @@
       "modified": "2023-04-08 23:25:44.399000",
       "description": "Application to extract instances of diagnosis.\n\nBoth past and present symptom.\n\nOutput values: Positive and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 51,
+      "views": 52,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5125,7 +5125,7 @@
       "modified": "2023-05-20 08:09:45.867000",
       "description": "A collection of software and datasets to support linguistic analysis of online health communities.\n\n### Results & Insights\n\nFor further details please visit https://siphs.org/resources.",
       "license": "",
-      "views": 72,
+      "views": 73,
       "category": "Software and datasets",
       "relations": [],
       "keywords": [
@@ -5266,7 +5266,7 @@
       "modified": "2023-05-24 20:44:58.830000",
       "description": "Characterizing diversity in biodata and producing visualizations\n\nRead more here- https://github.com/BenevolentAI/benevolentai-dat#documentation-of-demographic-variables\n\n\n\n### Results & Insights\n\nhttps://www.benevolent.com/news/the-diversity-analysis-tool-towards-better-diversity-in-data-for-precision-medicine",
       "license": "MIT",
-      "views": 93,
+      "views": 94,
       "category": "Data Profiling Tool",
       "relations": [],
       "keywords": [
@@ -5334,7 +5334,7 @@
       "modified": "2023-05-22 18:21:50.324000",
       "description": "Application to extract a diagnosis of an epileptic seizure.  Output Values: Certainty (1-5), CUI (Concept Unique Identifier from Unified Medical Language System) and Negation (Affirmed + Negated). \n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5474,7 +5474,7 @@
       "modified": "2023-04-06 02:43:25.566000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Time Period (Day/Week/Month\u2026) + Number of Time Periods\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 59,
+      "views": 60,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5509,7 +5509,7 @@
       "modified": "2022-12-10 15:46:12.559000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Age (Units, Exact, Upper and Lower Limit)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5544,7 +5544,7 @@
       "modified": "2023-03-17 10:33:53.422000",
       "description": "Application to extract the onset of epileptic events. Output Values: CUI (Concept Unique Identifier of the epileptic event), Date of Onset (Day, Month, Year).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 27,
+      "views": 29,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5579,7 +5579,7 @@
       "modified": "2023-04-28 22:50:55.208000",
       "description": "Application to extract the cause of epilepsy (if specifically stated to be the cause). Output Values: CUI (Concept Unique Identifier from Unified Medical Language System) and Certainty (1-5)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5612,7 +5612,7 @@
       "modified": "2023-01-16 09:20:06.854000",
       "description": "Application to extract if the patient had febrile seizures or not. Output Values: CUI (Concept Unique Identifier from Unified Medical Language System), Negation, Certainty (1-5)\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5647,7 +5647,7 @@
       "modified": "2022-12-04 07:51:07.263000",
       "description": "Application to extract a prescription of anti-epileptic drugs. Output Values: CUI (Concept Unique Identifier from Unified Medical Language System), Unit, Dose, Frequency.\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5682,7 +5682,7 @@
       "modified": "2023-03-10 14:52:55.936000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Number of Time periods.\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 28,
+      "views": 29,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5750,7 +5750,7 @@
       "modified": "2023-05-16 10:31:48.985000",
       "description": "Application to extract a frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Number of seizures (exact, upper range + lower range) and Age (Exact, Upper range, Lower range, Months/Years old).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -5925,7 +5925,7 @@
       "modified": "2022-12-21 16:41:09.600000",
       "description": "Application to extract changes in the frequency of epileptic seizures, including seizure freedom. Output Values: CUI (of Seizure), Frequency Change (Increase, Decrease, Frequent, Infrequent, Same) and Age (Exact, Upper range, Lower range, Months/Years old).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6030,7 +6030,7 @@
       "modified": "2023-05-26 05:35:22.078000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months, Years).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 26,
+      "views": 27,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6133,7 +6133,7 @@
       "modified": "2023-05-31 08:05:54.372000",
       "description": "A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.",
       "license": "GPLv3",
-      "views": 137,
+      "views": 138,
       "category": "Software",
       "relations": [],
       "keywords": [
@@ -6164,7 +6164,7 @@
       "modified": "2023-05-25 09:08:34.656000",
       "description": "Standardised Covid-19 questionnaires have been created that are freely available to population health researchers to address health, behaviour, social, environmental and economic questions in the context of the pandemic. \n\nThe first questionnaire asks about COVID-19 signs and symptoms, and more broadly about the effect of lockdown on physical and mental health and overall wellbeing. The second questionnaire builds on the first and includes neighbourhood issues, domestic violence, alcohol use, healthcare, thoughts on the lockdown and new connections made during the pandemic. The group continues to expand the questionnaire bank as the pandemic unfolds.  \n\nThe questionnaire is freely available and to use it simply get in touch via email:\u202f wellcomecovid-19@bristol.ac.uk.\n\nThe questionnaires have been developed with the input of many individuals and longitudinal studies, contributing time to create, collect and analyse data.\n\n\n\n### Results & Insights\n\nInsights can be explored at https://www.closer.ac.uk/covid19-longitudinal-research-hub/\n\nPublications arising will be added in due course",
       "license": "",
-      "views": 223,
+      "views": 224,
       "category": "Questionnaire",
       "relations": [],
       "keywords": [
@@ -6237,7 +6237,7 @@
       "modified": "2023-05-23 23:03:34.170000",
       "description": "This dashboard attemps to summarise the main findings of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029)\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Dashboard",
       "license": "MIT license",
-      "views": 185,
+      "views": 186,
       "category": "Dashboard",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 131,
+      "views": 132,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6361,7 +6361,7 @@
       "modified": "2023-05-24 12:59:59.863000",
       "description": "Infographic summarising results of research study\n\n### Results & Insights\n\n RESULTS: The study found increased risk of thrombocytopenia after ChAdOx1 nCoV-19 vaccination (incidence rate ratio 1.33, 95% confidence interval 1.19 to 1.47 at 8-14 days) and after a positive SARS-CoV-2 test (5.27, 4.34 to 6.40 at 8-14 days); increased risk of venous thromboembolism after ChAdOx1 nCoV-19 vaccination (1.10, 1.02 to 1.18 at 8-14 days) and after SARS-CoV-2 infection (13.86, 12.76 to 15.05 at 8-14 days); and increased risk of arterial thromboembolism after BNT162b2 mRNA vaccination (1.06, 1.01 to 1.10 at 15-21 days) and after SARS-CoV-2 infection (2.02, 1.82 to 2.24 at 15-21 days). Secondary analyses found increased risk of CVST after ChAdOx1 nCoV-19 vaccination (4.01, 2.08 to 7.71 at 8-14 days), after BNT162b2 mRNA vaccination (3.58, 1.39 to 9.27 at 15-21 days), and after a positive SARS-CoV-2 test; increased risk of ischaemic stroke after BNT162b2 mRNA vaccination (1.12, 1.04 to 1.20 at 15-21 days) and after a positive SARS-CoV-2 test; and increased risk of other rare arterial thrombotic events after ChAdOx1 nCoV-19 vaccination (1.21, 1.02 to 1.43 at 8-14 days) and after a positive SARS-CoV-2 test. CONCLUSION: Increased risks of haematological and vascular events that led to hospital admission or death were observed for short time intervals after first doses of the ChAdOx1 nCoV-19 and BNT162b2 mRNA vaccines. The risks of most of these events were substantially higher and more prolonged after SARS-CoV-2 infection than after vaccination in the same population.",
       "license": "CC BY NC 3.0",
-      "views": 149,
+      "views": 150,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -6391,7 +6391,7 @@
       "modified": "2024-02-06 11:17:54.906000",
       "description": "The Catalogue of Mental Health Measures is designed to provide easy access to information about the mental health measures included in UK cohort and longitudinal studies to maximise the uptake of existing data and facilitate mental health research.\n\nThe Catalogue provides descriptions of the studies as well as the instruments used to assess mental health and wellbeing. It also includes details on each measure such as the items, informants, response scale and reporting period. Users can explore existing data by searching for a specific study, a mental health topic, or an instrument. \n\nBy providing details of the measures and studies, the Catalogue serves as a resource for researchers to identify datasets that include mental health and wellbeing measures, plan harmonisation studies, and plan further data collection.\n\nThe Catalogue collaborates with [DATAMIND](https://web.www.healthdatagateway.org/collection/538080398356078) and the DATAMIND Super Research Advisory group (SRAG). DATAMIND continuously organises UK data, focusing on mental health information, including gene studies, routine care, volunteer cohorts, and trials (often through the Catalogue of Mental Health Measures), as well as novel data from schools and charities. The overall aim is to transform how mental health data in the UK is accessed and found and used.\n\n### Results & Insights\n\nThe Catalogue of Mental Health Measures features over 55 cohort studies, more than 4,000 measures of mental health and wellbeing, and covers 30+ mental health topics. \n\nThe Catalogue includes a range of study types, including birth cohorts, twin studies, repeated cross-sectional studies, accelerated longitudinal and household panel designs. Some were specifically designed to focus on mental health, while others have included mental health measures within a more multi-purpose context.\n",
       "license": "",
-      "views": 473,
+      "views": 474,
       "category": "Dataset discovery tool",
       "relations": [],
       "keywords": [
@@ -6511,7 +6511,7 @@
       "modified": "2023-05-25 00:03:35.482000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Gateway Community Forum - an open space to discuss health research topics, comment on resources like datasets and share ideas about how to improve the Gateway. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 28,
+      "views": 29,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6570,7 +6570,7 @@
       "modified": "2023-05-28 23:17:58.002000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Health Data Research Hubs - centres of excellence with expertise, tools, knowledge and ways of working to maximise the insights and innovations developed from health data. \n\nFree for all to download, use and share but please credit the Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 41,
+      "views": 42,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6609,7 +6609,7 @@
       "modified": "2023-05-17 19:51:16.324000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to how we make datasets and other resources on the Gateway more discoverable.\n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 43,
+      "views": 44,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6638,7 +6638,7 @@
       "modified": "2023-05-17 19:51:07.234000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the training and career opportunities offered by HDR UK. \n\nFree for all to download, use and share, but please credit Health Data Research UK when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 47,
+      "views": 48,
       "category": "infographic",
       "relations": [],
       "keywords": [
@@ -6697,7 +6697,7 @@
       "modified": "2023-05-28 16:10:40.727000",
       "description": "Part of a set of infographics developed by Health Data Research UK that help explain some of the Gateway's key functionalities in an easy to understand format as well as some of the other programmes and services available at HRD UK.\n\nThis one relates to the Data Utility Framework - a tool to describe how useful a particular dataset might be for a specific purpose. \n\nFree for all to download, use and share but please credit the Health Data Research Innovation Gateway when using this tool.",
       "license": "CC BY NC 3.0",
-      "views": 103,
+      "views": 104,
       "category": "infographic",
       "relations": [],
       "keywords": [],
@@ -7028,7 +7028,7 @@
       "modified": "2023-07-03 07:19:59.791000",
       "description": "TREEHOOSE is an open source infrastructure-as-code Trusted Research Environment (TRE) freely available for use. It is built upon >10 years of TRE experience by the Health Informatics Centre - a Scottish regional Safe Haven - and uses modern cloud technology for flexibility, scalability and performance.\n\nTo find out more about TREEHOOSE see the DARE UK report: https://doi.org/10.5281/zenodo.7085504\n\nContact email: hicsupport@dundee.ac.uk",
       "license": "Apache License 2.0",
-      "views": 135,
+      "views": 136,
       "category": "Platform",
       "relations": [],
       "keywords": [
@@ -7065,7 +7065,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 51,
+      "views": 52,
       "category": "Repository",
       "relations": [],
       "keywords": [
