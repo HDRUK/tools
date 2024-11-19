@@ -17,7 +17,7 @@
       "modified": "2023-05-30 20:41:32.141000",
       "description": "",
       "license": "",
-      "views": 339,
+      "views": 340,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -48,7 +48,7 @@
       "modified": "2023-05-14 20:23:06.333000",
       "description": "This application runs in the background and identifies other people running the app within the local area by using low energy Bluetooth. While the app is running permanently in the background, it periodically broadcasts and listens for other Bluetooth-enabled devices (iOS and Android at this time) that also broadcast the same unique identifier.",
       "license": "MIT",
-      "views": 302,
+      "views": 303,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -110,7 +110,7 @@
       "modified": "2023-04-11 13:08:43.002000",
       "description": "This is the COVID-19 CovidSim microsimulation model developed by the MRC Centre for Global Infectious Disease Analysis hosted at Imperial College, London.",
       "license": "GPLv3",
-      "views": 129,
+      "views": 130,
       "category": "Data Modelling",
       "relations": [],
       "keywords": [
@@ -170,7 +170,7 @@
       "modified": "2023-05-17 16:08:38.817000",
       "description": "",
       "license": "",
-      "views": 145,
+      "views": 146,
       "category": "Phenomics",
       "relations": [],
       "keywords": [
@@ -275,7 +275,7 @@
       "modified": "2023-05-22 00:16:13.068000",
       "description": "We recently used large-scale samples of NHS patient data to estimate the excess risk of mortality which may be associated with coronavirus (COVID-19). We wanted to develop this research to inform simple tools to allow interaction and exploration by policymakers, researchers and the public. In the OurRisk.CoV tool, we provide our initial learning in relation to the implementation and development of policy responses to the COVID-19 pandemic. We have provided some simple tools to allow interaction and exploration.\n\nOurRisk.CoV is initially intended for use by researchers, policy makers and those who seek to work with patient data to inform responses to the current emergency.",
       "license": "Apache 2",
-      "views": 148,
+      "views": 149,
       "category": "Risk prediction",
       "relations": [],
       "keywords": [
@@ -371,7 +371,7 @@
       "modified": "2023-04-18 01:53:50.751000",
       "description": "ggquickeda is an R Shiny app/package providing a graphical user interface (GUI) to ggplot2 and table1.\n\nIt enables you to quickly explore your data and to detect trends on the fly. You can do scatter plots, dotplots, boxplots, barplots, histograms, densities and summary statistics of one or multiple variable(s) by column(s) splits and an optional overall column.\n\nIt also has the km, kmband and kmticks geoms/stats to facilitate the plotting of Kaplan-Meier Survival curves",
       "license": "Copyrighted",
-      "views": 83,
+      "views": 84,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -401,7 +401,7 @@
       "modified": "2023-05-14 12:35:09.915000",
       "description": "Cytel Inc. has launched an open-access global COVID-19 Clinical Trial Tracker to help facilitate greater collaboration between researchers, policymakers, clinicians, journalists, philanthropists, and other critical stakeholders who need to understand the complex dynamics of the global response to finding a solution to the COVID-19 outbreak.\n\nThis will enable them to make more informed and pragmatic decisions on how to channel scarce resources. Clinicians and local government need to know what trials are taking place in their community to ensure that the right patients receive the right exploratory treatment, while philanthropists and Federal policymakers deserve a one-stop shop to determine which are the most promising early phase treatment results.\n\nFunded in part by The Bill and Melinda Gates Foundation, a leader in global health solutions, this live dashboard offers an overview of all the trials taking place in the international effort to tackle the pandemic. One of the most difficult challenges facing those seeking a COVID-19 treatment is how little data exists about this disease. Early investigators are relying on guesswork to determine which therapies to investigate. Collating information in one place on the growing numbers of trials, will enable decision-makers to compare treatments more easily as they determine which to investigate further.",
       "license": "",
-      "views": 111,
+      "views": 112,
       "category": "Web application",
       "relations": [],
       "keywords": [
@@ -1255,7 +1255,7 @@
       "modified": "2023-05-19 23:38:25.881000",
       "description": "(Part of Data Ladder)\nDataMatch Enterprise\u2122 solution is a highly visual data cleansing application specifically designed to resolve customer and contact data quality issues. The platform leverages multiple proprietary and standard algorithms to identify phonetic, fuzzy, miskeyed, abbreviated, and domain-specific variations. Build scalable configurations for deduplication & record linkage, suppression, enhancement, extraction, and standardization of business and customer data and create a Single Source of Truth to maximize the impact of your data across the enterprise.",
       "license": "Proprietary",
-      "views": 45,
+      "views": 46,
       "category": "Application",
       "relations": [],
       "keywords": [
@@ -1286,7 +1286,7 @@
       "modified": "2023-05-12 06:51:39.083000",
       "description": "Datamartist is a low cost flexible, visual, data profiling and data transformation tool. It can read data from data sources (such as files, or relational databases), do data transformations using a simple, visual user interface, and then can write the results into files or databases. By combining a flexible ETL tool with data profiling capabilities, Datamartist is a fast and easy way to both do ad-hoc data profiling, and to set up automated data quality monitoring.\nFor a wide range of data transformation requirements, Datamartist is the only tool required, giving a fast and flexible ETL capability to pull all sorts of data from all sorts of sources.\n\n-Profile your data\n-Find Data Quality Issues\n-Excel Import and Export",
       "license": "Proprietary",
-      "views": 63,
+      "views": 64,
       "category": "Data Profiling/Transformation Tool",
       "relations": [],
       "keywords": [
@@ -1318,7 +1318,7 @@
       "modified": "2023-05-31 07:55:34.859000",
       "description": "Pentaho Community Edition is free -  LIMITED)\n\nWorks with WEKA (Data Profiling)\n\nData Integration - Extract, transform and load (ETL) limited data sets and create visualizations with Pentaho\u2019s report designer tool.\nThe term, K.E.T.T.L.E is a recursive that stands for Kettle Extraction Transformation Transport Load Environment.  Pentaho Data Integration is well known for its ease of use and quick learning curve. PDI implements a metadata-driven approach which means that the development is based on specifying what to do, not how to do it. Pentaho lets administrators and ETL developers create their own data manipulation jobs with a user-friendly graphical creator, and without entering a single line of code. \nPDI uses a common, shared repository which enables remote ETL execution, facilitates teamwork, and simplifies the development process.",
       "license": "Apache License 2.0",
-      "views": 43,
+      "views": 44,
       "category": "Data Integration Tool ",
       "relations": [],
       "keywords": [
@@ -1684,7 +1684,7 @@
       "modified": "2023-04-18 13:02:18.473000",
       "description": "Komenti uses background knowledge that researchers have already discovered about biology and medicine. It combines and uses this knowledge in new ways, with the aim to learn even more from sources that are usually difficult for computers to understand. For example, it can extract information about a patient and the illnesses they are suffering from letters written by their doctor. \n\nThis information can then be used in several ways. It tells us about the patient on an individual level, and by presenting findings in a better way, it allows doctors to make more informed decisions about their care. It also tells us about the illnesses that patients have, and what patients who have those diseases are like. This information contributes to our overall knowledge of medicine, and will help to improve overall procedures and treatments for many patients.\n\n### Results & Insights\n\n* Application of formal logics to text mining\n* General heuristics for context disambiguation\n* Ontology construction\n* Medical cohort identification\n* Literature mining\n* Medical outcome prediction and decision making support",
       "license": "Apache 2",
-      "views": 43,
+      "views": 44,
       "category": "Semantic Query and Text Mining Framework",
       "relations": [],
       "keywords": [
@@ -1995,7 +1995,7 @@
       "modified": "2023-05-28 12:09:31.671000",
       "description": "This computer program is designed to extract diagnoses, dates, durations, laboratory results and selected examination findings (heart rate and blood pressure) from unstructured free text. The program was created based on text in general practice records from the Vision system, and information is encoded using Read Clinical Terms. The program uses lookup tables of phrases and synonyms which were created manually. The lookup tables can be edited in order to enable the program to detect new terms or improve its performance for diagnoses of interest.\n\n### Results & Insights\n\nThis is a small, fast, standalone information extraction system designed for text in primary care records. It is available in the form of a single executable file with plain text lookup tables. It can run in batch mode on any system with a Visual Basic 6 runtime, without requiring any additional software installation.",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 50,
+      "views": 51,
       "category": "Rule-based NLP information extraction system",
       "relations": [],
       "keywords": [
@@ -2029,7 +2029,7 @@
       "modified": "2023-03-31 16:02:45.278000",
       "description": "A medical concept annotation system that can be used to extract, structure and organize Health Records. It is based on unsupervised learning with the option of online/supervised learning via the MedCATtrainer interface. \n\n### Results & Insights\n\nThe initial motivation was temporal modelling of patients and diseases given the information in free text. But later we added nearly anything that in some way requires the information in free text to be structured.  ",
       "license": "Apache License 2.0",
-      "views": 57,
+      "views": 58,
       "category": "NLP system",
       "relations": [],
       "keywords": [
@@ -2218,7 +2218,7 @@
       "modified": "2022-12-22 12:50:50.050000",
       "description": "Application to identify instances of anergia.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2290,7 +2290,7 @@
       "modified": "2023-04-17 07:34:34.192000",
       "description": "Application to extract the presence of apathy.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 30,
+      "views": 31,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2362,7 +2362,7 @@
       "modified": "2023-02-07 20:03:38.284000",
       "description": "Application to identify instances of experiencing a bad dream.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 20,
+      "views": 21,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2398,7 +2398,7 @@
       "modified": "2022-12-11 15:13:00.187000",
       "description": "Application to identify instances of blunted affect.\n\nBoth past and present symptom.\n\nOutput values: Positive and Negative.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 19,
+      "views": 20,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2470,7 +2470,7 @@
       "modified": "2022-08-18 21:10:30.361000",
       "description": "Application to identify instances of concrete thinking.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 13,
+      "views": 14,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2506,7 +2506,7 @@
       "modified": "2023-03-29 05:43:11.603000",
       "description": "Application to identify instances of delusions.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 16,
+      "views": 17,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2578,7 +2578,7 @@
       "modified": "2022-11-03 11:42:11.346000",
       "description": "Application to identify instances of disturbed sleep.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 22,
+      "views": 23,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -2866,7 +2866,7 @@
       "modified": "2022-07-04 13:47:10.272000",
       "description": "Application to identify instances of guilt.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 15,
+      "views": 16,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -3766,7 +3766,7 @@
       "modified": "2023-03-11 10:03:11.798000",
       "description": "Application to identify instances of suicidal ideation - thinking about, considering, or planning suicide.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 23,
+      "views": 24,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4054,7 +4054,7 @@
       "modified": "2023-03-26 10:42:22.696000",
       "description": "Application to identify instances of weight loss.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 18,
+      "views": 19,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4198,7 +4198,7 @@
       "modified": "2023-04-30 08:06:36.974000",
       "description": "Application to identify instances of coughing.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 24,
+      "views": 25,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4522,7 +4522,7 @@
       "modified": "2023-03-16 02:43:32.141000",
       "description": "Application to identify and distinguish between mentions of internet/social media/online gaming in patient.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 12,
+      "views": 13,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -4594,7 +4594,7 @@
       "modified": "2023-05-22 07:00:32.550000",
       "description": "Application to identify occupations/work descriptions and who these refer to.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 21,
+      "views": 22,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6030,7 +6030,7 @@
       "modified": "2023-05-26 05:35:22.078000",
       "description": "Application to extract a when a Diagnosis of Epilepsy was made. Output Values: CUI (of Epileptic Syndrome) and Time Period + Number of (Day, Week, Months, Years).\n\n### Results & Insights\n\nResults of version 1 are available here - https://bmjopen.bmj.com/content/9/4/e023232",
       "license": "",
-      "views": 28,
+      "views": 29,
       "category": "NLP System",
       "relations": [],
       "keywords": [
@@ -6193,7 +6193,7 @@
       "modified": "2023-05-31 11:33:14.542000",
       "description": "This interactive visualizations report focus on exploring unemployment and job loss in the COVID-19 UK from a gender, ethnicity, and class perpective.\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_1_unemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting. \n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 370,
+      "views": 371,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6318,7 +6318,7 @@
       "modified": "2023-05-19 10:47:41.492000",
       "description": "This interactive visualizations report focus on exploring how self-employment has changed since the COVID-19 pandemic in the UK\n\nThe code of this dashboard is available here: https://github.com/luistorresr/gender_covid_uk/tree/main/Outputs/Report_3_selfemployment\n\nThis tool is part of the research project \"How is COVID-19 impacting women and men's working lives in the UK?\" which is part of the Data and Connectivity National Core Study, led by Health Data Research UK in partnership with the Office for National Statistics and funded by UK Research and Innovation (grant ref MC_PC_20029).\n\n### Results & Insights\n\nThis is a report written in R Markdown for interactive data visualizations. Reports are produced as a word document and as an html file that can be uploded to a web hosting.\n\nVisualization can be adapted to create dashboards and monitor seudo-longitudinal trends.",
       "license": "MIT license",
-      "views": 132,
+      "views": 133,
       "category": "Data Visualisation",
       "relations": [],
       "keywords": [
@@ -6967,7 +6967,7 @@
       "modified": "2024-08-22 14:46:09.422000",
       "description": "CamCOPS is an open-source application for capturing information relevant for cognitive and psychiatric assessment, on tablets, laptops, and desktops. It offers simple questionnaires and more complex tasks, and sends its data securely to your server.\n\n### Results & Insights\n\nReference paper: Cardinal RN, Burchell M (2021). The Cambridge Cognitive and Psychiatric Assessment Kit (CamCOPS): a secure open-source client-server system for mobile research and clinical data capture. Frontiers in Psychiatry 12: 578298. https://pubmed.ncbi.nlm.nih.gov/34867492/; https://doi.org/10.3389/fpsyt.2021.578298.\n\nSource code is at https://github.com/ucam-department-of-psychiatry/crate",
       "license": "GNU General Public License version 3.0 (GPLv3)",
-      "views": 129,
+      "views": 130,
       "category": "Mobile Application",
       "relations": [],
       "keywords": [
@@ -7065,7 +7065,7 @@
       "modified": "2023-07-03 07:18:05.805000",
       "description": "ICODA Grand Challenge - Drive Project\nThis is the code repository of the EFFECT-Brazil driver project from the ICODA Grand Challenge.\n\nThe project is driven by a multiprofessional team of researchers from the Center for Healthcare Operations and Intelligence (N\u00facleo de Opera\u00e7\u00f5es e Intelig\u00eancia em Sa\u00fade) (NOIS), of the Department of Industrial Engineering @ PUC-Rio\n\nContact us at:\nTwitter: @NOIS_PUCRio\nnois [at] puc-rio [dot] br",
       "license": "",
-      "views": 52,
+      "views": 53,
       "category": "Repository",
       "relations": [],
       "keywords": [
