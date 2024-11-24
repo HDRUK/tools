@@ -2686,7 +2686,7 @@
       "modified": "2022-10-07 19:51:30.301000",
       "description": "Application to identify instances of elation.\n\nBoth past and present symptom.\n\nOutput values: Positive, Negative and Unknown.\n\n### Results & Insights\n\nFor further details please visit the CRIS link provided",
       "license": "Available upon request",
-      "views": 14,
+      "views": 15,
       "category": "NLP System",
       "relations": [],
       "keywords": [
